@@ -1,0 +1,73 @@
+name: Update database
+
+on:
+  schedule:
+    - cron: "15 2,14 * * *"
+  workflow_dispatch:
+    inputs:
+      target_branch:
+        description: Output branch (blank uses DATABASE_PUBLISH_BRANCH or main)
+        default: ""
+      source_ref:
+        description: Private tool ref (blank uses DATABASE_SOURCE_REF or main)
+        default: ""
+      contract_ref:
+        description: android-protos ref (blank uses CONTRACT_REF or main)
+        default: ""
+      force:
+        description: Rebuild even when master version and contract commit match
+        type: boolean
+        default: false
+      node_image:
+        description: Node container image (can use a version from report.json)
+        default: node:current-slim
+
+permissions:
+  contents: write
+
+concurrency:
+  group: database-publish
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: tpe-holodori
+    timeout-minutes: 60
+    steps:
+      - name: Prepare publication tools
+        shell: bash
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes --no-install-recommends rsync openssh-client
+
+      - name: Check out public data repository
+        uses: actions/checkout@v7
+        with:
+          path: repo
+
+      - name: Check out private database tool
+        uses: actions/checkout@v7
+        with:
+          repository: ${{ vars.DATABASE_SOURCE_REPOSITORY || 'holodori/fetch-database' }}
+          ref: ${{ inputs.source_ref || vars.DATABASE_SOURCE_REF || 'main' }}
+          ssh-key: ${{ secrets.SOURCE_REPO_SSH_KEY }}
+          persist-credentials: false
+          path: source
+
+      - name: Check out published Android contract
+        uses: actions/checkout@v7
+        with:
+          repository: ${{ vars.CONTRACT_REPOSITORY || 'holodori/android-protos' }}
+          ref: ${{ inputs.contract_ref || vars.CONTRACT_REF || 'main' }}
+          persist-credentials: false
+          path: contract
+
+      - name: Fetch and publish database
+        uses: ./source
+        with:
+          target-path: ${{ github.workspace }}/repo
+          contract-path: ${{ github.workspace }}/contract
+          target-branch: ${{ inputs.target_branch || vars.DATABASE_PUBLISH_BRANCH || 'main' }}
+          force: ${{ inputs.force && 'true' || 'false' }}
+          node-image: ${{ inputs.node_image || 'node:current-slim' }}
+          base-url: ${{ vars.DATABASE_BASE_URL || 'https://jp.game-hololive-dreams.com' }}

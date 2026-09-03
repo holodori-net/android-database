@@ -1,0 +1,54 @@
+[
+  {
+    "id": "la-chr_history-achievement-10",
+    "text": "업적을 {1}개 <alpha=#8c>달성"
+  },
+  {
+    "id": "la-chr_history-birthday-0",
+    "text": "{0} 생일"
+  },
+  {
+    "id": "la-chr_history-character_get_duration_months-1",
+    "text": "만난 지 {0}개월 <alpha=#8c>경과"
+  },
+  {
+    "id": "la-chr_history-character_get_duration_months-6",
+    "text": "만난 지 {0}개월 <alpha=#8c>경과"
+  },
+  {
+    "id": "la-chr_history-character_get_duration_years-1",
+    "text": "만난 지 {0}년 <alpha=#8c>경과"
+  },
+  {
+    "id": "la-chr_history-character_level-1",
+    "text": "Holo멤버 랭크 {0} 달성!"
+  },
+  {
+    "id": "la-chr_history-live_play_count-100",
+    "text": "라이브 누계 플레이 횟수 {1}회 달성"
+  },
+  {
+    "id": "la-chr_history-membership_duration_months-1",
+    "text": "멤버십 가입한 지 {0}개월 <alpha=#8c>경과"
+  },
+  {
+    "id": "la-chr_history-mini_game_play_count-100",
+    "text": "미니 게임 누계 플레이 횟수 {1}회 달성"
+  },
+  {
+    "id": "la-chr_history-park_costume_get-0",
+    "text": "라이브 의상 {0}<alpha=#8c> 획득"
+  },
+  {
+    "id": "la-chr_history-score_rank",
+    "text": "유닛 스코어 랭크 {1} 도달"
+  },
+  {
+    "id": "la-chr_history-sd_costume_get-0",
+    "text": "파크 의상 {0}<alpha=#8c> 획득"
+  },
+  {
+    "id": "la-chr_history-ssr_card_get-0",
+    "text": "멤버 {0} 획득"
+  }
+]

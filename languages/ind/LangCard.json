@@ -1,0 +1,714 @@
+[
+  {
+    "id": "la-card_flavor-00006-5-uniq-0074-00",
+    "text": "Kilau Pesisir"
+  },
+  {
+    "id": "la-card_flavor-00010-5-uniq-0069-00",
+    "text": "Resor Apung Khas Oni"
+  },
+  {
+    "id": "la-card_flavor-00012-5-uniq-0062-00",
+    "text": "Percikan Sinar Mentari"
+  },
+  {
+    "id": "la-card_flavor-00014-5-uniq-0075-00",
+    "text": "Mimpi Serigala Senja"
+  },
+  {
+    "id": "la-card_flavor-00015-5-uniq-0067-00",
+    "text": "Bidikan Kilau Pantai"
+  },
+  {
+    "id": "la-card_flavor-00016-5-uniq-0076-00",
+    "text": "Bayangan Teduh Parasol"
+  },
+  {
+    "id": "la-card_flavor-00017-5-uniq-0077-00",
+    "text": "Pesta Rimba Membara"
+  },
+  {
+    "id": "la-card_flavor-00018-5-uniq-0068-00",
+    "text": "Melodi Pistol Air"
+  },
+  {
+    "id": "la-card_flavor-00021-5-uniq-0064-00",
+    "text": "Kerlipan Api Senja"
+  },
+  {
+    "id": "la-card_flavor-00022-5-uniq-0063-00",
+    "text": "Ksatria Mega Ombak"
+  },
+  {
+    "id": "la-card_flavor-00026-5-uniq-0065-00",
+    "text": "Bersantai di Pelampung"
+  },
+  {
+    "id": "la-card_flavor-00028-5-uniq-0070-00",
+    "text": "Putri Pantai Manja"
+  },
+  {
+    "id": "la-card_flavor-03004-5-uniq-0073-00",
+    "text": "Selam Seru Musim Panas"
+  },
+  {
+    "id": "la-card_flavor-04001-5-uniq-0071-00",
+    "text": "Smash Maut Sang Reaper"
+  },
+  {
+    "id": "la-card_flavor-04003-5-uniq-0072-00",
+    "text": "Jejak Memori Ombak"
+  },
+  {
+    "id": "la-card_flavor-06002-5-uniq-0066-00",
+    "text": "Simfoni Angin Laut"
+  },
+  {
+    "id": "la-card_name-00001-3-nrml-0000-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00001-4-cmmn-0000-00",
+    "text": "Gema Tulus Cakrawala"
+  },
+  {
+    "id": "la-card_name-00001-5-uniq-0000-00",
+    "text": "Nyanyian Pelangi"
+  },
+  {
+    "id": "la-card_name-00002-3-nrml-0001-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00002-4-cmmn-0000-00",
+    "text": "Kedip Manis Membuai"
+  },
+  {
+    "id": "la-card_name-00002-5-uniq-0001-00",
+    "text": "Pose Peace Paripurna"
+  },
+  {
+    "id": "la-card_name-00004-3-nrml-0005-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00004-4-cmmn-0000-00",
+    "text": "Nyanyian Half-Elf Misteri"
+  },
+  {
+    "id": "la-card_name-00004-5-uniq-0005-00",
+    "text": "Half-Elf yang Bersinar"
+  },
+  {
+    "id": "la-card_name-00005-3-nrml-0006-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00005-4-cmmn-0000-00",
+    "text": "Aksi Sang Pemikat Hati"
+  },
+  {
+    "id": "la-card_name-00005-5-uniq-0006-00",
+    "text": "Waktunya Camilan Bebas"
+  },
+  {
+    "id": "la-card_name-00006-3-nrml-0007-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00006-4-cmmn-0000-00",
+    "text": "Pacu Nyali Sang Rubah"
+  },
+  {
+    "id": "la-card_name-00006-5-uniq-0007-00",
+    "text": "Ritual Kitsune"
+  },
+  {
+    "id": "la-card_name-00007-3-nrml-0008-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00007-4-cmmn-0000-00",
+    "text": "Serangan Imut Maut"
+  },
+  {
+    "id": "la-card_name-00007-5-uniq-0008-00",
+    "text": "Binar Pemandu Ceria"
+  },
+  {
+    "id": "la-card_name-00010-3-nrml-0010-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00010-4-cmmn-0000-00",
+    "text": "Kejutan Hangat Oni"
+  },
+  {
+    "id": "la-card_name-00010-5-uniq-0010-00",
+    "text": "Pelita Alam Arwah"
+  },
+  {
+    "id": "la-card_name-00011-3-nrml-0011-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00011-4-cmmn-0000-00",
+    "text": "Dosis Medis Pemikat"
+  },
+  {
+    "id": "la-card_name-00011-5-uniq-0011-00",
+    "text": "Jerat Pikat Iblis"
+  },
+  {
+    "id": "la-card_name-00012-3-nrml-0012-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00012-4-cmmn-0000-00",
+    "text": "Pijar Semangat Jiwa"
+  },
+  {
+    "id": "la-card_name-00012-5-uniq-0012-00",
+    "text": "Sore Kwek-Kwek"
+  },
+  {
+    "id": "la-card_name-00013-3-nrml-0002-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00013-4-cmmn-0000-00",
+    "text": "Alunan Nada Syahdu"
+  },
+  {
+    "id": "la-card_name-00013-5-uniq-0002-00",
+    "text": "Sekuntum Bunga Mekar"
+  },
+  {
+    "id": "la-card_name-00014-3-nrml-0013-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00014-4-cmmn-0000-00",
+    "text": "Kidung Serigala Cahaya"
+  },
+  {
+    "id": "la-card_name-00014-5-uniq-0013-00",
+    "text": "Malam Menenangkan"
+  },
+  {
+    "id": "la-card_name-00015-3-nrml-0003-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00015-4-cmmn-0000-00",
+    "text": "Aksi Ceria Peluk Dunia"
+  },
+  {
+    "id": "la-card_name-00015-5-uniq-0003-00",
+    "text": "Sakura Bloom"
+  },
+  {
+    "id": "la-card_name-00016-3-nrml-0014-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00016-4-cmmn-0000-00",
+    "text": "Simfoni Kucing Nakal"
+  },
+  {
+    "id": "la-card_name-00016-5-uniq-0014-00",
+    "text": "Canda Rahasia Pesta"
+  },
+  {
+    "id": "la-card_name-00017-3-nrml-0015-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00017-4-cmmn-0000-00",
+    "text": "Rima Anjing Ajaib"
+  },
+  {
+    "id": "la-card_name-00017-5-uniq-0015-00",
+    "text": "Peseluncur Ceria"
+  },
+  {
+    "id": "la-card_name-00018-3-nrml-0004-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00018-4-cmmn-0000-00",
+    "text": "Kilau Sang Primadona"
+  },
+  {
+    "id": "la-card_name-00018-5-uniq-0004-00",
+    "text": "Komet Pencuri Hati"
+  },
+  {
+    "id": "la-card_name-00019-3-nrml-0016-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00019-4-cmmn-0000-00",
+    "text": "Kelinci Usil Melompat"
+  },
+  {
+    "id": "la-card_name-00019-5-uniq-0016-00",
+    "text": "Padang Kelinci Ceria"
+  },
+  {
+    "id": "la-card_name-00021-3-nrml-0017-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00021-4-cmmn-0000-00",
+    "text": "Langkah Halus Sukma"
+  },
+  {
+    "id": "la-card_name-00021-5-uniq-0017-00",
+    "text": "Gondola Angin Elf"
+  },
+  {
+    "id": "la-card_name-00022-3-nrml-0018-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00022-4-cmmn-0000-00",
+    "text": "Ksatria Vokal Baja"
+  },
+  {
+    "id": "la-card_name-00022-5-uniq-0018-00",
+    "text": "Ksatria Semilir Angin"
+  },
+  {
+    "id": "la-card_name-00023-3-nrml-0019-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00023-4-cmmn-0000-00",
+    "text": "Sang Penakluk Laut"
+  },
+  {
+    "id": "la-card_name-00023-5-uniq-0019-00",
+    "text": "Biru Laut Mempesona"
+  },
+  {
+    "id": "la-card_name-00026-3-nrml-0021-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00026-4-cmmn-0000-00",
+    "text": "Resonansi Jiwa"
+  },
+  {
+    "id": "la-card_name-00026-5-uniq-0021-00",
+    "text": "Woolly Smile Festival"
+  },
+  {
+    "id": "la-card_name-00027-3-nrml-0022-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00027-4-cmmn-0000-00",
+    "text": "Konser Malam Santai"
+  },
+  {
+    "id": "la-card_name-00027-5-uniq-0022-00",
+    "text": "Malam Santai Abadi"
+  },
+  {
+    "id": "la-card_name-00028-3-nrml-0023-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00028-4-cmmn-0000-00",
+    "text": "Putri Jelita"
+  },
+  {
+    "id": "la-card_name-00028-5-uniq-0023-00",
+    "text": "Bakti Siang pada Putri"
+  },
+  {
+    "id": "la-card_name-00030-3-nrml-0024-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00030-4-cmmn-0000-00",
+    "text": "Pijar Nuansa Salju"
+  },
+  {
+    "id": "la-card_name-00030-5-uniq-0024-00",
+    "text": "Kesepian Malam Salju"
+  },
+  {
+    "id": "la-card_name-00031-3-nrml-0025-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00031-4-cmmn-0000-00",
+    "text": "Lompatan Semangat"
+  },
+  {
+    "id": "la-card_name-00031-5-uniq-0025-00",
+    "text": "Irama Nyanyian Suci"
+  },
+  {
+    "id": "la-card_name-00032-3-nrml-0026-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00032-4-cmmn-0000-00",
+    "text": "Pesona Tawa Singa"
+  },
+  {
+    "id": "la-card_name-00032-5-uniq-0026-00",
+    "text": "Bidikan Maut Singa"
+  },
+  {
+    "id": "la-card_name-00034-3-nrml-0027-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00034-4-cmmn-0000-00",
+    "text": "Pesta Pora Maksimal"
+  },
+  {
+    "id": "la-card_name-00034-5-uniq-0027-00",
+    "text": "Ilusi Sirkus Polka"
+  },
+  {
+    "id": "la-card_name-00035-3-nrml-0028-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00035-4-cmmn-0000-00",
+    "text": "Aku Bintang Panggung"
+  },
+  {
+    "id": "la-card_name-00035-5-uniq-0028-00",
+    "text": "Siasat Sang Penemu"
+  },
+  {
+    "id": "la-card_name-00036-3-nrml-0029-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00036-4-cmmn-0000-00",
+    "text": "Taktis Jenius"
+  },
+  {
+    "id": "la-card_name-00036-5-uniq-0029-00",
+    "text": "Eksekutif Ulung"
+  },
+  {
+    "id": "la-card_name-00037-3-nrml-0030-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00037-4-cmmn-0000-00",
+    "text": "Gema Lolongan Imut"
+  },
+  {
+    "id": "la-card_name-00037-5-uniq-0030-00",
+    "text": "Penjerat Hati Asisten"
+  },
+  {
+    "id": "la-card_name-00039-3-nrml-0032-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-00039-4-cmmn-0000-00",
+    "text": "Puncak Olah Sukma"
+  },
+  {
+    "id": "la-card_name-00039-5-uniq-0032-00",
+    "text": "Tebasan Kilat"
+  },
+  {
+    "id": "la-card_name-03001-3-nrml-0033-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-03001-4-cmmn-0000-00",
+    "text": "Irama Ekor Bulat"
+  },
+  {
+    "id": "la-card_name-03001-5-uniq-0033-00",
+    "text": "Rimba Canda Mentari"
+  },
+  {
+    "id": "la-card_name-03002-3-nrml-0034-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-03002-4-cmmn-0000-00",
+    "text": "Kidung Luluh Rembulan"
+  },
+  {
+    "id": "la-card_name-03002-5-uniq-0034-00",
+    "text": "Diva Rembulan"
+  },
+  {
+    "id": "la-card_name-03003-3-nrml-0035-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-03003-4-cmmn-0000-00",
+    "text": "Panorama Panggung Ayu"
+  },
+  {
+    "id": "la-card_name-03003-5-uniq-0035-00",
+    "text": "Palet Surya Semesta"
+  },
+  {
+    "id": "la-card_name-03004-3-nrml-0036-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-03004-4-cmmn-0000-00",
+    "text": "Encore Maut"
+  },
+  {
+    "id": "la-card_name-03004-5-uniq-0036-00",
+    "text": "Z-Celoteh Abadi"
+  },
+  {
+    "id": "la-card_name-03005-3-nrml-0037-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-03005-4-cmmn-0000-00",
+    "text": "Aksi Panggung Bebas"
+  },
+  {
+    "id": "la-card_name-03005-5-uniq-0037-00",
+    "text": "Rehat Game Santai"
+  },
+  {
+    "id": "la-card_name-03006-3-nrml-0038-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-03006-4-cmmn-0000-00",
+    "text": "Malam Mewah Berkat"
+  },
+  {
+    "id": "la-card_name-03006-5-uniq-0038-00",
+    "text": "Sesap Anggun Merak"
+  },
+  {
+    "id": "la-card_name-03007-3-nrml-0039-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-03007-4-cmmn-0000-00",
+    "text": "Simfoni Tawa Riang"
+  },
+  {
+    "id": "la-card_name-03007-5-uniq-0039-00",
+    "text": "Kumpul Sindikat Kucing"
+  },
+  {
+    "id": "la-card_name-03008-3-nrml-0040-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-03008-4-cmmn-0000-00",
+    "text": "Konser Bara Tempaan"
+  },
+  {
+    "id": "la-card_name-03008-5-uniq-0040-00",
+    "text": "Tempaan Sukma Baja"
+  },
+  {
+    "id": "la-card_name-03009-3-nrml-0041-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-03009-4-cmmn-0000-00",
+    "text": "Panggung Penuh Aksi"
+  },
+  {
+    "id": "la-card_name-03009-5-uniq-0041-00",
+    "text": "Pawang Hujan Sukacita"
+  },
+  {
+    "id": "la-card_name-04001-3-nrml-0042-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-04001-4-cmmn-0000-00",
+    "text": "Wakil Alam Baka"
+  },
+  {
+    "id": "la-card_name-04001-5-uniq-0042-00",
+    "text": "Reaper's Death Flow"
+  },
+  {
+    "id": "la-card_name-04002-3-nrml-0043-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-04002-4-cmmn-0000-00",
+    "text": "Sambut Panggung Ria"
+  },
+  {
+    "id": "la-card_name-04002-5-uniq-0043-00",
+    "text": "Resto Phoenix Manis"
+  },
+  {
+    "id": "la-card_name-04003-3-nrml-0044-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-04003-4-cmmn-0000-00",
+    "text": "Pentas Senyum Teduh"
+  },
+  {
+    "id": "la-card_name-04003-5-uniq-0044-00",
+    "text": "Momen Hangat"
+  },
+  {
+    "id": "la-card_name-04007-3-nrml-0047-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-04007-4-cmmn-0000-00",
+    "text": "Gema Suara Harapan"
+  },
+  {
+    "id": "la-card_name-04007-5-uniq-0047-00",
+    "text": "Nephilim Sonority"
+  },
+  {
+    "id": "la-card_name-04010-3-nrml-0049-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-04010-4-cmmn-0000-00",
+    "text": "Aksi Lintas Waktu"
+  },
+  {
+    "id": "la-card_name-04010-5-uniq-0049-00",
+    "text": "Penjaga Menara Lonceng"
+  },
+  {
+    "id": "la-card_name-04012-3-nrml-0051-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-04012-4-cmmn-0000-00",
+    "text": "Dansa Tanpa Batas"
+  },
+  {
+    "id": "la-card_name-04012-5-uniq-0051-00",
+    "text": "Chaotic Powerful Rat"
+  },
+  {
+    "id": "la-card_name-04013-3-nrml-0052-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-04013-4-cmmn-0000-00",
+    "text": "Aksi Panggung Autentik"
+  },
+  {
+    "id": "la-card_name-04013-5-uniq-0052-00",
+    "text": "Hasrat Pustaka Suci"
+  },
+  {
+    "id": "la-card_name-04014-3-nrml-0053-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-04014-4-cmmn-0000-00",
+    "text": "Kilau Paras Suci"
+  },
+  {
+    "id": "la-card_name-04014-5-uniq-0053-00",
+    "text": "Istana Kristal Pijar"
+  },
+  {
+    "id": "la-card_name-04015-3-nrml-0054-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-04015-4-cmmn-0000-00",
+    "text": "Kidung Senja Merdu"
+  },
+  {
+    "id": "la-card_name-04015-5-uniq-0054-00",
+    "text": "Senandung Malam"
+  },
+  {
+    "id": "la-card_name-04016-3-nrml-0055-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-04016-4-cmmn-0000-00",
+    "text": "Syahdu Menenangkan"
+  },
+  {
+    "id": "la-card_name-04016-5-uniq-0055-00",
+    "text": "Pesta Donat Empuk"
+  },
+  {
+    "id": "la-card_name-04017-3-nrml-0056-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-04017-4-cmmn-0000-00",
+    "text": "Binar Ceria"
+  },
+  {
+    "id": "la-card_name-04017-5-uniq-0056-00",
+    "text": "Pesta Donat Santai"
+  },
+  {
+    "id": "la-card_name-06002-3-nrml-0058-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-06002-4-cmmn-0000-00",
+    "text": "Puncak Harmoni"
+  },
+  {
+    "id": "la-card_name-06002-5-uniq-0058-00",
+    "text": "Pawai Ceria"
+  },
+  {
+    "id": "la-card_name-06003-3-nrml-0059-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-06003-4-cmmn-0000-00",
+    "text": "Denyut Panah Asmara"
+  },
+  {
+    "id": "la-card_name-06003-5-uniq-0059-00",
+    "text": "Ransum Malam CEO"
+  },
+  {
+    "id": "la-card_name-06004-3-nrml-0060-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-06004-4-cmmn-0000-00",
+    "text": "Cultural Performer"
+  },
+  {
+    "id": "la-card_name-06004-5-uniq-0060-00",
+    "text": "Pelita Seni Akal"
+  },
+  {
+    "id": "la-card_name-06005-3-nrml-0061-00",
+    "text": "Kami adalah hololive!"
+  },
+  {
+    "id": "la-card_name-06005-4-cmmn-0000-00",
+    "text": "Alasan Sang Jagoan"
+  },
+  {
+    "id": "la-card_name-06005-5-uniq-0061-00",
+    "text": "Sisi Manis Bancho"
+  }
+]

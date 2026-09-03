@@ -1,0 +1,1126 @@
+[
+  {
+    "id": "la-tips-achievement-description-1",
+    "text": "アチーブメントは様々な達成条件があり、達成することで報酬を獲得できるよ！\n\n報酬には<color=#ff3bc8>ホロメンランクEXP、称号、レッドダイヤ</color>などがあるよ！"
+  },
+  {
+    "id": "la-tips-card-upgrade-potential-description-1",
+    "text": "メンバーを特訓すると、<color=#ff3bc8>レベルの上限が上がる</color>よ！\n\n特訓に必要なアイテムは、ライブやホロワークなどで獲得できるよ！"
+  },
+  {
+    "id": "la-tips-character-quest-description-1",
+    "text": "ホロメンクエストはドリーム・パーク内にいる「本日出会えるホロメン」に話しかけると開始できるよ！\n\n<color=#ff3bc8>出会えるホロメンは毎日2人ランダム</color>で選ばれるよ！"
+  },
+  {
+    "id": "la-tips-character-quest-description-2",
+    "text": "<color=#ff3bc8>招待状を使うと、出会えるホロメンを増やせる</color>よ！\n招待状は、メインクエストなどで獲得できるよ！\n\nゲーム開始時に選択したホロメンのホロメンクエストも遊べるよ！"
+  },
+  {
+    "id": "la-tips-character-quest-description-3",
+    "text": "ホロメンクエストクリアで<color=#ff3bc8>対象のホロメン、楽曲が解放される</color>よ！\n\n<color=#ff3bc8>解放したホロメンはドリーム・パークで操作できる</color>ようになるよ！"
+  },
+  {
+    "id": "la-tips-character-set-description-1",
+    "text": "操作するホロメンは変更できるよ！\n\n<color=#ff3bc8>ホロメンクエストで解放したホロメン</color>が選べるよ！"
+  },
+  {
+    "id": "la-tips-character-set-description-2",
+    "text": "ホロメンは<color=#ff3bc8>衣装を変更したり、アクセサリを付けることができる</color>よ！\n\n衣装はガチャ、アクセサリはミッションパスなどで入手できるよ！"
+  },
+  {
+    "id": "la-tips-chase-description-1",
+    "text": "くらやみチェイスは、<color=#ff3bc8>holoXアジト</color>でいつでも遊べるよ！"
+  },
+  {
+    "id": "la-tips-chase-description-2",
+    "text": "報酬は勝敗に関わらず、スコアに応じて獲得できるよ！\n\n報酬には、<color=#ff3bc8>ハーモニーガーデンコイン</color>もあるよ！\n\nハーモニーガーデンコインは、ねぽらぼマートでさまざまなアイテムと交換できるよ！"
+  },
+  {
+    "id": "la-tips-chase-description-3",
+    "text": "ランキングには、<color=#ff3bc8>いたずら組・パトロール隊それぞれのベストスコアが記録</color>されるよ！\n\n※ベストスコアが同じ場合、順位は先着順となります。"
+  },
+  {
+    "id": "la-tips-chase-quest-description-1",
+    "text": "くらやみチェイスは、<color=#ff3bc8>逃げるいたずら組</color>と<color=#ff3bc8>捕まえるパトロール隊</color>の2チームに分かれて対戦するミニゲームだよ！"
+  },
+  {
+    "id": "la-tips-chase-quest-description-2",
+    "text": "いたずら組は、パトロール隊から逃げながら、<color=#ff3bc8>施設を5つ開放できれば勝利だよ！</color>\n\n施設を開放するには、パーク内に落ちている鍵を使用する必要があるよ！\n\n▼操作方法\nピック：鍵の近くでタップすると鍵を拾える\n\nユーズ：鍵を持った状態で施設に近づいて長押しすると鍵が使える\n※鍵を持って施設に近づくと、ボタンが切り替わります。"
+  },
+  {
+    "id": "la-tips-chase-quest-description-3",
+    "text": "パトロール隊は、<color=#ff3bc8>いたずら組を全員捕まえれば勝利だよ！</color>\n\nいたずら組に近づいて「キャッチ」を押すと、捕まえられるよ！\n\nまた、<color=#ff3bc8>制限時間内にいたずら組が施設を5つ開放できなかった場合</color>も、パトロール隊の勝利になるよ！"
+  },
+  {
+    "id": "la-tips-chase-quest-description-4",
+    "text": "いたずら組は、捕まった味方を救助できるよ！\n\n<color=#ff3bc8>捕まった味方の近くで「救助」を長押し</color>すると、助けることができるよ！"
+  },
+  {
+    "id": "la-tips-chase-quest-description-5",
+    "text": "いたずら組は、レーザーギミックを活用すると、ゲームを有利に進めることができるよ！\n\nレーザーギミックを解除できれば、<color=#ff3bc8>各施設の開放に必要な鍵の数を1つ減らせるよ！</color>\n\nレーザーギミックは、手前のスイッチに乗ることで解除することができるよ！\n\nスイッチは2つあり、<color=#ff3bc8>2人で乗るとより早く解除できるよ！</color>"
+  },
+  {
+    "id": "la-tips-chase-quest-description-6",
+    "text": "パトロール隊は、スキルを使うことができるよ！\n\n使えるスキルは3種類で、パトロール隊のプレイヤーごとにランダムで割り当てられるよ！\n\n▼スキル説明\n・スピードアップ：<color=#ff3bc8>移動速度がアップ</color>する\n\n・レーダー：<color=#ff3bc8>近くにいるいたずら組の位置がわかる</color>\n\n・ステルス：半透明になり、<color=#ff3bc8>いたずら組から見えにくくなる</color>\n\n※スキルは一定時間だけ有効です。\n※スキルを使うと、ゲージが溜まるまで使えなくなります。"
+  },
+  {
+    "id": "la-tips-circuit-description-1",
+    "text": "メガサーキットは、<color=#ff3bc8>ゲームエリアでいつでも遊べる</color>よ！"
+  },
+  {
+    "id": "la-tips-circuit-description-2",
+    "text": "ランキングには、<color=#ff3bc8>ベストタイム</color>が記録されるよ！\n\n※ベストタイムが同じ場合、順位は先着順となります。"
+  },
+  {
+    "id": "la-tips-circuit-quest-description-1",
+    "text": "メガサーキットは、<color=#ff3bc8>最大16人で競う障害物レース</color>だよ！\n様々な仕掛けを避けながら、誰よりも早くゴールしよう！ "
+  },
+  {
+    "id": "la-tips-circuit-quest-description-2",
+    "text": "<color=#ff3bc8>順位に応じて報酬を獲得</color>できるよ！ \n\n上位を目指して、報酬を手に入れよう！"
+  },
+  {
+    "id": "la-tips-circuit-quest-description-3",
+    "text": "▼操作方法\nジャンプ：<color=#ff3bc8>タップするとホロメンがジャンプ</color>\n\nダッシュ：<color=#ff3bc8>タップするとホロメンが一定時間ダッシュ</color>\n\n※ダッシュは一度使うと、ゲージが溜まるまで使えなくなります。"
+  },
+  {
+    "id": "la-tips-combo-card-game-description-1",
+    "text": "ポカジャン！は、<color=#ff3bc8>カジノエリアでいつでも遊べる</color>よ！"
+  },
+  {
+    "id": "la-tips-combo-card-game-description-2",
+    "text": "ランキングには、<color=#ff3bc8>通算コインレート</color>が記録されるよ！\n\nこれまでのプレイ履歴で増減したメガスフィアコインの通算枚数を、レートとして集計しているよ！\n\n※各プレイ履歴の結果は、【終了時の保有コイン枚数 - 1000】で計算されます。\n※BET枚数による報酬量の増減は、レートに影響しません。\n※レートが同じ場合、順位は先着順となります。"
+  },
+  {
+    "id": "la-tips-combo-card-game-quest-description-1",
+    "text": "ポカジャン！は、4人でプレイするカードゲームだよ！\n\n毎ターン山札からカードを引き、<color=#ff3bc8>手札の中で役を完成させよう</color>！\n\nゲーム終了時に<color=#ff3bc8>最も多くコインを保有していたプレイヤーが勝者</color>となるよ！"
+  },
+  {
+    "id": "la-tips-combo-card-game-quest-description-2",
+    "text": "<color=#ff3bc8>同じホロメンを3枚集めるか、同期全員を集める</color>と、役が完成するよ！\n\n役が完成したら<color=#ff3bc8>「ポカジャン！」ボタンを押して、他プレイヤーからコインを獲得</color>しよう！\n\nカードが全て同じ色の場合、より多くのコインを獲得できるよ！"
+  },
+  {
+    "id": "la-tips-combo-card-game-quest-description-3",
+    "text": "「ポカジャン！」した後は、役の枚数だけ、さらに追加でカードを引けるよ！\n\n<color=#ff3bc8>カードを補充して再び役が完成すれば、連続で「ポカジャン！」が可能</color>だよ！\n\n役が完成しなかった場合は、手札の中から1枚を場に出して、自分のターンを終了しよう！"
+  },
+  {
+    "id": "la-tips-combo-card-game-quest-description-4",
+    "text": "<color=#ff3bc8>他のプレイヤーが場に出したカードでも「ポカジャン！」ができる</color>よ！\n\nただし、複数人が同時に「ポカジャン！」しても、コインを獲得できるのは最も強い役を作った1人だけ！\n\n最も強い役を作ったプレイヤーが複数いた場合、<color=#ff3bc8>「ポカジャン！」されたプレイヤーから時計回りで最も近いプレイヤーが優先</color>されるよ！"
+  },
+  {
+    "id": "la-tips-combo-card-game-quest-description-5",
+    "text": "<color=#ff3bc8>山札が0枚になるか、誰かのコインが0枚になるとゲーム終了</color>だよ！\n\n終了時に保有しているコイン枚数で順位が決まるよ！\n\n順位とコインの枚数に応じて報酬を獲得できるよ！"
+  },
+  {
+    "id": "la-tips-cooking-puzzle-description-1",
+    "text": "そろえてクッキングは、<color=#ff3bc8>たらふくジャーニーでいつでも遊べる</color>よ！"
+  },
+  {
+    "id": "la-tips-cooking-puzzle-description-2",
+    "text": "そろえてクッキングでは、<color=#ff3bc8>3種類のモードで遊べる</color>よ！\n\n▼モード\n・EASY：指定品数の料理を完成するとクリア\n・NORMAL：指定品数の料理を完成するとクリア\n・SCORE ATTACK：ベストスコアを目指してチャレンジ\n\n※NORMALとSCORE ATTACKの解放条件は各モードをタップして確認できます。"
+  },
+  {
+    "id": "la-tips-cooking-puzzle-description-3",
+    "text": "スコアアタックモードでは、<color=#ff3bc8>指定された料理を完成させてスコアを獲得し、ベストスコアを目指そう！</color>\n\nトレーから材料が溢れるか、制限時間が0になるまでプレイできるよ！\n\n指定された材料を連続で揃えると、<color=#ff3bc8>獲得スコアにボーナスが付く</color>よ！"
+  },
+  {
+    "id": "la-tips-cooking-puzzle-description-4",
+    "text": "ランキングには、<color=#ff3bc8>スコアアタックモード</color>のベストスコアが記録されるよ！\n\n※ベストスコアが同じ場合、順位は先着順となります。"
+  },
+  {
+    "id": "la-tips-cooking-puzzle-quest-description-1",
+    "text": "制限時間内に<color=#ff3bc8>指定されている材料を集めて、料理を完成させよう</color>！\n\n材料をタップするとトレーに移動し、<color=#ff3bc8>同じ材料を3つ揃えると調理が進む</color>よ！\n\n<color=#ff3bc8>材料がトレーから溢れるとゲームオーバー</color>になってしまうから気をつけて！"
+  },
+  {
+    "id": "la-tips-cooking-puzzle-quest-description-2",
+    "text": "<color=#ff3bc8>完成した料理の数に応じて報酬を獲得</color>できるよ！\n\nたくさん料理を作って、報酬を手に入れよう！"
+  },
+  {
+    "id": "la-tips-cooking-puzzle-quest-description-3",
+    "text": "▼操作方法\nシャッフル：<color=#ff3bc8>タップすると材料の配置がシャッフル</color>\n\n※一度使うと、ゲージが溜まるまで使えなくなります。"
+  },
+  {
+    "id": "la-tips-creative-chart-description-1",
+    "text": "<color=#ff3bc8>自分で作った譜面を公開したり、世界中の人たちが作った譜面</color>で遊べるよ！"
+  },
+  {
+    "id": "la-tips-creative-chart-description-2",
+    "text": "譜面は、ゼロから自分で作るのはもちろん、<color=#ff3bc8>公式譜面や、許可をもらった他プレイヤーの譜面を引用して作ることもできる</color>よ！"
+  },
+  {
+    "id": "la-tips-creative-chart-description-3",
+    "text": "ノーツを選択して、任意の位置に配置できるよ！\n\n<color=#ff3bc8>配置後に移動したり、横幅を変えることもできる</color>よ！"
+  },
+  {
+    "id": "la-tips-creative-chart-description-4",
+    "text": "右にある矢印アイコンで配置したノーツを選んでオプションを選択すれば、<color=#ff3bc8>ノーツを反転させたり、いろいろな操作ができる</color>よ！\n\n矢印アイコンを再度タップすれば<color=#ff3bc8>範囲選択ができる</color>よ！\n\nノーツを削除したい場合は、消しゴムアイコンを押して<color=#ff3bc8>配置したノーツを選択すれば削除</color>できるよ！"
+  },
+  {
+    "id": "la-tips-creative-chart-description-5",
+    "text": "<color=#ff3bc8>エディター内を長押し</color>すると、メニューが開いて各種操作ができるよ！"
+  },
+  {
+    "id": "la-tips-creative-chart-description-6",
+    "text": "ロングノーツは、配置後に直線や曲線に変更できるよ！\n\n<color=#ff3bc8>ロングノーツの間には中継ノーツを配置できて、種類も3種類から選べる</color>よ！"
+  },
+  {
+    "id": "la-tips-creative-chart-description-7",
+    "text": "<color=#ff3bc8>見た目専用でタップする必要のないデコレーションノーツ</color>は、ロングノーツのように配置することができるよ！\n\n配置前に色を選択することで、任意の色を配置することができるよ！"
+  },
+  {
+    "id": "la-tips-creative-chart-description-8",
+    "text": "<color=#ff3bc8>エディター画面全体の設定は左下にある歯車のアイコンから行うことができる</color>よ！\n\nその他エディター機能の詳細については、右上の「遊び方」を確認してね！"
+  },
+  {
+    "id": "la-tips-exchange-area01-description-1",
+    "text": "ねぽらぼマートではホロゴールドと様々な商品を交換したり、所持品を売ったりすることができるよ！\n\n<color=#ff3bc8>商品には、交換上限数と交換期限がある</color>から必要なものは早めに交換しよう！"
+  },
+  {
+    "id": "la-tips-exchange-area02-training-item-description-1",
+    "text": "素材変換所では、<color=#ff3bc8>所持しているアイテムを他のアイテムに変換</color>できるよ！"
+  },
+  {
+    "id": "la-tips-exchange-coin-area02-description-1",
+    "text": "メガスフィアコイン交換所では、<color=#ff3bc8>メガスフィアコインと様々な商品を交換</color>できるよ！\n\nメガスフィアコインを集めて交換しよう！"
+  },
+  {
+    "id": "la-tips-exchange-coin-area02-description-2",
+    "text": "<color=#ff3bc8>ミニゲームブーストをメガスフィアコインに変換</color>することもできるよ！\n\nメガスフィアコインが必要なときは、ここで変換しよう！"
+  },
+  {
+    "id": "la-tips-game-event_portal-description-1",
+    "text": "イベントポータルでは、開催中のイベントを確認することができるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-achievement_top-description-1",
+    "text": "アチーブメントは様々な達成条件があり、達成することで報酬を獲得できるよ！\n\n報酬には<color=#ff3bc8>ホロメンランクEXP、称号、レッドダイヤ</color>などがあるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-card_catalog-description-1",
+    "text": "メンバーをレベルアップすると、<color=#ff3bc8>パラメータが上がる</color>よ！\n\nレベルアップに必要なレッスンPtは、ホロワーク、ねぽらぼマートなどで獲得することができるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-card_catalog-description-2",
+    "text": "メンバーを特訓すると、<color=#ff3bc8>レベルの上限が上がる</color>よ！\n\n特訓に必要なアイテムは、ライブやホロワークなどで獲得することができるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-card_catalog-description-3",
+    "text": "メンバーを開花すると、<color=#ff3bc8>スキルやコネクト効果などが強化される</color>よ！\n\n開花は各メンバー、<color=#ff3bc8>最大5段階まで</color>行うことができるよ！\n\n開花に必要なPtは、同じメンバーを再度獲得すると入手できるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-character_top-description-1",
+    "text": "ホロメン一覧では、ホロメンの解放状況を確認することができるよ！\n\n未解放のホロメンは、<color=#ff3bc8>ホロメンクエストをクリアして解放</color>しよう！"
+  },
+  {
+    "id": "la-tips-game_screen-circuit-description-1",
+    "text": "メガサーキットは、<color=#ff3bc8>最大16人で競う障害物レース</color>だよ！ \n様々な仕掛けを避けながら、誰よりも早くゴールしよう！ "
+  },
+  {
+    "id": "la-tips-game_screen-circuit-description-2",
+    "text": "<color=#ff3bc8>順位に応じて報酬を獲得</color>できるよ！ \n\n上位を目指して、報酬を手に入れよう！"
+  },
+  {
+    "id": "la-tips-game_screen-circuit-description-3",
+    "text": "▼操作方法\nジャンプ：<color=#ff3bc8>タップするとホロメンがジャンプ</color>\n\nダッシュ：<color=#ff3bc8>タップするとホロメンが一定時間ダッシュ</color>\n\n※ダッシュは一度使うと、ゲージが溜まるまで使えなくなります。"
+  },
+  {
+    "id": "la-tips-game_screen-circuit-description-4",
+    "text": "ランキングには、<color=#ff3bc8>ベストタイム</color>が記録されるよ！\n\n※ベストタイムが同じ場合、順位は先着順となります。"
+  },
+  {
+    "id": "la-tips-game_screen-combo-card-game-description-1",
+    "text": "ポカジャン！は、4人でプレイするカードゲームだよ！\n\n毎ターン山札からカードを引き、<color=#ff3bc8>手札の中で役を完成させよう</color>！\n\nゲーム終了時に<color=#ff3bc8>最も多くコインを保有していたプレイヤーが勝者</color>となるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-combo-card-game-description-2",
+    "text": "<color=#ff3bc8>同じホロメンを3枚集めるか、同期全員を集める</color>と、役が完成するよ！\n\n役が完成したら<color=#ff3bc8>「ポカジャン！」ボタンを押して、他プレイヤーからコインを獲得</color>しよう！\n\nカードが全て同じ色の場合、より多くのコインを獲得できるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-combo-card-game-description-3",
+    "text": "「ポカジャン！」した後は、役の枚数だけ、さらに追加でカードを引けるよ！\n\n<color=#ff3bc8>カードを補充して再び役が完成すれば、連続で「ポカジャン！」が可能</color>だよ！\n\n役が完成しなかった場合は、手札の中から1枚を場に出して、自分のターンを終了しよう！"
+  },
+  {
+    "id": "la-tips-game_screen-combo-card-game-description-4",
+    "text": "<color=#ff3bc8>他のプレイヤーが場に出したカードでも「ポカジャン！」ができる</color>よ！\n\nただし、複数人が同時に「ポカジャン！」しても、コインを獲得できるのは最も強い役を作った1人だけ！\n\n最も強い役を作ったプレイヤーが複数いた場合、<color=#ff3bc8>「ポカジャン！」されたプレイヤーから時計回りで最も近いプレイヤーが優先</color>されるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-combo-card-game-description-5",
+    "text": "<color=#ff3bc8>山札が0枚になるか、誰かのコインが0枚になるとゲーム終了</color>だよ！\n\n終了時に保有しているコイン枚数で順位が決まるよ！\n\n順位とコインの枚数に応じて報酬を獲得できるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-combo-card-game-description-6",
+    "text": "ランキングには、<color=#ff3bc8>通算コインレート</color>が記録されるよ！\n\nこれまでのプレイ履歴で増減したメガスフィアコインの通算枚数を、レートとして集計しているよ！\n\n※各プレイ履歴の結果は、【終了時の保有コイン枚数 - 1000】で計算されます。\n※BET枚数による報酬量の増減は、レートに影響しません。\n※レートが同じ場合、順位は先着順となります。"
+  },
+  {
+    "id": "la-tips-game_screen-cooking-puzzle-description-1",
+    "text": "制限時間内に<color=#ff3bc8>指定されている材料を集めて、料理を完成させよう</color>！\n\n材料をタップするとトレーに移動し、<color=#ff3bc8>同じ材料を3つ揃えると調理が進む</color>よ！\n\n<color=#ff3bc8>材料がトレーから溢れるとゲームオーバー</color>になってしまうから気をつけて！"
+  },
+  {
+    "id": "la-tips-game_screen-cooking-puzzle-description-2",
+    "text": "<color=#ff3bc8>完成した料理の数に応じて報酬</color>を獲得できるよ！\n\nたくさん料理を作って、報酬を手に入れよう！"
+  },
+  {
+    "id": "la-tips-game_screen-cooking-puzzle-description-3",
+    "text": "▼操作方法\nシャッフル：<color=#ff3bc8>タップすると材料の配置がシャッフル</color>\n\n※一度使うと、ゲージが溜まるまで使えなくなります。"
+  },
+  {
+    "id": "la-tips-game_screen-cooking-puzzle-description-4",
+    "text": "そろえてクッキングでは、<color=#ff3bc8>3種類のモードで遊べる</color>よ！\n\n▼モード\n・EASY：指定品数の料理を完成するとクリア\n・NORMAL：指定品数の料理を完成するとクリア\n・SCORE ATTACK：ベストスコアを目指してチャレンジ\n\nNORMALとSCORE ATTACKの解放条件は各モードをタップして確認できるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-cooking-puzzle-description-5",
+    "text": "スコアアタックモードでは、<color=#ff3bc8>指定された料理を完成させてスコアを獲得し、ベストスコアを目指そう！</color>\n\nトレーから材料が溢れるか、制限時間が0になるまでプレイできるよ！\n\n指定された材料を連続で揃えると、<color=#ff3bc8>獲得スコアにボーナスが付く</color>よ！"
+  },
+  {
+    "id": "la-tips-game_screen-cooking-puzzle-description-6",
+    "text": "ランキングには、<color=#ff3bc8>スコアアタックモード</color>のベストスコアが記録されるよ！\n\n※ベストスコアが同じ場合、順位は先着順となります。"
+  },
+  {
+    "id": "la-tips-game_screen-creative-chart-1",
+    "text": "<color=#ff3bc8>自分で作った譜面を公開したり、世界中の人たちが作った譜面</color>で遊べるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-creative-chart-2",
+    "text": "譜面は、ゼロから自分で作るのはもちろん、<color=#ff3bc8>公式譜面や、許可をもらった他プレイヤーの譜面を引用して作ることもできる</color>よ！"
+  },
+  {
+    "id": "la-tips-game_screen-creative-chart-3",
+    "text": "ノーツを選択して、任意の位置に配置できるよ！\n\n<color=#ff3bc8>配置後に移動したり、横幅を変えることもできる</color>よ！"
+  },
+  {
+    "id": "la-tips-game_screen-creative-chart-4",
+    "text": "右にある矢印アイコンで配置したノーツを選んでオプションを選択すれば、<color=#ff3bc8>ノーツを反転させたり、いろいろな操作ができる</color>よ！\n\n矢印アイコンを再度タップすれば<color=#ff3bc8>範囲選択ができる</color>よ！\n\nノーツを削除したい場合は、消しゴムアイコンを押して<color=#ff3bc8>配置したノーツを選択すれば削除</color>できるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-creative-chart-5",
+    "text": "<color=#ff3bc8>エディター内を長押し</color>すると、メニューが開いて各種操作ができるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-creative-chart-6",
+    "text": "ロングノーツは、配置後に直線や曲線に変更できるよ！\n\n<color=#ff3bc8>ロングノーツの間には中継ノーツを配置できて、種類も3種類から選べる</color>よ！"
+  },
+  {
+    "id": "la-tips-game_screen-creative-chart-7",
+    "text": "<color=#ff3bc8>見た目専用でタップする必要のないデコレーションノーツ</color>は、ロングノーツのように配置することができるよ！\n\n配置前に色を選択することで、任意の色を配置することができるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-creative-chart-8",
+    "text": "<color=#ff3bc8>エディター画面全体の設定は歯車のアイコンから行うことができる</color>よ！\n\nその他エディター機能の詳細については、右上の「遊び方」を確認してね！"
+  },
+  {
+    "id": "la-tips-game_screen-friend_top-description-1",
+    "text": "フレンドは、以下の方法で追加することができるよ！\n\n▼フレンドの追加方法\n・他のプレイヤーにフレンド申請を送り、承認してもらう\n・他プレイヤーからのフレンド申請を承認する\n\n<color=#ff3bc8>フレンド申請は相手のプロフィールから、フレンド承認はフレンド追加から行うことができる</color>よ！"
+  },
+  {
+    "id": "la-tips-game_screen-friend_top-description-2",
+    "text": "フレンドになると、<color=#ff3bc8>マルチルームにフレンドを招待したり、フレンドリストからプロフィール情報を確認</color>することができるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-high_score_rating-description-1",
+    "text": "ホロメンスコアレートは、<color=#ff3bc8>歌唱者をリーダーにしてプレイした際のハイスコア</color>をもとに算出されるよ！\n\n対象楽曲のうち、上位3曲のレートの合計が各ホロメンのスコアレートとして記録されるよ！\n\nまた、ホロメンスコアレートでは、毎週のランキング結果に応じてランキング称号が更新されるよ！\n\n※ランキング称号は集計時点の順位に応じて付与され、次の集計時点でランキング称号の対象順位外となった場合は称号が外れます。"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-multi-description-1",
+    "text": "<color=#ff3bc8>回ってくる大縄に当たらないようにタイミングよくジャンプ</color>しよう！"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-multi-description-2",
+    "text": "<color=#ff3bc8>大縄の速度や回し方が変わったり、画面が遮られたり</color>するから気を付けて！\n\n大縄を回しているホロメンに注目しよう！"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-multi-description-3",
+    "text": "<color=#ff3bc8>跳んだ回数に応じて報酬を獲得</color>できるよ！\n\nたくさん跳んで、報酬を手に入れよう！"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-multi-description-4",
+    "text": "▼操作方法\nジャンプ：<color=#ff3bc8>タップするとホロメンがジャンプ</color>\n\n※ジャンプを押してすぐに離すと素早くジャンプできます。"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-multi-description-5",
+    "text": "マルチプレイでは、最大5人で協力して長く跳ぼう！\n\n一度引っかかった人も、<color=#ff3bc8>ゲージが溜まれば復帰</color>できるよ！\n\nゲージは他の誰かが跳ぶことで少しずつ溜まっていくよ！"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-multi-description-6",
+    "text": "ランキングには、<color=#ff3bc8>スコアアタックモードのベストスコア、またはマルチプレイで自分が跳んだ回数の高い方</color>が記録されるよ！\n\n※ベストスコアが同じ場合、順位は先着順となります。"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-top-description-1",
+    "text": "<color=#ff3bc8>回ってくる大縄に当たらないようにタイミングよくジャンプ</color>しよう！\n\n<color=#ff3bc8>ライフは3つ！</color>0になるとゲームオーバーだから気をつけよう！"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-top-description-2",
+    "text": "<color=#ff3bc8>大縄の速度や回し方が変わったり、画面が遮られたり</color>するから気を付けて！\n\n大縄を回しているホロメンに注目しよう！"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-top-description-3",
+    "text": "<color=#ff3bc8>跳んだ回数に応じて報酬を獲得</color>できるよ！\n\nたくさん跳んで、報酬を手に入れよう！"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-top-description-4",
+    "text": "▼操作方法\nジャンプ：<color=#ff3bc8>タップするとホロメンがジャンプ</color>\n\n※ジャンプを押してすぐに離すと素早くジャンプできます。"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-top-description-5",
+    "text": "ソロプレイでは、<color=#ff3bc8>3種類のモードで遊べる</color>よ！\n\n▼モード\n・EASY：他のホロメンより長く跳ぶとクリア\n・NORMAL：他のホロメンより長く跳ぶとクリア\n・SCORE ATTACK：ベストスコアを目指してチャレンジ\n\nNORMALとSCORE ATTACKの解放条件は各モードをタップして確認できるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-top-description-6",
+    "text": "ランキングには、<color=#ff3bc8>スコアアタックモードのベストスコア、またはマルチプレイで自分が跳んだ回数の高い方</color>が記録されるよ！\n\n※ベストスコアが同じ場合、順位は先着順となります。"
+  },
+  {
+    "id": "la-tips-game_screen-live_deck_edit-description-1",
+    "text": "ユニットはリーダーと5人のメンバーの構成になっているよ！\n\n<color=#ff3bc8>ユニットスコアはリーダーのスキルやメンバーのパラメータ・スキルなどで決定される</color>よ！\n\nユニットはリーダーごとに、最大10個まで登録できるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-membership_top-description-1",
+    "text": "各ホロメンのメンバーシップに加入すると様々な特典を受けられるようになるよ！\n\n<color=#ff3bc8>メンシメダルはホロメンごとにあり</color>、各ホロメンの特典と交換できるよ！\n\n<color=#ff3bc8>交換した特典はメンバーシップ解約後も使用できる</color>よ！"
+  },
+  {
+    "id": "la-tips-game_screen-mission_pass_top-description-1",
+    "text": "ミッションパスは、<color=#ff3bc8>レベルを上げると様々な報酬を獲得できる</color>よ！\n\nミッションパスにはフリーパスと、加入することで解放されるプレミアムパスがあるよ！\n\n<color=#ff3bc8>プレミアムパスを解放すると、すでに達成済みのレベルの報酬も受け取れる</color>よ！"
+  },
+  {
+    "id": "la-tips-game_screen-mission_pass_top-description-2",
+    "text": "<color=#ff3bc8>ミッションを達成してミッションPtを集めよう！</color>\n一定量たまると、レベルがアップするよ！"
+  },
+  {
+    "id": "la-tips-game_screen-mission_pass_top-description-3",
+    "text": "ミッションパスの期間が終了すると、<color=#ff3bc8>ミッションパスPtとレベルはリセット</color>されるから注意しよう！\n\n期間終了時、未受け取りの報酬はギフトに送られるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-multi_mini_game_top-description-1",
+    "text": "ミニゲームのマルチプレイは<color=#ff3bc8>誰でも参加できるフリーモード</color>があるよ！\n\n友達と遊びたい場合は「ルーム作成」からルームを作成し、表示されたIDを友達に共有して遊ぼう！"
+  },
+  {
+    "id": "la-tips-game_screen-multi_mini_game_top-description-2",
+    "text": "各ミニゲームの遊び方は、<color=#ff3bc8>ミニゲーム選択画面にある「？」をタップして確認できる</color>よ！"
+  },
+  {
+    "id": "la-tips-game_screen-multi_rhythm_game_lobby-description-1",
+    "text": "ライブのマルチプレイは、<color=#ff3bc8>最大5人</color>で遊ぶことができるよ！\n\n遊ぶ楽曲は、<color=#ff3bc8>プレイヤーそれぞれが選択した楽曲の中から抽選</color>で決まるよ！\n\n難易度は各プレイヤーそれぞれ自由に選択できるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-multi_rhythm_game_lobby-description-2",
+    "text": "ライブのマルチプレイでは、<color=#ff3bc8>フィーバー突入で獲得スコアがアップ</color>するよ！\n\n参加プレイヤー全員で<color=#ff3bc8>フィーバーゲージをためるとフィーバーに突入</color>するよ！"
+  },
+  {
+    "id": "la-tips-game_screen-multi_rhythm_game_lobby-description-3",
+    "text": "ライブのマルチプレイのスコアランクは、<color=#ff3bc8>全員のスコアの合計で決まる</color>よ！"
+  },
+  {
+    "id": "la-tips-game_screen-multi_rhythm_game_top-description-1",
+    "text": "ライブのマルチプレイは、<color=#ff3bc8>誰でも参加可能なフリーモード</color>と<color=#ff3bc8>特定のユニットスコア以上の人が参加できるグレードモード</color>の２種類があるよ！\n\n友達と遊びたい場合は「ルーム作成」からルームを作成し、表示されたIDを友達に共有して遊ぼう！"
+  },
+  {
+    "id": "la-tips-game_screen-multi_rhythm_game_top-description-2",
+    "text": "ライブのマルチプレイは、<color=#ff3bc8>最大5人</color>で遊ぶことができるよ！\n\n遊ぶ楽曲は、<color=#ff3bc8>プレイヤーそれぞれが選択した楽曲の中から抽選</color>で決まるよ！\n\n難易度は各プレイヤーそれぞれ自由に選択できるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-multi_rhythm_game_top-description-3",
+    "text": "ライブのマルチプレイでは、<color=#ff3bc8>フィーバー突入で獲得スコアがアップ</color>するよ！\n\n参加プレイヤー全員で<color=#ff3bc8>フィーバーゲージをためるとフィーバーに突入</color>するよ！"
+  },
+  {
+    "id": "la-tips-game_screen-multi_rhythm_game_top-description-4",
+    "text": "ライブのマルチプレイのスコアランクは、<color=#ff3bc8>全員のスコアの合計で決まる</color>よ！"
+  },
+  {
+    "id": "la-tips-game_screen-music_shop_selection-description-1",
+    "text": "楽曲ショップではミュージックディスクで楽曲を交換できるよ！\n\n<color=#ff3bc8>交換した楽曲はライブでプレイできる</color>ようになるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-park_change_playable-description-1",
+    "text": "操作するホロメンは変更できるよ！\n\n<color=#ff3bc8>ホロメンクエストで解放したホロメン</color>が選べるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-park_change_playable-description-2",
+    "text": "ホロメンは<color=#ff3bc8>衣装を変更したり、アクセサリを付けることができる</color>よ！\n\n衣装はガチャ、アクセサリはミッションパスなどで入手できるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-park_high_low_top-description-1",
+    "text": "ハイ＆ローは<color=#ff3bc8>メガスフィアコイン（以降、コイン）をBETしてプレイするカードゲーム</color>だよ！\n\n5枚の手札でポーカーの役を作り、役が成立した場合、ハイ&ローのダブルアップチャンスに挑戦できるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-park_high_low_top-description-2",
+    "text": "ダブルアップチャンスでは、次に引くカードが前に引いたカードよりも、「たかい」か「ひくい」かを当ててね！\n\n▼カードの強さ\nA ＞ K ＞ Q ＞ J ＞ 10 ＞ 9 ＞ 8 ＞ 7 ＞ 6 ＞ 5 ＞ 4 ＞ 3 ＞ 2\n\n<color=#ff3bc8>ダブルアップチャンスに成功すると、獲得コインが倍</color>になるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-park_high_low_top-description-3",
+    "text": "<color=#ff3bc8>ダブルアップチャンスに失敗してしまうと、獲得コインは0になってしまう</color>ので挑戦するか慎重に決めよう！\n\n引いたカードが同じ数字だった場合は引き直しになるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-park_high_low_top-description-4",
+    "text": "ハイ＆ローでは、<color=#ff3bc8>1ゲームで獲得できるコインと、1日に獲得できるコインに上限がある</color>よ！\n\n▼ハイ＆ローのコイン獲得上限\n・1ゲームで獲得できるコイン：<color=#ff3bc8>10000枚まで</color>\n※1ゲームの獲得コインが10000枚を超えるとその時点でゲーム終了となります。\n※10000枚を超過した分のコインも獲得できます。\n\n・1日に獲得できるコイン：<color=#ff3bc8>20000枚まで</color>\n※1日の獲得コインが20000枚を超えると、その日はハイ＆ローをプレイできなくなります。翌日になると再びプレイできます。\n※20000枚を超過した分のコインも獲得できます。"
+  },
+  {
+    "id": "la-tips-game_screen-park_poster_booth-description-1",
+    "text": "<color=#ff3bc8>獲得したメンバーとメモリーはメモリースタンドに設定することができる</color>よ！\n\nお気に入りのメンバー、メモリーを設定してドリーム・パークを飾ろう！"
+  },
+  {
+    "id": "la-tips-game_screen-park_poster_booth-description-2",
+    "text": "<color=#ff3bc8>メモリーを集めると、ユニットパラメータがアップする</color>よ！"
+  },
+  {
+    "id": "la-tips-game_screen-park_quest_info-description-1",
+    "text": "メインクエストをクリアすることで、<color=#ff3bc8>メインストーリーが進行</color>していくよ！\n\n次に何をするべきか迷ったときはメインクエストを進めよう！"
+  },
+  {
+    "id": "la-tips-game_screen-park_quest_info-description-2",
+    "text": "ホロメンクエストはドリーム・パーク内にいる「本日出会えるホロメン」に話しかけると開始できるよ！\n\n<color=#ff3bc8>出会えるホロメンは毎日2人ランダム</color>で選ばれるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-park_quest_info-description-3",
+    "text": "<color=#ff3bc8>招待状を使うと、出会えるホロメンを増やせる</color>よ！\n招待状は、メインクエストなどで獲得できるよ！\n\nゲーム開始時に選択したホロメンのホロメンクエストも遊べるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-park_quest_info-description-4",
+    "text": "ホロメンクエストクリアで<color=#ff3bc8>対象のホロメン、楽曲が解放される</color>よ！\n<color=#ff3bc8>解放したホロメンはドリーム・パークで操作できる</color>ようになるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-park_quest_info-description-5",
+    "text": "エリアクエストは、<color=#ff3bc8>メインクエストをクリアしたり、一定の条件を満たすことで発生</color>するクエストだよ！\n\nクエストをクリアすると、様々な報酬を獲得できるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-park_quest_info-description-6",
+    "text": "デイリークエストは<color=#ff3bc8>毎日更新されるクエスト</color>だよ！\n\n日付が変わるとリセットされるから、また挑戦できるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-score_ranking-description-1",
+    "text": "スコアランキングは各楽曲のソロモードでのハイスコアによるランキングだよ！\n\n<color=#ff3bc8>難易度を問わず、その楽曲で獲得した一番高いスコアがハイスコア</color>として記録されるよ！\nスコアランキングのスコアが他のプレイヤーと同じ場合の順位は先着順となるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-shop_top-description-1",
+    "text": "ショップでは、ブルーダイヤやアイテムなどを購入することができるよ！\n\nメンバーシップやホロパスポートなど、加入すると様々な特典が受けられるサブスクリプションの商品もあるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-shop_top-description-2",
+    "text": "ホロステッカー交換では、ホロステッカーを消費して様々な商品と交換することができるよ！\n\n▼ホロステッカーの入手方法と入手枚数\n・ガチャPtの交換期限が切れた場合：1Ptにつき1枚\n\n・最終段階まで開花済みの★3メンバーを獲得：1枚\n\n・最終段階まで開花済みの★4メンバーを獲得：20枚\n※最終段階まで開花するために必要な開花Ptを所持している★3、★4メンバーを獲得した場合も対象"
+  },
+  {
+    "id": "la-tips-game_screen-shop_top-description-3",
+    "text": "特別ホロステッカー交換では、特別ホロステッカーを消費して様々な商品と交換することができるよ！\n\n▼特別ホロステッカーの入手方法と入手枚数\n・最終段階まで開花していない★5メンバーを獲得：30枚\n\n・最終段階まで開花済みの★5メンバーを獲得：130枚\n※最終段階まで開花するために必要な開花Ptを所持している★5メンバーを獲得した場合も対象"
+  },
+  {
+    "id": "la-tips-game_screen-skill_tree-description-1",
+    "text": "ホロメンボードはホロメンごとに用意されていて、<color=#ff3bc8>マスを解放することでライブやミニゲームなどで発揮される効果を獲得できる</color>よ！\n\n▼マスの種類\n・リーダータイプ（赤マス）：ライブユニットのリーダーに設定すると発揮する効果\n\n・メンバータイプ（青マス）：ライブユニットのメンバーに設定すると発揮する効果\n\n・サポートタイプ（黄/緑マス）：ライブユニットに編成していないときでも発揮する効果\n\n・コネクトマス：メンバーを配置すると、そのメンバーのコネクト効果を発揮"
+  },
+  {
+    "id": "la-tips-game_screen-skill_tree-description-2",
+    "text": "マスを解放するために必要な<color=#ff3bc8>各種キューブは、交換所やホロワークなどで獲得できる</color>よ！\n\n<color=#ff3bc8>ホロメンボードPtは、ホロメンランクをアップさせるともらえる</color>よ！\n\nランクアップに必要なEXPは、各ホロメンのアチーブメント達成で集めよう！"
+  },
+  {
+    "id": "la-tips-game_screen-story_archive_top-description-1",
+    "text": "HOLOシネマズでは体験したストーリーの振り返りや、PVなどのスペシャル映像を観ることができるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-user_profile_top-description-1",
+    "text": "プロフィールではプレイヤーの様々な情報を確認することができるよ！\n\n<color=#ff3bc8>プレイヤー名、ひとこと、カスタムプロフィール、称号は自由に編集できる</color>よ！"
+  },
+  {
+    "id": "la-tips-game_screen-user_profile_top-description-2",
+    "text": "カスタムプロフィールでは、<color=#ff3bc8>好きなベースにパーツを自由に配置して作れる</color>よ！\n\n作成したカスタムプロフィールは最大20件（デフォルトを含む）まで保存することができるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-user_profile_top-description-3",
+    "text": "<color=#ff3bc8>ライブをプレイしたり、クエストをクリアすると、ドリームランクEXPを獲得</color>できるよ！\n\nドリームランクEXPを溜めてドリームランクを上げると、様々な報酬を獲得することができるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-work_top-description-1",
+    "text": "ホロワークはメンバーを編成して開始できるよ！\n\n<color=#ff3bc8>指定された時間が経過すると、活動完了！報酬を受け取れる</color>よ！\n\n活動内容は、左上の更新時間が0になると更新されるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-work_top-description-2",
+    "text": "<color=#ff3bc8>編成メンバーの総合力が高いほど、活動完了時の評価が上がる</color>よ！\n報酬は活動評価が高いほど、豪華になるよ！\n\n各活動の絶好調なメンバーはパラメータがアップするよ！"
+  },
+  {
+    "id": "la-tips-hint-account_migration-description-1",
+    "text": "アカウント連携をすると、複数の端末でゲームデータを共有してプレイすることができます。\n共有先の端末に既にデータがある場合、現在のデータを上書きすることで共有することができます。\n\n※上書き前のデータはアカウント連携をしていない場合、復元できませんのでご注意ください。"
+  },
+  {
+    "id": "la-tips-hint-card_detail_level_limit_break-description-1",
+    "text": "メンバーを特訓することで、メンバーの最大レベルが上がります。\n\n特訓に必要なアイテムは、ライブやホロワークなどで獲得できます。"
+  },
+  {
+    "id": "la-tips-hint-card_detail_level_up-description-1",
+    "text": "レッスンPtを消費して、メンバーをレベルアップさせることができます。\nメンバーがレベルアップすると、各パラメータがアップします。\n\nレベルアップに必要なレッスンPtは、ホロワーク、ねぽらぼマートなどで獲得できます。"
+  },
+  {
+    "id": "la-tips-hint-card_detail_live_skill-description-1",
+    "text": "各メンバーは、以下の3つのスキルを所持しています。\n\n▼メンバーの所持スキル\nスペシャルスキル：ライブ中に一度だけ発動する強力なスキル（発動する順番は編成の順番に応じて決定される）\nアクティブスキル：ライブ中に一定時間ごとに確率で発動するスキル\nパッシブスキル：条件を満たすことで常に効果が得られるスキル\n\nスキル効果は、メンバーを開花することでアップさせることができます。"
+  },
+  {
+    "id": "la-tips-hint-card_detail_skill_tree_connect_effect-description-1",
+    "text": "コネクト効果はホロメンボードの<color=#ff3bc8>コネクトマスにメンバーを配置し、効果範囲のマスを解放すると効果を発揮</color>できるよ！"
+  },
+  {
+    "id": "la-tips-hint-character_level_exp-description-1",
+    "text": "ホロメンランクは、ホロメンランクEXPがたまるとアップするよ！\n\n<color=#ff3bc8>ランクが上がると、ホロメンボードPtを獲得できる</color>よ！\n\nホロメンランクEXPは、対象ホロメンのアチーブメント達成で獲得できるよ！"
+  },
+  {
+    "id": "la-tips-hint-live_card_leveling-description-1",
+    "text": "<color=#ff3bc8>編成中のメンバーをレベルアップ</color>して、ユニットスコアを上げよう！"
+  },
+  {
+    "id": "la-tips-hint-live_deck_evaluation_value_not_reached-description-1",
+    "text": "<color=#ff3bc8>ユニットスコアが高いほど、クリア条件の目標スコアに到達しやすい</color>よ！\n\nクリア目安は「×＜△＜〇＜★」の順で、★に近いほどクリアしやすくなるよ！\n\n<color=#ff3bc8>クリア目安が「×」の場合はライブに挑戦できない</color>から、まずはユニットを強化しよう！"
+  },
+  {
+    "id": "la-tips-hint-live_deck_evaluation_value_not_reached-description-2",
+    "text": "リーダーのホロメンボードを解放して、ユニットスコアを上げよう！\n\n<color=#ff3bc8>リーダータイプの赤いマス</color>から解放するのがオススメだよ！"
+  },
+  {
+    "id": "la-tips-hint-live_deck_evaluation_value_not_reached-description-3",
+    "text": "<color=#ff3bc8>編成中のメンバーをレベルアップ</color>して、ユニットスコアを上げよう！"
+  },
+  {
+    "id": "la-tips-hint-live_leader_skill_not_activated-description-1",
+    "text": "衣装スキルには発動条件を満たさないと発動しないスキルがあるよ！\n\n<color=#ff3bc8>衣装スキルを確認して発動条件を満たしているか確認</color>してみよう！"
+  },
+  {
+    "id": "la-tips-hint-live_live_deck_evaluation-description-1",
+    "text": "ユニットスコアは、ライブスコアを獲得する際の指標となるパラメータです。\nユニットスコアが高いほど、ライブで獲得できるスコアがアップします。\n\nユニットスコアは、「総合力」に「スコアボーナス」を適用した数値です。\n\n▼総合力\n・メンバーパラメータ：編成メンバーの合計パラメータ\n・衣装スキル：衣装スキル（パラメータアップ）の効果量\n・ホロメンボード効果：ホロメンボード（パラメータアップ）の効果量\n・パッシブスキル：パッシブスキル（パラメータアップ）の効果量\n・メモリー効果：所持メモリー数によるボーナス効果量\n・メンバー強化ボーナス：メンバー強化によるボーナス効果量\n\n▼スコアボーナス\n・衣装スキル：衣装スキル（スコアボーナス）の効果\n・アクティブスキル：アクティブスキルの効果\n・ホロメンボード効果：ホロメンボード（スコアボーナス）の効果\n・パッシブスキル：パッシブスキル（スコアボーナス）の効果\n・スペシャルスキル：スペシャルスキルの効果\n\n※適用されている効果がない場合は表示されません。"
+  },
+  {
+    "id": "la-tips-hint-live_multi_live_cooperation_auto_play_allow-description-1",
+    "text": "チェックボックスにチェックを入れると、オートプレイを許可しているプレイヤーともマッチングします。\nチェックを外すと、オートプレイを許可していないプレイヤー同士でのみマッチングします。\n\nこの設定は、各モードおよびプライベートルームを含むすべてのマッチングに適用されます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_brightness_setting-description-1",
+    "text": "レーンの明るさや背景の明るさを設定することができます。\n\n数字を大きくするほど、明るくなりますが、ノーツの視認性が落ちる場合があります。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_active_skill_display-description-1",
+    "text": "アクティブスキル発動中に表示される効果のON/OFFを設定することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_background_display_illustration_setting-description-1",
+    "text": "ライブの背景選択をイラストにした際に表示するメンバーのイラストを選択できます。\n\n▼ランダム\nユニットに編成しているメンバーが、ランダムで表示されます。\n\n▼センター固定\nユニットに編成している左から3番目（センター）のメンバーが表示されます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_background_mode_setting-description-1",
+    "text": "MVなどがない楽曲のデフォルトのライブ背景を設定できます。\n\nライブ中に表示する背景はライブ開始前のユニット編成画面で選択できます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_combo_continuation_display-description-1",
+    "text": "コンボ状態に応じたコンボ数字の背景表示を設定できます。\n\n▼AP(ALL PERFECT)\n＆FC(FULL COMBO)\n・AP継続中はコンボ数字の背景が虹色で表示されます。\n・APが途切れ、FC継続中の場合は背景が赤色で表示されます。\n・コンボが切れた場合、背景は表示されません。\n\n▼APのみ\n・AP継続中は、コンボ数字の背景が虹色で表示されます。\n・APが切れた場合、背景は表示されません。\n\n▼OFF\n・すべてのコンボ状態において、コンボ数字の背景は表示されません。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_fast_slow_display-description-1",
+    "text": "ノーツをタップした際の判定で遅速があった場合の「SLOW(遅い)」または「FAST(速い)」の表示を設定することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_fever_effect_setting-description-1",
+    "text": "マルチプレイのFEVER演出の強弱を設定することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_fps_sync-description-1",
+    "text": "端末側のリフレッシュレートとゲーム側のFPSを合わせるよう設定ができます。\n\n端末によっては、画面表示の乱れが調整される場合があります。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_key_beam-description-1",
+    "text": "タップしたレーンを光らせるかどうかの設定ができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_leader_skill_display-description-1",
+    "text": "リーダーのホロメンスキル発動中に表示される効果のON/OFFを設定することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_measure_line_display-description-1",
+    "text": "楽曲の小節線の表示を設定することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_rhythm_support-description-1",
+    "text": "8分音符のタイミングに合わないリズムのノーツ色の変更を設定できます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_screen_fps_setting-description-1",
+    "text": "ライブ中のフレームレートを選択することができます。\nフレームレートが高いほど画面の動きがより滑らかになりますが、端末によっては設定通りの表示にならない場合があります。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_screen_lock-description-1",
+    "text": "端末が傾いても画面が回転しなくなるよう設定できます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_simultaneous_press_line-description-1",
+    "text": "同じタイミングのノーツ同士をつなぐ線の表示を設定することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_skill_effect_above_judgement_text-description-1",
+    "text": "PERFECTなどの判定文字の上に発動しているスキルのスコア上昇効果を表示することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_slideshow_switch_time-description-1",
+    "text": "ライブ背景をスライドショーにした場合の画像切り替えタイミングを設定します。\n\nこの数字を大きくするとゆっくり画像が切り替わり、数字を小さくすると早く画像が切り替わります。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_special_skill_background_display-description-1",
+    "text": "SPスキル発動中に表示される背景演出のON／OFFを設定できます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_special_skill_effect_display-description-1",
+    "text": "SPスキル発動中に表示される効果のON／OFFを設定できます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_special_skill_illustration_display-description-1",
+    "text": "SPスキル発動中に表示される発動メンバーのイラストおよびリーダーのLive2DのON／OFFを設定できます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_tap_effect-description-1",
+    "text": "ノーツをタップした際のエフェクト量を設定できます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_tap_vibration-description-1",
+    "text": "タップ時の端末の振動の強弱を設定できます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_key_config_lane-description-1",
+    "text": "ライブ中に使用する各レーンのキー割り当てを設定できます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_key_config_other-description-1",
+    "text": "ライブ中に使用するキーの割り当てを設定できます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_lane_bottom_cut-description-1",
+    "text": "レーンの下部をカットすることで、ノーツの流れ終わる位置を調整することができます。\n\nノーツ表示時間は、ノーツが表示されてから判定ラインに到達するまでの時間（ミリ秒）が、ノーツ表示時間として表示されます。\n\nレーン上部をカットしている場合、カットされた位置から判定ラインに到達するまでの時間となります。\n判定ラインより上の位置までレーン下部をカットしている場合は、その下部カットまでの時間が表示されます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_lane_setting-description-1",
+    "text": "ノーツをタップする判定ラインの高さを調整することができます。\n\n数字を大きくするほど、ラインの高さが上に上がります。"
+  },
+  {
+    "id": "la-tips-hint-live_option_lane_top_cut-description-1",
+    "text": "レーンの上部をカットすることで、ノーツの流れ始める位置を調整することができます。\n\nノーツ表示時間は、ノーツが表示されてから判定ラインに到達するまでの時間（ミリ秒）が、ノーツ表示時間として表示されます。\n\nレーン上部をカットしている場合、カットされた位置から判定ラインに到達するまでの時間となります。\n判定ラインより上の位置までレーン下部をカットしている場合は、その下部カットまでの時間が表示されます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_mirror_chart-description-1",
+    "text": "流れてくるノーツを左右反転することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_music_mv_setting-description-1",
+    "text": "MVのデータを端末に保存するかを設定することができます。\n\nONにしていても、一定の期間再生されなかった場合、容量節約のため自動的に削除されます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_music_timing_adjustment-description-1",
+    "text": "楽曲と流れるノーツのタイミングを調整することができます。\n\nFASTが多く出る場合はこの数字を大きく、SLOWが多く出る場合はこの数字を小さく調整してください。"
+  },
+  {
+    "id": "la-tips-hint-live_option_note_speed-description-1",
+    "text": "ノーツの流れる速さを設定できます。\n\n左右のボタンから、0.1や0.5刻みで調整することができます。\n数値部分をタップすることで、小数第2位の部分をさらに細かく調整することができます。\n\nノーツ表示時間は、ノーツが画面内で表示されている時間（ミリ秒）を表します。\nノーツの早さを変更したり、レーンの上部や下部をカットすることで、値が変更されます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_combo-description-1",
+    "text": "コンボ文字のスキンをホロメンモチーフのデザインに変更することができます。\n\nスキンは、各ホロメンのメンバーシップ内の交換所で交換することで使用可能になります。"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_header-description-1",
+    "text": "ヘッダーのスキンをホロメンモチーフのデザインに変更することができます。\n\nスキンは、各ホロメンのメンバーシップ内の交換所で交換することで使用可能になります。"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_judgement_text-description-1",
+    "text": "判定文字のスキンをホロメンモチーフのデザインに変更することができます。\n\nスキンは、各ホロメンのメンバーシップ内の交換所で交換することで使用可能になります。"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_lane-description-1",
+    "text": "レーンのスキンをホロメンモチーフのデザインに変更することができます。\n\nスキンは、各ホロメンのメンバーシップ内の交換所で交換することで使用可能になります。"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_normal_background_customize-description-1",
+    "text": "通常背景を選択時に使用する背景を設定することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_note-description-1",
+    "text": "ノーツのデザインを変更することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_tap_effect_type-description-1",
+    "text": "タップエフェクトのスキンを変更することができます。\n\nエフェクトタイプとエフェクトモチーフを設定できます。\nエフェクトモチーフはホロメンのモチーフを選ぶこともできます。\n\nスキンは、各ホロメンのメンバーシップ内の交換所で交換することで使用可能になります。"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_effect-description-1",
+    "text": "SEの音量を調整することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_music-description-1",
+    "text": "楽曲の音量を調整することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_skill_se-description-1",
+    "text": "スキルSEのON/OFFを設定することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_skill_voice-description-1",
+    "text": "各種スキルボイスのON/OFFを設定することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_tap-description-1",
+    "text": "ノーツをタップしたときの音を変更することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_voice_sound-description-1",
+    "text": "ボイスの音量を調整することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_timing_adjustment-description-1",
+    "text": "ノーツの判定タイミングを調整することができます。\n\nFASTが多く出る場合はこの数字を大きく、SLOWが多く出る場合はこの数字を小さく調整してください。"
+  },
+  {
+    "id": "la-tips-hint-live_reward_up_stamina-description-1",
+    "text": "ライブブーストはライブ開始前に設定できます。\n消費するライブブーストが多いほど、ライブクリア時の獲得できる報酬とメンバーEXPがアップします。\n※ライブブーストはライブクリア時に消費されます。途中でライブを終了した場合は消費されません。\n\nライブブーストは45分ごとに1回復し、最大10まで回復します。\nまた、ライブブーストドリンクやダイヤでも回復できます。"
+  },
+  {
+    "id": "la-tips-hint-live_skill_tree_released-description-1",
+    "text": "リーダーのホロメンボードを解放して、ユニットスコアを上げよう！\n\n<color=#ff3bc8>リーダータイプの赤いマス</color>から解放するのがオススメだよ！"
+  },
+  {
+    "id": "la-tips-hint-marathon_mission-description-1",
+    "text": "<color=#ff3bc8>スコアチャレンジイベント</color>は、イベント課題曲に挑戦してハイスコアを目指すイベントだよ！\n\nハイスコアのランキングに入賞したり、期間中にライブやミニゲームをプレイすると、イベントバッジを獲得できるよ！\n\nイベントバッジを集めると交換所でイベントメモリーなどのアイテムと交換できるよ！\n\nイベント課題曲はイベントごとに複数あるから、楽曲選択画面でチェックしてね！"
+  },
+  {
+    "id": "la-tips-hint-marathon_mission-description-2",
+    "text": "<color=#ff3bc8>合計ハイスコアランキング</color>は、イベント課題曲の期間限定スコアを合計した値に応じたランキングだよ！\n\nランキングに入賞すると、イベント限定称号などの報酬を獲得できるよ！\n\n※イベント課題曲では、イベント期間限定スコアと通常のスコアのどちらも保存されます。\n\n※詳細は［イベント］→［ランキング］→［合計ハイスコアランキング］をご確認ください。"
+  },
+  {
+    "id": "la-tips-hint-marathon_mission-description-3",
+    "text": "イベント課題曲ごとに、<color=#ff3bc8>期間限定スコアを競うハイスコアランキング</color>もあるよ！\n\nランキングに入賞すると、イベント限定称号を獲得できるよ！\n\n※詳細は［イベント］→［ランキング］→［ハイスコアランキング］をご確認ください。"
+  },
+  {
+    "id": "la-tips-hint-marathon_mission-description-4",
+    "text": "<color=#ff3bc8>イベントボーナス</color>を活用すると、より高いスコアを獲得できるよ！\n\nイベントボーナスには、ボーナス対象のメンバーを編成してイベント課題曲に挑戦すると、期間限定スコアがアップする<color=#ff3bc8>スコアボーナス</color>があるよ！\n\nスコアボーナスの対象のメンバーは、イベント課題曲ごとに変わるよ！\n\n※詳細は［イベント］→［イベントボーナス］をご確認ください。"
+  },
+  {
+    "id": "la-tips-hint-marathon_mission-description-5",
+    "text": "<color=#ff3bc8>イベントボーナス</color>を活用して、より多くのイベントPtとイベントバッジを獲得しよう！\n\nイベントボーナスには、ライブのイベントPtとイベントバッジの獲得量がアップする<color=#ff3bc8>獲得ボーナス</color>もあるよ！\n\n獲得ボーナスには3種類あるよ！\n\n▼メンバーボーナス\n・対象のメンバーを編成してライブに挑戦すると獲得量アップ\n\n▼ホロメンボーナス\n・対象のホロメンのメンバーを編成してライブに挑戦すると獲得量アップ\n\n▼開花ボーナス\n・編成したメンバーの開花状況に応じて、ライブ挑戦時の獲得量アップ\n\nまた、イベントボーナスにはミニゲームのイベントPtとイベントバッジの獲得量がアップするボーナスもあるよ！\n\n▼ミニゲームボーナス\n・対象のミニゲームに挑戦すると獲得量アップ\n\n▼メンバーボーナス\n・対象のメンバーを所持しているだけで獲得量アップ\n\n※詳細は［イベント］→［イベントボーナス］をご確認ください。"
+  },
+  {
+    "id": "la-tips-hint-marathon_mission-description-6",
+    "text": "イベントPtとイベントバッジの獲得量は、<color=#ff3bc8>スコアが高いほどアップ</color>するよ！\n\n▼イベントPt・イベントバッジ獲得について\n・オートライブでも獲得可能\n・消費するライブブーストが多いほど、獲得量アップ\n・プレイした楽曲の長さに応じて獲得量アップ"
+  },
+  {
+    "id": "la-tips-hint-marathon_nomal-description-1",
+    "text": "<color=#ff3bc8>ポイントラリーイベント</color>では、期間中にライブやミニゲームをプレイするとイベントPtとイベントバッジを獲得できるよ！\n\nイベントPtを集めると、イベントストーリーを視聴できるよ！\n\nまた、イベントバッジを集めると交換所でイベントメモリーなどのアイテムと交換できるよ！"
+  },
+  {
+    "id": "la-tips-hint-marathon_nomal-description-2",
+    "text": "<color=#ff3bc8>イベントPtランキング</color>は、獲得イベントPtの累計値に応じたランキングだよ！\n\nランキングに入賞すると、イベント限定称号などの報酬を獲得できるよ！\n\n※詳細は［イベント］→［ランキング］→［イベントPtランキング］をご確認ください。"
+  },
+  {
+    "id": "la-tips-hint-marathon_nomal-description-3",
+    "text": "イベントPtとイベントバッジの獲得量は、<color=#ff3bc8>スコアが高いほどアップ</color>するよ！\n\n▼イベントPt・イベントバッジ獲得について\n・オートライブでも獲得可能\n・消費するライブブーストが多いほど、獲得量アップ\n・プレイした楽曲の長さに応じて獲得量アップ"
+  },
+  {
+    "id": "la-tips-hint-marathon_nomal-description-4",
+    "text": "<color=#ff3bc8>イベントボーナス</color>を活用して、より多くのイベントPtとイベントバッジを獲得しよう！\n\nイベントボーナスには、ライブのイベントPtとイベントバッジの獲得量がアップする<color=#ff3bc8>獲得ボーナス</color>があるよ！\n\n獲得ボーナスには3種類あるよ！\n\n▼メンバーボーナス\n・対象のメンバーを編成してライブに挑戦すると獲得量アップ\n\n▼ホロメンボーナス\n・対象のホロメンのメンバーを編成してライブに挑戦すると獲得量アップ\n\n▼開花ボーナス\n・編成したメンバーの開花状況に応じて、ライブ挑戦時の獲得量アップ\n\nまた、イベントボーナスにはミニゲームのイベントPtとイベントバッジの獲得量がアップするボーナスもあるよ！\n\n▼ミニゲームボーナス\n・対象のミニゲームに挑戦すると獲得量アップ\n\n▼メンバーボーナス\n・対象のメンバーを所持しているだけで獲得量アップ\n\n※詳細は［イベント］→［イベントボーナス］をご確認ください。"
+  },
+  {
+    "id": "la-tips-hint-marathon_nomal-description-5",
+    "text": "イベントボーナスを活用すると、スコアをアップさせることもできるよ！\n\nイベントボーナスには、ボーナス対象のメンバーを編成してイベント課題曲に挑戦すると、期間限定スコアがアップする<color=#ff3bc8>スコアボーナス</color>もあるよ！\n\nスコアボーナスの対象のメンバーは、イベント課題曲ごとに変わるよ！\nイベント課題曲はイベントごとに複数あるよ！\n\n※詳細は［イベント］→［イベントボーナス］をご確認ください。"
+  },
+  {
+    "id": "la-tips-hint-marathon_nomal-description-6",
+    "text": "イベント課題曲ごとに、<color=#ff3bc8>期間限定スコアを競うハイスコアランキング</color>もあるよ！\n\nランキングに入賞すると、イベント限定称号を獲得できるよ！\n\n※イベント課題曲では、イベント期間限定スコアと通常のスコアのどちらも保存されます。\n\n※詳細は［イベント］→［ランキング］→［ハイスコアランキング］をご確認ください。"
+  },
+  {
+    "id": "la-tips-hint-marathon_relay-description-1",
+    "text": "<color=#ff3bc8>スポットライトイベント</color>は、一人ひとりのホロメンのチャプターに分かれて進行するよ！\n\nライブやミニゲームをプレイすると、チャプター期間ごとにイベントPtとイベントバッジを獲得できるよ！\n\n各チャプターのイベントPtを集めて、チャプターごとのストーリーを視聴しよう！\n\nまた、各チャプターのイベントバッジごとに、交換所でイベントメモリーなどのアイテムと交換できるよ！"
+  },
+  {
+    "id": "la-tips-hint-marathon_relay-description-2",
+    "text": "各チャプターごとに開催される<color=#ff3bc8>イベントPtランキング</color>は、チャプター期間中に獲得したイベントPtの累計値に応じたランキングだよ！\n\nランキングに入賞すると、イベント限定称号などの報酬を獲得できるよ！\n\n※詳細は［イベント］→［ランキング］→［イベントPtランキング］をご確認ください。"
+  },
+  {
+    "id": "la-tips-hint-marathon_relay-description-3",
+    "text": "イベントPtとイベントバッジの獲得量は、<color=#ff3bc8>スコアが高いほどアップ</color>するよ！\n\n▼イベントPt・イベントバッジ獲得について\n・オートライブでも獲得可能\n・消費するライブブーストが多いほど、獲得量アップ\n・プレイした楽曲の長さに応じて獲得量アップ"
+  },
+  {
+    "id": "la-tips-hint-marathon_relay-description-4",
+    "text": "<color=#ff3bc8>イベントボーナス</color>を活用して、より多くのイベントPtとイベントバッジを獲得しよう！\n\nスポットライトイベントでは、チャプターごとにイベントボーナスの対象が変わるよ！\n\nイベントボーナスには、ライブのイベントPtとイベントバッジの獲得量がアップする<color=#ff3bc8>獲得ボーナス</color>があるよ！\n\n獲得ボーナスには3種類あるよ！\n\n▼メンバーボーナス\n・対象のメンバーを編成してライブに挑戦すると獲得量アップ\n\n▼ホロメンボーナス\n・対象のホロメンのメンバーを編成してライブに挑戦すると獲得量アップ\n\n▼開花ボーナス\n・編成したメンバーの開花状況に応じて、ライブ挑戦時の獲得量アップ\n\nまた、イベントボーナスにはミニゲームのイベントPtとイベントバッジの獲得量がアップするボーナスもあるよ！\n\n▼ミニゲームボーナス\n・対象のミニゲームに挑戦すると獲得量アップ\n\n▼メンバーボーナス\n・対象のメンバーを所持しているだけで獲得量アップ\n\n※詳細は［イベント］→［イベントボーナス］をご確認ください。"
+  },
+  {
+    "id": "la-tips-hint-marathon_relay-description-5",
+    "text": "イベントボーナスを活用すると、スコアをアップさせることもできるよ！\n\nイベントボーナスには、ボーナス対象のメンバーを編成してイベント課題曲に挑戦すると、期間限定スコアがアップする<color=#ff3bc8>スコアボーナス</color>もあるよ！\n\nスコアボーナスの対象のメンバーは、イベント課題曲ごとに変わるよ！\nイベント課題曲はチャプターごとに変わるよ！\n\n※詳細は［イベント］→［イベントボーナス］をご確認ください。"
+  },
+  {
+    "id": "la-tips-hint-marathon_relay-description-6",
+    "text": "各チャプターごとに、<color=#ff3bc8>期間限定スコアを競うハイスコアランキング</color>もあるよ！\n\nランキングに入賞すると、イベント限定称号を獲得できるよ！\n\nランキング対象のイベント課題曲は、楽曲選択画面でチェックしてね！\n\n※イベント課題曲では、イベント期間限定スコアと通常のスコアのどちらも保存されます。\n\n※詳細は［イベント］→［ランキング］→［ハイスコアランキング］をご確認ください。"
+  },
+  {
+    "id": "la-tips-hint-mini_game_reward_up_stamina-description-1",
+    "text": "一部のミニゲームでは、開始前にミニゲームブーストを設定できます。\n消費するミニゲームブーストが多いほど、リザルトで獲得できる報酬がアップします。\n※ミニゲームブーストはリザルト時に消費されます。\n\nミニゲームブーストは7分ごとに1回復し、最大100まで回復します。\nまた、ミニゲームブーストゼリーは、ミニゲームブーストに変換できます。\nミニゲームブーストゼリーによる変換は、最大999まで可能です。\n※変換後に999を超える場合は変換できません。"
+  },
+  {
+    "id": "la-tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up-description-1",
+    "text": "<color=#ff3bc8>メンバーを20レベル以上にすると、ユニットスコアをアップさせるメンバー強化ボーナスを獲得</color>できるよ！\n\nたくさんのメンバーをレベルアップさせて、ユニットを強化しよう！"
+  },
+  {
+    "id": "la-tips-instant_tips-present-facerock-2-description-1",
+    "text": "<color=#ff3bc8>1日1回、フェイスマウンテンで0期生からプレゼント</color>をもらえるよ！"
+  },
+  {
+    "id": "la-tips-instant_tips-present-prison-2-description-1",
+    "text": "<color=#ff3bc8>1日1回、The Cell リターンズ前でAdventからプレゼント</color>をもらえるよ！"
+  },
+  {
+    "id": "la-tips-instant_tips-random_reward-livehouse-2-description-1",
+    "text": "ReGLOSSによって隠しトレジャーのお宝の種類が増えたよ！\n\n<color=#ff3bc8>お宝は毎日いろんな場所に隠されてる</color>から探してみよう！"
+  },
+  {
+    "id": "la-tips-jump-rope-description-1",
+    "text": "ホッピン・ロープは、<color=#ff3bc8>ドタバタグラウンドでいつでも遊べる</color>よ！"
+  },
+  {
+    "id": "la-tips-jump-rope-description-2",
+    "text": "ホッピン・ロープでは、<color=#ff3bc8>3種類のモードで遊べる</color>よ！\n\n▼モード\n・EASY：他のホロメンより長く跳ぶとクリア\n・NORMAL：他のホロメンより長く跳ぶとクリア\n・SCORE ATTACK：ベストスコアを目指してチャレンジ\n\n※NORMALとSCORE ATTACKの解放条件は各モードをタップして確認できます。"
+  },
+  {
+    "id": "la-tips-jump-rope-description-3",
+    "text": "ランキングには、<color=#ff3bc8>スコアアタックモードのベストスコア</color>が記録されるよ！\n\n※ベストスコアが同じ場合、順位は先着順となります。"
+  },
+  {
+    "id": "la-tips-jump-rope-quest-description-1",
+    "text": "<color=#ff3bc8>回ってくる大縄に当たらないようにタイミングよくジャンプ</color>しよう！\n\n<color=#ff3bc8>ライフは3つ！</color>0になるとゲームオーバーだから気をつけよう！"
+  },
+  {
+    "id": "la-tips-jump-rope-quest-description-2",
+    "text": "<color=#ff3bc8>大縄の速度や回し方が変わったり、画面が遮られたり</color>するから気を付けて！\n\n大縄を回しているホロメンに注目しよう！"
+  },
+  {
+    "id": "la-tips-jump-rope-quest-description-3",
+    "text": "<color=#ff3bc8>跳んだ回数に応じて報酬を獲得</color>できるよ！\n\nたくさん跳んで、報酬を手に入れよう！"
+  },
+  {
+    "id": "la-tips-jump-rope-quest-description-4",
+    "text": "▼操作方法\nジャンプ：<color=#ff3bc8>タップするとホロメンがジャンプ</color>\n\n※ジャンプを押してすぐに離すと素早くジャンプできます。"
+  },
+  {
+    "id": "la-tips-live-description-1",
+    "text": "ユニットは<color=#ff3bc8>リーダーと5人のメンバーの構成</color>になっているよ！\n\nユニットスコアはリーダーの衣装スキル、メンバーのパラメータ・スキルなどで決定されるよ！"
+  },
+  {
+    "id": "la-tips-lottery-area02-scratch-description-1",
+    "text": "ロトリー・ちゃまちゃマックスでは、様々な商品がもらえるスクラッチができるよ！\n\n<color=#ff3bc8>スクラッチは1日1回</color>チャレンジできるよ！"
+  },
+  {
+    "id": "la-tips-mission-pass-description-1",
+    "text": "ミッションパスは、<color=#ff3bc8>レベルを上げると様々な報酬を獲得できる</color>よ！"
+  },
+  {
+    "id": "la-tips-mission-pass-description-2",
+    "text": "<color=#ff3bc8>ミッションを達成してミッションPtを集めよう！</color>\n一定量たまると、レベルがアップするよ！"
+  },
+  {
+    "id": "la-tips-mission-pass-description-3",
+    "text": "ミッションパスの期間が終了すると、<color=#ff3bc8>ミッションパスPtとレベルはリセット</color>されるから注意しよう！\n\n期間終了時、未受け取りの報酬はギフトに送られるよ！"
+  },
+  {
+    "id": "la-tips-multi-game-description-1",
+    "text": "フォーチュンネットワークで、マルチプレイに参加してみよう！\n\n<color=#ff3bc8>他のプレイヤーと一緒にライブ、ミニゲームを遊ぶことができる</color>よ！"
+  },
+  {
+    "id": "la-tips-multi-game-description-2",
+    "text": "ライブのマルチプレイは、<color=#ff3bc8>誰でも参加可能なフリーモード</color>と<color=#ff3bc8>特定のユニットスコア以上の人が参加できるグレードモード</color>の２種類があるよ！\n\n友達と遊びたい場合は「ルーム作成」からルームを作成し、表示されたIDを友達に共有して遊ぼう！"
+  },
+  {
+    "id": "la-tips-multi-game-description-3",
+    "text": "ライブのマルチプレイは、<color=#ff3bc8>最大5人</color>で遊ぶことができるよ！\n\n遊ぶ楽曲は、<color=#ff3bc8>プレイヤーそれぞれが選択した楽曲の中から抽選</color>で決まるよ！\n\n難易度は各プレイヤーそれぞれ自由に選択できるよ！"
+  },
+  {
+    "id": "la-tips-multi-game-description-4",
+    "text": "ライブのマルチプレイでは、<color=#ff3bc8>フィーバー突入で獲得スコアがアップ</color>するよ！\n\n参加プレイヤー全員で<color=#ff3bc8>フィーバーゲージをためるとフィーバーに突入</color>するよ！"
+  },
+  {
+    "id": "la-tips-multi-game-description-5",
+    "text": "ライブのマルチプレイのスコアランクは、<color=#ff3bc8>全員のスコアの合計で決まる</color>よ！"
+  },
+  {
+    "id": "la-tips-multi-game-description-6",
+    "text": "ミニゲームのマルチプレイは<color=#ff3bc8>誰でも参加可能なフリーモード</color>があるよ！\n\n友達と遊びたい場合は「ルーム作成」からルームを作成し、表示されたIDを友達に共有して遊ぼう！"
+  },
+  {
+    "id": "la-tips-multi-game-description-7",
+    "text": "各ミニゲームの遊び方は、<color=#ff3bc8>ミニゲーム選択画面にある「？」をタップして確認できる</color>よ！"
+  },
+  {
+    "id": "la-tips-multi-live-description-1",
+    "text": "ライブのマルチプレイは、<color=#ff3bc8>誰でも参加可能なフリーモード</color>と<color=#ff3bc8>特定のユニットスコア以上の人が参加できるグレードモード</color>の２種類があるよ！\n\n友達と遊びたい場合は「ルーム作成」からルームを作成し、表示されたIDを友達に共有して遊ぼう！"
+  },
+  {
+    "id": "la-tips-multi-live-description-2",
+    "text": "ライブのマルチプレイは、<color=#ff3bc8>最大5人</color>で遊ぶことができるよ！\n\n遊ぶ楽曲は、<color=#ff3bc8>プレイヤーそれぞれが選択した楽曲の中から抽選</color>で決まるよ！\n\n難易度は各プレイヤーそれぞれ自由に選択できるよ！"
+  },
+  {
+    "id": "la-tips-multi-live-description-3",
+    "text": "ライブのマルチプレイでは、<color=#ff3bc8>フィーバー突入で獲得スコアがアップ</color>するよ！\n\n参加プレイヤー全員で<color=#ff3bc8>フィーバーゲージをためるとフィーバーに突入</color>するよ！"
+  },
+  {
+    "id": "la-tips-multi-live-description-4",
+    "text": "ライブのマルチプレイのスコアランクは、<color=#ff3bc8>全員のスコアの合計で決まる</color>よ！"
+  },
+  {
+    "id": "la-tips-multi-mini_game-description-1",
+    "text": "ミニゲームのマルチプレイは<color=#ff3bc8>誰でも参加可能なフリーモード</color>があるよ！\n\n友達と遊びたい場合は「ルーム作成」からルームを作成し、表示されたIDを友達に共有して遊ぼう！"
+  },
+  {
+    "id": "la-tips-multi-mini_game-description-2",
+    "text": "各ミニゲームの遊び方は、<color=#ff3bc8>ミニゲーム選択画面にある「？」をタップして確認できる</color>よ！"
+  },
+  {
+    "id": "la-tips-music_highest_score_ranking-description-1",
+    "text": "スコアランキングは各楽曲のソロモードでのハイスコアによるランキングだよ！\n\n<color=#ff3bc8>難易度を問わず、その楽曲で獲得した一番高いスコアがハイスコア</color>として記録されるよ！\nスコアランキングのスコアが他のプレイヤーと同じ場合の順位は先着順となるよ！"
+  },
+  {
+    "id": "la-tips-music_highest_score_ranking-description-2",
+    "text": "ホロメンスコアレートは、<color=#ff3bc8>歌唱者をリーダーにしてプレイした際のハイスコア</color>をもとに算出されるよ！\n\n対象楽曲のうち、上位3曲のレートの合計が各ホロメンのスコアレートとして記録されるよ！\n\nまた、ホロメンスコアレートでは、毎週のランキング結果に応じてランキング称号が更新されるよ！\n\n※ランキング称号は集計時点の順位に応じて付与され、次の集計時点でランキング称号の対象順位外となった場合は称号が外れます。"
+  },
+  {
+    "id": "la-tips-operation-description-1",
+    "text": "▼操作方法\n・移動：<color=#ff3bc8>タッチ操作でホロメンが移動</color>\n\n・ジャンプ：<color=#ff3bc8>タップするとホロメンがジャンプ</color>"
+  },
+  {
+    "id": "la-tips-operation-description-2-pc",
+    "text": "▼操作方法\n・移動：<color=#ff3bc8>「W」「S」「A」「D」でホロメンが移動</color>\n\n・マウスカーソルの表示：<color=#ff3bc8>「Alt」を押すとマウスカーソルを表示</color>\n※マウスカーソルで各メニューを選択することができます。"
+  },
+  {
+    "id": "la-tips-park-character-shop-area01-balloon-description-1",
+    "text": "ルチュ・チュ・モビル15では、ホロメダルでフーセンを獲得できるよ！\n\n<color=#ff3bc8>ランダムで抽選される3つ</color>の中から好きなホロメンのものを選んでね！"
+  },
+  {
+    "id": "la-tips-park-character-shop-area01-balloon-description-2",
+    "text": "獲得したフーセンは、<color=#ff3bc8>持ち物メニューから持つことができる</color>よ！\n\n持ち物メニューは、左下の顔アイコンを選択して開くことができるよ！\n\n<color=#ff3bc8>セットのエモート</color>もあるから使ってみてね！"
+  },
+  {
+    "id": "la-tips-park-character-shop-area01-candy-description-1",
+    "text": "h3roビークルでは、ホロメダルでキャンディを獲得できるよ！\n\n<color=#ff3bc8>ランダムで抽選される3つ</color>の中から好きなホロメンのものを選んでね！"
+  },
+  {
+    "id": "la-tips-park-character-shop-area01-candy-description-2",
+    "text": "獲得したキャンディは、<color=#ff3bc8>持ち物メニューから持つことができる</color>よ！\n\n持ち物メニューは、左下の顔アイコンを選択して開けるよ！\n\n<color=#ff3bc8>セットのエモート</color>もあるから使ってみてね！"
+  },
+  {
+    "id": "la-tips-park-character-shop-area01-pen-light-description-1",
+    "text": "トコホロロでは、ホロメダルでペンライトを獲得できるよ！\n\n<color=#ff3bc8>ランダムで抽選される3つ</color>の中から好きなホロメンのものを選んでね！"
+  },
+  {
+    "id": "la-tips-park-character-shop-area01-pen-light-description-2",
+    "text": "獲得したペンライトは、<color=#ff3bc8>持ち物メニューから持つことができる</color>よ！\n\n持ち物メニューは、左下の顔アイコンを選択して開けるよ！\n\n<color=#ff3bc8>セットのエモート</color>もあるから使ってみてね！"
+  },
+  {
+    "id": "la-tips-park-character-shop-area02-hair-accessory-description-1",
+    "text": "シルクハットショップでは、ホロメダルでアクセサリ「うさみみシルクハット」を獲得できるよ！\n\n<color=#ff3bc8>ランダムで抽選される3つ</color>の中から好きなホロメンのものを選んでね！"
+  },
+  {
+    "id": "la-tips-park-character-shop-area02-hair-accessory-description-2",
+    "text": "獲得したうさみみシルクハットは、対象のホロメンに着用することができるよ！"
+  },
+  {
+    "id": "la-tips-park-high-low-area02-description-1",
+    "text": "カードオブグリードでは、<color=#ff3bc8>メガスフィアコイン（以降、コイン）をBETしてプレイするカードゲームが遊べる</color>よ！\n\n5枚の手札でポーカーの役を作り、役が成立した場合、ハイ&ローのダブルアップチャンスに挑戦できるよ！"
+  },
+  {
+    "id": "la-tips-park-high-low-area02-description-2",
+    "text": "ダブルアップチャンスでは、次に引くカードが前に引いたカードよりも、「たかい」か「ひくい」かを当ててね！\n\n▼カードの強さ\nA ＞ K ＞ Q ＞ J ＞ 10 ＞ 9 ＞ 8 ＞ 7 ＞ 6 ＞ 5 ＞ 4 ＞ 3 ＞ 2\n\n<color=#ff3bc8>ダブルアップチャンスに成功すると、獲得コインが倍</color>になるよ！"
+  },
+  {
+    "id": "la-tips-park-high-low-area02-description-3",
+    "text": "<color=#ff3bc8>ダブルアップチャンスに失敗してしまうと、獲得コインは0になってしまう</color>ので挑戦するか慎重に決めよう！\n\n引いたカードが同じ数字だった場合は引き直しになるよ！"
+  },
+  {
+    "id": "la-tips-park-high-low-area02-description-4",
+    "text": "ハイ＆ローでは、<color=#ff3bc8>1ゲームで獲得できるコインと、1日に獲得できるコインに上限がある</color>よ！\n\n▼ハイ＆ローのコイン獲得上限\n・1ゲームで獲得できるコイン：<color=#ff3bc8>10000枚まで</color>\n※1ゲームの獲得コインが10000枚を超えるとその時点でゲーム終了となります。\n※10000枚を超過した分のコインも獲得できます。\n\n・1日に獲得できるコイン：<color=#ff3bc8>20000枚まで</color>\n※1日の獲得コインが20000枚を超えると、その日はハイ＆ローをプレイできなくなります。翌日になると再びプレイできます。\n※20000枚を超過した分のコインも獲得できます。"
+  },
+  {
+    "id": "la-tips-park-lottery-area02-gachapon-description-1",
+    "text": "カプセルコングでは、メガスフィアコインを消費して様々なアイテムを獲得できるよ！\n\n<color=#ff3bc8>毎日3回まで引ける</color>よ！"
+  },
+  {
+    "id": "la-tips-park-print-booth-area02-description-1",
+    "text": "メガプリでは、1人で撮影したり、ホロメンと一緒に撮影することもできるよ！\n\n<color=#ff3bc8>撮影した写真は、画像として保存することができる</color>よ！"
+  },
+  {
+    "id": "la-tips-park-print-booth-area02-description-2",
+    "text": "撮影した写真は、<color=#ff3bc8>背景を変更したりスタンプを配置</color>したり、自由に編集できるよ！"
+  },
+  {
+    "id": "la-tips-park-select-area02-description-1",
+    "text": "メガスフィアのプレイエリア入り口前には切り替えレバーがあるよ！\n\n切り替えレバーで、<color=#ff3bc8>ゲームエリアとカジノエリアを切り替えることができる</color>よ！"
+  },
+  {
+    "id": "la-tips-park-time-period-description-1",
+    "text": "時間には<color=#ff3bc8>「朝」「夕方」「夜」</color>があり、ライブやミニゲームをプレイしたりすると、時間が経過するよ！\n\n<color=#ff3bc8>プロミスタワーでは自由に時間を変更</color>することができるよ！"
+  },
+  {
+    "id": "la-tips-park-time-period-description-2",
+    "text": "<color=#ff3bc8>時間帯によって発生するクエスト</color>もあるよ！\n\n時間を変更して新たなクエストを探してみよう！"
+  },
+  {
+    "id": "la-tips-poster-description-1",
+    "text": "<color=#ff3bc8>獲得したメンバーとメモリーはメモリースタンドに設定することができる</color>よ！\n\nお気に入りのメンバー、メモリーを設定してドリーム・パークを飾ろう！"
+  },
+  {
+    "id": "la-tips-poster-description-2",
+    "text": "<color=#ff3bc8>メモリーを集めると、ユニットパラメータがアップする</color>よ！"
+  },
+  {
+    "id": "la-tips-present-description-1",
+    "text": "<color=#ff3bc8>1日1回、ホロホームでホロメンからプレゼント</color>をもらえるよ！\n\nプレゼントをくれるホロメンは日によって変わるよ！"
+  },
+  {
+    "id": "la-tips-quest-daily-description-1",
+    "text": "デイリークエストは<color=#ff3bc8>毎日更新されるクエスト</color>だよ！\n\n日付が変わるとリセットされるから、また挑戦できるよ！"
+  },
+  {
+    "id": "la-tips-random_symbol-description-1",
+    "text": "holoXがドリーム・パークのあらゆるところにお宝を隠したみたいだよ！\n\n<color=#ff3bc8>お宝は毎日いろんな場所に隠されてる</color>から探してみよう！"
+  },
+  {
+    "id": "la-tips-retracable-gacha-description-1",
+    "text": "引き直しガチャは<color=#ff3bc8>何度でも引き直しできる</color>よ！\n\n<color=#ff3bc8>★5が1人、★4が1人、★3が3人</color>の重複なしの5人が出現するよ！\n\n※初回に出現する★5メンバーは、最初に選択したホロメンです。<color=#ff3bc8>引き直しを行うと、他の★5メンバーも抽選対象</color>になります。"
+  },
+  {
+    "id": "la-tips-rhythm-game-description-1",
+    "text": "青色の通常ノーツは<color=#ff3bc8>ラインに重なったタイミングに合わせてタップ！</color>\n\nタップ位置は少しずれてもOK！リズムを意識しよう！"
+  },
+  {
+    "id": "la-tips-rhythm-game-description-1-pc",
+    "text": "各レーンにはキーが割り当てられているよ！\n\n<color=#ff3bc8>ノーツが流れてきたら、対応するキーを押そう！</color>\n\n※ライブオプションでキーの割り当て設定ができます。"
+  },
+  {
+    "id": "la-tips-rhythm-game-description-2",
+    "text": "ピンク色のフリックノーツは<color=#ff3bc8>タイミングを合わせてフリック！</color>\n\nフリックは<color=#ff3bc8>どの方向に弾いてもOK！</color>\n\n連続でフリックノーツが来た時は、1回フリックをして指を離して再度フリックをしなくても、指を画面に押さえたまま連続でフリックすればOKだよ！"
+  },
+  {
+    "id": "la-tips-rhythm-game-description-2-pc",
+    "text": "ピンク色のフリックノーツはタイミングを合わせてフリック！\n\n<color=#ff3bc8>※Steam版は、キーボードのキーを押すだけで判定されます。</color>"
+  },
+  {
+    "id": "la-tips-rhythm-game-description-3",
+    "text": "緑色のロングノーツは<color=#ff3bc8>押し続けよう！</color>\n\nノーツが左右に動いたら、指も合わせてなぞろう！\n終点判定はないから、押しっぱなしでもOKだよ！"
+  },
+  {
+    "id": "la-tips-rhythm-game-description-4",
+    "text": "黄色のアクセントノーツは、<color=#ff3bc8>PERFECT判定が出やすい、タップ音がちょっと違うノーツ</color>だよ！"
+  },
+  {
+    "id": "la-tips-rhythm-game-description-5",
+    "text": "ライブオプションのリズムサポートをONにすると、<color=#ff3bc8>裏拍などのリズムの際の通常ノーツが灰色に変わって</color>、リズムのズレがわかりやすくなるよ！"
+  },
+  {
+    "id": "la-tips-skill-tree-description-1",
+    "text": "ホロメンボードはホロメンごとに用意されていて、<color=#ff3bc8>マスを解放することでライブやミニゲームなどで発揮される効果を獲得できる</color>よ！\n\n▼マスの種類\n・リーダータイプ（赤マス）：ライブユニットのリーダーに設定すると発揮する効果\n\n・メンバータイプ（青マス）：ライブユニットのメンバーに設定すると発揮する効果\n\n・サポートタイプ（黄/緑マス）：ライブユニットに編成していないときでも発揮する効果\n\n・コネクトマス：メンバーを配置すると、そのメンバーのコネクト効果を発揮"
+  },
+  {
+    "id": "la-tips-skill-tree-description-2",
+    "text": "マスを解放するために必要な<color=#ff3bc8>各種キューブは、交換所やホロワークなどで獲得できる</color>よ！\n\n<color=#ff3bc8>ホロメンボードPtは、ホロメンランクをアップさせるともらえる</color>よ！\n\nランクアップに必要なEXPは、各ホロメンのアチーブメント達成で集めよう！"
+  },
+  {
+    "id": "la-tips-story-description-1",
+    "text": "HOLOシネマズでは体験したストーリーの振り返りや、PVなどのスペシャル映像を観ることができるよ！"
+  },
+  {
+    "id": "la-tips-work-description-1",
+    "text": "ホロワークはメンバーを編成して開始できるよ！\n\n<color=#ff3bc8>指定された時間が経過すると、活動完了！報酬を受け取れる</color>よ！\n\n活動内容は、左上の更新時間が0になると更新されるよ！"
+  },
+  {
+    "id": "la-tips-work-description-2",
+    "text": "<color=#ff3bc8>編成メンバーの総合力が高いほど、活動完了時の評価が上がる</color>よ！\n報酬は活動評価が高いほど、豪華になるよ！\n\n各活動の絶好調なメンバーはパラメータがアップするよ！"
+  }
+]

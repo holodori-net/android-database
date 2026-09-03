@@ -1,0 +1,330 @@
+[
+  {
+    "id": "la-cd-cook-unlock_normal-description",
+    "text": "모아 쿠킹에서 EASY 모드를 클리어하면 개방됩니다"
+  },
+  {
+    "id": "la-cd-cook-unlock_score_attack-description",
+    "text": "NORMAL 모드&구역 퀘스트 ｢산책&식사로 재충전♪｣을 클리어하면 개방할 수 있습니다"
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a01-exchangebooth-facility_item-unlock",
+    "text": "10월 이후 매달 초기화"
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
+    "text": "메인 퀘스트 ｢폭주! 메가 서킷!｣을 클리어하면 개방됩니다"
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup-description",
+    "text": "메인 퀘스트 ｢폭주! 메가 서킷!｣을 클리어하면 개방됩니다"
+  },
+  {
+    "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+    "text": "이름이 같은 아이템을 모두 교환해 개방"
+  },
+  {
+    "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description",
+    "text": "이름이 같은 아이템을 모두 교환하면 개방됩니다"
+  },
+  {
+    "id": "la-cd-facility-a01-exchangebooth-level-02",
+    "text": "네포라보 마트 본점 시설 Lv2"
+  },
+  {
+    "id": "la-cd-facility-a01-exchangebooth-level-03",
+    "text": "네포라보 마트 본점 시설 Lv3"
+  },
+  {
+    "id": "la-cd-facility-a01-exchangebooth-level-04",
+    "text": "네포라보 마트 본점 시설 Lv4"
+  },
+  {
+    "id": "la-cd-facility-a01-exchangebooth-level-05",
+    "text": "네포라보 마트 본점 시설 Lv5"
+  },
+  {
+    "id": "la-cd-facility-a01-station-level-02",
+    "text": "게이머즈 스테이션 시설 Lv2"
+  },
+  {
+    "id": "la-cd-facility-a01-station-level-03",
+    "text": "게이머즈 스테이션 시설 Lv3"
+  },
+  {
+    "id": "la-cd-facility-a01-station-level-04",
+    "text": "게이머즈 스테이션 시설 Lv4"
+  },
+  {
+    "id": "la-cd-facility-a01-station-level-05",
+    "text": "게이머즈 스테이션 시설 Lv5"
+  },
+  {
+    "id": "la-cd-jump_rope-unlock_normal-description",
+    "text": "줄넘기에서 EASY 모드를 클리어하면 개방됩니다"
+  },
+  {
+    "id": "la-cd-jump_rope-unlock_score_attack-description",
+    "text": "NORMAL 모드&구역 퀘스트 ｢목표는 1만 회?｣를 클리어하면 개방할 수 있습니다"
+  },
+  {
+    "id": "la-cd-marathon_event",
+    "text": "메인 퀘스트 1장 4화 클리어 시 개방"
+  },
+  {
+    "id": "la-cd-perm-a01-chase",
+    "text": "어둠 속 추격"
+  },
+  {
+    "id": "la-cd-player_level-10",
+    "text": "드림 랭크 10 이상"
+  },
+  {
+    "id": "la-cd-player_level-15",
+    "text": "드림 랭크 15 이상"
+  },
+  {
+    "id": "la-cd-player_level-20",
+    "text": "드림 랭크 20 이상"
+  },
+  {
+    "id": "la-cd-player_level-25",
+    "text": "드림 랭크 25 이상"
+  },
+  {
+    "id": "la-cd-player_level-30",
+    "text": "드림 랭크 30 이상"
+  },
+  {
+    "id": "la-cd-player_level-35",
+    "text": "드림 랭크 35 이상"
+  },
+  {
+    "id": "la-cd-quest-area-a01-02-1-unlock",
+    "text": "줄넘기에서 NORMAL 모드를 클리어해 개방"
+  },
+  {
+    "id": "la-cd-quest-area-a01-02-1-unlock-description",
+    "text": "줄넘기에서 NORMAL 모드를 클리어해 개방"
+  },
+  {
+    "id": "la-cd-quest-area-a01-11-1-unlock",
+    "text": "지정 퀘스트를 클리어하자"
+  },
+  {
+    "id": "la-cd-quest-area-a01-11-1-unlock-description",
+    "text": "EP13을 클리어하면 개방됩니다"
+  },
+  {
+    "id": "la-cd-quest-area-a01-14-unlock",
+    "text": "밤까지 기다리자"
+  },
+  {
+    "id": "la-cd-quest-area-a01-14-unlock-description",
+    "text": "Promise 타워에서 시간을 변경할 수 있습니다"
+  },
+  {
+    "id": "la-cd-quest-area-a01-16-unlock",
+    "text": "저녁까지 기다리자"
+  },
+  {
+    "id": "la-cd-quest-area-a01-16-unlock-description",
+    "text": "Promise 타워에서 시간을 변경할 수 있습니다"
+  },
+  {
+    "id": "la-cd-quest-area-a01-23-unlock",
+    "text": "지정 퀘스트를 클리어하자"
+  },
+  {
+    "id": "la-cd-quest-area-a01-23-unlock-description",
+    "text": "메가 스피어의 메인 퀘스트 EP4를 클리어하면 개방할 수 있습니다"
+  },
+  {
+    "id": "la-cd-quest-area-a01-24-unlock",
+    "text": "지정 퀘스트를 클리어하자"
+  },
+  {
+    "id": "la-cd-quest-area-a01-24-unlock-description",
+    "text": "하모니 가든의 메인 퀘스트 EP24를 클리어하면 개방할 수 있습니다"
+  },
+  {
+    "id": "la-cd-quest-area-a01-25-unlock",
+    "text": "드림 랭크 32에 도달하면 개방할 수 있습니다"
+  },
+  {
+    "id": "la-cd-quest-area-a01-25-unlock-description",
+    "text": "퀘스트나 라이브를 플레이하자"
+  },
+  {
+    "id": "la-cd-quest-area-a01-26-unlock",
+    "text": "드림 랭크 35에 도달하면 개방할 수 있습니다"
+  },
+  {
+    "id": "la-cd-quest-area-a01-26-unlock-description",
+    "text": "퀘스트나 라이브를 플레이하자"
+  },
+  {
+    "id": "la-cd-quest-area-a01-27-unlock",
+    "text": "드림 랭크 33에 도달하면 개방할 수 있습니다"
+  },
+  {
+    "id": "la-cd-quest-area-a01-27-unlock-description",
+    "text": "퀘스트나 라이브를 플레이하자"
+  },
+  {
+    "id": "la-cd-quest-area-a01-28-unlock",
+    "text": "드림 랭크 35에 도달하면 개방할 수 있습니다"
+  },
+  {
+    "id": "la-cd-quest-area-a01-28-unlock-description",
+    "text": "퀘스트나 라이브를 플레이하자"
+  },
+  {
+    "id": "la-cd-quest-area-a01-29",
+    "text": "하모니 가든의 메인 퀘스트 EP24를 클리어하면 개방"
+  },
+  {
+    "id": "la-cd-quest-area-a01-29-description",
+    "text": "하모니 가든의 메인 퀘스트 EP24를 클리어하면 개방할 수 있습니다"
+  },
+  {
+    "id": "la-cd-quest-area-a02-08-unlock",
+    "text": "지정 퀘스트를 클리어하자"
+  },
+  {
+    "id": "la-cd-quest-area-a02-08-unlock-description",
+    "text": "구역 퀘스트 ｢스페셜한 두 사람｣을 클리어하면 개방할 수 있습니다"
+  },
+  {
+    "id": "la-cd-quest-area-a02-10-unlock",
+    "text": "드림 랭크 34에 도달하면 개방할 수 있습니다"
+  },
+  {
+    "id": "la-cd-quest-area-a02-10-unlock-description",
+    "text": "퀘스트나 라이브를 플레이하자"
+  },
+  {
+    "id": "la-cd-quest-area-a02-16-unlock",
+    "text": "드림 랭크 35에 도달하면 개방할 수 있습니다"
+  },
+  {
+    "id": "la-cd-quest-area-a02-16-unlock-description",
+    "text": "퀘스트나 라이브를 플레이하자"
+  },
+  {
+    "id": "la-cd-quest-main-w1-01-03-unlock",
+    "text": "Holo멤버 퀘스트를 클리어하자"
+  },
+  {
+    "id": "la-cd-quest-main-w1-01-06-unlock",
+    "text": "지정 퀘스트를 클리어하자"
+  },
+  {
+    "id": "la-cd-quest-main-w1-01-12-unlock",
+    "text": "드림 랭크 12에 도달하자"
+  },
+  {
+    "id": "la-cd-quest-main-w1-01-24-unlock",
+    "text": "드림 랭크 17에 도달하자"
+  },
+  {
+    "id": "la-cd-quest-main-w1-02-09-unlock",
+    "text": "드림 랭크 23에 도달하자"
+  },
+  {
+    "id": "la-cd-unit_score-105000",
+    "text": "최대 유닛 스코어 105000 이상"
+  },
+  {
+    "id": "la-cd-unit_score-115000",
+    "text": "최대 유닛 스코어 115000 이상"
+  },
+  {
+    "id": "la-cd-unit_score-125000",
+    "text": "최대 유닛 스코어 125000 이상"
+  },
+  {
+    "id": "la-cd-unit_score-130000",
+    "text": "최대 유닛 스코어 130000 이상"
+  },
+  {
+    "id": "la-cd-unit_score-150000",
+    "text": "최대 유닛 스코어 150000 이상"
+  },
+  {
+    "id": "la-cd-unit_score-45000",
+    "text": "최대 유닛 스코어 45000 이상"
+  },
+  {
+    "id": "la-cd-unit_score-60000",
+    "text": "최대 유닛 스코어 60000 이상"
+  },
+  {
+    "id": "la-cd-unit_score-65000",
+    "text": "최대 유닛 스코어 65000 이상"
+  },
+  {
+    "id": "la-cd-unit_score-80000",
+    "text": "최대 유닛 스코어 80000 이상"
+  },
+  {
+    "id": "la-cd-unit_score-95000",
+    "text": "최대 유닛 스코어 95000 이상"
+  },
+  {
+    "id": "la-cd-unlock-work_slot-2",
+    "text": "구역 퀘스트  ｢영혼의 응원｣를 진행하면 개방"
+  },
+  {
+    "id": "la-cd-unlock-work_slot-2-description",
+    "text": "구역 퀘스트  ｢영혼의 응원｣를 진행하면 개방"
+  },
+  {
+    "id": "la-locktest-cd-quest-area-a01-01",
+    "text": "메인 퀘스트 3화 클리어"
+  },
+  {
+    "id": "la-locktest-cd-quest-area-a01-02",
+    "text": "메인 퀘스트 3화 클리어"
+  },
+  {
+    "id": "la-locktest-cd-quest-area-a01-03",
+    "text": "메인 퀘스트 6화 클리어"
+  },
+  {
+    "id": "la-locktestdesc-cd-quest-area-a01-01",
+    "text": "메인 퀘스트를 진행하면 개방됩니다"
+  },
+  {
+    "id": "la-locktestdesc-cd-quest-area-a01-02",
+    "text": "메인 퀘스트를 진행하면 개방됩니다"
+  },
+  {
+    "id": "la-locktestdesc-cd-quest-area-a01-03",
+    "text": "메인 퀘스트를 진행하면 개방됩니다"
+  },
+  {
+    "id": "la-music_lock_description-m0301",
+    "text": "개방 조건: 메인 퀘스트 2장 클리어"
+  },
+  {
+    "id": "la-quest-main-w1-01-03-unlock-description",
+    "text": "holo멤버 퀘스트를 클리어하면 holo멤버가 개방됩니다"
+  },
+  {
+    "id": "la-quest-main-w1-01-06-unlock-description",
+    "text": "구역 퀘스트 ｢현재, 잠입 조사 중｣을 클리어하면 개방됩니다"
+  },
+  {
+    "id": "la-quest-main-w1-01-12-unlock-description",
+    "text": "구역 퀘스트나 Holo멤버 퀘스트에 도전하면\n드림 랭크를 올릴 수 있습니다"
+  },
+  {
+    "id": "la-quest-main-w1-01-24-unlock-description",
+    "text": "구역 퀘스트나 Holo멤버 퀘스트에 도전하면\n드림 랭크를 올릴 수 있습니다"
+  },
+  {
+    "id": "la-quest-main-w1-02-09-unlock-description",
+    "text": "구역 퀘스트나Holo멤버 퀘스트에 도전하면\n드림 랭크를 올릴 수 있습니다"
+  }
+]

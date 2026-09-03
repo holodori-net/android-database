@@ -1,0 +1,730 @@
+[
+  {
+    "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-150-live_skill_effect_target-all.1-description",
+    "text": "全員の全パラメータが15%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-200-live_skill_effect_target-all.1-description",
+    "text": "全員の全パラメータが20%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-300-live_skill_effect_target-all.1-description",
+    "text": "全員の全パラメータが30%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-350-live_skill_effect_target-all.1-description",
+    "text": "全員の全パラメータが35%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-400-live_skill_effect_target-all.1-description",
+    "text": "全員の全パラメータが40%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-450-live_skill_effect_target-all.1-description",
+    "text": "全員の全パラメータが45%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-all_parameter_up_permil_up-500-live_skill_effect_target-all.1-description",
+    "text": "全員の全パラメータが50%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-250-live_skill_effect_target-all.1-description",
+    "text": "全員のスコアサポート効果25%"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-500-live_skill_effect_target-all.1-description",
+    "text": "全員のスコアサポート効果50%"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-600-live_skill_effect_target-all.1-description",
+    "text": "全員のスコアサポート効果60%"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-1000-live_skill_effect_target-all.1-description",
+    "text": "全員のパフォーマンスが100%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-1200-live_skill_effect_target-all.1-description",
+    "text": "全員のパフォーマンスが120%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-1300-live_skill_effect_target-all.1-description",
+    "text": "全員のパフォーマンスが130%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-1350-live_skill_effect_target-all.1-description",
+    "text": "全員のパフォーマンスが135%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-800-live_skill_effect_target-all.1-description",
+    "text": "全員のパフォーマンスが80%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-1000-live_skill_effect_target-all.1-description",
+    "text": "全員のセンスが100%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-1200-live_skill_effect_target-all.1-description",
+    "text": "全員のセンスが120%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-1300-live_skill_effect_target-all.1-description",
+    "text": "全員のセンスが130%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-1350-live_skill_effect_target-all.1-description",
+    "text": "全員のセンスが135%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-800-live_skill_effect_target-all.1-description",
+    "text": "全員のセンスが80%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-1000-live_skill_effect_target-all.1-description",
+    "text": "全員のテクニックが100%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-1200-live_skill_effect_target-all.1-description",
+    "text": "全員のテクニックが120%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-1300-live_skill_effect_target-all.1-description",
+    "text": "全員のテクニックが130%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-1350-live_skill_effect_target-all.1-description",
+    "text": "全員のテクニックが135%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-800-live_skill_effect_target-all.1-description",
+    "text": "全員のテクニックが80%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-110-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人の全パラメータが11%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-150-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人の全パラメータが15%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-160-live_skill_effect_target-self.1-description",
+    "text": "自身の全パラメータが16%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-170-live_skill_effect_target-self.1-description",
+    "text": "自身の全パラメータが17%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-240-live_skill_effect_target-self.1-description",
+    "text": "自身の全パラメータが24%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-250-live_skill_effect_target-self.1-description",
+    "text": "自身の全パラメータが25%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-320-live_skill_effect_target-self.1-description",
+    "text": "自身の全パラメータが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-330-live_skill_effect_target-self.1-description",
+    "text": "自身の全パラメータが33%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-80-live_skill_effect_target-self.1-description",
+    "text": "自身の全パラメータが8%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-110-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のスコアサポート効果11%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-110-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のスコアサポート効果11%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-110-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のスコアサポート効果11%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-120-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+    "text": "ゲーマーズ2人のスコアサポート効果12%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-120-live_skill_effect_target-character_grouping-grp-gen_0-2.1-description",
+    "text": "0期生2人のスコアサポート効果12%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-120-live_skill_effect_target-character_grouping-grp-gen_2-2.1-description",
+    "text": "2期生2人のスコアサポート効果12%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-120-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+    "text": "3期生2人のスコアサポート効果12%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-120-live_skill_effect_target-character_grouping-grp-myth-2.1-description",
+    "text": "Myth2人のスコアサポート効果12%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-40-live_skill_effect_target-attribute-attribute_1-3.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]3人のスコアサポート効果4%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-40-live_skill_effect_target-attribute-attribute_2-3.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]3人のスコアサポート効果4%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-40-live_skill_effect_target-attribute-attribute_3-3.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]3人のスコアサポート効果4%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-attribute-attribute_1-3.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]3人のスコアサポート効果6%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-attribute-attribute_2-3.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]3人のスコアサポート効果6%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-attribute-attribute_3-3.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]3人のスコアサポート効果6%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+    "text": "Advent2人のスコアサポート効果6%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+    "text": "4期生2人のスコアサポート効果6%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-60-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2.1-description",
+    "text": "ID1期生2人のスコアサポート効果6%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-80-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のスコアサポート効果8%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-80-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のスコアサポート効果8%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-80-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のスコアサポート効果8%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+    "text": "Advent2人のスコアサポート効果9%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+    "text": "ゲーマーズ2人のスコアサポート効果9%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-gen_0-2.1-description",
+    "text": "0期生2人のスコアサポート効果9%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-gen_2-2.1-description",
+    "text": "2期生2人のスコアサポート効果9%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+    "text": "3期生2人のスコアサポート効果9%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+    "text": "4期生2人のスコアサポート効果9%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2.1-description",
+    "text": "ID1期生2人のスコアサポート効果9%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-90-live_skill_effect_target-character_grouping-grp-myth-2.1-description",
+    "text": "Myth2人のスコアサポート効果9%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-100-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のパフォーマンスが10%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-100-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のパフォーマンスが10%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-3.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]3人のパフォーマンスが14%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-140-live_skill_effect_target-attribute-attribute_2-3.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]3人のパフォーマンスが14%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-140-live_skill_effect_target-attribute-attribute_3-3.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]3人のパフォーマンスが14%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-200-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のパフォーマンスが20%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-200-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のパフォーマンスが20%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-200-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のパフォーマンスが20%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-210-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のパフォーマンスが21%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-230-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+    "text": "ゲーマーズ2人のパフォーマンスが23%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-230-live_skill_effect_target-character_grouping-grp-gen_0-2.1-description",
+    "text": "0期生2人のパフォーマンスが23%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-230-live_skill_effect_target-character_grouping-grp-holox-2.1-description",
+    "text": "holoX2人のパフォーマンスが23%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のパフォーマンスが30%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-300-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のパフォーマンスが30%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-300-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のパフォーマンスが30%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のパフォーマンスが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のパフォーマンスが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+    "text": "Advent2人のパフォーマンスが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+    "text": "ゲーマーズ2人のパフォーマンスが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+    "text": "1期生2人のパフォーマンスが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+    "text": "3期生2人のパフォーマンスが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+    "text": "4期生2人のパフォーマンスが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+    "text": "ゲーマーズ2人のパフォーマンスが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_0-2.1-description",
+    "text": "0期生2人のパフォーマンスが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+    "text": "1期生2人のパフォーマンスが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_2-2.1-description",
+    "text": "2期生2人のパフォーマンスが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-holox-2.1-description",
+    "text": "holoX2人のパフォーマンスが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+    "text": "ReGLOSS2人のパフォーマンスが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-410-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のパフォーマンスが41%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-410-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のパフォーマンスが41%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のパフォーマンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のパフォーマンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+    "text": "Advent2人のパフォーマンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
+    "text": "ゲーマーズ2人のパフォーマンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+    "text": "1期生2人のパフォーマンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+    "text": "3期生2人のパフォーマンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+    "text": "4期生2人のパフォーマンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+    "text": "1期生2人のパフォーマンスが45%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-character_grouping-grp-gen_2-2.1-description",
+    "text": "2期生2人のパフォーマンスが45%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+    "text": "ReGLOSS2人のパフォーマンスが45%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-70-live_skill_effect_target-attribute-attribute_1-3.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]3人のパフォーマンスが7%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-70-live_skill_effect_target-attribute-attribute_2-3.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]3人のパフォーマンスが7%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-70-live_skill_effect_target-attribute-attribute_3-3.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]3人のパフォーマンスが7%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-100-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のセンスが10%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-100-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のセンスが10%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-100-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のセンスが10%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-3.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]3人のセンスが14%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-140-live_skill_effect_target-attribute-attribute_2-3.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]3人のセンスが14%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-140-live_skill_effect_target-attribute-attribute_3-3.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]3人のセンスが14%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-200-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のセンスが20%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-200-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のセンスが20%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-200-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のセンスが20%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-210-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のセンスが21%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-210-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のセンスが21%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-230-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+    "text": "Advent2人のセンスが23%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-230-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-2.1-description",
+    "text": "ID2期生2人のセンスが23%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-230-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2.1-description",
+    "text": "ID3期生2人のセンスが23%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-230-live_skill_effect_target-character_grouping-grp-myth-2.1-description",
+    "text": "Myth2人のセンスが23%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のセンスが30%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-300-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のセンスが30%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-300-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のセンスが30%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のセンスが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のセンスが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のセンスが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_0-2.1-description",
+    "text": "0期生2人のセンスが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+    "text": "1期生2人のセンスが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-character_grouping-grp-myth-2.1-description",
+    "text": "Myth2人のセンスが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+    "text": "ReGLOSS2人のセンスが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-advent-2.1-description",
+    "text": "Advent2人のセンスが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+    "text": "4期生2人のセンスが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2.1-description",
+    "text": "ID1期生2人のセンスが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-2.1-description",
+    "text": "ID2期生2人のセンスが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2.1-description",
+    "text": "ID3期生2人のセンスが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-340-live_skill_effect_target-character_grouping-grp-myth-2.1-description",
+    "text": "Myth2人のセンスが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-410-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のセンスが41%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のセンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のセンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のセンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_0-2.1-description",
+    "text": "0期生2人のセンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
+    "text": "1期生2人のセンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-character_grouping-grp-myth-2.1-description",
+    "text": "Myth2人のセンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+    "text": "ReGLOSS2人のセンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-450-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+    "text": "4期生2人のセンスが45%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-450-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2.1-description",
+    "text": "ID1期生2人のセンスが45%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-70-live_skill_effect_target-attribute-attribute_1-3.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]3人のセンスが7%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-70-live_skill_effect_target-attribute-attribute_2-3.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]3人のセンスが7%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-70-live_skill_effect_target-attribute-attribute_3-3.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]3人のセンスが7%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-100-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のテクニックが10%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-100-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のテクニックが10%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-100-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のテクニックが10%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-3.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]3人のテクニックが14%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-140-live_skill_effect_target-attribute-attribute_2-3.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]3人のテクニックが14%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-140-live_skill_effect_target-attribute-attribute_3-3.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]3人のテクニックが14%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-200-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のテクニックが20%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-200-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のテクニックが20%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-200-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のテクニックが20%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-210-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のテクニックが21%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-210-live_skill_effect_target-character_grouping-grp-promise-2.1-description",
+    "text": "Promise2人のテクニックが21%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+    "text": "3期生2人のテクニックが23%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-character_grouping-grp-gen_5-2.1-description",
+    "text": "5期生2人のテクニックが23%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+    "text": "ReGLOSS2人のテクニックが23%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のテクニックが30%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のテクニックが30%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のテクニックが30%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のテクニックが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のテクニックが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+    "text": "4期生2人のテクニックが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-character_grouping-grp-promise-2.1-description",
+    "text": "Promise2人のテクニックが32%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
+    "text": "3期生2人のテクニックが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_5-2.1-description",
+    "text": "5期生2人のテクニックが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-character_grouping-grp-regloss-2.1-description",
+    "text": "ReGLOSS2人のテクニックが34%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-410-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のテクニックが41%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-410-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のテクニックが41%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-410-live_skill_effect_target-attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人のテクニックが41%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人のテクニックが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_4-2.1-description",
+    "text": "4期生2人のテクニックが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-character_grouping-grp-promise-2.1-description",
+    "text": "Promise2人のテクニックが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-70-live_skill_effect_target-attribute-attribute_1-3.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]3人のテクニックが7%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-70-live_skill_effect_target-attribute-attribute_2-3.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]3人のテクニックが7%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-70-live_skill_effect_target-attribute-attribute_3-3.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]3人のテクニックが7%UP"
+  }
+]

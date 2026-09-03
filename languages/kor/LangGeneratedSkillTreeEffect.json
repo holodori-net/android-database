@@ -1,0 +1,486 @@
+[
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up-5-skill_tree_effect_target-all-always-description",
+    "text": " 전원의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": " [character]의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up-70-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+    "text": "Advent의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+    "text": "GAMERS의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+    "text": "0기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+    "text": "1기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+    "text": "3기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+    "text": "5기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+    "text": "holoX의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+    "text": "ReGLOSS의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+    "text": "Advent의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+    "text": "GAMERS의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+    "text": "0기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+    "text": "1기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+    "text": "2기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+    "text": "3기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+    "text": "4기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+    "text": "5기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+    "text": "holoX의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+    "text": "ID 1기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+    "text": "ID 2기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+    "text": "ID 3기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+    "text": "Myth의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+    "text": "Promise의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+    "text": "ReGLOSS의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-200-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+    "text": "1기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+    "text": "2기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+    "text": "4기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+    "text": "ID 1기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+    "text": "ID 2기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+    "text": "ID 3기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+    "text": "Myth의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+    "text": "Promise의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-300-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+    "text": "GAMERS의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+    "text": "Advent의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+    "text": "GAMERS의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+    "text": "0기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+    "text": "1기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+    "text": "3기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+    "text": "5기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+    "text": "holoX의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+    "text": "ReGLOSS의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+    "text": "2기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+    "text": "4기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+    "text": "ID 1기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+    "text": "ID 2기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+    "text": "ID 3기생의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+    "text": "Myth의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+    "text": "Promise의 전체 파라미터가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_permil_up-10-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 전체 파라미터가 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 전체 파라미터가 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-life_up-50-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 라이프가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-20-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": " [character]의 액티브 스킬 발동률이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-30-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": " [character]의 액티브 스킬 발동률이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-60-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": " [character]의 액티브 스킬 발동률이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_cool_time_shorten_permil_up-40-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": " [character]의 액티브 스킬 발동 빈도가 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+    "text": "[character](이)가 악곡 가창자로 포함되었을 때 전원의 스코어 서포트 효과 [value/10]%"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-20-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 스코어 서포트 효과 [value/10]%"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 스코어 서포트 효과 [value/10]%"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 스코어 서포트 효과 [value/10]%"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
+    "text": "holo멤버 스킬 습득\n20초마다 낮은 확률로  7초 동안 GOOD 이상이 PERFECT가 된다 "
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-life_recovery-description",
+    "text": "holo멤버 스킬 습득\n20초마다 중간 확률로 라이프가 100 회복 "
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_level_up-2-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
+    "text": "holo멤버 스킬 강화\n20초마다 중간 확률로  10초 동안 GOOD 이상이 PERFECT가 된다 "
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 라이브에서 획득한 멤버 Exp가 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-5-skill_tree_effect_target-all-always-description",
+    "text": " 라이브에서 획득한 멤버 Exp가 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 라이브에서 획득한 멤버 Exp가 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-item-item-gold-description",
+    "text": " 라이브에서 Holo골드 획득량이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-item-item-gold-description",
+    "text": " 라이브에서 Holo골드 획득량이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-item-item-gold-description",
+    "text": " 라이브에서 Holo골드 획득량이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-1-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description",
+    "text": "전체 악곡 플레이 시 스코어 보너스 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-10-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description",
+    "text": "[character](이)가 악곡 가창자에 포함되는 유닛 악곡 플레이 시 스코어 보너스 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description",
+    "text": "[character](이)가 악곡 가창자에 포함되는 유닛 악곡 플레이 시 스코어 보너스 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description",
+    "text": "[character](이)가 악곡 가창자인 솔로 악곡 플레이 시 스코어 보너스 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko-description",
+    "text": "악곡 가창자가 FUWAMOCO뿐인 악곡을 플레이 시 스코어 보너스 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description",
+    "text": "전체 악곡 플레이 시 스코어 보너스 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description",
+    "text": "[character](이)가 악곡 가창자인 솔로 악곡 플레이 시 스코어 보너스 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko-description",
+    "text": "악곡 가창자가 FUWAMOCO뿐인 악곡을 플레이 시 스코어 보너스 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-circuit-description",
+    "text": " 메가 서킷의  획득 보상량이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-combo_card_game-description",
+    "text": " 포카장!의  획득 보상량이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-cooking_puzzle-description",
+    "text": " 모아 쿠킹의  획득 보상량이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-jump_rope-description",
+    "text": " 줄넘기의  획득 보상량이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-chase-description",
+    "text": " 어둠 속 추격의  획득 보상량이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always-description",
+    "text": " 전원의 퍼포먼스가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up-100-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 퍼포먼스가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": " [character]의 퍼포먼스가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up-150-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 퍼포먼스가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": " [character]의 퍼포먼스가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up-5-skill_tree_effect_target-all-always-description",
+    "text": " 전원의 퍼포먼스가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+    "text": "[character](이)가 악곡 가창자로 포함되었을 때 전원의 퍼포먼스가 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 퍼포먼스가 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 퍼포먼스가 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": " [character]의 퍼포먼스가 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up-10-skill_tree_effect_target-all-always-description",
+    "text": " 전원의 센스가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up-100-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 센스가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": " [character]의 센스가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up-150-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 센스가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": " [character]의 센스가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up-5-skill_tree_effect_target-all-always-description",
+    "text": " 전원의 센스가 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+    "text": "[character](이)가 악곡 가창자로 포함되었을 때 전원의 센스가 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 센스가 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 센스가 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": " [character]의 센스가 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up-10-skill_tree_effect_target-all-always-description",
+    "text": " 전원의 테크닉이 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up-100-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 테크닉이 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": " [character]의 테크닉이 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up-150-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 테크닉이 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": " [character]의 테크닉이 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up-5-skill_tree_effect_target-all-always-description",
+    "text": " 전원의 테크닉이 [value] UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+    "text": "[character](이)가 악곡 가창자로 포함되었을 때 전원의 테크닉이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 테크닉이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " 전원의 테크닉이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": " [character]의 테크닉이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-30-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+    "text": " [character](을)를 holo워크 멤버 편성 시 발동\nholo워크에서 레슨 Pt 획득량이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1-description",
+    "text": "[character](을)를 Holo워크 멤버 편성 시 발동\nHolo워크 보상의 특훈 아이템 획득량이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1-description",
+    "text": "[character](을)를 Holo워크 멤버 편성 시 발동\nHolo워크 보상의 큐브 획득량이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-50-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+    "text": " [character](을)를 holo워크 멤버 편성 시 발동\nholo워크에서 레슨 Pt 획득량이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-60-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+    "text": " [character](을)를 holo워크 멤버 편성 시 발동\nholo워크에서 레슨 Pt 획득량이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1-description",
+    "text": "[character](을)를 Holo워크 멤버 편성 시 발동\nHolo워크 보상의 특훈 아이템 획득량이 [value/10]% UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1-description",
+    "text": "[character](을)를 Holo워크 멤버 편성 시 발동\nHolo워크 보상의 큐브 획득량이 [value/10]% UP"
+  }
+]

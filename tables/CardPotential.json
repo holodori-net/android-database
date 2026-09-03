@@ -1,0 +1,137 @@
+[
+  {
+    "group_id": "card_potential_grp-rarity_3",
+    "upgrade_count": 1,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_ACTIVE_SKILL_LEVEL_UP",
+      "number": 1
+    },
+    "value": "2"
+  },
+  {
+    "group_id": "card_potential_grp-rarity_3",
+    "upgrade_count": 2,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_ALL_PARAMETER_UP_PERMIL_UP",
+      "number": 4
+    },
+    "value": "50"
+  },
+  {
+    "group_id": "card_potential_grp-rarity_3",
+    "upgrade_count": 3,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_SPECIAL_SKILL_LEVEL_UP",
+      "number": 3
+    },
+    "value": "2"
+  },
+  {
+    "group_id": "card_potential_grp-rarity_3",
+    "upgrade_count": 4,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_PASSIVE_SKILL_LEVEL_UP",
+      "number": 2
+    },
+    "value": "2"
+  },
+  {
+    "group_id": "card_potential_grp-rarity_3",
+    "upgrade_count": 5,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_ALL_PARAMETER_UP_PERMIL_UP",
+      "number": 4
+    },
+    "value": "100"
+  },
+  {
+    "group_id": "card_potential_grp-rarity_4",
+    "upgrade_count": 1,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_ACTIVE_SKILL_LEVEL_UP",
+      "number": 1
+    },
+    "value": "2"
+  },
+  {
+    "group_id": "card_potential_grp-rarity_4",
+    "upgrade_count": 2,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_ALL_PARAMETER_UP_PERMIL_UP",
+      "number": 4
+    },
+    "value": "100"
+  },
+  {
+    "group_id": "card_potential_grp-rarity_4",
+    "upgrade_count": 3,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_SPECIAL_SKILL_LEVEL_UP",
+      "number": 3
+    },
+    "value": "2"
+  },
+  {
+    "group_id": "card_potential_grp-rarity_4",
+    "upgrade_count": 4,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_PASSIVE_SKILL_LEVEL_UP",
+      "number": 2
+    },
+    "value": "2"
+  },
+  {
+    "group_id": "card_potential_grp-rarity_4",
+    "upgrade_count": 5,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_SKILL_TREE_CONNECT_EFFECT_LEVEL_UP",
+      "number": 5
+    },
+    "value": "2"
+  },
+  {
+    "group_id": "card_potential_grp-rarity_5",
+    "upgrade_count": 1,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_ACTIVE_SKILL_LEVEL_UP",
+      "number": 1
+    },
+    "value": "2"
+  },
+  {
+    "group_id": "card_potential_grp-rarity_5",
+    "upgrade_count": 2,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_ALL_PARAMETER_UP_PERMIL_UP",
+      "number": 4
+    },
+    "value": "100"
+  },
+  {
+    "group_id": "card_potential_grp-rarity_5",
+    "upgrade_count": 3,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_SPECIAL_SKILL_LEVEL_UP",
+      "number": 3
+    },
+    "value": "2"
+  },
+  {
+    "group_id": "card_potential_grp-rarity_5",
+    "upgrade_count": 4,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_PASSIVE_SKILL_LEVEL_UP",
+      "number": 2
+    },
+    "value": "2"
+  },
+  {
+    "group_id": "card_potential_grp-rarity_5",
+    "upgrade_count": 5,
+    "effect_type": {
+      "name": "CARD_POTENTIAL_EFFECT_TYPE_SKILL_TREE_CONNECT_EFFECT_LEVEL_UP",
+      "number": 5
+    },
+    "value": "2"
+  }
+]

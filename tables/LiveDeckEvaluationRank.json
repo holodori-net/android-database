@@ -1,0 +1,122 @@
+[
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_D",
+      "number": 1
+    },
+    "order": 1
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_D",
+      "number": 1
+    },
+    "plus": 1,
+    "threshold": "100000",
+    "order": 2
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "150000",
+    "order": 3
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_C",
+      "number": 2
+    },
+    "plus": 1,
+    "threshold": "220000",
+    "order": 4
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "300000",
+    "order": 5
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_B",
+      "number": 3
+    },
+    "plus": 1,
+    "threshold": "450000",
+    "order": 6
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "600000",
+    "order": 7
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_A",
+      "number": 4
+    },
+    "plus": 1,
+    "threshold": "800000",
+    "order": 8
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "1000000",
+    "order": 9
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 1,
+    "threshold": "1200000",
+    "order": 10
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 2,
+    "threshold": "1500000",
+    "order": 11
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 3,
+    "threshold": "2000000",
+    "order": 12
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 4,
+    "threshold": "2500000",
+    "order": 13
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 5,
+    "threshold": "3000000",
+    "order": 14
+  }
+]

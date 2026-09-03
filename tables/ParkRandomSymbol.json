@@ -1,0 +1,992 @@
+[
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-001",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-002",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-003",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-004",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-005",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-006",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-007",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-008",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-009",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-010",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-011",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-012",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-013",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-014",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-015",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-016",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-017",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-018",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-019",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-020",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-021",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-022",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-023",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-025",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-026",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-027",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-028",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-029",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-030",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-031",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-032",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-033",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-034",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-035",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-036",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-037",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-038",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-039",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-040",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-041",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-042",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-043",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-044",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-045",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-046",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-047",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-048",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-049",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-050",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-051",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-052",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-053",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-054",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-055",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-056",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-057",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-058",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-059",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-060",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-061",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-062",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-063",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-064",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-065",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-066",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-067",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-068",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-069",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-070",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-071",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-072",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-074",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-075",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-076",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-077",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-078",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-079",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-080",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-081",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-082",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-083",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-084",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-085",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-086",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-087",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-088",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-089",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-090",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-091",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-092",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-093",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-094",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-095",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-096",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-097",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-098",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-099",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a01",
+    "park_target_mapping_id": "target_map-random_symbol-a01-100",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-001",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-002",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-003",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-004",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-005",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-006",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-007",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-008",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-009",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-010",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-011",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-012",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-013",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-014",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-015",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-016",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-017",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-018",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-019",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-020",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-021",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-022",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-023",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-024",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-025",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-026",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-027",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-028",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-029",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-030",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-031",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-032",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-033",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-034",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-035",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-036",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-037",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-038",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-039",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-040",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-041",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-042",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-043",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-044",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-045",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-046",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-047",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-048",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-049",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-casino",
+    "park_target_mapping_id": "target_map-random_symbol-a02_casino-050",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-001",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-002",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-003",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-004",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-005",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-006",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-007",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-008",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-009",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-010",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-011",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-012",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-013",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-014",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-015",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-016",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-017",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-018",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-019",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-020",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-021",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-022",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-023",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-024",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-025",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-026",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-027",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-028",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-029",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-030",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-031",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-032",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-033",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-034",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-035",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-036",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-037",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-038",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-039",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-040",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-041",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-042",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-043",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-044",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-045",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-046",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-047",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-048",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-049",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  },
+  {
+    "area_id": "area-a02-game",
+    "park_target_mapping_id": "target_map-random_symbol-a02_game-050",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+  }
+]

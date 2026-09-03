@@ -1,0 +1,79 @@
+[
+  {
+    "common_bgm_type": {
+      "name": "COMMON_BGM_TYPE_LIVE_MULTI_MATCHING",
+      "number": 1
+    },
+    "asset_id": "bgm_sys_live-multi-matching"
+  },
+  {
+    "common_bgm_type": {
+      "name": "COMMON_BGM_TYPE_LIVE_RESULT_NOT_CLEARED",
+      "number": 2
+    },
+    "asset_id": "bgm_sys_live-result-failure"
+  },
+  {
+    "common_bgm_type": {
+      "name": "COMMON_BGM_TYPE_LIVE_RESULT_CLEARED",
+      "number": 3
+    },
+    "asset_id": "bgm_sys_live-result-success"
+  },
+  {
+    "common_bgm_type": {
+      "name": "COMMON_BGM_TYPE_MUSIC_CREATIVE_CHART",
+      "number": 100
+    },
+    "asset_id": "bgm_sys_live-create"
+  },
+  {
+    "common_bgm_type": {
+      "name": "COMMON_BGM_TYPE_MINI_GAME_MULTI_MATCHING",
+      "number": 200
+    },
+    "asset_id": "bgm_sys_mg-multi-matching"
+  },
+  {
+    "common_bgm_type": {
+      "name": "COMMON_BGM_TYPE_MINI_GAME_RESULT",
+      "number": 201
+    },
+    "asset_id": "bgm_sys_mg-result"
+  },
+  {
+    "common_bgm_type": {
+      "name": "COMMON_BGM_TYPE_GACHA_DEFAULT",
+      "number": 300
+    },
+    "asset_id": "bgm_sys_gacha-default"
+  },
+  {
+    "common_bgm_type": {
+      "name": "COMMON_BGM_TYPE_SYSTEM_TUTORIAL",
+      "number": 400
+    },
+    "asset_id": "bgm_sys_tutorial"
+  },
+  {
+    "common_bgm_type": {
+      "name": "COMMON_BGM_TYPE_SYSTEM_PARK_PRINT_BOOTH",
+      "number": 500
+    },
+    "asset_id": "bgm_park_facility_area-a02-game-photobooth"
+  },
+  {
+    "common_bgm_type": {
+      "name": "COMMON_BGM_TYPE_SYSTEM_EVENT_PORTAL",
+      "number": 600
+    },
+    "asset_id": "bgm_sys_event-portal-default"
+  },
+  {
+    "common_bgm_type": {
+      "name": "COMMON_BGM_TYPE_SYSTEM_EVENT_MISSION",
+      "number": 601
+    },
+    "asset_id": "bgm_sys_event-portal-default"
+  }
+]

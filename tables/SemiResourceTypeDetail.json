@@ -1,0 +1,47 @@
+[
+  {
+    "type": {
+      "name": "SEMI_RESOURCE_TYPE_CARD_POTENTIAL_UPGRADE_POINT",
+      "number": 1
+    },
+    "color": "98E133",
+    "name_lang_id": "la-semi_resource_type_detail-card_potential_upgrade_point-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-semi_resource_type_detail-card_potential_upgrade_point-description",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "SEMI_RESOURCE_TYPE_LIVE_REWARD_UP_STAMINA",
+      "number": 2
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-semi_resource_type_detail-live_reward_up_stamina-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-semi_resource_type_detail-live_reward_up_stamina-description",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "SEMI_RESOURCE_TYPE_MINI_GAME_REWARD_UP_STAMINA",
+      "number": 3
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-semi_resource_type_detail-mini_game_reward_up_stamina-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-semi_resource_type_detail-mini_game_reward_up_stamina-description",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "skill_type": {
+      "name": "CHASE_PATROL_SKILL_TYPE_RADAR",
+      "number": 1
+    },
+    "name_lang_id": "la-chase_patrol_skill-radar-name",
+    "description_lang_id": "la-empty",
+    "effect_duration_millisecond": 5000,
+    "relief_effect_duration_extension_millisecond": 20,
+    "cool_time_millisecond": 30000,
+    "relief_cool_time_reduction_millisecond": 45,
+    "start_cool_time_progress_rate_permil_multiply": 500,
+    "radar_arrow_display_range": 20,
+    "radar_arrow_switch_range": 10,
+    "radar_icon_display_range": 10
+  },
+  {
+    "skill_type": {
+      "name": "CHASE_PATROL_SKILL_TYPE_SPEED_UP",
+      "number": 2
+    },
+    "name_lang_id": "la-chase_patrol_skill-speed_up-name",
+    "description_lang_id": "la-empty",
+    "effect_duration_millisecond": 7000,
+    "relief_effect_duration_extension_millisecond": 15,
+    "cool_time_millisecond": 40000,
+    "relief_cool_time_reduction_millisecond": 45,
+    "start_cool_time_progress_rate_permil_multiply": 500,
+    "speed_up_coefficient_permil_multiply": 1500
+  },
+  {
+    "skill_type": {
+      "name": "CHASE_PATROL_SKILL_TYPE_STEALTH",
+      "number": 3
+    },
+    "name_lang_id": "la-chase_patrol_skill-stealth-name",
+    "description_lang_id": "la-empty",
+    "effect_duration_millisecond": 15000,
+    "relief_effect_duration_extension_millisecond": 20,
+    "cool_time_millisecond": 35000,
+    "relief_cool_time_reduction_millisecond": 45,
+    "start_cool_time_progress_rate_permil_multiply": 500,
+    "stealth_transparent_rate": 70,
+    "stealth_transparent_rate_from_others": 90
+  }
+]

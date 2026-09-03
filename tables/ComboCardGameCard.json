@@ -1,0 +1,3152 @@
+[
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen00-blu-00001",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen00-pnk-00001",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen00-yel-00001",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen00-gry-00001",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen00-ctr-00001",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen00-blu-00002",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen00-pnk-00002",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen00-yel-00002",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen00-gry-00002",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen00-ctr-00002",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen01-blu-00004",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen01-pnk-00004",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen01-yel-00004",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen01-gry-00004",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen01-ctr-00004",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen01-blu-00005",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen01-pnk-00005",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen01-yel-00005",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen01-gry-00005",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen01-ctr-00005",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gamers-blu-00006",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen01-blu-00006",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gamers-pnk-00006",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen01-pnk-00006",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gamers-yel-00006",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen01-yel-00006",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gamers-gry-00006",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen01-gry-00006",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gamers-ctr-00006",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen01-ctr-00006",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen01-blu-00007",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen01-pnk-00007",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen01-yel-00007",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen01-gry-00007",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen01-ctr-00007",
+    "character_grouping_id": "grp-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen02-blu-00009",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen02-pnk-00009",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen02-yel-00009",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen02-gry-00009",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen02-ctr-00009",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00010",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen02-blu-00010",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00010",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen02-pnk-00010",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00010",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen02-yel-00010",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00010",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen02-gry-00010",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00010",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen02-ctr-00010",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00011",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen02-blu-00011",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00011",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen02-pnk-00011",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00011",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen02-yel-00011",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00011",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen02-gry-00011",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00011",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen02-ctr-00011",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00012",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen02-blu-00012",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00012",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen02-pnk-00012",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00012",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen02-yel-00012",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00012",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen02-gry-00012",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00012",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen02-ctr-00012",
+    "character_grouping_id": "grp-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00013",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen00-blu-00013",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00013",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen00-pnk-00013",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00013",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen00-yel-00013",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00013",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen00-gry-00013",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00013",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen00-ctr-00013",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00014",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gamers-blu-00014",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00014",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gamers-pnk-00014",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00014",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gamers-yel-00014",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00014",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gamers-gry-00014",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00014",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gamers-ctr-00014",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00015",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen00-blu-00015",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00015",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen00-pnk-00015",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00015",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen00-yel-00015",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00015",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen00-gry-00015",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00015",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen00-ctr-00015",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00016",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gamers-blu-00016",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00016",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gamers-pnk-00016",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00016",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gamers-yel-00016",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00016",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gamers-gry-00016",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00016",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gamers-ctr-00016",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00017",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gamers-blu-00017",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00017",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gamers-pnk-00017",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00017",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gamers-yel-00017",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00017",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gamers-gry-00017",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00017",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gamers-ctr-00017",
+    "character_grouping_id": "grp-gamers"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00018",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen00-blu-00018",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00018",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen00-pnk-00018",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00018",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen00-yel-00018",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00018",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen00-gry-00018",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00018",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen00-ctr-00018",
+    "character_grouping_id": "grp-gen_0"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00019",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen03-blu-00019",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00019",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen03-pnk-00019",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00019",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen03-yel-00019",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00019",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen03-gry-00019",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00019",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen03-ctr-00019",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00021",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen03-blu-00021",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00021",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen03-pnk-00021",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00021",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen03-yel-00021",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00021",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen03-gry-00021",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00021",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen03-ctr-00021",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00022",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen03-blu-00022",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00022",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen03-pnk-00022",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00022",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen03-yel-00022",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00022",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen03-gry-00022",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00022",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen03-ctr-00022",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00023",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen03-blu-00023",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00023",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen03-pnk-00023",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00023",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen03-yel-00023",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00023",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen03-gry-00023",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00023",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen03-ctr-00023",
+    "character_grouping_id": "grp-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00024",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen04-blu-00024",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00024",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen04-pnk-00024",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00024",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen04-yel-00024",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00024",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen04-gry-00024",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00024",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen04-ctr-00024",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00026",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen04-blu-00026",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00026",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen04-pnk-00026",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00026",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen04-yel-00026",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00026",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen04-gry-00026",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00026",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen04-ctr-00026",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00027",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen04-blu-00027",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00027",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen04-pnk-00027",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00027",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen04-yel-00027",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00027",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen04-gry-00027",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00027",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen04-ctr-00027",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00028",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen04-blu-00028",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00028",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen04-pnk-00028",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00028",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen04-yel-00028",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00028",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen04-gry-00028",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00028",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen04-ctr-00028",
+    "character_grouping_id": "grp-gen_4"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00030",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen05-blu-00030",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00030",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen05-pnk-00030",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00030",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen05-yel-00030",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00030",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen05-gry-00030",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00030",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen05-ctr-00030",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00031",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen05-blu-00031",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00031",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen05-pnk-00031",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00031",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen05-yel-00031",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00031",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen05-gry-00031",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00031",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen05-ctr-00031",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00032",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen05-blu-00032",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00032",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen05-pnk-00032",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00032",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen05-yel-00032",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00032",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen05-gry-00032",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00032",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen05-ctr-00032",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00034",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "gen05-blu-00034",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00034",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "gen05-pnk-00034",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00034",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "gen05-yel-00034",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00034",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "gen05-gry-00034",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00034",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "gen05-ctr-00034",
+    "character_grouping_id": "grp-gen_5"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00035",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "holox-blu-00035",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00035",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "holox-pnk-00035",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00035",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "holox-yel-00035",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00035",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "holox-gry-00035",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00035",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "holox-ctr-00035",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00036",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "holox-blu-00036",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00036",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "holox-pnk-00036",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00036",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "holox-yel-00036",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00036",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "holox-gry-00036",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00036",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "holox-ctr-00036",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00037",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "holox-blu-00037",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00037",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "holox-pnk-00037",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00037",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "holox-yel-00037",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00037",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "holox-gry-00037",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00037",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "holox-ctr-00037",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00038",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "holox-blu-00038",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00038",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "holox-pnk-00038",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00038",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "holox-yel-00038",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00038",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "holox-gry-00038",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00038",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "holox-ctr-00038",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00039",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "holox-blu-00039",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00039",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "holox-pnk-00039",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00039",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "holox-yel-00039",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00039",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "holox-gry-00039",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-00039",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "holox-ctr-00039",
+    "character_grouping_id": "grp-holox"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "idgen01-blu-03001",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "idgen01-pnk-03001",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "idgen01-yel-03001",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "idgen01-gry-03001",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "idgen01-ctr-03001",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "idgen01-blu-03002",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "idgen01-pnk-03002",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "idgen01-yel-03002",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "idgen01-gry-03002",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "idgen01-ctr-03002",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "idgen01-blu-03003",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "idgen01-pnk-03003",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "idgen01-yel-03003",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "idgen01-gry-03003",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "idgen01-ctr-03003",
+    "character_grouping_id": "grp-indonesia-gen_1"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "idgen02-blu-03004",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "idgen02-pnk-03004",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "idgen02-yel-03004",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "idgen02-gry-03004",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "idgen02-ctr-03004",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "idgen02-blu-03005",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "idgen02-pnk-03005",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "idgen02-yel-03005",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "idgen02-gry-03005",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "idgen02-ctr-03005",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "idgen02-blu-03006",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "idgen02-pnk-03006",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "idgen02-yel-03006",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "idgen02-gry-03006",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03006",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "idgen02-ctr-03006",
+    "character_grouping_id": "grp-indonesia-gen_2"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "idgen03-blu-03007",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "idgen03-pnk-03007",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "idgen03-yel-03007",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "idgen03-gry-03007",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "idgen03-ctr-03007",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03008",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "idgen03-blu-03008",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03008",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "idgen03-pnk-03008",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03008",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "idgen03-yel-03008",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03008",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "idgen03-gry-03008",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03008",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "idgen03-ctr-03008",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "idgen03-blu-03009",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "idgen03-pnk-03009",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "idgen03-yel-03009",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "idgen03-gry-03009",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-03009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "idgen03-ctr-03009",
+    "character_grouping_id": "grp-indonesia-gen_3"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "myth-blu-04001",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "myth-pnk-04001",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "myth-yel-04001",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "myth-gry-04001",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "myth-ctr-04001",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "myth-blu-04002",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "myth-pnk-04002",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "myth-yel-04002",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "myth-gry-04002",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "myth-ctr-04002",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "myth-blu-04003",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "myth-pnk-04003",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "myth-yel-04003",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "myth-gry-04003",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "myth-ctr-04003",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "myth-blu-04004",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "myth-pnk-04004",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "myth-yel-04004",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "myth-gry-04004",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "myth-ctr-04004",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "myth-blu-04005",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "myth-pnk-04005",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "myth-yel-04005",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "myth-gry-04005",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "myth-ctr-04005",
+    "character_grouping_id": "grp-myth"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "promise-blu-04007",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "promise-pnk-04007",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "promise-yel-04007",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "promise-gry-04007",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04007",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "promise-ctr-04007",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "promise-blu-04009",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "promise-pnk-04009",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "promise-yel-04009",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "promise-gry-04009",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04009",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "promise-ctr-04009",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04010",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "promise-blu-04010",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04010",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "promise-pnk-04010",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04010",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "promise-yel-04010",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04010",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "promise-gry-04010",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04010",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "promise-ctr-04010",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04011",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "promise-blu-04011",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04011",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "promise-pnk-04011",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04011",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "promise-yel-04011",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04011",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "promise-gry-04011",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04011",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "promise-ctr-04011",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04012",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "promise-blu-04012",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04012",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "promise-pnk-04012",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04012",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "promise-yel-04012",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04012",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "promise-gry-04012",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04012",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "promise-ctr-04012",
+    "character_grouping_id": "grp-promise"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04013",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "advent-blu-04013",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04013",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "advent-pnk-04013",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04013",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "advent-yel-04013",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04013",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "advent-gry-04013",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04013",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "advent-ctr-04013",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04014",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "advent-blu-04014",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04014",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "advent-pnk-04014",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04014",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "advent-yel-04014",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04014",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "advent-gry-04014",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04014",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "advent-ctr-04014",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04015",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "advent-blu-04015",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04015",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "advent-pnk-04015",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04015",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "advent-yel-04015",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04015",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "advent-gry-04015",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04015",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "advent-ctr-04015",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04016",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "advent-blu-04016",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04016",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "advent-pnk-04016",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04016",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "advent-yel-04016",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04016",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "advent-gry-04016",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04016",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "advent-ctr-04016",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04017",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "advent-blu-04017",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04017",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "advent-pnk-04017",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04017",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "advent-yel-04017",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04017",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "advent-gry-04017",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-04017",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "advent-ctr-04017",
+    "character_grouping_id": "grp-advent"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "regloss-blu-06001",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "regloss-pnk-06001",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "regloss-yel-06001",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "regloss-gry-06001",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06001",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "regloss-ctr-06001",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "regloss-blu-06002",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "regloss-pnk-06002",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "regloss-yel-06002",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "regloss-gry-06002",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06002",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "regloss-ctr-06002",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "regloss-blu-06003",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "regloss-pnk-06003",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "regloss-yel-06003",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "regloss-gry-06003",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06003",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "regloss-ctr-06003",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "regloss-blu-06004",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "regloss-pnk-06004",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "regloss-yel-06004",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "regloss-gry-06004",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06004",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "regloss-ctr-06004",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_1",
+      "number": 1
+    },
+    "asset_id": "regloss-blu-06005",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_2",
+      "number": 2
+    },
+    "asset_id": "regloss-pnk-06005",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_3",
+      "number": 3
+    },
+    "asset_id": "regloss-yel-06005",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_4",
+      "number": 4
+    },
+    "asset_id": "regloss-gry-06005",
+    "character_grouping_id": "grp-regloss"
+  },
+  {
+    "group_id": "combo-card_card-group_001",
+    "character_id": "chr-06005",
+    "category_type": {
+      "name": "COMBO_CARD_GAME_CARD_CATEGORY_TYPE_CATEGORY_5",
+      "number": 5
+    },
+    "asset_id": "regloss-ctr-06005",
+    "character_grouping_id": "grp-regloss"
+  }
+]

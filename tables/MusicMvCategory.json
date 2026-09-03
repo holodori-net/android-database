@@ -1,0 +1,25 @@
+[
+  {
+    "id": "music_mv_category-live",
+    "label_name_lang_id": "la-music_mv_category-live",
+    "is_default_for_compatible_device": true,
+    "is_default_for_incompatible_device": true,
+    "is_display_filter": true,
+    "filter_name_lang_id": "la-music_mv_category-filter-live",
+    "order": 3
+  },
+  {
+    "id": "music_mv_category-mv",
+    "label_name_lang_id": "la-music_mv_category-mv",
+    "is_default_for_compatible_device": true,
+    "is_default_for_incompatible_device": true,
+    "is_display_filter": true,
+    "filter_name_lang_id": "la-music_mv_category-filter-mv",
+    "order": 1
+  },
+  {
+    "id": "music_mv_category-mv_light",
+    "label_name_lang_id": "la-music_mv_category-mv_light",
+    "order": 2
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_JUMP_ROPE",
+      "number": 1
+    },
+    "multi_game_match_type": {
+      "name": "MULTI_GAME_MATCH_TYPE_RANDOM",
+      "number": 1
+    },
+    "list_asset_id": "jumprope",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-04",
+    "order": 1
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_JUMP_ROPE",
+      "number": 1
+    },
+    "multi_game_match_type": {
+      "name": "MULTI_GAME_MATCH_TYPE_PRIVATE_ROOM",
+      "number": 2
+    },
+    "list_asset_id": "jumprope",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-04",
+    "order": 1
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_CIRCUIT",
+      "number": 2
+    },
+    "multi_game_match_type": {
+      "name": "MULTI_GAME_MATCH_TYPE_RANDOM",
+      "number": 1
+    },
+    "list_asset_id": "circuit",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-02",
+    "order": 2
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_CIRCUIT",
+      "number": 2
+    },
+    "multi_game_match_type": {
+      "name": "MULTI_GAME_MATCH_TYPE_PRIVATE_ROOM",
+      "number": 2
+    },
+    "list_asset_id": "circuit",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-04",
+    "order": 2
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_COMBO_CARD_GAME",
+      "number": 4
+    },
+    "multi_game_match_type": {
+      "name": "MULTI_GAME_MATCH_TYPE_RANDOM",
+      "number": 1
+    },
+    "list_asset_id": "combocardgame",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
+    "order": 3
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_COMBO_CARD_GAME",
+      "number": 4
+    },
+    "multi_game_match_type": {
+      "name": "MULTI_GAME_MATCH_TYPE_PRIVATE_ROOM",
+      "number": 2
+    },
+    "list_asset_id": "combocardgame",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-04",
+    "order": 3
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_CHASE",
+      "number": 5
+    },
+    "multi_game_match_type": {
+      "name": "MULTI_GAME_MATCH_TYPE_RANDOM",
+      "number": 1
+    },
+    "list_asset_id": "chase",
+    "view_condition_group_id": "cd-perm-a01-chase",
+    "order": 4
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_CHASE",
+      "number": 5
+    },
+    "multi_game_match_type": {
+      "name": "MULTI_GAME_MATCH_TYPE_PRIVATE_ROOM",
+      "number": 2
+    },
+    "list_asset_id": "chase",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-04",
+    "order": 4
+  }
+]

@@ -1,0 +1,577 @@
+[
+  {
+    "id": "perm-a01-athletic",
+    "park_target_mapping_id": "target_map-a01-athletic",
+    "condition_group_id": "cd-perm-a01-athletic"
+  },
+  {
+    "id": "perm-a01-athletic-open",
+    "park_target_mapping_id": "target_map-a01-athletic-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-23"
+  },
+  {
+    "id": "perm-a01-balloonstore",
+    "park_target_mapping_id": "target_map-a01-balloonstore",
+    "condition_group_id": "cd-perm-a01-balloonstore"
+  },
+  {
+    "id": "perm-a01-balloonstore-open",
+    "park_target_mapping_id": "target_map-a01-balloonstore-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-23"
+  },
+  {
+    "id": "perm-a01-candystore",
+    "park_target_mapping_id": "target_map-a01-candystore",
+    "condition_group_id": "cd-perm-a01-candystore"
+  },
+  {
+    "id": "perm-a01-candystore-open",
+    "park_target_mapping_id": "target_map-a01-candystore-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-23"
+  },
+  {
+    "id": "perm-a01-chase",
+    "park_target_mapping_id": "target_map-a01-chase",
+    "condition_group_id": "cd-perm-a01-chase"
+  },
+  {
+    "id": "perm-a01-exchangebooth",
+    "park_target_mapping_id": "target_map-a01-exchangebooth",
+    "condition_group_id": "cd-perm-a01-exchangebooth"
+  },
+  {
+    "id": "perm-a01-exchangebooth-open",
+    "park_target_mapping_id": "target_map-a01-exchangebooth-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-23"
+  },
+  {
+    "id": "perm-a01-facerock-present-all_character_get",
+    "park_target_mapping_id": "target_map-a01-facerock-present",
+    "condition_group_id": "cd-perm-a01-facerock-present-all_character_get"
+  },
+  {
+    "id": "perm-a01-facerock-present-default",
+    "park_target_mapping_id": "target_map-a01-facerock-present",
+    "condition_group_id": "cd-perm-a01-facerock-present-default"
+  },
+  {
+    "id": "perm-a01-ferriswheel",
+    "park_target_mapping_id": "target_map-a01-ferriswheel",
+    "condition_group_id": "cd-perm-a01-ferriswheel"
+  },
+  {
+    "id": "perm-a01-ferriswheel-open",
+    "park_target_mapping_id": "target_map-a01-ferriswheel-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-23"
+  },
+  {
+    "id": "perm-a01-house-present-fri",
+    "park_target_mapping_id": "target_map-a01-house-present",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-02-fri"
+  },
+  {
+    "id": "perm-a01-house-present-mon",
+    "park_target_mapping_id": "target_map-a01-house-present",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-02-mon"
+  },
+  {
+    "id": "perm-a01-house-present-sat",
+    "park_target_mapping_id": "target_map-a01-house-present",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-02-sat"
+  },
+  {
+    "id": "perm-a01-house-present-sun",
+    "park_target_mapping_id": "target_map-a01-house-present",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-02-sun"
+  },
+  {
+    "id": "perm-a01-house-present-thu",
+    "park_target_mapping_id": "target_map-a01-house-present",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-02-thu"
+  },
+  {
+    "id": "perm-a01-house-present-tue",
+    "park_target_mapping_id": "target_map-a01-house-present",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-02-tue"
+  },
+  {
+    "id": "perm-a01-house-present-wed",
+    "park_target_mapping_id": "target_map-a01-house-present",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-02-wed"
+  },
+  {
+    "id": "perm-a01-live",
+    "park_target_mapping_id": "target_map-a01-live",
+    "condition_group_id": "cd-perm-a01-live"
+  },
+  {
+    "id": "perm-a01-live-open",
+    "park_target_mapping_id": "target_map-a01-live-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-23"
+  },
+  {
+    "id": "perm-a01-memoryboard",
+    "park_target_mapping_id": "target_map-a01-memoryboard",
+    "condition_group_id": "cd-perm-a01-memoryboard"
+  },
+  {
+    "id": "perm-a01-multiplay-event-portal",
+    "park_target_mapping_id": "target_map-a01-multiplay-event-portal",
+    "condition_group_id": "cd-perm-a01-multiplay-event-portal"
+  },
+  {
+    "id": "perm-a01-multiplay-event-portal-open",
+    "park_target_mapping_id": "target_map-a01-multiplay-event-portal-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-23"
+  },
+  {
+    "id": "perm-a01-multiplay-live",
+    "park_target_mapping_id": "target_map-a01-multiplay-live",
+    "condition_group_id": "cd-perm-a01-multiplay-live"
+  },
+  {
+    "id": "perm-a01-multiplay-live-open",
+    "park_target_mapping_id": "target_map-a01-multiplay-live-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-23"
+  },
+  {
+    "id": "perm-a01-multiplay-mg",
+    "park_target_mapping_id": "target_map-a01-multiplay-mg",
+    "condition_group_id": "cd-perm-a01-multiplay-mg"
+  },
+  {
+    "id": "perm-a01-multiplay-mg-open",
+    "park_target_mapping_id": "target_map-a01-multiplay-mg-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-23"
+  },
+  {
+    "id": "perm-a01-penlightstore",
+    "park_target_mapping_id": "target_map-a01-penlightstore",
+    "condition_group_id": "cd-perm-a01-penlightstore"
+  },
+  {
+    "id": "perm-a01-penlightstore-open",
+    "park_target_mapping_id": "target_map-a01-penlightstore-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-23"
+  },
+  {
+    "id": "perm-a01-prison-present",
+    "park_target_mapping_id": "target_map-a01-prison-present",
+    "condition_group_id": "cd-quest_clear-quest-area-a01-17"
+  },
+  {
+    "id": "perm-a01-restaurant",
+    "park_target_mapping_id": "target_map-a01-restaurant",
+    "condition_group_id": "cd-perm-a01-restaurant"
+  },
+  {
+    "id": "perm-a01-restaurant-open",
+    "park_target_mapping_id": "target_map-a01-restaurant-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-23"
+  },
+  {
+    "id": "perm-a01-station",
+    "park_target_mapping_id": "target_map-a01-station",
+    "condition_group_id": "cd-perm-a01-station"
+  },
+  {
+    "id": "perm-a01-station-open",
+    "park_target_mapping_id": "target_map-a01-station-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-23"
+  },
+  {
+    "id": "perm-a01-theater",
+    "park_target_mapping_id": "target_map-a01-theater",
+    "condition_group_id": "cd-perm-a01-theater"
+  },
+  {
+    "id": "perm-a01-theater-open",
+    "park_target_mapping_id": "target_map-a01-theater-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-01-23"
+  },
+  {
+    "id": "perm-a02-accessorystore",
+    "park_target_mapping_id": "target_map-a02-accessorystore",
+    "condition_group_id": "cd-perm-a02-accessorystore"
+  },
+  {
+    "id": "perm-a02-accessorystore-open",
+    "park_target_mapping_id": "target_map-a02-accessorystore-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-02-12"
+  },
+  {
+    "id": "perm-a02-casino-live",
+    "park_target_mapping_id": "target_map-a02-casino-live",
+    "condition_group_id": "cd-perm-a02-casino-live"
+  },
+  {
+    "id": "perm-a02-casino-live-open",
+    "park_target_mapping_id": "target_map-a02-casino-live-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-02-12"
+  },
+  {
+    "id": "perm-a02-coinbooth",
+    "park_target_mapping_id": "target_map-a02-coinbooth",
+    "condition_group_id": "cd-perm-a02-coinbooth"
+  },
+  {
+    "id": "perm-a02-coinbooth-open",
+    "park_target_mapping_id": "target_map-a02-coinbooth-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-02-12"
+  },
+  {
+    "id": "perm-a02-coinbooth-pre",
+    "park_target_mapping_id": "target_map-a02-coinbooth",
+    "condition_group_id": "cd-perm-a02-coinbooth-pre"
+  },
+  {
+    "id": "perm-a02-game-live",
+    "park_target_mapping_id": "target_map-a02-game-live",
+    "condition_group_id": "cd-perm-a02-game-live"
+  },
+  {
+    "id": "perm-a02-game-live-open",
+    "park_target_mapping_id": "target_map-a02-game-live-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-02-12"
+  },
+  {
+    "id": "perm-a02-highandlow",
+    "park_target_mapping_id": "target_map-a02-highandlow",
+    "condition_group_id": "cd-perm-a02-highandlow"
+  },
+  {
+    "id": "perm-a02-highandlow-open",
+    "park_target_mapping_id": "target_map-a02-highandlow-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-02-12"
+  },
+  {
+    "id": "perm-a02-holocircuit",
+    "park_target_mapping_id": "target_map-a02-holocircuit",
+    "condition_group_id": "cd-perm-a02-holocircuit"
+  },
+  {
+    "id": "perm-a02-holocircuit-open",
+    "park_target_mapping_id": "target_map-a02-holocircuit-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-02-12"
+  },
+  {
+    "id": "perm-a02-materialbooth",
+    "park_target_mapping_id": "target_map-a02-materialbooth",
+    "condition_group_id": "cd-perm-a02-materialbooth"
+  },
+  {
+    "id": "perm-a02-materialbooth-open",
+    "park_target_mapping_id": "target_map-a02-materialbooth-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-02-12"
+  },
+  {
+    "id": "perm-a02-photobooth",
+    "park_target_mapping_id": "target_map-a02-photobooth",
+    "condition_group_id": "cd-perm-a02-photobooth"
+  },
+  {
+    "id": "perm-a02-photobooth-open",
+    "park_target_mapping_id": "target_map-a02-photobooth-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-02-12"
+  },
+  {
+    "id": "perm-a02-pokertable",
+    "park_target_mapping_id": "target_map-a02-pokertable",
+    "condition_group_id": "cd-perm-a02-pokertable"
+  },
+  {
+    "id": "perm-a02-pokertable-open",
+    "park_target_mapping_id": "target_map-a02-pokertable-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-02-12"
+  },
+  {
+    "id": "perm-a02-scratchstore",
+    "park_target_mapping_id": "target_map-a02-scratchstore",
+    "condition_group_id": "cd-perm-a02-scratchstore"
+  },
+  {
+    "id": "perm-a02-scratchstore-open",
+    "park_target_mapping_id": "target_map-a02-scratchstore-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-02-12"
+  },
+  {
+    "id": "perm-a02-station",
+    "park_target_mapping_id": "target_map-a02-station",
+    "condition_group_id": "cd-perm-a02-station"
+  },
+  {
+    "id": "perm-a02-station-open",
+    "park_target_mapping_id": "target_map-a02-station-open",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-02-12"
+  },
+  {
+    "id": "perm-chr-00001",
+    "park_target_mapping_id": "target_map-chr-00001",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00002",
+    "park_target_mapping_id": "target_map-chr-00002",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00004",
+    "park_target_mapping_id": "target_map-chr-00004",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00005",
+    "park_target_mapping_id": "target_map-chr-00005",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00006",
+    "park_target_mapping_id": "target_map-chr-00006",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00007",
+    "park_target_mapping_id": "target_map-chr-00007",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00010",
+    "park_target_mapping_id": "target_map-chr-00010",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00011",
+    "park_target_mapping_id": "target_map-chr-00011",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00012",
+    "park_target_mapping_id": "target_map-chr-00012",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00013",
+    "park_target_mapping_id": "target_map-chr-00013",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00014",
+    "park_target_mapping_id": "target_map-chr-00014",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00015",
+    "park_target_mapping_id": "target_map-chr-00015",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00016",
+    "park_target_mapping_id": "target_map-chr-00016",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00017",
+    "park_target_mapping_id": "target_map-chr-00017",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00018",
+    "park_target_mapping_id": "target_map-chr-00018",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00019",
+    "park_target_mapping_id": "target_map-chr-00019",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00021",
+    "park_target_mapping_id": "target_map-chr-00021",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00022",
+    "park_target_mapping_id": "target_map-chr-00022",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00023",
+    "park_target_mapping_id": "target_map-chr-00023",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00026",
+    "park_target_mapping_id": "target_map-chr-00026",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00027",
+    "park_target_mapping_id": "target_map-chr-00027",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00028",
+    "park_target_mapping_id": "target_map-chr-00028",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00030",
+    "park_target_mapping_id": "target_map-chr-00030",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00031",
+    "park_target_mapping_id": "target_map-chr-00031",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00032",
+    "park_target_mapping_id": "target_map-chr-00032",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00034",
+    "park_target_mapping_id": "target_map-chr-00034",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00035",
+    "park_target_mapping_id": "target_map-chr-00035",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00036",
+    "park_target_mapping_id": "target_map-chr-00036",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00037",
+    "park_target_mapping_id": "target_map-chr-00037",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-00039",
+    "park_target_mapping_id": "target_map-chr-00039",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-03001",
+    "park_target_mapping_id": "target_map-chr-03001",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-03002",
+    "park_target_mapping_id": "target_map-chr-03002",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-03003",
+    "park_target_mapping_id": "target_map-chr-03003",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-03004",
+    "park_target_mapping_id": "target_map-chr-03004",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-03005",
+    "park_target_mapping_id": "target_map-chr-03005",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-03006",
+    "park_target_mapping_id": "target_map-chr-03006",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-03007",
+    "park_target_mapping_id": "target_map-chr-03007",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-03008",
+    "park_target_mapping_id": "target_map-chr-03008",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-03009",
+    "park_target_mapping_id": "target_map-chr-03009",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-04001",
+    "park_target_mapping_id": "target_map-chr-04001",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-04002",
+    "park_target_mapping_id": "target_map-chr-04002",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-04003",
+    "park_target_mapping_id": "target_map-chr-04003",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-04007",
+    "park_target_mapping_id": "target_map-chr-04007",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-04010",
+    "park_target_mapping_id": "target_map-chr-04010",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-04012",
+    "park_target_mapping_id": "target_map-chr-04012",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-04013",
+    "park_target_mapping_id": "target_map-chr-04013",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-04014",
+    "park_target_mapping_id": "target_map-chr-04014",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-04015",
+    "park_target_mapping_id": "target_map-chr-04015",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-04016",
+    "park_target_mapping_id": "target_map-chr-04016",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-04017",
+    "park_target_mapping_id": "target_map-chr-04017",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-06002",
+    "park_target_mapping_id": "target_map-chr-06002",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-06003",
+    "park_target_mapping_id": "target_map-chr-06003",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-06004",
+    "park_target_mapping_id": "target_map-chr-06004",
+    "condition_group_id": "cd-quest_character"
+  },
+  {
+    "id": "perm-chr-06005",
+    "park_target_mapping_id": "target_map-chr-06005",
+    "condition_group_id": "cd-quest_character"
+  }
+]

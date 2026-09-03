@@ -1,0 +1,1014 @@
+[
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CARD_LEVEL_UP_COUNT",
+      "number": 1
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CARD_CATALOG",
+      "number": 200
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CARD_LEVEL_LIMIT_BREAK_COUNT",
+      "number": 2
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CARD_CATALOG",
+      "number": 200
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CHARACTER_GET_COUNT",
+      "number": 3
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_QUEST_INFO",
+      "number": 702
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_LOGIN_COUNT",
+      "number": 4
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_LIVE_CLEAR_COUNT",
+      "number": 6
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_SELECTION",
+      "number": 600
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_LIVE_FULL_COMBO_COUNT",
+      "number": 7
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_SELECTION",
+      "number": 600
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_LIVE_ALL_PERFECT_COUNT",
+      "number": 8
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_SELECTION",
+      "number": 600
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_LIVE_HIGHEST_SCORE",
+      "number": 9
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_SELECTION",
+      "number": 600
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_MULTI_LIVE_PLAY_COUNT",
+      "number": 10
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MULTI_RHYTHM_GAME_TOP",
+      "number": 900
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_MULTI_LIVE_MVP_COUNT",
+      "number": 11
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MULTI_RHYTHM_GAME_TOP",
+      "number": 900
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_RESOURCE_GET_COUNT",
+      "number": 12
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CARD_GET_COUNT",
+      "number": 13
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_GACHA_TOP",
+      "number": 1800
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_MISSION_CLEAR_COUNT",
+      "number": 14
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_MINI_GAME_PLAY_COUNT",
+      "number": 15
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_DROP_ITEM_GET_COUNT",
+      "number": 17
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_PARK_PRESENT_RECEIVE_COUNT",
+      "number": 18
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_FACILITY",
+      "number": 704
+    },
+    "transition_id": "facility-a01-house"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_MUSIC_CREATIVE_CHART_CREATE_COUNT",
+      "number": 19
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_CREATIVE_CHART_CREATE",
+      "number": 2002
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_MUSIC_CREATIVE_CHART_LIVE_CLEAR_COUNT",
+      "number": 20
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_CREATIVE_CHART_PLAY",
+      "number": 2001
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_MULTI_STAMP_COUNT",
+      "number": 21
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MULTI_MINI_GAME_TOP",
+      "number": 800
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_WORK_START_COUNT",
+      "number": 22
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_WORK_TOP",
+      "number": 500
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_WORK_FINISH_COUNT",
+      "number": 23
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_WORK_TOP",
+      "number": 500
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_POSTER_SET_COUNT",
+      "number": 24
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_FACILITY",
+      "number": 704
+    },
+    "transition_id": "facility-a01-memoryboard"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_LIVE_STAMINA_CONSUMPTION",
+      "number": 26
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_SELECTION",
+      "number": 600
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_MINI_GAME_STAMINA_CONSUMPTION",
+      "number": 27
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_EXCHANGE_PURCHASE_COUNT",
+      "number": 28
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_FACILITY",
+      "number": 704
+    },
+    "transition_id": "facility-a01-exchangebooth"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CARD_LEVEL_LIMIT_BREAK_CARD_COUNT",
+      "number": 29
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CARD_CATALOG",
+      "number": 200
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 30
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CARD_CATALOG",
+      "number": 200
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_JUMP_ROPE_CLEAR_COUNT",
+      "number": 32
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "JUMP_ROPE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_COOKING_PUZZLE_CLEAR_COUNT",
+      "number": 33
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "COOKING_PUZZLE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CIRCUIT_TOP_RANK_COUNT",
+      "number": 34
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "CIRCUIT"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_JUMP_ROPE_MAX_CONTINUOUS_COUNT",
+      "number": 35
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "JUMP_ROPE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_COMBO_CARD_GAME_TOP_RANK_COUNT",
+      "number": 36
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "COMBO_CARD_GAME"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_JUMP_ROPE_MAX_COUNT",
+      "number": 37
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "JUMP_ROPE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_JUMP_ROPE_SUCCESS_JUMP_COUNT",
+      "number": 38
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "JUMP_ROPE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_JUMP_ROPE_FAILURE_JUMP_COUNT",
+      "number": 39
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "JUMP_ROPE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_COOKING_PUZZLE_MAX_COMPLETION_COUNT",
+      "number": 40
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "COOKING_PUZZLE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_COOKING_PUZZLE_COMPLETION_COUNT",
+      "number": 41
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "COOKING_PUZZLE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_COOKING_PUZZLE_STOCK_SPACE_OVERFLOW_COUNT",
+      "number": 42
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "COOKING_PUZZLE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_COOKING_PUZZLE_FOODSTUFF_COLLECTING_COUNT",
+      "number": 43
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "COOKING_PUZZLE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_MULTI_LIVE_HIGHEST_SCORE",
+      "number": 44
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MULTI_RHYTHM_GAME_TOP",
+      "number": 900
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_PARK_LOTTERY_DRAW_COUNT",
+      "number": 45
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_FACILITY",
+      "number": 704
+    },
+    "transition_id": "facility-a02-scratchstore"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_COOKING_PUZZLE_MAX_COMBO_COUNT",
+      "number": 46
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "COOKING_PUZZLE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_COMBO_CARD_GAME_RONNED_COUNT",
+      "number": 47
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "COMBO_CARD_GAME"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CIRCUIT_FALL_COUNT",
+      "number": 48
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "CIRCUIT"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_PARK_HIGH_LOW_REWARD_GET_QUANTITY",
+      "number": 49
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_FACILITY",
+      "number": 704
+    },
+    "transition_id": "facility-a02-highandlow"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_PARK_PHOTO_TAKE_COUNT",
+      "number": 50
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_MINI_GAME_HIGHEST_SCORE",
+      "number": 51
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CIRCUIT_CRASH_COUNT",
+      "number": 52
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "CIRCUIT"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CIRCUIT_DAMAGE_COUNT",
+      "number": 53
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "CIRCUIT"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_COMBO_CARD_GAME_SAME_CATEGORY_THREE_CARD_COUNT",
+      "number": 54
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "COMBO_CARD_GAME"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_PARK_PRINT_BOOTH_COUNT",
+      "number": 55
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_FACILITY",
+      "number": 704
+    },
+    "transition_id": "facility-a02-photobooth"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+      "number": 56
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_SELECTION",
+      "number": 600
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CHASE_WIN_COUNT",
+      "number": 57
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "CHASE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CHASE_PATROL_TEAM_RESTRAINT_COUNT",
+      "number": 58
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "CHASE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CHASE_MISCHIEF_TEAM_KEY_USE_COUNT",
+      "number": 59
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "CHASE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_PARK_FISHING_FISH_CAUGHT_COUNT",
+      "number": 60
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_SKILL_TREE_RELEASE_COUNT",
+      "number": 62
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CHARACTER_TOP",
+      "number": 300
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_PARK_QUEST_CLEAR_COUNT",
+      "number": 63
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_QUEST_INFO",
+      "number": 702
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_PARK_MISSION_ACTION_COUNT",
+      "number": 64
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CHASE_MISCHIEF_TEAM_RESTRAINED_COUNT",
+      "number": 65
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "CHASE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_CHASE_MISCHIEF_TEAM_LASER_GIMMICK_RELEASE_COUNT",
+      "number": 66
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "CHASE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_LOGIN_COUNT",
+      "number": 1000
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_LIVE_HIGHEST_SCORE",
+      "number": 1001
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_SELECTION",
+      "number": 600
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MISSION_CLEAR_COUNT",
+      "number": 1002
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_SKILL_TREE_RELEASE_COUNT",
+      "number": 1003
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CHARACTER_TOP",
+      "number": 300
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_CARD_LEVEL",
+      "number": 1004
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CARD_CATALOG",
+      "number": 200
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_CARD_LEVEL_COUNT",
+      "number": 1005
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CARD_CATALOG",
+      "number": 200
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_CARD_LEVEL_LIMIT_BREAK",
+      "number": 1007
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CARD_CATALOG",
+      "number": 200
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_CARD_UPGRADE_POTENTIAL",
+      "number": 1010
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CARD_CATALOG",
+      "number": 200
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_CHARACTER_GET_COUNT",
+      "number": 1011
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_QUEST_INFO",
+      "number": 702
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_PLAYER_LEVEL",
+      "number": 1012
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_LIVE_CLEAR_MUSIC_COUNT",
+      "number": 1014
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_SELECTION",
+      "number": 600
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_LIVE_FULL_COMBO_MUSIC_COUNT",
+      "number": 1015
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_SELECTION",
+      "number": 600
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_LIVE_ALL_PERFECT_MUSIC_COUNT",
+      "number": 1016
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_SELECTION",
+      "number": 600
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_ITEM_HAVING_COUNT",
+      "number": 1017
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_INVENTORY",
+      "number": 1300
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MISSION_PASS_POINT_HAVING_COUNT",
+      "number": 1018
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MISSION_PASS_TOP",
+      "number": 1500
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_CARD_GET_UNIQUE_COUNT",
+      "number": 1019
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_GACHA_TOP",
+      "number": 1800
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_PARK_QUEST_CLEAR_COUNT",
+      "number": 1020
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_QUEST_INFO",
+      "number": 702
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MINI_GAME_MAX_SCORE",
+      "number": 1021
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_LIVE_DECK_EVALUATION_VALUE",
+      "number": 1022
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_LIVE_DECK_EDIT",
+      "number": 400
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_FACILITY_LEVEL_UP_COUNT",
+      "number": 1025
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_CHARACTER_LEVEL",
+      "number": 1026
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CHARACTER_TOP",
+      "number": 300
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_CHARACTER_LEVEL_SUM",
+      "number": 1027
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CHARACTER_TOP",
+      "number": 300
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_CHARACTER_LEVEL_COUNT",
+      "number": 1028
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CHARACTER_TOP",
+      "number": 300
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_COSTUME_GET_COUNT",
+      "number": 1029
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_CHARACTER_VOICE_GET_COUNT",
+      "number": 1030
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_PARK_EMOTION_GET_COUNT",
+      "number": 1031
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_EMBLEM_GET_COUNT",
+      "number": 1032
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_STAMP_GET_COUNT",
+      "number": 1033
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_POSTER_GET_COUNT",
+      "number": 1034
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_ACHIEVEMENT_CLEAR_COUNT",
+      "number": 1035
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_ACHIEVEMENT_TOP",
+      "number": 1700
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_PARK_TREASURE_GET_COUNT",
+      "number": 1036
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_CONTINUOUS_LOGIN_COUNT",
+      "number": 1037
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_CARD_LEVEL_SUM_BY_CARD_ID",
+      "number": 1038
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CARD_CATALOG",
+      "number": 200
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_CARD_LEVEL_SUM_BY_CHARACTER_GROUPING",
+      "number": 1039
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CARD_CATALOG",
+      "number": 200
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MUSIC_RELEASE_COUNT_BY_MUSIC_ID",
+      "number": 1040
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_SHOP_SELECTION",
+      "number": 1200
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MUSIC_RELEASE_COUNT_BY_CHARACTER_ID",
+      "number": 1041
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_SHOP_SELECTION",
+      "number": 1200
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_COMBO_CARD_GAME_COMPLETION_ROLE_UNIQUE_COUNT",
+      "number": 1042
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "COMBO_CARD_GAME"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_PARK_TALK_FREE_UNIQUE_COUNT",
+      "number": 1043
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_PARK_FISHING_FISH_UNIQUE_COUNT",
+      "number": 1044
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_SKILL_TREE_MAX_RELEASE_COUNT",
+      "number": 1045
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_CHARACTER_TOP",
+      "number": 300
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MUSIC_HIGHEST_SCORE_RATING",
+      "number": 1046
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_HIGHEST_SCORE_RATING",
+      "number": 2003
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MARATHON_SCORE",
+      "number": 1047
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_EVENT_TOP",
+      "number": 2100
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MUSIC_HIGHEST_SCORE_RATING_CHARACTER_COUNT",
+      "number": 1048
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_HIGHEST_SCORE_RATING",
+      "number": 2003
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MUSIC_HIGHEST_SCORE_RATING_SUM",
+      "number": 1049
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_HIGHEST_SCORE_RATING",
+      "number": 2003
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MARATHON_LIVE_CLEAR_MUSIC_COUNT",
+      "number": 1050
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_MUSIC_SELECTION",
+      "number": 600
+    }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_CONDITION_SATISFY",
+      "number": 2000
+    }
+  }
+]

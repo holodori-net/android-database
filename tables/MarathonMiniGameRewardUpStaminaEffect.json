@@ -1,0 +1,98 @@
+[
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_JUMP_ROPE",
+      "number": 1
+    },
+    "consumption_rate": 1,
+    "marathon_score_provide_count": 6
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_JUMP_ROPE",
+      "number": 1
+    },
+    "consumption_rate": 2,
+    "marathon_score_provide_count": 12
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_JUMP_ROPE",
+      "number": 1
+    },
+    "consumption_rate": 3,
+    "marathon_score_provide_count": 17
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_JUMP_ROPE",
+      "number": 1
+    },
+    "consumption_rate": 4,
+    "marathon_score_provide_count": 22
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_JUMP_ROPE",
+      "number": 1
+    },
+    "consumption_rate": 5,
+    "marathon_score_provide_count": 26
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_JUMP_ROPE",
+      "number": 1
+    },
+    "consumption_rate": 6,
+    "marathon_score_provide_count": 30
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_COOKING_PUZZLE",
+      "number": 3
+    },
+    "consumption_rate": 1,
+    "marathon_score_provide_count": 6
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_COOKING_PUZZLE",
+      "number": 3
+    },
+    "consumption_rate": 2,
+    "marathon_score_provide_count": 11
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_COOKING_PUZZLE",
+      "number": 3
+    },
+    "consumption_rate": 3,
+    "marathon_score_provide_count": 15
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_CHASE",
+      "number": 5
+    },
+    "consumption_rate": 1,
+    "marathon_score_provide_count": 6
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_CHASE",
+      "number": 5
+    },
+    "consumption_rate": 2,
+    "marathon_score_provide_count": 11
+  },
+  {
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_CHASE",
+      "number": 5
+    },
+    "consumption_rate": 3,
+    "marathon_score_provide_count": 15
+  }
+]

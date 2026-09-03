@@ -1,0 +1,16 @@
+[
+  {
+    "skill_tree_effect_type": {
+      "name": "SKILL_TREE_EFFECT_TYPE_LIVE_SCORE_BONUS_ADD_PERMIL_UP_BY_MUSIC_SKILL_TREE_CHARACTER_AND_MUSIC_SINGER_TYPE",
+      "number": 19
+    },
+    "limit": "100"
+  },
+  {
+    "skill_tree_effect_type": {
+      "name": "SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+      "number": 20
+    },
+    "limit": "900"
+  }
+]

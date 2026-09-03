@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "max_user_count": 5,
+    "mini_game_reward_up_stamina_effect_group_id": "mini_game_reward_up_stamina_effect-jump_rope-01",
+    "respawn_recovery_coefficient": 0.03999999910593033,
+    "reward_up_stamina_consumption_unit": 15,
+    "random_match_min_user_count": 1,
+    "private_room_min_user_count": 2,
+    "random_match_start_time_limit_seconds": 30,
+    "multi_game_setup_time_limit_seconds": 30,
+    "multi_game_npc_min_continuous_jump_count": 10,
+    "multi_game_npc_max_continuous_jump_count": 20,
+    "play_log_upload_score": 250,
+    "max_jump_count": 999
+  }
+]

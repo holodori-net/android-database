@@ -1,0 +1,46 @@
+[
+  {
+    "end_rank": 1,
+    "rate_permil_multiply": 5000
+  },
+  {
+    "end_rank": 2,
+    "rate_permil_multiply": 3500
+  },
+  {
+    "end_rank": 3,
+    "rate_permil_multiply": 3000
+  },
+  {
+    "end_rank": 4,
+    "rate_permil_multiply": 2500
+  },
+  {
+    "end_rank": 5,
+    "rate_permil_multiply": 2000
+  },
+  {
+    "end_rank": 8,
+    "rate_permil_multiply": 1500
+  },
+  {
+    "end_rank": 12,
+    "rate_permil_multiply": 1000
+  },
+  {
+    "end_rank": 13,
+    "rate_permil_multiply": 900
+  },
+  {
+    "end_rank": 14,
+    "rate_permil_multiply": 850
+  },
+  {
+    "end_rank": 15,
+    "rate_permil_multiply": 800
+  },
+  {
+    "end_rank": 16,
+    "rate_permil_multiply": 750
+  }
+]

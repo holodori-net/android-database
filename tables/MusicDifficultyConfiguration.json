@@ -1,0 +1,30 @@
+[
+  {
+    "type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EASY",
+      "number": 1
+    },
+    "animation_combo_interval": 10
+  },
+  {
+    "type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_NORMAL",
+      "number": 2
+    },
+    "animation_combo_interval": 10
+  },
+  {
+    "type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_HARD",
+      "number": 3
+    },
+    "animation_combo_interval": 10
+  },
+  {
+    "type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EXPERT",
+      "number": 4
+    },
+    "animation_combo_interval": 10
+  }
+]

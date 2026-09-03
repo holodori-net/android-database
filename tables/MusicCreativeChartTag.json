@@ -1,0 +1,38 @@
+[
+  {
+    "id": "music_creative_chart_tag-art",
+    "name_lang_id": "la-music_creative_chart_tag-art",
+    "order": 5
+  },
+  {
+    "id": "music_creative_chart_tag-difficult",
+    "name_lang_id": "la-music_creative_chart_tag-difficult",
+    "order": 2
+  },
+  {
+    "id": "music_creative_chart_tag-expert",
+    "name_lang_id": "la-music_creative_chart_tag-expert",
+    "order": 6
+  },
+  {
+    "id": "music_creative_chart_tag-joke",
+    "name_lang_id": "la-music_creative_chart_tag-joke",
+    "order": 4
+  },
+  {
+    "id": "music_creative_chart_tag-official",
+    "name_lang_id": "la-music_creative_chart_tag-official",
+    "is_official": true,
+    "order": 99999
+  },
+  {
+    "id": "music_creative_chart_tag-standard",
+    "name_lang_id": "la-music_creative_chart_tag-standard",
+    "order": 1
+  },
+  {
+    "id": "music_creative_chart_tag-technique",
+    "name_lang_id": "la-music_creative_chart_tag-technique",
+    "order": 3
+  }
+]

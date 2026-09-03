@@ -1,0 +1,1610 @@
+[
+  {
+    "id": "tips-achievement",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-achievement-title",
+    "order": 1
+  },
+  {
+    "id": "tips-card-upgrade-potential",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-card-upgrade-potential-title",
+    "order": 1
+  },
+  {
+    "id": "tips-character-quest",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-character-quest-title",
+    "order": 1
+  },
+  {
+    "id": "tips-character-set",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-character-set-title",
+    "order": 1
+  },
+  {
+    "id": "tips-chase",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-chase-title",
+    "order": 1
+  },
+  {
+    "id": "tips-chase-quest",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-chase-quest-title",
+    "order": 1
+  },
+  {
+    "id": "tips-circuit",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-circuit-title",
+    "order": 1
+  },
+  {
+    "id": "tips-circuit-quest",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-circuit-title",
+    "order": 1
+  },
+  {
+    "id": "tips-combo-card-game",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-combo-card-game-title",
+    "order": 1
+  },
+  {
+    "id": "tips-combo-card-game-quest",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-combo-card-game-title",
+    "order": 1
+  },
+  {
+    "id": "tips-cooking-puzzle",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-cooking-puzzle-title",
+    "order": 1
+  },
+  {
+    "id": "tips-cooking-puzzle-quest",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-cooking-puzzle-title",
+    "order": 1
+  },
+  {
+    "id": "tips-creative-chart",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-creative-chart",
+    "order": 1
+  },
+  {
+    "id": "tips-exchange-area01",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-exchange-area01-title",
+    "order": 1
+  },
+  {
+    "id": "tips-exchange-area02-training-item",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-exchange-area02-training-item-title",
+    "order": 1
+  },
+  {
+    "id": "tips-exchange-coin-area02",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-exchange-coin-area02-title",
+    "order": 1
+  },
+  {
+    "id": "tips-game-event_portal",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game-event_portal-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_EVENT_PORTAL",
+      "number": 3700
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-achievement_top",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-achievement_top-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_ACHIEVEMENT_TOP",
+      "number": 2300
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-card_catalog",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-card_catalog-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_CARD_CATALOG",
+      "number": 300
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-character_top",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-character_top-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_CHARACTER_TOP",
+      "number": 400
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-chase",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-chase-title",
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-circuit",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-circuit-title",
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-combo-card-game",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-combo-card-game-title",
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-cooking-puzzle",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-cooking-puzzle-title",
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-creative-chart",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-creative-chart-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_MUSIC_CREATIVE_CHART_CREATE",
+      "number": 3202
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-friend_top",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-friend_top-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_FRIEND_TOP",
+      "number": 2800
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-high_score_rating",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-high_score_rating-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_HIGH_SCORE_RATING",
+      "number": 802
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-jump-rope-multi",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-jump-rope-multi-title",
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-jump-rope-top",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-jump-rope-top-title",
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-live_deck_edit",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-live_deck_edit-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_LIVE_DECK_EDIT",
+      "number": 600
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-membership_top",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-membership_top-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_MEMBERSHIP_TOP",
+      "number": 2200
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-mission_pass_top",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-mission_pass_top-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_MISSION_PASS_TOP",
+      "number": 2100
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-multi_mini_game_top",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-multi_mini_game_top-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_MULTI_MINI_GAME_TOP",
+      "number": 1000
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-multi_rhythm_game_lobby",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-multi_rhythm_game_lobby-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_MULTI_RHYTHM_GAME_LOBBY",
+      "number": 1102
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-multi_rhythm_game_top",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-multi_rhythm_game_top-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_MULTI_RHYTHM_GAME_TOP",
+      "number": 1100
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-music_shop_selection",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-music_shop_selection-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_MUSIC_SHOP_SELECTION",
+      "number": 1700
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-park_change_playable",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-park_change_playable-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_PARK_CHANGE_PLAYABLE",
+      "number": 903
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-park_high_low_top",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-park_high_low_top-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_PARK_HIGH_LOW",
+      "number": 910
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-park_poster_booth",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-park_poster_booth-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_PARK_POSTER_BOOTH",
+      "number": 911
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-park_quest_info",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-park_quest_info-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_PARK_QUEST_INFO",
+      "number": 904
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-score_ranking",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-score_ranking-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_SCORE_RANKING",
+      "number": 801
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-shop_top",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-shop_top-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_SHOP_TOP",
+      "number": 1300
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-skill_tree",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-skill_tree-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_SKILL_TREE",
+      "number": 1500
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-story_archive_top",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-story_archive_top-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_STORY_ARCHIVE_TOP",
+      "number": 2500
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-user_profile_top",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-user_profile_top-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_USER_PROFILE_TOP",
+      "number": 2000
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-work_top",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-work_top-title",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_WORK_TOP",
+      "number": 700
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-account_migration",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-account_migration-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_ACCOUNT_MIGRATION",
+      "number": 2200
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-card_detail_level_limit_break",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-card_detail_level_limit_break-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_CARD_DETAIL_LEVEL_LIMIT_BREAK",
+      "number": 1003
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-card_detail_level_up",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-card_detail_level_up-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_CARD_DETAIL_LEVEL_UP",
+      "number": 1002
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-card_detail_live_skill",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-card_detail_live_skill-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_CARD_DETAIL_LIVE_SKILL",
+      "number": 1004
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-card_detail_skill_tree_connect_effect",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-card_detail_skill_tree_connect_effect-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_CARD_DETAIL_SKILL_TREE_CONNECT_EFFECT",
+      "number": 1000
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-character_level_exp",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-character_level_exp-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_CHARACTER_LEVEL_EXP",
+      "number": 2000
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_card_leveling",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_card_leveling-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_CARD_LEVELING",
+      "number": 4
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_deck_evaluation_value_not_reached",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_deck_evaluation_value_not_reached-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_DECK_EVALUATION_VALUE_NOT_REACHED",
+      "number": 2
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_leader_skill_not_activated",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_leader_skill_not_activated-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_LEADER_SKILL_NOT_ACTIVATED",
+      "number": 1
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_live_deck_evaluation",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_live_deck_evaluation-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_LIVE_DECK_EVALUATION",
+      "number": 6
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_multi_live_cooperation_auto_play_allow",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_multi_live_cooperation_auto_play_allow-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_MULTI_LIVE_COOPERATION_AUTO_PLAY_ALLOW",
+      "number": 7
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_brightness_setting",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_brightness_setting-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_BRIGHTNESS_SETTING",
+      "number": 103
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_active_skill_display",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_active_skill_display-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_ACTIVE_SKILL_DISPLAY",
+      "number": 415
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_background_display_illustration_setting",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_background_display_illustration_setting-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_BACKGROUND_DISPLAY_ILLUSTRATION_SETTING",
+      "number": 418
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_background_mode_setting",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_background_mode_setting-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_BACKGROUND_MODE_SETTING",
+      "number": 417
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_combo_continuation_display",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_combo_continuation_display-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_COMBO_CONTINUATION_DISPLAY",
+      "number": 403
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_fast_slow_display",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_fast_slow_display-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_FAST_SLOW_DISPLAY",
+      "number": 402
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_fever_effect_setting",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_fever_effect_setting-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_FEVER_EFFECT_SETTING",
+      "number": 400
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_fps_sync",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_fps_sync-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_FPS_SYNC",
+      "number": 411
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_key_beam",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_key_beam-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_KEY_BEAM",
+      "number": 407
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_leader_skill_display",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_leader_skill_display-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_LEADER_SKILL_DISPLAY",
+      "number": 416
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_measure_line_display",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_measure_line_display-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_MEASURE_LINE_DISPLAY",
+      "number": 405
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_rhythm_support",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_rhythm_support-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_RHYTHM_SUPPORT",
+      "number": 406
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_screen_fps_setting",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_screen_fps_setting-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SCREEN_FPS_SETTING",
+      "number": 409
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_screen_lock",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_screen_lock-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SCREEN_LOCK",
+      "number": 410
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_simultaneous_press_line",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_simultaneous_press_line-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SIMULTANEOUS_PRESS_LINE",
+      "number": 404
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_skill_effect_above_judgement_text",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_skill_effect_above_judgement_text-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SKILL_EFFECT_ABOVE_JUDGEMENT_TEXT",
+      "number": 408
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_slideshow_switch_time",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_slideshow_switch_time-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SLIDESHOW_SWITCH_TIME",
+      "number": 419
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_special_skill_background_display",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_special_skill_background_display-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SPECIAL_SKILL_BACKGROUND_DISPLAY",
+      "number": 414
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_special_skill_effect_display",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_special_skill_effect_display-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SPECIAL_SKILL_EFFECT_DISPLAY",
+      "number": 412
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_special_skill_illustration_display",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_special_skill_illustration_display-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SPECIAL_SKILL_ILLUSTRATION_DISPLAY",
+      "number": 413
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_tap_effect",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_tap_effect-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_TAP_EFFECT",
+      "number": 421
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_detail_tap_vibration",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_tap_vibration-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_TAP_VIBRATION",
+      "number": 401
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_key_config_lane",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_key_config_lane-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_KEY_CONFIG_LANE",
+      "number": 600
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_key_config_other",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_key_config_other-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_KEY_CONFIG_OTHER",
+      "number": 699
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_lane_bottom_cut",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_lane_bottom_cut-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_LANE_BOTTOM_CUT",
+      "number": 108
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_lane_setting",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_lane_setting-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_LANE_JUDGEMENT_LINE_POSITION",
+      "number": 106
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_lane_top_cut",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_lane_top_cut-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_LANE_TOP_CUT",
+      "number": 107
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_mirror_chart",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_mirror_chart-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_MIRROR_CHART",
+      "number": 104
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_music_mv_setting",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_music_mv_setting-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_MUSIC_MV_SETTING_DATA_SAVE",
+      "number": 105
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_music_timing_adjustment",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_music_timing_adjustment-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_MUSIC_TIMING_ADJUSTMENT",
+      "number": 102
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_note_speed",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_note_speed-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_NOTE_SPEED",
+      "number": 100
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_skin_combo",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_skin_combo-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_SKIN_COMBO",
+      "number": 203
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_skin_header",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_skin_header-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_SKIN_HEADER",
+      "number": 201
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_skin_judgement_text",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_skin_judgement_text-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_SKIN_JUDGEMENT_TEXT",
+      "number": 204
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_skin_lane",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_skin_lane-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_SKIN_LANE",
+      "number": 202
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_skin_normal_background_customize",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_skin_normal_background_customize-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_SKIN_NORMAL_BACKGROUND_CUSTOMIZE",
+      "number": 206
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_skin_note",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_skin_note-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_SKIN_NOTE",
+      "number": 200
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_skin_tap_effect_type",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_skin_tap_effect_type-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_SKIN_TAP_EFFECT",
+      "number": 205
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_sound_effect",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_sound_effect-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_SOUND_EFFECT",
+      "number": 302
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_sound_music",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_sound_music-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_SOUND_MUSIC",
+      "number": 301
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_sound_skill_se",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_sound_skill_se-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_SOUND_SKILL_SE",
+      "number": 305
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_sound_skill_voice",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_sound_skill_voice-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_SOUND_SKILL_VOICE_SOUND",
+      "number": 304
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_sound_tap",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_sound_tap-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_SOUND_TAP",
+      "number": 300
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_sound_voice_sound",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_sound_voice_sound-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_SOUND_VOICE_SOUND",
+      "number": 303
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_timing_adjustment",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_timing_adjustment-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_JUDGEMENT_TIMING_ADJUSTMENT",
+      "number": 101
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_reward_up_stamina",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_reward_up_stamina-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_REWARD_UP_STAMINA",
+      "number": 5
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_skill_tree_released",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_skill_tree_released-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_SKILL_TREE_RELEASED",
+      "number": 3
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-marathon_mission",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-marathon_mission-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_EVENT_MARATHON_NORMAL_PART2",
+      "number": 2101
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-marathon_nomal",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-marathon_nomal",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_EVENT_MARATHON_NORMAL_PART1",
+      "number": 2100
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-marathon_relay",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-marathon_relay-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_EVENT_MARATHON_RELAY",
+      "number": 2102
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-mini_game_reward_up_stamina",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-mini_game_reward_up_stamina-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_MINI_GAME_REWARD_UP_STAMINA",
+      "number": 500
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_CARD_LIST_LIVE_DECK_POWER_PERMIRIAD_UP_BY_LEVEL_UP",
+      "number": 1001
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-instant_tips-present-facerock-2",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-instant_tips-present-facerock-2-title",
+    "order": 1
+  },
+  {
+    "id": "tips-instant_tips-present-prison-2",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-instant_tips-present-prison-2-title",
+    "order": 1
+  },
+  {
+    "id": "tips-instant_tips-random_reward-livehouse-2",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-instant_tips-random_reward-livehouse-2-title",
+    "order": 1
+  },
+  {
+    "id": "tips-jump-rope",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-jump-rope-title",
+    "order": 1
+  },
+  {
+    "id": "tips-jump-rope-quest",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-jump-rope-title",
+    "order": 1
+  },
+  {
+    "id": "tips-live",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-live-title",
+    "order": 1
+  },
+  {
+    "id": "tips-lottery-area02-scratch",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-lottery-area02-scratch-title",
+    "order": 1
+  },
+  {
+    "id": "tips-mission-pass",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-mission-pass-title",
+    "order": 1
+  },
+  {
+    "id": "tips-multi-game",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-multi-game-title",
+    "order": 1
+  },
+  {
+    "id": "tips-multi-live",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-multi-live-title",
+    "order": 1
+  },
+  {
+    "id": "tips-multi-mini_game",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-multi-mini_game-title",
+    "order": 1
+  },
+  {
+    "id": "tips-music_highest_score_ranking",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-music_highest_score_ranking",
+    "order": 1
+  },
+  {
+    "id": "tips-operation",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-operation-title",
+    "order": 1
+  },
+  {
+    "id": "tips-park-character-shop-area01-balloon",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-character-shop-area01-balloon-title",
+    "order": 1
+  },
+  {
+    "id": "tips-park-character-shop-area01-candy",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-character-shop-area01-candy-title",
+    "order": 1
+  },
+  {
+    "id": "tips-park-character-shop-area01-pen-light",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-character-shop-area01-pen-light-title",
+    "order": 1
+  },
+  {
+    "id": "tips-park-character-shop-area02-hair-accessory",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-character-shop-area02-hair-accessory-title",
+    "order": 1
+  },
+  {
+    "id": "tips-park-high-low-area02",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-high-low-area02-title",
+    "order": 1
+  },
+  {
+    "id": "tips-park-lottery-area02-gachapon",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-lottery-area02-gachapon-title",
+    "order": 1
+  },
+  {
+    "id": "tips-park-print-booth-area02",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-print-booth-area02-title",
+    "order": 1
+  },
+  {
+    "id": "tips-park-select-area02",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-select-area02-title",
+    "order": 1
+  },
+  {
+    "id": "tips-park-time-period",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-time-period-title",
+    "order": 1
+  },
+  {
+    "id": "tips-poster",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-poster-title",
+    "order": 1
+  },
+  {
+    "id": "tips-present",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-present-title",
+    "order": 1
+  },
+  {
+    "id": "tips-quest-daily",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-quest-daily-title",
+    "order": 1
+  },
+  {
+    "id": "tips-random_symbol",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-random_symbol-title",
+    "order": 1
+  },
+  {
+    "id": "tips-retracable-gacha",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-retracable-gacha-title",
+    "order": 1
+  },
+  {
+    "id": "tips-rhythm-game",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-rhythm-game-title",
+    "order": 1
+  },
+  {
+    "id": "tips-skill-tree",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-skill-tree-title",
+    "order": 1
+  },
+  {
+    "id": "tips-story",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-story-title",
+    "order": 1
+  },
+  {
+    "id": "tips-work",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-work-title",
+    "order": 1
+  }
+]

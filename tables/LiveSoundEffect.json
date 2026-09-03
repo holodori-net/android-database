@@ -1,0 +1,27 @@
+[
+  {
+    "id": "live_sound_effect-default_001",
+    "name_lang_id": "la-live_sound_effect-default_001",
+    "asset_id": "default-001",
+    "is_default": true,
+    "order": 1
+  },
+  {
+    "id": "live_sound_effect-default_002",
+    "name_lang_id": "la-live_sound_effect-default_002",
+    "asset_id": "default-002",
+    "order": 2
+  },
+  {
+    "id": "live_sound_effect-default_003",
+    "name_lang_id": "la-live_sound_effect-default_003",
+    "asset_id": "default-003",
+    "order": 3
+  },
+  {
+    "id": "live_sound_effect-default_004",
+    "name_lang_id": "la-live_sound_effect-default_004",
+    "asset_id": "default-004",
+    "order": 4
+  }
+]

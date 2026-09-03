@@ -1,0 +1,35 @@
+[
+  {
+    "id": "combo-card_normal_001",
+    "play_type": {
+      "name": "COMBO_CARD_GAME_PLAY_TYPE_NORMAL",
+      "number": 1
+    },
+    "start_time": "946652400000",
+    "combo_card_game_card_group_id": "combo-card_card-group_001",
+    "game_start_display_clear_condition_lang_id": "la-combo_card_game-game_start_display_clear_condition_lang-default",
+    "game_playing_display_clear_condition_lang_id": "la-combo_card_game-game_playing_display_clear_condition_lang-default"
+  },
+  {
+    "id": "combo-card_park_quest_play",
+    "play_type": {
+      "name": "COMBO_CARD_GAME_PLAY_TYPE_PARK_QUEST",
+      "number": 2
+    },
+    "start_time": "946652400000",
+    "combo_card_game_card_group_id": "combo-card_card-group_001",
+    "game_start_display_clear_condition_lang_id": "la-combo_card_game-game_start_display_clear_condition_lang-play",
+    "game_playing_display_clear_condition_lang_id": "la-combo_card_game-game_playing_display_clear_condition_lang-play"
+  },
+  {
+    "id": "combo-card_park_quest_rank",
+    "play_type": {
+      "name": "COMBO_CARD_GAME_PLAY_TYPE_PARK_QUEST",
+      "number": 2
+    },
+    "start_time": "946652400000",
+    "combo_card_game_card_group_id": "combo-card_card-group_001",
+    "game_start_display_clear_condition_lang_id": "la-combo_card_game-game_start_display_clear_condition_lang-rank",
+    "game_playing_display_clear_condition_lang_id": "la-combo_card_game-game_playing_display_clear_condition_lang-rank"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "la-feature_lock-achievement-description",
+    "text": "解放条件：メインクエスト6話クリア"
+  },
+  {
+    "id": "la-feature_lock-achievement-title",
+    "text": "アチーブメント"
+  },
+  {
+    "id": "la-feature_lock-card-title",
+    "text": "メンバー"
+  },
+  {
+    "id": "la-feature_lock-card_level_limit_break-description",
+    "text": "解放条件：メインクエスト2章3話クリア"
+  },
+  {
+    "id": "la-feature_lock-card_level_limit_break-title",
+    "text": "メンバー特訓"
+  },
+  {
+    "id": "la-feature_lock-character-title",
+    "text": "ホロメン"
+  },
+  {
+    "id": "la-feature_lock-chase",
+    "text": "くらやみチェイス"
+  },
+  {
+    "id": "la-feature_lock-circuit-title",
+    "text": "メガサーキット"
+  },
+  {
+    "id": "la-feature_lock-combo_card_game-title",
+    "text": "ポカジャン！"
+  },
+  {
+    "id": "la-feature_lock-cooking_puzzle-title",
+    "text": "そろえてクッキング"
+  },
+  {
+    "id": "la-feature_lock-event-title",
+    "text": "イベント"
+  },
+  {
+    "id": "la-feature_lock-exchange-title",
+    "text": "ねぽらぼマート"
+  },
+  {
+    "id": "la-feature_lock-friend-description",
+    "text": "解放条件：メインクエスト4話クリア"
+  },
+  {
+    "id": "la-feature_lock-friend-title",
+    "text": "フレンド"
+  },
+  {
+    "id": "la-feature_lock-gacha-title",
+    "text": "ガチャ"
+  },
+  {
+    "id": "la-feature_lock-jump_rope-title",
+    "text": "ホッピン・ロープ"
+  },
+  {
+    "id": "la-feature_lock-live-title",
+    "text": "ライブ"
+  },
+  {
+    "id": "la-feature_lock-menu-title",
+    "text": "メニュー"
+  },
+  {
+    "id": "la-feature_lock-mini_game_convert_reward_up_stamina_to_bet_coin-title",
+    "text": "メガスフィアコイン交換所"
+  },
+  {
+    "id": "la-feature_lock-mission_pass-description",
+    "text": "解放条件：メインクエスト5話クリア"
+  },
+  {
+    "id": "la-feature_lock-mission_pass-title",
+    "text": "ミッションパス"
+  },
+  {
+    "id": "la-feature_lock-multi_game-title",
+    "text": "マルチプレイ"
+  },
+  {
+    "id": "la-feature_lock-multi_game_invitation-description",
+    "text": "解放条件：メインクエスト4話クリア"
+  },
+  {
+    "id": "la-feature_lock-multi_game_invitation-title",
+    "text": "招待"
+  },
+  {
+    "id": "la-feature_lock-multi_game_live",
+    "text": "解放条件：メインクエスト4話クリア"
+  },
+  {
+    "id": "la-feature_lock-music_highest_score_ranking-description",
+    "text": "解放条件：メインクエスト12話クリア"
+  },
+  {
+    "id": "la-feature_lock-music_highest_score_ranking-title",
+    "text": "ハイスコアランキング"
+  },
+  {
+    "id": "la-feature_lock-music_highest_score_rating_ranking-description",
+    "text": "解放条件：メインクエスト12話クリア"
+  },
+  {
+    "id": "la-feature_lock-music_highest_score_rating_ranking-title",
+    "text": "ハイスコアレーティングランキング"
+  },
+  {
+    "id": "la-feature_lock-park_area_quest-title",
+    "text": "エリアクエスト"
+  },
+  {
+    "id": "la-feature_lock-park_character_quest-title",
+    "text": "ホロメンクエスト"
+  },
+  {
+    "id": "la-feature_lock-park_character_quest_invitation-description",
+    "text": "解放条件：ホロメンクエストでホロメンを1人解放"
+  },
+  {
+    "id": "la-feature_lock-park_character_quest_invitation-title",
+    "text": "ホロメン招待"
+  },
+  {
+    "id": "la-feature_lock-park_character_set-title",
+    "text": "ホロメン変更"
+  },
+  {
+    "id": "la-feature_lock-park_character_shop_balloon-title",
+    "text": "フーセンショップ"
+  },
+  {
+    "id": "la-feature_lock-park_character_shop_candy-title",
+    "text": "キャンディショップ"
+  },
+  {
+    "id": "la-feature_lock-park_character_shop_pen_light-title",
+    "text": "ペンライトショップ"
+  },
+  {
+    "id": "la-feature_lock-park_daily_quest-title",
+    "text": "デイリークエスト"
+  },
+  {
+    "id": "la-feature_lock-park_emotion-title",
+    "text": "エモート"
+  },
+  {
+    "id": "la-feature_lock-park_high_low-title",
+    "text": "カードオブグリード"
+  },
+  {
+    "id": "la-feature_lock-park_lottery_gachapon-title",
+    "text": "カプセルコング"
+  },
+  {
+    "id": "la-feature_lock-park_lottery_scratch-title",
+    "text": "ロトリー・ちゃまちゃマックス"
+  },
+  {
+    "id": "la-feature_lock-park_map-title",
+    "text": "マップ"
+  },
+  {
+    "id": "la-feature_lock-park_notification",
+    "text": "-"
+  },
+  {
+    "id": "la-feature_lock-park_photo_mode-title",
+    "text": "撮影モード"
+  },
+  {
+    "id": "la-feature_lock-park_print_booth-title",
+    "text": "メガプリ"
+  },
+  {
+    "id": "la-feature_lock-park_time_period-title",
+    "text": "時間変更"
+  },
+  {
+    "id": "la-feature_lock-poster-title",
+    "text": "メモリー"
+  },
+  {
+    "id": "la-feature_lock-skill_tree-description",
+    "text": "解放条件：メインクエスト6話クリア"
+  },
+  {
+    "id": "la-feature_lock-skill_tree-title",
+    "text": "ホロメンボード"
+  },
+  {
+    "id": "la-feature_lock-story-title",
+    "text": "シアター"
+  },
+  {
+    "id": "la-feature_lock-work-title",
+    "text": "ホロワーク"
+  },
+  {
+    "id": "la-tips-exchange-area02-training-item-title",
+    "text": "素材変換所"
+  },
+  {
+    "id": "la-tips-park-character-shop-area02-hair-accessory-title",
+    "text": "シルクハットショップ"
+  }
+]

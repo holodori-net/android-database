@@ -1,0 +1,159 @@
+[
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_LEADER",
+      "number": 1
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_CONNECTION",
+      "number": 1
+    },
+    "priority_ratio_permil": 1100
+  },
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_LEADER",
+      "number": 1
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_LEADER",
+      "number": 2
+    },
+    "priority_ratio_permil": 1000
+  },
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_LEADER",
+      "number": 1
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_CARD",
+      "number": 3
+    }
+  },
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_LEADER",
+      "number": 1
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_ALL_MEMBER",
+      "number": 4
+    }
+  },
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_LEADER",
+      "number": 1
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_CONTENT",
+      "number": 5
+    }
+  },
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_MEMBER",
+      "number": 2
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_CONNECTION",
+      "number": 1
+    },
+    "priority_ratio_permil": 1100
+  },
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_MEMBER",
+      "number": 2
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_LEADER",
+      "number": 2
+    }
+  },
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_MEMBER",
+      "number": 2
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_CARD",
+      "number": 3
+    },
+    "priority_ratio_permil": 1000
+  },
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_MEMBER",
+      "number": 2
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_ALL_MEMBER",
+      "number": 4
+    }
+  },
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_MEMBER",
+      "number": 2
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_CONTENT",
+      "number": 5
+    }
+  },
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_SUPPORT",
+      "number": 3
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_CONNECTION",
+      "number": 1
+    },
+    "priority_ratio_permil": 1100
+  },
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_SUPPORT",
+      "number": 3
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_LEADER",
+      "number": 2
+    }
+  },
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_SUPPORT",
+      "number": 3
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_CARD",
+      "number": 3
+    }
+  },
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_SUPPORT",
+      "number": 3
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_ALL_MEMBER",
+      "number": 4
+    },
+    "priority_ratio_permil": 1500
+  },
+  {
+    "auto_selection_type": {
+      "name": "SKILL_TREE_AUTO_SELECTION_TYPE_SUPPORT",
+      "number": 3
+    },
+    "node_type": {
+      "name": "SKILL_TREE_NODE_TYPE_CONTENT",
+      "number": 5
+    },
+    "priority_ratio_permil": 1000
+  }
+]

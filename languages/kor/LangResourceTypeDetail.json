@@ -1,0 +1,198 @@
+[
+  {
+    "id": "la-resource_type_detail-appealtext",
+    "text": "-"
+  },
+  {
+    "id": "la-resource_type_detail-card-description",
+    "text": "라이브에서 편성 가능한 멤버입니다."
+  },
+  {
+    "id": "la-resource_type_detail-card-name",
+    "text": "멤버"
+  },
+  {
+    "id": "la-resource_type_detail-character-description",
+    "text": "조작 가능한 holo멤입니다."
+  },
+  {
+    "id": "la-resource_type_detail-character-name",
+    "text": "holo멤버"
+  },
+  {
+    "id": "la-resource_type_detail-costume-description",
+    "text": "holo멤이 착용할 수 있는 의상입니다."
+  },
+  {
+    "id": "la-resource_type_detail-costume-name",
+    "text": "라이브 의상"
+  },
+  {
+    "id": "la-resource_type_detail-custom_palette_decoration-description",
+    "text": "커스텀 프로필에 설정할 수 있는 데코레이션입니다."
+  },
+  {
+    "id": "la-resource_type_detail-custom_palette_decoration-name",
+    "text": "커스텀 파츠"
+  },
+  {
+    "id": "la-resource_type_detail-emblem-description",
+    "text": "프로필에 설정하는 칭호입니다."
+  },
+  {
+    "id": "la-resource_type_detail-emblem-name",
+    "text": "칭호"
+  },
+  {
+    "id": "la-resource_type_detail-fan_mark-description",
+    "text": "멤버십에 가입하면 사용할 수 있는 팬 마크입니다."
+  },
+  {
+    "id": "la-resource_type_detail-fan_mark-name",
+    "text": "팬 마크"
+  },
+  {
+    "id": "la-resource_type_detail-gacha_point-description",
+    "text": "뽑기로 획득할 수 있는 포인트입니다."
+  },
+  {
+    "id": "la-resource_type_detail-gacha_point-name",
+    "text": "뽑기 Pt"
+  },
+  {
+    "id": "la-resource_type_detail-item-description",
+    "text": "각종 아이템입니다."
+  },
+  {
+    "id": "la-resource_type_detail-item-name",
+    "text": "아이템"
+  },
+  {
+    "id": "la-resource_type_detail-live_skin-description",
+    "text": "라이브 스킨의 외관을 변경하는 스킨입니다."
+  },
+  {
+    "id": "la-resource_type_detail-live_skin-name",
+    "text": "라이브 스킨"
+  },
+  {
+    "id": "la-resource_type_detail-mission_pass_point-description",
+    "text": "미션 패스를 진행하기 위한 Pt입니다."
+  },
+  {
+    "id": "la-resource_type_detail-mission_pass_point-name",
+    "text": "미션 패스 Pt"
+  },
+  {
+    "id": "la-resource_type_detail-music-description",
+    "text": "라이브에서 플레이할 수 있는 악곡입니다."
+  },
+  {
+    "id": "la-resource_type_detail-music-name",
+    "text": "악곡"
+  },
+  {
+    "id": "la-resource_type_detail-park_accessory-description",
+    "text": "파크에서 holo멤이 소지할 수 있는 아이템입니다."
+  },
+  {
+    "id": "la-resource_type_detail-park_accessory-name",
+    "text": "Holo멤 아이템"
+  },
+  {
+    "id": "la-resource_type_detail-park_emotion-description",
+    "text": "파크나 미니 게임에서 사용할 수 있는 이모트입니다."
+  },
+  {
+    "id": "la-resource_type_detail-park_emotion-name",
+    "text": "파크 이모트"
+  },
+  {
+    "id": "la-resource_type_detail-player_exp-description",
+    "text": "플레이어의 레벨 업에 필요한 아이템입니다."
+  },
+  {
+    "id": "la-resource_type_detail-player_exp-name",
+    "text": "드림 Exp"
+  },
+  {
+    "id": "la-resource_type_detail-poster-description",
+    "text": "파크의 메모리 스탠드에 설정할 수 있는 메모리입니다."
+  },
+  {
+    "id": "la-resource_type_detail-poster-name",
+    "text": "메모리"
+  },
+  {
+    "id": "la-resource_type_detail-premium_mission_pass-description",
+    "text": "상점에서 구매할 수 있는 미션 패스입니다."
+  },
+  {
+    "id": "la-resource_type_detail-premium_mission_pass-name",
+    "text": "프리미엄 미션 패스"
+  },
+  {
+    "id": "la-resource_type_detail-sd_costume-description",
+    "text": "파크나 미니 게임에서 착용할 수 있는 의상입니다."
+  },
+  {
+    "id": "la-resource_type_detail-sd_costume-name",
+    "text": "파크 의상"
+  },
+  {
+    "id": "la-resource_type_detail-sd_costume_hair_accessory-description",
+    "text": "파크나 미니 게임에서 착용할 수 있는 헤어 액세서리입니다."
+  },
+  {
+    "id": "la-resource_type_detail-sd_costume_hair_accessory-name",
+    "text": "헤어 액세서리"
+  },
+  {
+    "id": "la-resource_type_detail-set-description",
+    "text": "-"
+  },
+  {
+    "id": "la-resource_type_detail-set-name",
+    "text": "세트"
+  },
+  {
+    "id": "la-resource_type_detail-skill_tree_point-description",
+    "text": "Holo멤버 보드 개방에 사용할 수 있습니다"
+  },
+  {
+    "id": "la-resource_type_detail-skill_tree_point-name",
+    "text": "Holo멤버 보드 Pt"
+  },
+  {
+    "id": "la-resource_type_detail-stamp-description",
+    "text": "멀티 플레이 시 등에 사용할 수 있는 스탬프입니다."
+  },
+  {
+    "id": "la-resource_type_detail-stamp-name",
+    "text": "이모티콘"
+  },
+  {
+    "id": "la-resource_type_detail-stone_paid_only-description",
+    "text": "뽑기나 아이템 구매 등에 사용할 수 있는 아이템입니다."
+  },
+  {
+    "id": "la-resource_type_detail-stone_paid_only-name",
+    "text": "블루 다이아"
+  },
+  {
+    "id": "la-resource_type_detail-stone_total-description",
+    "text": "뽑기나 아이템 구매 등에 사용할 수 있는 아이템입니다."
+  },
+  {
+    "id": "la-resource_type_detail-stone_total-name",
+    "text": "레드 다이아"
+  },
+  {
+    "id": "la-resource_type_detail-wallpaper-description",
+    "text": "메가 스피어의 메가프리에서 사용 가능한 아이템입니다."
+  },
+  {
+    "id": "la-resource_type_detail-wallpaper-name",
+    "text": "배경 벽지"
+  }
+]

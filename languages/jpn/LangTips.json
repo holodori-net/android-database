@@ -1,0 +1,546 @@
+[
+  {
+    "id": "la-tips-achievement-title",
+    "text": "アチーブメント"
+  },
+  {
+    "id": "la-tips-card-upgrade-potential-title",
+    "text": "メンバー特訓"
+  },
+  {
+    "id": "la-tips-character-quest-title",
+    "text": "ホロメンクエスト"
+  },
+  {
+    "id": "la-tips-character-set-title",
+    "text": "操作ホロメン変更"
+  },
+  {
+    "id": "la-tips-chase-quest-title",
+    "text": "くらやみチェイス"
+  },
+  {
+    "id": "la-tips-chase-title",
+    "text": "くらやみチェイス"
+  },
+  {
+    "id": "la-tips-circuit-title",
+    "text": "メガサーキット"
+  },
+  {
+    "id": "la-tips-combo-card-game-title",
+    "text": "ポカジャン！"
+  },
+  {
+    "id": "la-tips-cooking-puzzle-title",
+    "text": "そろえてクッキング"
+  },
+  {
+    "id": "la-tips-creative-chart",
+    "text": "クリエイト譜面"
+  },
+  {
+    "id": "la-tips-exchange-area01-title",
+    "text": "ねぽらぼマート"
+  },
+  {
+    "id": "la-tips-exchange-area02-training-item-title",
+    "text": "素材変換所"
+  },
+  {
+    "id": "la-tips-exchange-coin-area02-title",
+    "text": "メガスフィアコイン交換所"
+  },
+  {
+    "id": "la-tips-game-event_portal-title",
+    "text": "イベントポータル"
+  },
+  {
+    "id": "la-tips-game_screen-achievement_top-title",
+    "text": "アチーブメント"
+  },
+  {
+    "id": "la-tips-game_screen-card_catalog-title",
+    "text": "メンバー"
+  },
+  {
+    "id": "la-tips-game_screen-character_top-title",
+    "text": "ホロメン"
+  },
+  {
+    "id": "la-tips-game_screen-chase-title",
+    "text": "くらやみチェイス"
+  },
+  {
+    "id": "la-tips-game_screen-circuit-title",
+    "text": "メガサーキット"
+  },
+  {
+    "id": "la-tips-game_screen-combo-card-game-title",
+    "text": "ポカジャン！"
+  },
+  {
+    "id": "la-tips-game_screen-cooking-puzzle-title",
+    "text": "そろえてクッキング"
+  },
+  {
+    "id": "la-tips-game_screen-creative-chart-title",
+    "text": "クリエイト譜面"
+  },
+  {
+    "id": "la-tips-game_screen-friend_top-title",
+    "text": "フレンド"
+  },
+  {
+    "id": "la-tips-game_screen-high_score_rating-title",
+    "text": "ホロメンスコアレート"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-multi-title",
+    "text": "ホッピン・ロープ"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-top-title",
+    "text": "ホッピン・ロープ"
+  },
+  {
+    "id": "la-tips-game_screen-live_deck_edit-title",
+    "text": "ユニット編成"
+  },
+  {
+    "id": "la-tips-game_screen-membership_top-title",
+    "text": "メンバーシップ"
+  },
+  {
+    "id": "la-tips-game_screen-mission_pass_top-title",
+    "text": "ミッションパス"
+  },
+  {
+    "id": "la-tips-game_screen-multi_mini_game_top-title",
+    "text": "マルチミニゲーム"
+  },
+  {
+    "id": "la-tips-game_screen-multi_rhythm_game_lobby-title",
+    "text": "みんなでLIVE"
+  },
+  {
+    "id": "la-tips-game_screen-multi_rhythm_game_top-title",
+    "text": "みんなでLIVE"
+  },
+  {
+    "id": "la-tips-game_screen-music_shop_selection-title",
+    "text": "楽曲ショップ"
+  },
+  {
+    "id": "la-tips-game_screen-park_change_playable-title",
+    "text": "ホロメン変更"
+  },
+  {
+    "id": "la-tips-game_screen-park_high_low_top-title",
+    "text": "ハイ&ロー"
+  },
+  {
+    "id": "la-tips-game_screen-park_poster_booth-title",
+    "text": "メモリー"
+  },
+  {
+    "id": "la-tips-game_screen-park_quest_info-title",
+    "text": "クエスト"
+  },
+  {
+    "id": "la-tips-game_screen-score_ranking-title",
+    "text": "スコアランキング"
+  },
+  {
+    "id": "la-tips-game_screen-shop_top-title",
+    "text": "ショップ"
+  },
+  {
+    "id": "la-tips-game_screen-skill_tree-title",
+    "text": "ホロメンボード"
+  },
+  {
+    "id": "la-tips-game_screen-story_archive_top-title",
+    "text": "シアター"
+  },
+  {
+    "id": "la-tips-game_screen-user_profile_top-title",
+    "text": "プロフィール"
+  },
+  {
+    "id": "la-tips-game_screen-work_top-title",
+    "text": "ホロワーク"
+  },
+  {
+    "id": "la-tips-hint-account_migration-title",
+    "text": "アカウント連携"
+  },
+  {
+    "id": "la-tips-hint-card_detail_level_limit_break-title",
+    "text": "特訓"
+  },
+  {
+    "id": "la-tips-hint-card_detail_level_up-title",
+    "text": "レベルアップ"
+  },
+  {
+    "id": "la-tips-hint-card_detail_live_skill-title",
+    "text": "スキル"
+  },
+  {
+    "id": "la-tips-hint-card_detail_skill_tree_connect_effect-title",
+    "text": "コネクト効果"
+  },
+  {
+    "id": "la-tips-hint-character_level_exp-title",
+    "text": "ホロメンランク"
+  },
+  {
+    "id": "la-tips-hint-live_card_leveling-title",
+    "text": "メンバーを育成しよう！"
+  },
+  {
+    "id": "la-tips-hint-live_deck_evaluation_value_not_reached-title",
+    "text": "ユニットスコアを上げよう！"
+  },
+  {
+    "id": "la-tips-hint-live_leader_skill_not_activated-title",
+    "text": "衣装スキルを発動させよう！"
+  },
+  {
+    "id": "la-tips-hint-live_live_deck_evaluation-title",
+    "text": "ユニットスコア"
+  },
+  {
+    "id": "la-tips-hint-live_multi_live_cooperation_auto_play_allow-title",
+    "text": "オートプレイ許可"
+  },
+  {
+    "id": "la-tips-hint-live_option_brightness_setting-title",
+    "text": "明るさ設定"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_active_skill_display-title",
+    "text": "アクティブスキル表示"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_background_display_illustration_setting-title",
+    "text": "表示イラスト設定"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_background_mode_setting-title",
+    "text": "背景モード設定"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_combo_continuation_display-title",
+    "text": "コンボ継続表示"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_fast_slow_display-title",
+    "text": "SLOW・FAST表示"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_fever_effect_setting-title",
+    "text": "FEVER演出"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_fps_sync-title",
+    "text": "FPS同期"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_key_beam-title",
+    "text": "キービーム"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_leader_skill_display-title",
+    "text": "リーダーのホロメンスキル表示"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_measure_line_display-title",
+    "text": "小節線表示"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_rhythm_support-title",
+    "text": "リズムサポート"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_screen_fps_setting-title",
+    "text": "滑らかさ"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_screen_lock-title",
+    "text": "画面固定"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_simultaneous_press_line-title",
+    "text": "同時押しライン"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_skill_effect_above_judgement_text-title",
+    "text": "判定文字上のスキル効果"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_slideshow_switch_time-title",
+    "text": "スライドショー切り替え時間"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_special_skill_background_display-title",
+    "text": "SPスキル背景表示"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_special_skill_effect_display-title",
+    "text": "SPスキル効果表示"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_special_skill_illustration_display-title",
+    "text": "SPスキルイラスト＆Live2D"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_tap_effect-title",
+    "text": "タップエフェクト"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_tap_vibration-title",
+    "text": "タップ時の振動"
+  },
+  {
+    "id": "la-tips-hint-live_option_key_config_lane-title",
+    "text": "コンフィグ（レーン）"
+  },
+  {
+    "id": "la-tips-hint-live_option_key_config_other-title",
+    "text": "コンフィグ（その他）"
+  },
+  {
+    "id": "la-tips-hint-live_option_lane_bottom_cut-title",
+    "text": "レーン下部カット"
+  },
+  {
+    "id": "la-tips-hint-live_option_lane_setting-title",
+    "text": "判定ライン位置"
+  },
+  {
+    "id": "la-tips-hint-live_option_lane_top_cut-title",
+    "text": "レーン上部カット"
+  },
+  {
+    "id": "la-tips-hint-live_option_mirror_chart-title",
+    "text": "ミラー譜面"
+  },
+  {
+    "id": "la-tips-hint-live_option_music_mv_setting-title",
+    "text": "MV設定（データ保存）"
+  },
+  {
+    "id": "la-tips-hint-live_option_music_timing_adjustment-title",
+    "text": "楽曲タイミング調整"
+  },
+  {
+    "id": "la-tips-hint-live_option_note_speed-title",
+    "text": "ノーツの速さ"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_combo-title",
+    "text": "コンボ文字"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_header-title",
+    "text": "ヘッダーUI"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_judgement_text-title",
+    "text": "判定文字"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_lane-title",
+    "text": "レーン"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_normal_background_customize-title",
+    "text": "通常背景カスタマイズ"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_note-title",
+    "text": "ノーツスキン"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_tap_effect_type-title",
+    "text": "タップエフェクトスキン"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_effect-title",
+    "text": "SE音量"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_music-title",
+    "text": "楽曲"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_skill_se-title",
+    "text": "スキルSE"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_skill_voice-title",
+    "text": "スキルボイス"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_tap-title",
+    "text": "タップ音"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_voice_sound-title",
+    "text": "ボイス音量"
+  },
+  {
+    "id": "la-tips-hint-live_option_timing_adjustment-title",
+    "text": "判定タイミング調整"
+  },
+  {
+    "id": "la-tips-hint-live_reward_up_stamina-title",
+    "text": "ライブブースト"
+  },
+  {
+    "id": "la-tips-hint-live_skill_tree_released-title",
+    "text": "ホロメンボードを解放しよう！"
+  },
+  {
+    "id": "la-tips-hint-marathon_mission-title",
+    "text": "スコアチャレンジイベント"
+  },
+  {
+    "id": "la-tips-hint-marathon_nomal",
+    "text": "ポイントラリーイベント"
+  },
+  {
+    "id": "la-tips-hint-marathon_relay-title",
+    "text": "スポットライトイベント"
+  },
+  {
+    "id": "la-tips-hint-mini_game_reward_up_stamina-title",
+    "text": "ミニゲームブースト"
+  },
+  {
+    "id": "la-tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up-title",
+    "text": "メンバー強化ボーナス"
+  },
+  {
+    "id": "la-tips-instant_tips-present-facerock-2-title",
+    "text": "0期生からのプレゼント"
+  },
+  {
+    "id": "la-tips-instant_tips-present-prison-2-title",
+    "text": "Adventからのプレゼント"
+  },
+  {
+    "id": "la-tips-instant_tips-random_reward-livehouse-2-title",
+    "text": "ホロメンの隠しトレジャー グレードアップ"
+  },
+  {
+    "id": "la-tips-jump-rope-title",
+    "text": "ホッピン・ロープ"
+  },
+  {
+    "id": "la-tips-live-title",
+    "text": "ユニット"
+  },
+  {
+    "id": "la-tips-lottery-area02-scratch-title",
+    "text": "ロトリー・ちゃまちゃマックス"
+  },
+  {
+    "id": "la-tips-mission-pass-title",
+    "text": "ミッションパス"
+  },
+  {
+    "id": "la-tips-multi-game-title",
+    "text": "マルチプレイ"
+  },
+  {
+    "id": "la-tips-multi-live-title",
+    "text": "みんなでLIVE"
+  },
+  {
+    "id": "la-tips-multi-mini_game-title",
+    "text": "マルチミニゲーム"
+  },
+  {
+    "id": "la-tips-music_highest_score_ranking",
+    "text": "スコアランキング&ホロメンスコアレート"
+  },
+  {
+    "id": "la-tips-operation-title",
+    "text": "操作方法"
+  },
+  {
+    "id": "la-tips-park-character-shop-area01-balloon-title",
+    "text": "フーセンショップ"
+  },
+  {
+    "id": "la-tips-park-character-shop-area01-candy-title",
+    "text": "キャンディショップ"
+  },
+  {
+    "id": "la-tips-park-character-shop-area01-pen-light-title",
+    "text": "ペンライトショップ"
+  },
+  {
+    "id": "la-tips-park-character-shop-area02-hair-accessory-title",
+    "text": "シルクハットショップ"
+  },
+  {
+    "id": "la-tips-park-high-low-area02-title",
+    "text": "カードオブグリード"
+  },
+  {
+    "id": "la-tips-park-lottery-area02-gachapon-title",
+    "text": "カプセルコング"
+  },
+  {
+    "id": "la-tips-park-print-booth-area02-title",
+    "text": "メガプリ"
+  },
+  {
+    "id": "la-tips-park-select-area02-title",
+    "text": "切り替えレバー"
+  },
+  {
+    "id": "la-tips-park-time-period-title",
+    "text": "時間変更"
+  },
+  {
+    "id": "la-tips-poster-title",
+    "text": "メモリー"
+  },
+  {
+    "id": "la-tips-present-title",
+    "text": "ホロメンからのプレゼント"
+  },
+  {
+    "id": "la-tips-quest-daily-title",
+    "text": "デイリークエスト"
+  },
+  {
+    "id": "la-tips-random_symbol-title",
+    "text": "ホロメンの隠しトレジャー"
+  },
+  {
+    "id": "la-tips-retracable-gacha-title",
+    "text": "引き直しガチャ"
+  },
+  {
+    "id": "la-tips-rhythm-game-title",
+    "text": "ライブ"
+  },
+  {
+    "id": "la-tips-skill-tree-title",
+    "text": "ホロメンボード"
+  },
+  {
+    "id": "la-tips-story-title",
+    "text": "シアター"
+  },
+  {
+    "id": "la-tips-work-title",
+    "text": "ホロワーク"
+  }
+]

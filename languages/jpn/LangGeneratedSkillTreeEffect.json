@@ -1,0 +1,486 @@
+[
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up-5-skill_tree_effect_target-all-always-description",
+    "text": "全員の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": "[character]の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up-70-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+    "text": "Adventの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+    "text": "ゲーマーズの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+    "text": "0期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+    "text": "1期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+    "text": "3期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+    "text": "5期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+    "text": "holoXの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+    "text": "ReGLOSSの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+    "text": "Adventの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+    "text": "ゲーマーズの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+    "text": "0期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+    "text": "1期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+    "text": "2期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+    "text": "3期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+    "text": "4期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+    "text": "5期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+    "text": "holoXの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+    "text": "ID1期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+    "text": "ID2期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+    "text": "ID3期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+    "text": "Mythの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+    "text": "Promiseの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+    "text": "ReGLOSSの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-200-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+    "text": "1期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+    "text": "2期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+    "text": "4期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+    "text": "ID1期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+    "text": "ID2期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+    "text": "ID3期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+    "text": "Mythの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+    "text": "Promiseの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-300-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+    "text": "ゲーマーズの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+    "text": "Adventの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+    "text": "ゲーマーズの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+    "text": "0期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+    "text": "1期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+    "text": "3期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+    "text": "5期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+    "text": "holoXの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+    "text": "ReGLOSSの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+    "text": "2期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+    "text": "4期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+    "text": "ID1期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+    "text": "ID2期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+    "text": "ID3期生の全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+    "text": "Mythの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+    "text": "Promiseの全パラメータが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_permil_up-10-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員の全パラメータが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-all_parameter_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員の全パラメータが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-life_up-50-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "ライフが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-20-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": "[character]のアクティブスキル発動率が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-30-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": "[character]のアクティブスキル発動率が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-60-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": "[character]のアクティブスキル発動率が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_cool_time_shorten_permil_up-40-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": "[character]のアクティブスキル発動頻度が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+    "text": "[character]が楽曲歌唱者に含まれる時全員のスコアサポート効果[value/10]%"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-20-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のスコアサポート効果[value/10]%"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のスコアサポート効果[value/10]%"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のスコアサポート効果[value/10]%"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
+    "text": "ホロメンスキル習得\n 20秒毎に低確率で7秒間GOOD以上がPERFECTになる"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-life_recovery-description",
+    "text": "ホロメンスキル習得\n 20秒毎に中確率でライフが100回復"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_level_up-2-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
+    "text": "ホロメンスキル強化\n 20秒毎に中確率で10秒間GOOD以上がPERFECTになる"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "ライブでの獲得メンバーExpが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-5-skill_tree_effect_target-all-always-description",
+    "text": "ライブでの獲得メンバーExpが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "ライブでの獲得メンバーExpが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-item-item-gold-description",
+    "text": "ライブでのホロゴールド獲得量が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-item-item-gold-description",
+    "text": "ライブでのホロゴールド獲得量が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-item-item-gold-description",
+    "text": "ライブでのホロゴールド獲得量が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-1-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description",
+    "text": "全体楽曲をプレイ時スコアボーナス[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-10-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description",
+    "text": "[character]が楽曲歌唱者に含まれるユニット楽曲をプレイ時スコアボーナス[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description",
+    "text": "[character]が楽曲歌唱者に含まれるユニット楽曲をプレイ時スコアボーナス[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description",
+    "text": "[character]が楽曲歌唱者のソロ楽曲をプレイ時スコアボーナス[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko-description",
+    "text": "楽曲歌唱者がFUWAMOCOのみの楽曲をプレイ時スコアボーナス[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description",
+    "text": "全体楽曲をプレイ時スコアボーナス[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description",
+    "text": "[character]が楽曲歌唱者のソロ楽曲をプレイ時スコアボーナス[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko-description",
+    "text": "楽曲歌唱者がFUWAMOCOのみの楽曲をプレイ時スコアボーナス[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-circuit-description",
+    "text": "メガサーキットの獲得報酬量が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-combo_card_game-description",
+    "text": "ポカジャン！の獲得報酬量が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-cooking_puzzle-description",
+    "text": "そろえてクッキングの獲得報酬量が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-jump_rope-description",
+    "text": "ホッピン・ロープの獲得報酬量が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-chase-description",
+    "text": "くらやみチェイスの獲得報酬量が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always-description",
+    "text": "全員のパフォーマンスが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up-100-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のパフォーマンスが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": "[character]のパフォーマンスが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up-150-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のパフォーマンスが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": "[character]のパフォーマンスが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up-5-skill_tree_effect_target-all-always-description",
+    "text": "全員のパフォーマンスが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+    "text": "[character]が楽曲歌唱者に含まれる時全員のパフォーマンスが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のパフォーマンスが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のパフォーマンスが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-performance_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": "[character]のパフォーマンスが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up-10-skill_tree_effect_target-all-always-description",
+    "text": "全員のセンスが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up-100-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のセンスが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": "[character]のセンスが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up-150-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のセンスが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": "[character]のセンスが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up-5-skill_tree_effect_target-all-always-description",
+    "text": "全員のセンスが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+    "text": "[character]が楽曲歌唱者に含まれる時全員のセンスが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のセンスが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のセンスが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-sense_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": "[character]のセンスが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up-10-skill_tree_effect_target-all-always-description",
+    "text": "全員のテクニックが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up-100-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のテクニックが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": "[character]のテクニックが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up-150-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のテクニックが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": "[character]のテクニックが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up-5-skill_tree_effect_target-all-always-description",
+    "text": "全員のテクニックが[value]UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+    "text": "[character]が楽曲歌唱者に含まれる時全員のテクニックが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のテクニックが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全員のテクニックが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-technique_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+    "text": "[character]のテクニックが[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-30-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+    "text": "[character]をホロワークのメンバー編成時に発動\nホロワークでのレッスンPt獲得量が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1-description",
+    "text": "[character]をホロワークのメンバー編成時に発動\nホロワーク報酬の特訓アイテム獲得量が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1-description",
+    "text": "[character]をホロワークのメンバー編成時に発動\nホロワーク報酬のキューブ獲得量が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-50-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+    "text": "[character]をホロワークのメンバー編成時に発動\nホロワークでのレッスンPt獲得量が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-60-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+    "text": "[character]をホロワークのメンバー編成時に発動\nホロワークでのレッスンPt獲得量が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1-description",
+    "text": "[character]をホロワークのメンバー編成時に発動\nホロワーク報酬の特訓アイテム獲得量が[value/10]%UP"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1-description",
+    "text": "[character]をホロワークのメンバー編成時に発動\nホロワーク報酬のキューブ獲得量が[value/10]%UP"
+  }
+]

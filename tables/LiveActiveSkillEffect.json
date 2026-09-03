@@ -1,0 +1,520 @@
+[
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-1000",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "1000",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-1000.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-1050",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "1050",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-1050.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-1100",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "1100",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-1100.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-1150",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "1150",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-1150.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-1200",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "1200",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-1200.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-1250",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "1250",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-1250.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-1300",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "1300",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-1300.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-250",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "250",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-250.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-300",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "300",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-300.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-350",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "350",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-350.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-400",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "400",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-400.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-450",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "450",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-450.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-500",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "500",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-500.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-550",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "550",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-550.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-600",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "600",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-600.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-650",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "650",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-650.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-700",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "700",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-700.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-750",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "750",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-750.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-800",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "800",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-800.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-850",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "850",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-850.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-900",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "900",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-900.1-description"
+  },
+  {
+    "group_id": "live_active_skill_effect-score_up_permil_up-950",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP",
+      "number": 1
+    },
+    "value": "950",
+    "description_lang_id": "la-generated-live_active_skill_effect-score_up_permil_up-950.1-description"
+  },
+  {
+    "group_id": "live_skill_tree_effect-judgement_enhance-0",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_JUDGEMENT_ENHANCE",
+      "number": 9
+    },
+    "description_lang_id": "la-generated-live_skill_tree_effect-judgement_enhance-0.1-description"
+  },
+  {
+    "group_id": "live_skill_tree_effect-life_recovery-100",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIFE_RECOVERY",
+      "number": 8
+    },
+    "value": "100",
+    "description_lang_id": "la-generated-live_skill_tree_effect-life_recovery-100.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-judgement_enhance-0",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_JUDGEMENT_ENHANCE",
+      "number": 9
+    },
+    "description_lang_id": "la-generated-live_special_skill_effect-judgement_enhance-0.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-life_recovery-300",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIFE_RECOVERY",
+      "number": 8
+    },
+    "value": "300",
+    "description_lang_id": "la-generated-live_special_skill_effect-life_recovery-300.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-life_recovery-400",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIFE_RECOVERY",
+      "number": 8
+    },
+    "value": "400",
+    "description_lang_id": "la-generated-live_special_skill_effect-life_recovery-400.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-350",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",
+      "number": 6
+    },
+    "value": "350",
+    "description_lang_id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-350.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-400",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",
+      "number": 6
+    },
+    "value": "400",
+    "description_lang_id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-400.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-450",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",
+      "number": 6
+    },
+    "value": "450",
+    "description_lang_id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-450.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-500",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",
+      "number": 6
+    },
+    "value": "500",
+    "description_lang_id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-500.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-550",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",
+      "number": 6
+    },
+    "value": "550",
+    "description_lang_id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-550.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1000",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "1000",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1000.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1100",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "1100",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1100.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1150",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "1150",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1150.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1200",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "1200",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1200.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1250",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "1250",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1250.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1300",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "1300",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1300.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1350",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "1350",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1350.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1400",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "1400",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1400.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1450",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "1450",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1450.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1600",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "1600",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-1600.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-400",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "400",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-400.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-450",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "450",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-450.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-500",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "500",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-500.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-550",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "550",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-550.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-600",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "600",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-600.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-700",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "700",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-700.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-750",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "750",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-750.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-800",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "800",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-800.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-850",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "850",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-850.1-description"
+  },
+  {
+    "group_id": "live_special_skill_effect-score_up_effect_up_permil_up-950",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP",
+      "number": 5
+    },
+    "value": "950",
+    "description_lang_id": "la-generated-live_special_skill_effect-score_up_effect_up_permil_up-950.1-description"
+  }
+]

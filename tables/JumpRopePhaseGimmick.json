@@ -1,0 +1,2293 @@
+[
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_easy_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE1",
+      "number": 1
+    },
+    "speed_coefficient_permil_multiply": 667,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_easy_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 10,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+        "number": 2
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 2,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 3,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_easy_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 20,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+        "number": 2
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 2,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 3,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_easy_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 30,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+        "number": 2
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 2,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 3,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.18000000715255737,
+    "max_steam_density": 0.20000000298023224,
+    "min_fall_object_size": 3,
+    "max_fall_object_size": 3
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE1",
+      "number": 1
+    },
+    "speed_coefficient_permil_multiply": 667,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 10,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+        "number": 2
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 2,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 3,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 20,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 2,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.18000000715255737,
+    "max_steam_density": 0.20000000298023224,
+    "min_fall_object_size": 3,
+    "max_fall_object_size": 3
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 30,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 40,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+        "number": 2
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 1,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE4",
+      "number": 4
+    },
+    "jump_count_from": 50,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1300,
+    "speed_up_coefficient_permil_multiply": 1227,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 1,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.18000000715255737,
+    "max_steam_density": 0.20000000298023224,
+    "min_fall_object_size": 3,
+    "max_fall_object_size": 3.5
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE1",
+      "number": 1
+    },
+    "speed_coefficient_permil_multiply": 800,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 10,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 3,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.20000000298023224,
+    "max_steam_density": 0.20000000298023224,
+    "min_fall_object_size": 3,
+    "max_fall_object_size": 3
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 20,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.20000000298023224,
+    "max_steam_density": 0.20000000298023224,
+    "min_fall_object_size": 3.0999999046325684,
+    "max_fall_object_size": 3.0999999046325684
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 30,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.25,
+    "max_steam_density": 0.25,
+    "min_fall_object_size": 3.200000047683716,
+    "max_fall_object_size": 3.200000047683716
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 40,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.25,
+    "max_steam_density": 0.25,
+    "min_fall_object_size": 3.299999952316284,
+    "max_fall_object_size": 3.299999952316284
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE4",
+      "number": 4
+    },
+    "jump_count_from": 50,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1170,
+    "speed_up_coefficient_permil_multiply": 1227,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.30000001192092896,
+    "max_steam_density": 0.30000001192092896,
+    "min_fall_object_size": 3.4000000953674316,
+    "max_fall_object_size": 3.4000000953674316
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE4",
+      "number": 4
+    },
+    "jump_count_from": 60,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1170,
+    "speed_up_coefficient_permil_multiply": 1227,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.30000001192092896,
+    "max_steam_density": 0.30000001192092896,
+    "min_fall_object_size": 3.5,
+    "max_fall_object_size": 3.5
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE5",
+      "number": 5
+    },
+    "jump_count_from": 70,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1300,
+    "speed_up_coefficient_permil_multiply": 1227,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.3499999940395355,
+    "max_steam_density": 0.3499999940395355,
+    "min_fall_object_size": 3.5999999046325684,
+    "max_fall_object_size": 3.5999999046325684
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE5",
+      "number": 5
+    },
+    "jump_count_from": 80,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1300,
+    "speed_up_coefficient_permil_multiply": 1227,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 5,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.3499999940395355,
+    "max_steam_density": 0.3499999940395355,
+    "min_fall_object_size": 3.700000047683716,
+    "max_fall_object_size": 3.700000047683716
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE6",
+      "number": 6
+    },
+    "jump_count_from": 90,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1330,
+    "speed_up_coefficient_permil_multiply": 1400,
+    "speed_down_coefficient_permil_multiply": 750,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 5,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.4000000059604645,
+    "max_steam_density": 0.4000000059604645,
+    "min_fall_object_size": 3.799999952316284,
+    "max_fall_object_size": 3.799999952316284
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE6",
+      "number": 6
+    },
+    "jump_count_from": 120,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1330,
+    "speed_up_coefficient_permil_multiply": 1400,
+    "speed_down_coefficient_permil_multiply": 750,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 5,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.6000000238418579,
+    "max_steam_density": 0.6000000238418579,
+    "min_fall_object_size": 3.9000000953674316,
+    "max_fall_object_size": 3.9000000953674316
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE6",
+      "number": 6
+    },
+    "jump_count_from": 150,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1330,
+    "speed_up_coefficient_permil_multiply": 1400,
+    "speed_down_coefficient_permil_multiply": 750,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 5,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.800000011920929,
+    "max_steam_density": 0.800000011920929,
+    "min_fall_object_size": 4,
+    "max_fall_object_size": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE6",
+      "number": 6
+    },
+    "jump_count_from": 200,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1330,
+    "speed_up_coefficient_permil_multiply": 1400,
+    "speed_down_coefficient_permil_multiply": 750,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 5,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 1,
+    "max_steam_density": 1,
+    "min_fall_object_size": 4,
+    "max_fall_object_size": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE1",
+      "number": 1
+    },
+    "speed_coefficient_permil_multiply": 667,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 10,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+        "number": 2
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 2,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 3,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 20,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 2,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.22499999403953552,
+    "max_steam_density": 0.24500000476837158,
+    "min_fall_object_size": 3,
+    "max_fall_object_size": 3
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 30,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 40,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+        "number": 2
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 1,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE4",
+      "number": 4
+    },
+    "jump_count_from": 50,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1300,
+    "speed_up_coefficient_permil_multiply": 1227,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 1,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.2800000011920929,
+    "max_steam_density": 0.30000001192092896,
+    "min_fall_object_size": 4,
+    "max_fall_object_size": 4.5
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE1",
+      "number": 1
+    },
+    "speed_coefficient_permil_multiply": 667,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 10,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 2,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 2,
+    "caution_active_jump_count_max": 3,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.22499999403953552,
+    "max_steam_density": 0.24500000476837158,
+    "min_fall_object_size": 3,
+    "max_fall_object_size": 3.0999999046325684
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 20,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 2,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 2,
+    "caution_active_jump_count_max": 3,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.2800000011920929,
+    "max_steam_density": 0.30000001192092896,
+    "min_fall_object_size": 3.0999999046325684,
+    "max_fall_object_size": 3.200000047683716
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 30,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 40,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+        "number": 2
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 1,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE4",
+      "number": 4
+    },
+    "jump_count_from": 50,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1300,
+    "speed_up_coefficient_permil_multiply": 1227,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 1,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.2800000011920929,
+    "max_steam_density": 0.30000001192092896,
+    "min_fall_object_size": 4,
+    "max_fall_object_size": 4.5
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE1",
+      "number": 1
+    },
+    "speed_coefficient_permil_multiply": 800,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 10,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 3,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.18000000715255737,
+    "max_steam_density": 0.20000000298023224,
+    "min_fall_object_size": 3,
+    "max_fall_object_size": 3
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 20,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.19499999284744263,
+    "max_steam_density": 0.2150000035762787,
+    "min_fall_object_size": 3.0999999046325684,
+    "max_fall_object_size": 3.200000047683716
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 30,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.20999999344348907,
+    "max_steam_density": 0.23000000417232513,
+    "min_fall_object_size": 3.200000047683716,
+    "max_fall_object_size": 3.4000000953674316
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 40,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.22499999403953552,
+    "max_steam_density": 0.24500000476837158,
+    "min_fall_object_size": 3.299999952316284,
+    "max_fall_object_size": 3.5999999046325684
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE4",
+      "number": 4
+    },
+    "jump_count_from": 50,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1170,
+    "speed_up_coefficient_permil_multiply": 1227,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.23999999463558197,
+    "max_steam_density": 0.25999999046325684,
+    "min_fall_object_size": 3.4000000953674316,
+    "max_fall_object_size": 3.799999952316284
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE4",
+      "number": 4
+    },
+    "jump_count_from": 60,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1170,
+    "speed_up_coefficient_permil_multiply": 1227,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.25999999046325684,
+    "max_steam_density": 0.2800000011920929,
+    "min_fall_object_size": 3.5,
+    "max_fall_object_size": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE5",
+      "number": 5
+    },
+    "jump_count_from": 70,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1300,
+    "speed_up_coefficient_permil_multiply": 1227,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.2800000011920929,
+    "max_steam_density": 0.30000001192092896,
+    "min_fall_object_size": 3.5999999046325684,
+    "max_fall_object_size": 4.199999809265137
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE1",
+      "number": 1
+    },
+    "speed_coefficient_permil_multiply": 667,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 10,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 2,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 3,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.22499999403953552,
+    "max_steam_density": 0.24500000476837158,
+    "min_fall_object_size": 3,
+    "max_fall_object_size": 3
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 20,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 2,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 30,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+        "number": 2
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 40,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 1,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.30000001192092896,
+    "max_steam_density": 0.3199999928474426,
+    "min_fall_object_size": 3.5,
+    "max_fall_object_size": 3.799999952316284
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-03-1-6",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE1",
+      "number": 1
+    },
+    "speed_coefficient_permil_multiply": 667,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-09-1-5",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE1",
+      "number": 1
+    },
+    "speed_coefficient_permil_multiply": 800,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-09-1-5",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 10,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1300,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-09-1-5",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 30,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1150,
+    "speed_up_coefficient_permil_multiply": 1300,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 10,
+    "gimmick_active_jump_count_max": 10,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.22499999403953552,
+    "max_steam_density": 0.24500000476837158,
+    "min_fall_object_size": 3.299999952316284,
+    "max_fall_object_size": 3.5
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE1",
+      "number": 1
+    },
+    "speed_coefficient_permil_multiply": 800,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 10,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+        "number": 2
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1300,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.25999999046325684,
+    "max_steam_density": 0.2800000011920929,
+    "min_fall_object_size": 3,
+    "max_fall_object_size": 3.0999999046325684
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 30,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1150,
+    "speed_up_coefficient_permil_multiply": 1300,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 3,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.2800000011920929,
+    "max_steam_density": 0.30000001192092896,
+    "min_fall_object_size": 3.200000047683716,
+    "max_fall_object_size": 3.299999952316284
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 40,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1150,
+    "speed_up_coefficient_permil_multiply": 1300,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 10,
+    "gimmick_active_jump_count_max": 10,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.30000001192092896,
+    "max_steam_density": 0.3199999928474426,
+    "min_fall_object_size": 3.4000000953674316,
+    "max_fall_object_size": 3.5
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE1",
+      "number": 1
+    },
+    "speed_coefficient_permil_multiply": 800,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 10,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_min": 1,
+    "caution_wait_jump_count_max": 2,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 3,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.20000000298023224,
+    "max_steam_density": 0.20000000298023224,
+    "min_fall_object_size": 3,
+    "max_fall_object_size": 3
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "jump_count_from": 20,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 833,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.20000000298023224,
+    "max_steam_density": 0.20000000298023224,
+    "min_fall_object_size": 3.0999999046325684,
+    "max_fall_object_size": 3.0999999046325684
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 30,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.25,
+    "max_steam_density": 0.25,
+    "min_fall_object_size": 3.200000047683716,
+    "max_fall_object_size": 3.200000047683716
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "jump_count_from": 40,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1000,
+    "speed_up_coefficient_permil_multiply": 1200,
+    "speed_down_coefficient_permil_multiply": 600,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.25,
+    "max_steam_density": 0.25,
+    "min_fall_object_size": 3.299999952316284,
+    "max_fall_object_size": 3.299999952316284
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE4",
+      "number": 4
+    },
+    "jump_count_from": 50,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1170,
+    "speed_up_coefficient_permil_multiply": 1227,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.30000001192092896,
+    "max_steam_density": 0.30000001192092896,
+    "min_fall_object_size": 3.4000000953674316,
+    "max_fall_object_size": 3.4000000953674316
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE4",
+      "number": 4
+    },
+    "jump_count_from": 60,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1170,
+    "speed_up_coefficient_permil_multiply": 1227,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.30000001192092896,
+    "max_steam_density": 0.30000001192092896,
+    "min_fall_object_size": 3.5,
+    "max_fall_object_size": 3.5
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE5",
+      "number": 5
+    },
+    "jump_count_from": 70,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+        "number": 3
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1300,
+    "speed_up_coefficient_permil_multiply": 1227,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_wait_jump_count_max": 1,
+    "caution_active_jump_count_min": 1,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 4,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.3499999940395355,
+    "max_steam_density": 0.3499999940395355,
+    "min_fall_object_size": 3.5999999046325684,
+    "max_fall_object_size": 3.5999999046325684
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE5",
+      "number": 5
+    },
+    "jump_count_from": 80,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1300,
+    "speed_up_coefficient_permil_multiply": 1227,
+    "speed_down_coefficient_permil_multiply": 750,
+    "caution_active_jump_count_max": 2,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 5,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.3499999940395355,
+    "max_steam_density": 0.3499999940395355,
+    "min_fall_object_size": 3.700000047683716,
+    "max_fall_object_size": 3.700000047683716
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE6",
+      "number": 6
+    },
+    "jump_count_from": 90,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1330,
+    "speed_up_coefficient_permil_multiply": 1400,
+    "speed_down_coefficient_permil_multiply": 750,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 5,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.4000000059604645,
+    "max_steam_density": 0.4000000059604645,
+    "min_fall_object_size": 3.799999952316284,
+    "max_fall_object_size": 3.799999952316284
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE6",
+      "number": 6
+    },
+    "jump_count_from": 120,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1330,
+    "speed_up_coefficient_permil_multiply": 1400,
+    "speed_down_coefficient_permil_multiply": 750,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 5,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.6000000238418579,
+    "max_steam_density": 0.6000000238418579,
+    "min_fall_object_size": 3.9000000953674316,
+    "max_fall_object_size": 3.9000000953674316
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE6",
+      "number": 6
+    },
+    "jump_count_from": 150,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1330,
+    "speed_up_coefficient_permil_multiply": 1400,
+    "speed_down_coefficient_permil_multiply": 750,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 5,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 0.800000011920929,
+    "max_steam_density": 0.800000011920929,
+    "min_fall_object_size": 4,
+    "max_fall_object_size": 4
+  },
+  {
+    "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE6",
+      "number": 6
+    },
+    "jump_count_from": 200,
+    "gimmick_types": [
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+        "number": 1
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+        "number": 5
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+        "number": 6
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+        "number": 7
+      },
+      {
+        "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+        "number": 4
+      }
+    ],
+    "speed_coefficient_permil_multiply": 1330,
+    "speed_up_coefficient_permil_multiply": 1400,
+    "speed_down_coefficient_permil_multiply": 750,
+    "gimmick_active_jump_count_min": 2,
+    "gimmick_active_jump_count_max": 5,
+    "invisible_gimmick_type": {
+      "name": "JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+      "number": 3
+    },
+    "min_steam_density": 1,
+    "max_steam_density": 1,
+    "min_fall_object_size": 4,
+    "max_fall_object_size": 4
+  }
+]

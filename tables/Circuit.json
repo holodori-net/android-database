@@ -1,0 +1,29 @@
+[
+  {
+    "id": "circuit_normal",
+    "play_type": {
+      "name": "CIRCUIT_PLAY_TYPE_NORMAL",
+      "number": 1
+    },
+    "game_start_display_clear_condition_lang_id": "la-circuit-game_start_display_clear_condition_lang-default",
+    "game_playing_display_clear_condition_lang_id": "la-circuit-game_playing_display_clear_condition_lang-default"
+  },
+  {
+    "id": "circuit_park_quest_play",
+    "play_type": {
+      "name": "CIRCUIT_PLAY_TYPE_PARK_QUEST",
+      "number": 2
+    },
+    "game_start_display_clear_condition_lang_id": "la-circuit-game_start_display_clear_condition_lang-play",
+    "game_playing_display_clear_condition_lang_id": "la-circuit-game_playing_display_clear_condition_lang-play"
+  },
+  {
+    "id": "circuit_park_quest_rank",
+    "play_type": {
+      "name": "CIRCUIT_PLAY_TYPE_PARK_QUEST",
+      "number": 2
+    },
+    "game_start_display_clear_condition_lang_id": "la-circuit-game_start_display_clear_condition_lang-rank",
+    "game_playing_display_clear_condition_lang_id": "la-circuit-game_playing_display_clear_condition_lang-rank"
+  }
+]

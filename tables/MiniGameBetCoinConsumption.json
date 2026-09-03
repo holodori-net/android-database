@@ -1,0 +1,28 @@
+[
+  {
+    "group_id": "circuit-bet-coin-consumption-group",
+    "priority": 1,
+    "min_quantity": 500,
+    "max_quantity": 500
+  },
+  {
+    "group_id": "circuit-bet-coin-consumption-group",
+    "priority": 2,
+    "condition_group_id": "cd-quest_clear-quest-main-w1-02-10",
+    "min_quantity": 500,
+    "max_quantity": 2000
+  },
+  {
+    "group_id": "combo_card_game-bet-coin-consumption-group",
+    "priority": 1,
+    "min_quantity": 1000,
+    "max_quantity": 1000
+  },
+  {
+    "group_id": "combo_card_game-bet-coin-consumption-group",
+    "priority": 2,
+    "condition_group_id": "cd-quest_clear-quest-main-w1-02-10",
+    "min_quantity": 1000,
+    "max_quantity": 2000
+  }
+]

@@ -1,0 +1,3123 @@
+[
+  {
+    "id": "chr-00001",
+    "name_lang_id": "la-name-chr-00001",
+    "short_name_lang_id": "la-short_name-chr-00001",
+    "name_eng": "Tokino Sora",
+    "short_name_eng": "Sora",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00001-nrml-0000-00",
+    "default_sd_costume_id": "sdcos-00001-nrml-0000-00",
+    "birth_month": 5,
+    "birth_day": 15,
+    "debut_year": 2017,
+    "debut_month": 9,
+    "debut_day": 7,
+    "fan_name_lang_id": "la-fan_name-chr-00001",
+    "description_lang_id": "la-chara_intro-00001",
+    "comment_lang_id": "la-chara_comment-00001",
+    "youtube_url": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg?sub_confirmation=1",
+    "x_url": "https://twitter.com/tokino_sora",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "00001",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00001",
+    "bgm_asset_id": "bgm_chr_profile_00001",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00001",
+    "regular_character_grouping_name_eng": "hololive 0th Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00001"
+    ],
+    "color1": "6878FF",
+    "color2": "FD368A",
+    "color3": "FFC942",
+    "color4": "3D51FF",
+    "order": 101,
+    "regular_character_grouping_ids": [
+      "grp-gen_0"
+    ]
+  },
+  {
+    "id": "chr-00002",
+    "name_lang_id": "la-name-chr-00002",
+    "short_name_lang_id": "la-short_name-chr-00002",
+    "name_eng": "Robocosan",
+    "short_name_eng": "Robocosan",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00002-nrml-0001-00",
+    "default_sd_costume_id": "sdcos-00002-nrml-0001-00",
+    "birth_month": 5,
+    "birth_day": 23,
+    "debut_year": 2018,
+    "debut_month": 3,
+    "debut_day": 9,
+    "fan_name_lang_id": "la-fan_name-chr-00002",
+    "description_lang_id": "la-chara_intro-00002",
+    "comment_lang_id": "la-chara_comment-00002",
+    "youtube_url": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g?sub_confirmation=1",
+    "x_url": "https://twitter.com/robocosan",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "00002",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-002",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00002",
+    "bgm_asset_id": "bgm_chr_profile_00002",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00002",
+    "regular_character_grouping_name_eng": "hololive 0th Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00002"
+    ],
+    "color1": "FF6187",
+    "color2": "FD91B7",
+    "color3": "9355D6",
+    "color4": "EF3964",
+    "order": 102,
+    "regular_character_grouping_ids": [
+      "grp-gen_0"
+    ]
+  },
+  {
+    "id": "chr-00004",
+    "name_lang_id": "la-name-chr-00004",
+    "short_name_lang_id": "la-short_name-chr-00004",
+    "name_eng": "Aki Rosenthal",
+    "short_name_eng": "Aki",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00004-nrml-0005-00",
+    "default_sd_costume_id": "sdcos-00004-nrml-0005-00",
+    "birth_month": 2,
+    "birth_day": 17,
+    "debut_year": 2018,
+    "debut_month": 6,
+    "debut_day": 1,
+    "fan_name_lang_id": "la-fan_name-chr-00004",
+    "description_lang_id": "la-chara_intro-00004",
+    "comment_lang_id": "la-chara_comment-00004",
+    "youtube_url": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA?sub_confirmation=1",
+    "x_url": "https://twitter.com/akirosenthal",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_SEXY",
+      "number": 2
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "00004",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-002",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00004",
+    "bgm_asset_id": "bgm_chr_profile_00004",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00004",
+    "regular_character_grouping_name_eng": "hololive 1st Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00004"
+    ],
+    "color1": "ABE64D",
+    "color2": "FF4991",
+    "color3": "5E82FF",
+    "color4": "8BE100",
+    "order": 106,
+    "regular_character_grouping_ids": [
+      "grp-gen_1"
+    ]
+  },
+  {
+    "id": "chr-00005",
+    "name_lang_id": "la-name-chr-00005",
+    "short_name_lang_id": "la-short_name-chr-00005",
+    "name_eng": "Akai Haato",
+    "short_name_eng": "Haato",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00005-nrml-0006-00",
+    "default_sd_costume_id": "sdcos-00005-nrml-0006-00",
+    "birth_month": 8,
+    "birth_day": 10,
+    "debut_year": 2018,
+    "debut_month": 6,
+    "debut_day": 2,
+    "fan_name_lang_id": "la-fan_name-chr-00005",
+    "description_lang_id": "la-chara_intro-00005",
+    "comment_lang_id": "la-chara_comment-00005",
+    "youtube_url": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg?sub_confirmation=1",
+    "x_url": "https://twitter.com/akaihaato",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_ACTIVE",
+      "number": 5
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "00005",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-003",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00005",
+    "bgm_asset_id": "bgm_chr_profile_00005",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00005",
+    "regular_character_grouping_name_eng": "hololive 1st Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00005"
+    ],
+    "color1": "E5395B",
+    "color2": "0046B3",
+    "color3": "FFC85D",
+    "color4": "E70D38",
+    "order": 107,
+    "regular_character_grouping_ids": [
+      "grp-gen_1"
+    ]
+  },
+  {
+    "id": "chr-00006",
+    "name_lang_id": "la-name-chr-00006",
+    "short_name_lang_id": "la-short_name-chr-00006",
+    "name_eng": "Shirakami Fubuki",
+    "short_name_eng": "Fubuki",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00006-nrml-0007-00",
+    "default_sd_costume_id": "sdcos-00006-nrml-0007-00",
+    "birth_month": 10,
+    "birth_day": 5,
+    "debut_year": 2018,
+    "debut_month": 6,
+    "debut_day": 1,
+    "fan_name_lang_id": "la-fan_name-chr-00006",
+    "description_lang_id": "la-chara_intro-00006",
+    "comment_lang_id": "la-chara_comment-00006",
+    "youtube_url": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg?sub_confirmation=1",
+    "x_url": "https://twitter.com/shirakamifubuki",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "00006",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-004",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00006",
+    "bgm_asset_id": "bgm_chr_profile_00006",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00006",
+    "regular_character_grouping_name_eng": "hololive 1st Generation / Gamers",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00006"
+    ],
+    "color1": "93D5F2",
+    "color2": "65637F",
+    "color3": "6B85ED",
+    "color4": "1EB4F5",
+    "order": 108,
+    "regular_character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_1"
+    ]
+  },
+  {
+    "id": "chr-00007",
+    "name_lang_id": "la-name-chr-00007",
+    "short_name_lang_id": "la-short_name-chr-00007",
+    "name_eng": "Natsuiro Matsuri",
+    "short_name_eng": "Matsuri",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00007-nrml-0008-00",
+    "default_sd_costume_id": "sdcos-00007-nrml-0008-00",
+    "birth_month": 7,
+    "birth_day": 22,
+    "debut_year": 2018,
+    "debut_month": 6,
+    "debut_day": 1,
+    "fan_name_lang_id": "la-fan_name-chr-00007",
+    "description_lang_id": "la-chara_intro-00007",
+    "comment_lang_id": "la-chara_comment-00007",
+    "youtube_url": "https://youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg?sub_confirmation=1",
+    "x_url": "https://twitter.com/natsuiromatsuri",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_CUTE",
+      "number": 4
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "00007",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00007",
+    "bgm_asset_id": "bgm_chr_profile_00007",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00007",
+    "regular_character_grouping_name_eng": "hololive 1st Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00007"
+    ],
+    "color1": "FFCB30",
+    "color2": "8DD600",
+    "color3": "FF7D31",
+    "color4": "FFA600",
+    "order": 109,
+    "regular_character_grouping_ids": [
+      "grp-gen_1"
+    ]
+  },
+  {
+    "id": "chr-00009",
+    "name_lang_id": "la-name-chr-00009",
+    "short_name_lang_id": "la-short_name-chr-00009",
+    "name_eng": "Murasaki Shion",
+    "short_name_eng": "Shion",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00009-nrml-0009-00",
+    "default_sd_costume_id": "sdcos-00009-nrml-0009-00",
+    "birth_month": 12,
+    "birth_day": 8,
+    "debut_year": 2018,
+    "debut_month": 8,
+    "debut_day": 17,
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_CUTE",
+      "number": 4
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "asset_id": "00009",
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00009"
+    ],
+    "color1": "BF57ED",
+    "color2": "716EFF",
+    "color3": "BFDD00",
+    "color4": "8727B1",
+    "order": 110,
+    "regular_character_grouping_ids": [
+      "grp-gen_2"
+    ]
+  },
+  {
+    "id": "chr-00010",
+    "name_lang_id": "la-name-chr-00010",
+    "short_name_lang_id": "la-short_name-chr-00010",
+    "name_eng": "Nakiri Ayame",
+    "short_name_eng": "Ayame",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00010-nrml-0010-00",
+    "default_sd_costume_id": "sdcos-00010-nrml-0010-00",
+    "birth_month": 12,
+    "birth_day": 13,
+    "debut_year": 2018,
+    "debut_month": 9,
+    "debut_day": 3,
+    "fan_name_lang_id": "la-fan_name-chr-00010",
+    "description_lang_id": "la-chara_intro-00010",
+    "comment_lang_id": "la-chara_comment-00010",
+    "youtube_url": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg?sub_confirmation=1",
+    "x_url": "https://twitter.com/nakiriayame",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "00010",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-002",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00010",
+    "bgm_asset_id": "bgm_chr_profile_00010",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00010",
+    "regular_character_grouping_name_eng": "hololive 2nd Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00010"
+    ],
+    "color1": "DD305B",
+    "color2": "8A6F72",
+    "color3": "E8B532",
+    "color4": "C51743",
+    "order": 111,
+    "regular_character_grouping_ids": [
+      "grp-gen_2"
+    ]
+  },
+  {
+    "id": "chr-00011",
+    "name_lang_id": "la-name-chr-00011",
+    "short_name_lang_id": "la-short_name-chr-00011",
+    "name_eng": "Yuzuki Choco",
+    "short_name_eng": "Choco",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00011-nrml-0011-00",
+    "default_sd_costume_id": "sdcos-00011-nrml-0011-00",
+    "birth_month": 2,
+    "birth_day": 14,
+    "debut_year": 2018,
+    "debut_month": 9,
+    "debut_day": 4,
+    "fan_name_lang_id": "la-fan_name-chr-00011",
+    "description_lang_id": "la-chara_intro-00011",
+    "comment_lang_id": "la-chara_comment-00011",
+    "youtube_url": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg?sub_confirmation=1",
+    "x_url": "https://twitter.com/yuzukichococh",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_SEXY",
+      "number": 2
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "00011",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-003",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00011",
+    "bgm_asset_id": "bgm_chr_profile_00011",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00011",
+    "regular_character_grouping_name_eng": "hololive 2nd Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00011"
+    ],
+    "color1": "FF5487",
+    "color2": "FF85BC",
+    "color3": "9956EF",
+    "color4": "E72767",
+    "order": 112,
+    "regular_character_grouping_ids": [
+      "grp-gen_2"
+    ]
+  },
+  {
+    "id": "chr-00012",
+    "name_lang_id": "la-name-chr-00012",
+    "short_name_lang_id": "la-short_name-chr-00012",
+    "name_eng": "Oozora Subaru",
+    "short_name_eng": "Subaru",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00012-nrml-0012-00",
+    "default_sd_costume_id": "sdcos-00012-nrml-0012-00",
+    "birth_month": 7,
+    "birth_day": 2,
+    "debut_year": 2018,
+    "debut_month": 9,
+    "debut_day": 16,
+    "fan_name_lang_id": "la-fan_name-chr-00012",
+    "description_lang_id": "la-chara_intro-00012",
+    "comment_lang_id": "la-chara_comment-00012",
+    "youtube_url": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA?sub_confirmation=1",
+    "x_url": "https://twitter.com/oozorasubaru",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_ACTIVE",
+      "number": 5
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "00012",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-004",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00012",
+    "bgm_asset_id": "bgm_chr_profile_00012",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00012",
+    "regular_character_grouping_name_eng": "hololive 2nd Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00012"
+    ],
+    "color1": "E5CE00",
+    "color2": "5CD0DC",
+    "color3": "A3CC00",
+    "color4": "DEC000",
+    "order": 113,
+    "regular_character_grouping_ids": [
+      "grp-gen_2"
+    ]
+  },
+  {
+    "id": "chr-00013",
+    "name_lang_id": "la-name-chr-00013",
+    "short_name_lang_id": "la-short_name-chr-00013",
+    "name_eng": "AZKi",
+    "short_name_eng": "AZKi",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00013-nrml-0002-00",
+    "default_sd_costume_id": "sdcos-00013-nrml-0002-00",
+    "birth_month": 7,
+    "birth_day": 1,
+    "debut_year": 2018,
+    "debut_month": 11,
+    "debut_day": 15,
+    "fan_name_lang_id": "la-fan_name-chr-00013",
+    "description_lang_id": "la-chara_intro-00013",
+    "comment_lang_id": "la-chara_comment-00013",
+    "youtube_url": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw?sub_confirmation=1",
+    "x_url": "https://twitter.com/AZKi_VDiVA",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "00013",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-003",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00013",
+    "bgm_asset_id": "bgm_chr_profile_00013",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00013",
+    "regular_character_grouping_name_eng": "hololive 0th Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00013"
+    ],
+    "color1": "F081A3",
+    "color2": "634C59",
+    "color3": "87D996",
+    "color4": "FA598A",
+    "order": 103,
+    "regular_character_grouping_ids": [
+      "grp-gen_0"
+    ]
+  },
+  {
+    "id": "chr-00014",
+    "name_lang_id": "la-name-chr-00014",
+    "short_name_lang_id": "la-short_name-chr-00014",
+    "name_eng": "Ookami Mio",
+    "short_name_eng": "Mio",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00014-nrml-0013-00",
+    "default_sd_costume_id": "sdcos-00014-nrml-0013-00",
+    "birth_month": 8,
+    "birth_day": 20,
+    "debut_year": 2018,
+    "debut_month": 12,
+    "debut_day": 7,
+    "fan_name_lang_id": "la-fan_name-chr-00014",
+    "description_lang_id": "la-chara_intro-00014",
+    "comment_lang_id": "la-chara_comment-00014",
+    "youtube_url": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg?sub_confirmation=1",
+    "x_url": "https://twitter.com/ookamimio",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_COOL",
+      "number": 1
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "00014",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00014",
+    "bgm_asset_id": "bgm_chr_profile_00014",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00014",
+    "regular_character_grouping_name_eng": "hololive Gamers",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00014"
+    ],
+    "color1": "DB3131",
+    "color2": "575769",
+    "color3": "FFC232",
+    "color4": "BD1616",
+    "order": 114,
+    "regular_character_grouping_ids": [
+      "grp-gamers"
+    ]
+  },
+  {
+    "id": "chr-00015",
+    "name_lang_id": "la-name-chr-00015",
+    "short_name_lang_id": "la-short_name-chr-00015",
+    "name_eng": "Sakura Miko",
+    "short_name_eng": "Miko",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00015-nrml-0003-00",
+    "default_sd_costume_id": "sdcos-00015-nrml-0003-00",
+    "birth_month": 3,
+    "birth_day": 5,
+    "debut_year": 2018,
+    "debut_month": 8,
+    "debut_day": 1,
+    "fan_name_lang_id": "la-fan_name-chr-00015",
+    "description_lang_id": "la-chara_intro-00015",
+    "comment_lang_id": "la-chara_comment-00015",
+    "youtube_url": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA?sub_confirmation=1",
+    "x_url": "https://twitter.com/sakuramiko35",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_ACTIVE",
+      "number": 5
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "00015",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-004",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00015",
+    "bgm_asset_id": "bgm_chr_profile_00015",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00015",
+    "regular_character_grouping_name_eng": "hololive 0th Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00015"
+    ],
+    "color1": "FF909E",
+    "color2": "DD3654",
+    "color3": "FFD64F",
+    "color4": "FF5B70",
+    "order": 104,
+    "regular_character_grouping_ids": [
+      "grp-gen_0"
+    ]
+  },
+  {
+    "id": "chr-00016",
+    "name_lang_id": "la-name-chr-00016",
+    "short_name_lang_id": "la-short_name-chr-00016",
+    "name_eng": "Nekomata Okayu",
+    "short_name_eng": "Okayu",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00016-nrml-0014-00",
+    "default_sd_costume_id": "sdcos-00016-nrml-0014-00",
+    "birth_month": 2,
+    "birth_day": 22,
+    "debut_year": 2019,
+    "debut_month": 4,
+    "debut_day": 6,
+    "fan_name_lang_id": "la-fan_name-chr-00016",
+    "description_lang_id": "la-chara_intro-00016",
+    "comment_lang_id": "la-chara_comment-00016",
+    "youtube_url": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw?sub_confirmation=1",
+    "x_url": "https://twitter.com/nekomataokayu",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_SEXY",
+      "number": 2
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "00016",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-002",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00016",
+    "bgm_asset_id": "bgm_chr_profile_00016",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00016",
+    "regular_character_grouping_name_eng": "hololive Gamers",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00016"
+    ],
+    "color1": "D866ED",
+    "color2": "9A70F3",
+    "color3": "68C8CD",
+    "color4": "C843E1",
+    "order": 115,
+    "regular_character_grouping_ids": [
+      "grp-gamers"
+    ]
+  },
+  {
+    "id": "chr-00017",
+    "name_lang_id": "la-name-chr-00017",
+    "short_name_lang_id": "la-short_name-chr-00017",
+    "name_eng": "Inugami Korone",
+    "short_name_eng": "Korone",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00017-nrml-0015-00",
+    "default_sd_costume_id": "sdcos-00017-nrml-0015-00",
+    "birth_month": 10,
+    "birth_day": 1,
+    "debut_year": 2019,
+    "debut_month": 4,
+    "debut_day": 13,
+    "fan_name_lang_id": "la-fan_name-chr-00017",
+    "description_lang_id": "la-chara_intro-00017",
+    "comment_lang_id": "la-chara_comment-00017",
+    "youtube_url": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q?sub_confirmation=1",
+    "x_url": "https://twitter.com/inugamikorone",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_ACTIVE",
+      "number": 5
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "00017",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-003",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00017",
+    "bgm_asset_id": "bgm_chr_profile_00017",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00017",
+    "regular_character_grouping_name_eng": "hololive Gamers",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00017"
+    ],
+    "color1": "FFCD28",
+    "color2": "FF637C",
+    "color3": "4BBED1",
+    "color4": "FFBB00",
+    "order": 116,
+    "regular_character_grouping_ids": [
+      "grp-gamers"
+    ]
+  },
+  {
+    "id": "chr-00018",
+    "name_lang_id": "la-name-chr-00018",
+    "short_name_lang_id": "la-short_name-chr-00018",
+    "name_eng": "Hoshimachi Suisei",
+    "short_name_eng": "Suisei",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00018-nrml-0004-00",
+    "default_sd_costume_id": "sdcos-00018-nrml-0004-00",
+    "birth_month": 3,
+    "birth_day": 22,
+    "debut_year": 2018,
+    "debut_month": 3,
+    "debut_day": 22,
+    "fan_name_lang_id": "la-fan_name-chr-00018",
+    "description_lang_id": "la-chara_intro-00018",
+    "comment_lang_id": "la-chara_comment-00018",
+    "youtube_url": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A?sub_confirmation=1",
+    "x_url": "https://twitter.com/suisei_hosimati",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_COOL",
+      "number": 1
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "00018",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00018",
+    "bgm_asset_id": "bgm_chr_profile_00018",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00018",
+    "regular_character_grouping_name_eng": "hololive 0th Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00018"
+    ],
+    "color1": "75C0FF",
+    "color2": "2B2D80",
+    "color3": "DBBA67",
+    "color4": "269BFF",
+    "order": 105,
+    "regular_character_grouping_ids": [
+      "grp-gen_0"
+    ]
+  },
+  {
+    "id": "chr-00019",
+    "name_lang_id": "la-name-chr-00019",
+    "short_name_lang_id": "la-short_name-chr-00019",
+    "name_eng": "Usada Pekora",
+    "short_name_eng": "Pekora",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00019-nrml-0016-00",
+    "default_sd_costume_id": "sdcos-00019-nrml-0016-00",
+    "birth_month": 1,
+    "birth_day": 12,
+    "debut_year": 2019,
+    "debut_month": 7,
+    "debut_day": 17,
+    "fan_name_lang_id": "la-fan_name-chr-00019",
+    "description_lang_id": "la-chara_intro-00019",
+    "comment_lang_id": "la-chara_comment-00019",
+    "youtube_url": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ?sub_confirmation=1",
+    "x_url": "https://twitter.com/usadapekora",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_CUTE",
+      "number": 4
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "00019",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-004",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00019",
+    "bgm_asset_id": "bgm_chr_profile_00019",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00019",
+    "regular_character_grouping_name_eng": "hololive 3rd Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00019"
+    ],
+    "color1": "57A9FF",
+    "color2": "97DAEF",
+    "color3": "FFC32A",
+    "color4": "3E8EFF",
+    "order": 117,
+    "regular_character_grouping_ids": [
+      "grp-gen_3"
+    ]
+  },
+  {
+    "id": "chr-00021",
+    "name_lang_id": "la-name-chr-00021",
+    "short_name_lang_id": "la-short_name-chr-00021",
+    "name_eng": "Shiranui Flare",
+    "short_name_eng": "Flare",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00021-nrml-0017-00",
+    "default_sd_costume_id": "sdcos-00021-nrml-0017-00",
+    "birth_month": 4,
+    "birth_day": 2,
+    "debut_year": 2019,
+    "debut_month": 8,
+    "debut_day": 7,
+    "fan_name_lang_id": "la-fan_name-chr-00021",
+    "description_lang_id": "la-chara_intro-00021",
+    "comment_lang_id": "la-chara_comment-00021",
+    "youtube_url": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg?sub_confirmation=1",
+    "x_url": "https://twitter.com/shiranuiflare",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "00021",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00021",
+    "bgm_asset_id": "bgm_chr_profile_00021",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00021",
+    "regular_character_grouping_name_eng": "hololive 3rd Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00021"
+    ],
+    "color1": "FFAB2D",
+    "color2": "4AB0E9",
+    "color3": "FF4D00",
+    "color4": "FF8B10",
+    "order": 118,
+    "regular_character_grouping_ids": [
+      "grp-gen_3"
+    ]
+  },
+  {
+    "id": "chr-00022",
+    "name_lang_id": "la-name-chr-00022",
+    "short_name_lang_id": "la-short_name-chr-00022",
+    "name_eng": "Shirogane Noel",
+    "short_name_eng": "Noel",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00022-nrml-0018-00",
+    "default_sd_costume_id": "sdcos-00022-nrml-0018-00",
+    "birth_month": 11,
+    "birth_day": 24,
+    "debut_year": 2019,
+    "debut_month": 8,
+    "debut_day": 8,
+    "fan_name_lang_id": "la-fan_name-chr-00022",
+    "description_lang_id": "la-chara_intro-00022",
+    "comment_lang_id": "la-chara_comment-00022",
+    "youtube_url": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ?sub_confirmation=1",
+    "x_url": "https://twitter.com/shiroganenoel",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_SEXY",
+      "number": 2
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "00022",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-002",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00022",
+    "bgm_asset_id": "bgm_chr_profile_00022",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00022",
+    "regular_character_grouping_name_eng": "hololive 3rd Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00022"
+    ],
+    "color1": "A5B5B7",
+    "color2": "4F6E8F",
+    "color3": "66E6A9",
+    "color4": "363F3C",
+    "order": 119,
+    "regular_character_grouping_ids": [
+      "grp-gen_3"
+    ]
+  },
+  {
+    "id": "chr-00023",
+    "name_lang_id": "la-name-chr-00023",
+    "short_name_lang_id": "la-short_name-chr-00023",
+    "name_eng": "Houshou Marine",
+    "short_name_eng": "Marine",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00023-nrml-0019-00",
+    "default_sd_costume_id": "sdcos-00023-nrml-0019-00",
+    "birth_month": 7,
+    "birth_day": 30,
+    "debut_year": 2019,
+    "debut_month": 8,
+    "debut_day": 11,
+    "fan_name_lang_id": "la-fan_name-chr-00023",
+    "description_lang_id": "la-chara_intro-00023",
+    "comment_lang_id": "la-chara_comment-00023",
+    "youtube_url": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg?sub_confirmation=1",
+    "x_url": "https://twitter.com/houshoumarine",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_SEXY",
+      "number": 2
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "00023",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-003",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00023",
+    "bgm_asset_id": "bgm_chr_profile_00023",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00023",
+    "regular_character_grouping_name_eng": "hololive 3rd Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00023"
+    ],
+    "color1": "C2153B",
+    "color2": "453748",
+    "color3": "EAB759",
+    "color4": "950025",
+    "order": 120,
+    "regular_character_grouping_ids": [
+      "grp-gen_3"
+    ]
+  },
+  {
+    "id": "chr-00024",
+    "name_lang_id": "la-name-chr-00024",
+    "short_name_lang_id": "la-short_name-chr-00024",
+    "name_eng": "Amane Kanata",
+    "short_name_eng": "Kanata",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00024-nrml-0020-00",
+    "default_sd_costume_id": "sdcos-00024-nrml-0020-00",
+    "birth_month": 4,
+    "birth_day": 22,
+    "debut_year": 2019,
+    "debut_month": 12,
+    "debut_day": 27,
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "asset_id": "00024",
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00024"
+    ],
+    "color1": "8CE6F3",
+    "color2": "2566E9",
+    "color3": "DAC67C",
+    "color4": "2BD2EA",
+    "order": 121,
+    "regular_character_grouping_ids": [
+      "grp-gen_4"
+    ]
+  },
+  {
+    "id": "chr-00026",
+    "name_lang_id": "la-name-chr-00026",
+    "short_name_lang_id": "la-short_name-chr-00026",
+    "name_eng": "Tsunomaki Watame",
+    "short_name_eng": "Watame",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00026-nrml-0021-00",
+    "default_sd_costume_id": "sdcos-00026-nrml-0021-00",
+    "birth_month": 6,
+    "birth_day": 6,
+    "debut_year": 2019,
+    "debut_month": 12,
+    "debut_day": 29,
+    "fan_name_lang_id": "la-fan_name-chr-00026",
+    "description_lang_id": "la-chara_intro-00026",
+    "comment_lang_id": "la-chara_comment-00026",
+    "youtube_url": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA?sub=confirmation=1",
+    "x_url": "https://twitter.com/tsunomakiwatame",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "00026",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00026",
+    "bgm_asset_id": "bgm_chr_profile_00026",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00026",
+    "regular_character_grouping_name_eng": "hololive 4th Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00026"
+    ],
+    "color1": "E2D065",
+    "color2": "FF8F96",
+    "color3": "D1A287",
+    "color4": "E5C401",
+    "order": 122,
+    "regular_character_grouping_ids": [
+      "grp-gen_4"
+    ]
+  },
+  {
+    "id": "chr-00027",
+    "name_lang_id": "la-name-chr-00027",
+    "short_name_lang_id": "la-short_name-chr-00027",
+    "name_eng": "Tokoyami Towa",
+    "short_name_eng": "Towa",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00027-nrml-0022-00",
+    "default_sd_costume_id": "sdcos-00027-nrml-0022-00",
+    "birth_month": 8,
+    "birth_day": 8,
+    "debut_year": 2020,
+    "debut_month": 1,
+    "debut_day": 3,
+    "fan_name_lang_id": "la-fan_name-chr-00027",
+    "description_lang_id": "la-chara_intro-00027",
+    "comment_lang_id": "la-chara_comment-00027",
+    "youtube_url": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw?sub_confirmation=1",
+    "x_url": "https://twitter.com/tokoyamitowa",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "00027",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-002",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00027",
+    "bgm_asset_id": "bgm_chr_profile_00027",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00027",
+    "regular_character_grouping_name_eng": "hololive 4th Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00027"
+    ],
+    "color1": "B77FFF",
+    "color2": "FC96DC",
+    "color3": "B0E22C",
+    "color4": "9E59F7",
+    "order": 123,
+    "regular_character_grouping_ids": [
+      "grp-gen_4"
+    ]
+  },
+  {
+    "id": "chr-00028",
+    "name_lang_id": "la-name-chr-00028",
+    "short_name_lang_id": "la-short_name-chr-00028",
+    "name_eng": "Himemori Luna",
+    "short_name_eng": "Luna",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00028-nrml-0023-00",
+    "default_sd_costume_id": "sdcos-00028-nrml-0023-00",
+    "birth_month": 10,
+    "birth_day": 10,
+    "debut_year": 2020,
+    "debut_month": 1,
+    "debut_day": 4,
+    "fan_name_lang_id": "la-fan_name-chr-00028",
+    "description_lang_id": "la-chara_intro-00028",
+    "comment_lang_id": "la-chara_comment-00028",
+    "youtube_url": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw?sub_confirmation=1",
+    "x_url": "https://twitter.com/himemoriluna",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_CUTE",
+      "number": 4
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "00028",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-003",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00028",
+    "bgm_asset_id": "bgm_chr_profile_00028",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00028",
+    "regular_character_grouping_name_eng": "hololive 4th Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00028"
+    ],
+    "color1": "FF93D0",
+    "color2": "99C6FF",
+    "color3": "A595FF",
+    "color4": "F16BB7",
+    "order": 124,
+    "regular_character_grouping_ids": [
+      "grp-gen_4"
+    ]
+  },
+  {
+    "id": "chr-00030",
+    "name_lang_id": "la-name-chr-00030",
+    "short_name_lang_id": "la-short_name-chr-00030",
+    "name_eng": "Yukihana Lamy",
+    "short_name_eng": "Lamy",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00030-nrml-0024-00",
+    "default_sd_costume_id": "sdcos-00030-nrml-0024-00",
+    "birth_month": 11,
+    "birth_day": 15,
+    "debut_year": 2020,
+    "debut_month": 8,
+    "debut_day": 12,
+    "fan_name_lang_id": "la-fan_name-chr-00030",
+    "description_lang_id": "la-chara_intro-00030",
+    "comment_lang_id": "la-chara_comment-00030",
+    "youtube_url": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw?sub_confirmation=1",
+    "x_url": "https://twitter.com/yukihanalamy",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_SEXY",
+      "number": 2
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "00030",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-004",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00030",
+    "bgm_asset_id": "bgm_chr_profile_00030",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00030",
+    "regular_character_grouping_name_eng": "hololive 5th Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00030"
+    ],
+    "color1": "49AAFF",
+    "color2": "5CCEFF",
+    "color3": "FF8CAE",
+    "color4": "1C96FF",
+    "order": 125,
+    "regular_character_grouping_ids": [
+      "grp-gen_5"
+    ]
+  },
+  {
+    "id": "chr-00031",
+    "name_lang_id": "la-name-chr-00031",
+    "short_name_lang_id": "la-short_name-chr-00031",
+    "name_eng": "Momosuzu Nene",
+    "short_name_eng": "Nene",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00031-nrml-0025-00",
+    "default_sd_costume_id": "sdcos-00031-nrml-0025-00",
+    "birth_month": 3,
+    "birth_day": 2,
+    "debut_year": 2020,
+    "debut_month": 8,
+    "debut_day": 13,
+    "fan_name_lang_id": "la-fan_name-chr-00031",
+    "description_lang_id": "la-chara_intro-00031",
+    "comment_lang_id": "la-chara_comment-00031",
+    "youtube_url": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA?sub_confirmation=1",
+    "x_url": "https://twitter.com/momosuzunene",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_ACTIVE",
+      "number": 5
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "00031",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00031",
+    "bgm_asset_id": "bgm_chr_profile_00031",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00031",
+    "regular_character_grouping_name_eng": "hololive 5th Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00031"
+    ],
+    "color1": "FFC633",
+    "color2": "FF852D",
+    "color3": "FF8CAE",
+    "color4": "FFAE00",
+    "order": 126,
+    "regular_character_grouping_ids": [
+      "grp-gen_5"
+    ]
+  },
+  {
+    "id": "chr-00032",
+    "name_lang_id": "la-name-chr-00032",
+    "short_name_lang_id": "la-short_name-chr-00032",
+    "name_eng": "Shishiro Botan",
+    "short_name_eng": "Botan",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00032-nrml-0026-00",
+    "default_sd_costume_id": "sdcos-00032-nrml-0026-00",
+    "birth_month": 9,
+    "birth_day": 8,
+    "debut_year": 2020,
+    "debut_month": 8,
+    "debut_day": 14,
+    "fan_name_lang_id": "la-fan_name-chr-00032",
+    "description_lang_id": "la-chara_intro-00032",
+    "comment_lang_id": "la-chara_comment-00032",
+    "youtube_url": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA?sub_confirmation=1",
+    "x_url": "https://twitter.com/shishirobotan",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_COOL",
+      "number": 1
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "00032",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-002",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00032",
+    "bgm_asset_id": "bgm_chr_profile_00032",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00032",
+    "regular_character_grouping_name_eng": "hololive 5th Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00032"
+    ],
+    "color1": "757575",
+    "color2": "91C1B1",
+    "color3": "5FCFA6",
+    "color4": "5F5F5F",
+    "order": 127,
+    "regular_character_grouping_ids": [
+      "grp-gen_5"
+    ]
+  },
+  {
+    "id": "chr-00034",
+    "name_lang_id": "la-name-chr-00034",
+    "short_name_lang_id": "la-short_name-chr-00034",
+    "name_eng": "Omaru Polka",
+    "short_name_eng": "Polka",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00034-nrml-0027-00",
+    "default_sd_costume_id": "sdcos-00034-nrml-0027-00",
+    "birth_month": 1,
+    "birth_day": 30,
+    "debut_year": 2020,
+    "debut_month": 8,
+    "debut_day": 16,
+    "fan_name_lang_id": "la-fan_name-chr-00034",
+    "description_lang_id": "la-chara_intro-00034",
+    "comment_lang_id": "la-chara_comment-00034",
+    "youtube_url": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA?sub_confirmation=1",
+    "x_url": "https://twitter.com/omarupolka",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "00034",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-003",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00034",
+    "bgm_asset_id": "bgm_chr_profile_00034",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00034",
+    "regular_character_grouping_name_eng": "hololive 5th Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00034"
+    ],
+    "color1": "ED0043",
+    "color2": "0083EB",
+    "color3": "FFCA0F",
+    "color4": "D4003C",
+    "order": 128,
+    "regular_character_grouping_ids": [
+      "grp-gen_5"
+    ]
+  },
+  {
+    "id": "chr-00035",
+    "name_lang_id": "la-name-chr-00035",
+    "short_name_lang_id": "la-short_name-chr-00035",
+    "name_eng": "La+ Darknesss",
+    "short_name_eng": "La+",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00035-nrml-0028-00",
+    "default_sd_costume_id": "sdcos-00035-nrml-0028-00",
+    "birth_month": 5,
+    "birth_day": 25,
+    "debut_year": 2021,
+    "debut_month": 11,
+    "debut_day": 26,
+    "fan_name_lang_id": "la-fan_name-chr-00035",
+    "description_lang_id": "la-chara_intro-00035",
+    "comment_lang_id": "la-chara_comment-00035",
+    "youtube_url": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+    "x_url": "https://twitter.com/LaplusDarknesss",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_ACTIVE",
+      "number": 5
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "00035",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-004",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00035",
+    "bgm_asset_id": "bgm_chr_profile_00035",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00035",
+    "regular_character_grouping_name_eng": "hololive holoX",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00035"
+    ],
+    "color1": "9464D2",
+    "color2": "493A58",
+    "color3": "B8E600",
+    "color4": "7F3DD4",
+    "order": 129,
+    "regular_character_grouping_ids": [
+      "grp-holox"
+    ]
+  },
+  {
+    "id": "chr-00036",
+    "name_lang_id": "la-name-chr-00036",
+    "short_name_lang_id": "la-short_name-chr-00036",
+    "name_eng": "Takane Lui",
+    "short_name_eng": "Lui",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00036-nrml-0029-00",
+    "default_sd_costume_id": "sdcos-00036-nrml-0029-00",
+    "birth_month": 6,
+    "birth_day": 11,
+    "debut_year": 2021,
+    "debut_month": 11,
+    "debut_day": 27,
+    "fan_name_lang_id": "la-fan_name-chr-00036",
+    "description_lang_id": "la-chara_intro-00036",
+    "comment_lang_id": "la-chara_comment-00036",
+    "youtube_url": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+    "x_url": "https://twitter.com/takanelui",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_COOL",
+      "number": 1
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "00036",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00036",
+    "bgm_asset_id": "bgm_chr_profile_00036",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00036",
+    "regular_character_grouping_name_eng": "hololive holoX",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00036"
+    ],
+    "color1": "831550",
+    "color2": "41282E",
+    "color3": "ED9492",
+    "color4": "71003D",
+    "order": 130,
+    "regular_character_grouping_ids": [
+      "grp-holox"
+    ]
+  },
+  {
+    "id": "chr-00037",
+    "name_lang_id": "la-name-chr-00037",
+    "short_name_lang_id": "la-short_name-chr-00037",
+    "name_eng": "Hakui Koyori",
+    "short_name_eng": "Koyori",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00037-nrml-0030-00",
+    "default_sd_costume_id": "sdcos-00037-nrml-0030-00",
+    "birth_month": 3,
+    "birth_day": 15,
+    "debut_year": 2021,
+    "debut_month": 11,
+    "debut_day": 28,
+    "fan_name_lang_id": "la-fan_name-chr-00037",
+    "description_lang_id": "la-chara_intro-00037",
+    "comment_lang_id": "la-chara_comment-00037",
+    "youtube_url": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+    "x_url": "https://twitter.com/hakuikoyori",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_CUTE",
+      "number": 4
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "00037",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-002",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00037",
+    "bgm_asset_id": "bgm_chr_profile_00037",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00037",
+    "regular_character_grouping_name_eng": "hololive holoX",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00037"
+    ],
+    "color1": "FF95C8",
+    "color2": "52DFCE",
+    "color3": "9D6FFF",
+    "color4": "F461A8",
+    "order": 131,
+    "regular_character_grouping_ids": [
+      "grp-holox"
+    ]
+  },
+  {
+    "id": "chr-00038",
+    "name_lang_id": "la-name-chr-00038",
+    "short_name_lang_id": "la-short_name-chr-00038",
+    "name_eng": "Sakamata Chloe",
+    "short_name_eng": "Chloe",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00038-nrml-0031-00",
+    "default_sd_costume_id": "sdcos-00038-nrml-0031-00",
+    "birth_month": 5,
+    "birth_day": 18,
+    "debut_year": 2021,
+    "debut_month": 11,
+    "debut_day": 29,
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_SEXY",
+      "number": 2
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "asset_id": "00038",
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00038"
+    ],
+    "color1": "BC0200",
+    "color2": "2C2B2B",
+    "color3": "A8A5A4",
+    "color4": "B22F2D",
+    "order": 132,
+    "regular_character_grouping_ids": [
+      "grp-holox"
+    ]
+  },
+  {
+    "id": "chr-00039",
+    "name_lang_id": "la-name-chr-00039",
+    "short_name_lang_id": "la-short_name-chr-00039",
+    "name_eng": "Kazama Iroha",
+    "short_name_eng": "Iroha",
+    "character_production_id": "prd-jp",
+    "default_costume_id": "cos-00039-nrml-0032-00",
+    "default_sd_costume_id": "sdcos-00039-nrml-0032-00",
+    "birth_month": 6,
+    "birth_day": 18,
+    "debut_year": 2021,
+    "debut_month": 11,
+    "debut_day": 30,
+    "fan_name_lang_id": "la-fan_name-chr-00039",
+    "description_lang_id": "la-chara_intro-00039",
+    "comment_lang_id": "la-chara_comment-00039",
+    "youtube_url": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+    "x_url": "https://twitter.com/kazamairohach",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "00039",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-003",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-00039",
+    "bgm_asset_id": "bgm_chr_profile_00039",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-00039",
+    "regular_character_grouping_name_eng": "hololive holoX",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-00039"
+    ],
+    "color1": "5ECFC8",
+    "color2": "D5C293",
+    "color3": "009BCF",
+    "color4": "00C8BE",
+    "order": 133,
+    "regular_character_grouping_ids": [
+      "grp-holox"
+    ]
+  },
+  {
+    "id": "chr-03001",
+    "name_lang_id": "la-name-chr-03001",
+    "short_name_lang_id": "la-short_name-chr-03001",
+    "name_eng": "Ayunda Risu",
+    "short_name_eng": "Risu",
+    "character_production_id": "prd-id",
+    "default_costume_id": "cos-03001-nrml-0033-00",
+    "default_sd_costume_id": "sdcos-03001-nrml-0033-00",
+    "birth_month": 1,
+    "birth_day": 15,
+    "debut_year": 2020,
+    "debut_month": 4,
+    "debut_day": 10,
+    "fan_name_lang_id": "la-fan_name-chr-03001",
+    "description_lang_id": "la-chara_intro-03001",
+    "comment_lang_id": "la-chara_comment-03001",
+    "youtube_url": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw?sub_confirmation=1",
+    "x_url": "https://twitter.com/ayunda_risu",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "03001",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-004",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-03001",
+    "bgm_asset_id": "bgm_chr_profile_03001",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-03001",
+    "regular_character_grouping_name_eng": "hololive ID 1st Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-03001"
+    ],
+    "color1": "FFAAAA",
+    "color2": "9F7060",
+    "color3": "FFE085",
+    "color4": "FF7B98",
+    "order": 134,
+    "regular_character_grouping_ids": [
+      "grp-indonesia-gen_1"
+    ]
+  },
+  {
+    "id": "chr-03002",
+    "name_lang_id": "la-name-chr-03002",
+    "short_name_lang_id": "la-short_name-chr-03002",
+    "name_eng": "Moona Hoshinova",
+    "short_name_eng": "Moona",
+    "character_production_id": "prd-id",
+    "default_costume_id": "cos-03002-nrml-0034-00",
+    "default_sd_costume_id": "sdcos-03002-nrml-0034-00",
+    "birth_month": 2,
+    "birth_day": 15,
+    "debut_year": 2020,
+    "debut_month": 4,
+    "debut_day": 11,
+    "fan_name_lang_id": "la-fan_name-chr-03002",
+    "description_lang_id": "la-chara_intro-03002",
+    "comment_lang_id": "la-chara_comment-03002",
+    "youtube_url": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg?sub_confirmation=1",
+    "x_url": "https://twitter.com/moonahoshinova",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_COOL",
+      "number": 1
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "03002",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-03002",
+    "bgm_asset_id": "bgm_chr_profile_03002",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-03002",
+    "regular_character_grouping_name_eng": "hololive ID 1st Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-03002"
+    ],
+    "color1": "AA83FF",
+    "color2": "FAD443",
+    "color3": "78DAE1",
+    "color4": "8454EA",
+    "order": 135,
+    "regular_character_grouping_ids": [
+      "grp-indonesia-gen_1"
+    ]
+  },
+  {
+    "id": "chr-03003",
+    "name_lang_id": "la-name-chr-03003",
+    "short_name_lang_id": "la-short_name-chr-03003",
+    "name_eng": "Airani Iofifteen",
+    "short_name_eng": "Iofi",
+    "character_production_id": "prd-id",
+    "default_costume_id": "cos-03003-nrml-0035-00",
+    "default_sd_costume_id": "sdcos-03003-nrml-0035-00",
+    "birth_month": 7,
+    "birth_day": 15,
+    "debut_year": 2020,
+    "debut_month": 4,
+    "debut_day": 12,
+    "fan_name_lang_id": "la-fan_name-chr-03003",
+    "description_lang_id": "la-chara_intro-03003",
+    "comment_lang_id": "la-chara_comment-03003",
+    "youtube_url": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg?sub_confirmation=1",
+    "x_url": "https://twitter.com/airaniiofifteen",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "03003",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-002",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-03003",
+    "bgm_asset_id": "bgm_chr_profile_03003",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-03003",
+    "regular_character_grouping_name_eng": "hololive ID 1st Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-03003"
+    ],
+    "color1": "9CDF36",
+    "color2": "FDA2BB",
+    "color3": "61D7E4",
+    "color4": "88D414",
+    "order": 136,
+    "regular_character_grouping_ids": [
+      "grp-indonesia-gen_1"
+    ]
+  },
+  {
+    "id": "chr-03004",
+    "name_lang_id": "la-name-chr-03004",
+    "short_name_lang_id": "la-short_name-chr-03004",
+    "name_eng": "Kureiji Ollie",
+    "short_name_eng": "Ollie",
+    "character_production_id": "prd-id",
+    "default_costume_id": "cos-03004-nrml-0036-00",
+    "default_sd_costume_id": "sdcos-03004-nrml-0036-00",
+    "birth_month": 10,
+    "birth_day": 13,
+    "debut_year": 2020,
+    "debut_month": 12,
+    "debut_day": 4,
+    "fan_name_lang_id": "la-fan_name-chr-03004",
+    "description_lang_id": "la-chara_intro-03004",
+    "comment_lang_id": "la-chara_comment-03004",
+    "youtube_url": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+    "x_url": "https://twitter.com/kureijiollie",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_ACTIVE",
+      "number": 5
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "03004",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-003",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-03004",
+    "bgm_asset_id": "bgm_chr_profile_03004",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-03004",
+    "regular_character_grouping_name_eng": "hololive ID 2nd Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-03004"
+    ],
+    "color1": "C40041",
+    "color2": "394452",
+    "color3": "FF85AB",
+    "color4": "A10036",
+    "order": 137,
+    "regular_character_grouping_ids": [
+      "grp-indonesia-gen_2"
+    ]
+  },
+  {
+    "id": "chr-03005",
+    "name_lang_id": "la-name-chr-03005",
+    "short_name_lang_id": "la-short_name-chr-03005",
+    "name_eng": "Anya Melfissa",
+    "short_name_eng": "Anya",
+    "character_production_id": "prd-id",
+    "default_costume_id": "cos-03005-nrml-0037-00",
+    "default_sd_costume_id": "sdcos-03005-nrml-0037-00",
+    "birth_month": 3,
+    "birth_day": 12,
+    "debut_year": 2020,
+    "debut_month": 12,
+    "debut_day": 5,
+    "fan_name_lang_id": "la-fan_name-chr-03005",
+    "description_lang_id": "la-chara_intro-03005",
+    "comment_lang_id": "la-chara_comment-03005",
+    "youtube_url": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg/featured",
+    "x_url": "https://twitter.com/anyamelfissa",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "03005",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-004",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-03005",
+    "bgm_asset_id": "bgm_chr_profile_03005",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-03005",
+    "regular_character_grouping_name_eng": "hololive ID 2nd Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-03005"
+    ],
+    "color1": "F3BF41",
+    "color2": "B3906F",
+    "color3": "7E5B5A",
+    "color4": "FFB400",
+    "order": 138,
+    "regular_character_grouping_ids": [
+      "grp-indonesia-gen_2"
+    ]
+  },
+  {
+    "id": "chr-03006",
+    "name_lang_id": "la-name-chr-03006",
+    "short_name_lang_id": "la-short_name-chr-03006",
+    "name_eng": "Pavolia Reine",
+    "short_name_eng": "Reine",
+    "character_production_id": "prd-id",
+    "default_costume_id": "cos-03006-nrml-0038-00",
+    "default_sd_costume_id": "sdcos-03006-nrml-0038-00",
+    "birth_month": 9,
+    "birth_day": 9,
+    "debut_year": 2020,
+    "debut_month": 12,
+    "debut_day": 6,
+    "fan_name_lang_id": "la-fan_name-chr-03006",
+    "description_lang_id": "la-chara_intro-03006",
+    "comment_lang_id": "la-chara_comment-03006",
+    "youtube_url": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q?",
+    "x_url": "https://twitter.com/pavoliareine",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_SEXY",
+      "number": 2
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "03006",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-03006",
+    "bgm_asset_id": "bgm_chr_profile_03006",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-03006",
+    "regular_character_grouping_name_eng": "hololive ID 2nd Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-03006"
+    ],
+    "color1": "004DC2",
+    "color2": "5AC6B6",
+    "color3": "B47BE0",
+    "color4": "003E9D",
+    "order": 139,
+    "regular_character_grouping_ids": [
+      "grp-indonesia-gen_2"
+    ]
+  },
+  {
+    "id": "chr-03007",
+    "name_lang_id": "la-name-chr-03007",
+    "short_name_lang_id": "la-short_name-chr-03007",
+    "name_eng": "Vestia Zeta",
+    "short_name_eng": "Zeta",
+    "character_production_id": "prd-id",
+    "default_costume_id": "cos-03007-nrml-0039-00",
+    "default_sd_costume_id": "sdcos-03007-nrml-0039-00",
+    "birth_month": 11,
+    "birth_day": 7,
+    "debut_year": 2022,
+    "debut_month": 3,
+    "debut_day": 25,
+    "fan_name_lang_id": "la-fan_name-chr-03007",
+    "description_lang_id": "la-chara_intro-03007",
+    "comment_lang_id": "la-chara_comment-03007",
+    "youtube_url": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+    "x_url": "https://twitter.com/vestiazeta",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_CUTE",
+      "number": 4
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "03007",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-002",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-03007",
+    "bgm_asset_id": "bgm_chr_profile_03007",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-03007",
+    "regular_character_grouping_name_eng": "hololive ID 3rd Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-03007"
+    ],
+    "color1": "9290A1",
+    "color2": "7E95ED",
+    "color3": "525C86",
+    "color4": "363449",
+    "order": 140,
+    "regular_character_grouping_ids": [
+      "grp-indonesia-gen_3"
+    ]
+  },
+  {
+    "id": "chr-03008",
+    "name_lang_id": "la-name-chr-03008",
+    "short_name_lang_id": "la-short_name-chr-03008",
+    "name_eng": "Kaela Kovalskia",
+    "short_name_eng": "Kaela",
+    "character_production_id": "prd-id",
+    "default_costume_id": "cos-03008-nrml-0040-00",
+    "default_sd_costume_id": "sdcos-03008-nrml-0040-00",
+    "birth_month": 8,
+    "birth_day": 30,
+    "debut_year": 2022,
+    "debut_month": 3,
+    "debut_day": 26,
+    "fan_name_lang_id": "la-fan_name-chr-03008",
+    "description_lang_id": "la-chara_intro-03008",
+    "comment_lang_id": "la-chara_comment-03008",
+    "youtube_url": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+    "x_url": "https://twitter.com/kaelakovalskia",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_COOL",
+      "number": 1
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "03008",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-003",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-03008",
+    "bgm_asset_id": "bgm_chr_profile_03008",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-03008",
+    "regular_character_grouping_name_eng": "hololive ID 3rd Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-03008"
+    ],
+    "color1": "FC4045",
+    "color2": "54291A",
+    "color3": "FFC942",
+    "color4": "AB0B0F",
+    "order": 141,
+    "regular_character_grouping_ids": [
+      "grp-indonesia-gen_3"
+    ]
+  },
+  {
+    "id": "chr-03009",
+    "name_lang_id": "la-name-chr-03009",
+    "short_name_lang_id": "la-short_name-chr-03009",
+    "name_eng": "Kobo Kanaeru",
+    "short_name_eng": "Kobo",
+    "character_production_id": "prd-id",
+    "default_costume_id": "cos-03009-nrml-0041-00",
+    "default_sd_costume_id": "sdcos-03009-nrml-0041-00",
+    "birth_month": 12,
+    "birth_day": 12,
+    "debut_year": 2022,
+    "debut_month": 3,
+    "debut_day": 27,
+    "fan_name_lang_id": "la-fan_name-chr-03009",
+    "description_lang_id": "la-chara_intro-03009",
+    "comment_lang_id": "la-chara_comment-03009",
+    "youtube_url": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+    "x_url": "https://twitter.com/kobokanaeru",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_ACTIVE",
+      "number": 5
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "03009",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-004",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-03009",
+    "bgm_asset_id": "bgm_chr_profile_03009",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-03009",
+    "regular_character_grouping_name_eng": "hololive ID 3rd Generation",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-03009"
+    ],
+    "color1": "50CFE1",
+    "color2": "63668E",
+    "color3": "FF5559",
+    "color4": "00C0DC",
+    "order": 142,
+    "regular_character_grouping_ids": [
+      "grp-indonesia-gen_3"
+    ]
+  },
+  {
+    "id": "chr-04001",
+    "name_lang_id": "la-name-chr-04001",
+    "short_name_lang_id": "la-short_name-chr-04001",
+    "name_eng": "Mori Calliope",
+    "short_name_eng": "Calliope",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04001-nrml-0042-00",
+    "default_sd_costume_id": "sdcos-04001-nrml-0042-00",
+    "birth_month": 4,
+    "birth_day": 4,
+    "debut_year": 2020,
+    "debut_month": 9,
+    "debut_day": 12,
+    "fan_name_lang_id": "la-fan_name-chr-04001",
+    "description_lang_id": "la-chara_intro-04001",
+    "comment_lang_id": "la-chara_comment-04001",
+    "youtube_url": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg?sub_confirmation=1",
+    "x_url": "https://twitter.com/moricalliope",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_COOL",
+      "number": 1
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "04001",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-04001",
+    "bgm_asset_id": "bgm_chr_profile_04001",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-04001",
+    "regular_character_grouping_name_eng": "hololive EN Myth",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04001"
+    ],
+    "color1": "E01C61",
+    "color2": "FF8EB8",
+    "color3": "4C3E46",
+    "color4": "AB003C",
+    "order": 143,
+    "regular_character_grouping_ids": [
+      "grp-myth"
+    ]
+  },
+  {
+    "id": "chr-04002",
+    "name_lang_id": "la-name-chr-04002",
+    "short_name_lang_id": "la-short_name-chr-04002",
+    "name_eng": "Takanashi Kiara",
+    "short_name_eng": "Kiara",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04002-nrml-0043-00",
+    "default_sd_costume_id": "sdcos-04002-nrml-0043-00",
+    "birth_month": 7,
+    "birth_day": 6,
+    "debut_year": 2020,
+    "debut_month": 9,
+    "debut_day": 12,
+    "fan_name_lang_id": "la-fan_name-chr-04002",
+    "description_lang_id": "la-chara_intro-04002",
+    "comment_lang_id": "la-chara_comment-04002",
+    "youtube_url": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww?sub_confirmation=1",
+    "x_url": "https://twitter.com/takanashikiara",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_SEXY",
+      "number": 2
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "04002",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-04002",
+    "bgm_asset_id": "bgm_chr_profile_04002",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-04002",
+    "regular_character_grouping_name_eng": "hololive EN Myth",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04002"
+    ],
+    "color1": "FF792E",
+    "color2": "38D2A8",
+    "color3": "273DCC",
+    "color4": "FF5723",
+    "order": 144,
+    "regular_character_grouping_ids": [
+      "grp-myth"
+    ]
+  },
+  {
+    "id": "chr-04003",
+    "name_lang_id": "la-name-chr-04003",
+    "short_name_lang_id": "la-short_name-chr-04003",
+    "name_eng": "Ninomae Ina'nis",
+    "short_name_eng": "Ina'nis",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04003-nrml-0044-00",
+    "default_sd_costume_id": "sdcos-04003-nrml-0044-00",
+    "birth_month": 5,
+    "birth_day": 20,
+    "debut_year": 2020,
+    "debut_month": 9,
+    "debut_day": 13,
+    "fan_name_lang_id": "la-fan_name-chr-04003",
+    "description_lang_id": "la-chara_intro-04003",
+    "comment_lang_id": "la-chara_comment-04003",
+    "youtube_url": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg?sub_confirmation=1",
+    "x_url": "https://twitter.com/ninomaeinanis",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_COOL",
+      "number": 1
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "04003",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-002",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-04003",
+    "bgm_asset_id": "bgm_chr_profile_04003",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-04003",
+    "regular_character_grouping_name_eng": "hololive EN Myth",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04003"
+    ],
+    "color1": "5D4E83",
+    "color2": "FF8D35",
+    "color3": "C884CE",
+    "color4": "3C3157",
+    "order": 145,
+    "regular_character_grouping_ids": [
+      "grp-myth"
+    ]
+  },
+  {
+    "id": "chr-04004",
+    "name_lang_id": "la-name-chr-04004",
+    "short_name_lang_id": "la-short_name-chr-04004",
+    "name_eng": "Gawr Gura",
+    "short_name_eng": "Gura",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04004-nrml-0045-00",
+    "default_sd_costume_id": "sdcos-04004-nrml-0045-00",
+    "birth_month": 6,
+    "birth_day": 20,
+    "debut_year": 2020,
+    "debut_month": 9,
+    "debut_day": 13,
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_CUTE",
+      "number": 4
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "asset_id": "04004",
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04004"
+    ],
+    "color1": "5588FF",
+    "color2": "8AC7ED",
+    "color3": "EF4D55",
+    "color4": "2E63CB",
+    "order": 146,
+    "regular_character_grouping_ids": [
+      "grp-myth"
+    ]
+  },
+  {
+    "id": "chr-04005",
+    "name_lang_id": "la-name-chr-04005",
+    "short_name_lang_id": "la-short_name-chr-04005",
+    "name_eng": "Watson Amelia",
+    "short_name_eng": "Amelia",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04005-nrml-0046-00",
+    "default_sd_costume_id": "sdcos-04005-nrml-0046-00",
+    "birth_month": 1,
+    "birth_day": 6,
+    "debut_year": 2020,
+    "debut_month": 9,
+    "debut_day": 13,
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "asset_id": "04005",
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04005"
+    ],
+    "color1": "F8DB92",
+    "color2": "7B4439",
+    "color3": "CBB097",
+    "color4": "E6B63F",
+    "order": 147,
+    "regular_character_grouping_ids": [
+      "grp-myth"
+    ]
+  },
+  {
+    "id": "chr-04007",
+    "name_lang_id": "la-name-chr-04007",
+    "short_name_lang_id": "la-short_name-chr-04007",
+    "name_eng": "IRyS",
+    "short_name_eng": "IRyS",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04007-nrml-0047-00",
+    "default_sd_costume_id": "sdcos-04007-nrml-0047-00",
+    "birth_month": 3,
+    "birth_day": 7,
+    "debut_year": 2021,
+    "debut_month": 7,
+    "debut_day": 11,
+    "fan_name_lang_id": "la-fan_name-chr-04007",
+    "description_lang_id": "la-chara_intro-04007",
+    "comment_lang_id": "la-chara_comment-04007",
+    "youtube_url": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+    "x_url": "https://twitter.com/irys_en",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_SEXY",
+      "number": 2
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "04007",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-004",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-04007",
+    "bgm_asset_id": "bgm_chr_profile_04007",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-04007",
+    "regular_character_grouping_name_eng": "hololive EN Promise",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04007"
+    ],
+    "color1": "DF185D",
+    "color2": "60CED0",
+    "color3": "8E00AD",
+    "color4": "AB003B",
+    "order": 148,
+    "regular_character_grouping_ids": [
+      "grp-promise"
+    ]
+  },
+  {
+    "id": "chr-04009",
+    "name_lang_id": "la-name-chr-04009",
+    "short_name_lang_id": "la-short_name-chr-04009",
+    "name_eng": "Ceres Fauna",
+    "short_name_eng": "Fauna",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04009-nrml-0048-00",
+    "default_sd_costume_id": "sdcos-04009-nrml-0048-00",
+    "birth_month": 3,
+    "birth_day": 21,
+    "debut_year": 2021,
+    "debut_month": 8,
+    "debut_day": 23,
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_COOL",
+      "number": 1
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "asset_id": "04009",
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04009"
+    ],
+    "color1": "B3DD8D",
+    "color2": "50D0B3",
+    "color3": "FE9591",
+    "color4": "79B257",
+    "order": 149,
+    "regular_character_grouping_ids": [
+      "grp-promise"
+    ]
+  },
+  {
+    "id": "chr-04010",
+    "name_lang_id": "la-name-chr-04010",
+    "short_name_lang_id": "la-short_name-chr-04010",
+    "name_eng": "Ouro Kronii",
+    "short_name_eng": "Kronii",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04010-nrml-0049-00",
+    "default_sd_costume_id": "sdcos-04010-nrml-0049-00",
+    "birth_month": 3,
+    "birth_day": 14,
+    "debut_year": 2021,
+    "debut_month": 8,
+    "debut_day": 23,
+    "fan_name_lang_id": "la-fan_name-chr-04010",
+    "description_lang_id": "la-chara_intro-04010",
+    "comment_lang_id": "la-chara_comment-04010",
+    "youtube_url": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+    "x_url": "https://twitter.com/ourokronii",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_COOL",
+      "number": 1
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "04010",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-04010",
+    "bgm_asset_id": "bgm_chr_profile_04010",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-04010",
+    "regular_character_grouping_name_eng": "hololive EN Promise",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04010"
+    ],
+    "color1": "2221AA",
+    "color2": "DCB33E",
+    "color3": "8BD2F8",
+    "color4": "29297C",
+    "order": 150,
+    "regular_character_grouping_ids": [
+      "grp-promise"
+    ]
+  },
+  {
+    "id": "chr-04011",
+    "name_lang_id": "la-name-chr-04011",
+    "short_name_lang_id": "la-short_name-chr-04011",
+    "name_eng": "Nanashi Mumei",
+    "short_name_eng": "Mumei",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04011-nrml-0050-00",
+    "default_sd_costume_id": "sdcos-04011-nrml-0050-00",
+    "birth_month": 8,
+    "birth_day": 4,
+    "debut_year": 2021,
+    "debut_month": 8,
+    "debut_day": 23,
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "asset_id": "04011",
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04011"
+    ],
+    "color1": "CCA495",
+    "color2": "41312D",
+    "color3": "44BBBB",
+    "color4": "906F62",
+    "order": 151,
+    "regular_character_grouping_ids": [
+      "grp-promise"
+    ]
+  },
+  {
+    "id": "chr-04012",
+    "name_lang_id": "la-name-chr-04012",
+    "short_name_lang_id": "la-short_name-chr-04012",
+    "name_eng": "Hakos Baelz",
+    "short_name_eng": "Baelz",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04012-nrml-0051-00",
+    "default_sd_costume_id": "sdcos-04012-nrml-0051-00",
+    "birth_month": 2,
+    "birth_day": 29,
+    "debut_year": 2021,
+    "debut_month": 8,
+    "debut_day": 23,
+    "fan_name_lang_id": "la-fan_name-chr-04012",
+    "description_lang_id": "la-chara_intro-04012",
+    "comment_lang_id": "la-chara_comment-04012",
+    "youtube_url": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+    "x_url": "https://twitter.com/hakosbaelz",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_ACTIVE",
+      "number": 5
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "04012",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-002",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-04012",
+    "bgm_asset_id": "bgm_chr_profile_04012",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-04012",
+    "regular_character_grouping_name_eng": "hololive EN Promise",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04012"
+    ],
+    "color1": "EE2222",
+    "color2": "48D5C8",
+    "color3": "FFBD15",
+    "color4": "E00000",
+    "order": 152,
+    "regular_character_grouping_ids": [
+      "grp-promise"
+    ]
+  },
+  {
+    "id": "chr-04013",
+    "name_lang_id": "la-name-chr-04013",
+    "short_name_lang_id": "la-short_name-chr-04013",
+    "name_eng": "Shiori Novella",
+    "short_name_eng": "Shiori",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04013-nrml-0052-00",
+    "default_sd_costume_id": "sdcos-04013-nrml-0052-00",
+    "birth_month": 5,
+    "birth_day": 2,
+    "debut_year": 2023,
+    "debut_month": 7,
+    "debut_day": 30,
+    "fan_name_lang_id": "la-fan_name-chr-04013",
+    "description_lang_id": "la-chara_intro-04013",
+    "comment_lang_id": "la-chara_comment-04013",
+    "youtube_url": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+    "x_url": "https://twitter.com/shiorinovella",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "04013",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-003",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-04013",
+    "bgm_asset_id": "bgm_chr_profile_04013",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-04013",
+    "regular_character_grouping_name_eng": "hololive EN Advent",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04013"
+    ],
+    "color1": "C288F7",
+    "color2": "44445D",
+    "color3": "633CFF",
+    "color4": "9A43E9",
+    "order": 153,
+    "regular_character_grouping_ids": [
+      "grp-advent"
+    ]
+  },
+  {
+    "id": "chr-04014",
+    "name_lang_id": "la-name-chr-04014",
+    "short_name_lang_id": "la-short_name-chr-04014",
+    "name_eng": "Koseki Bijou",
+    "short_name_eng": "Bijou",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04014-nrml-0053-00",
+    "default_sd_costume_id": "sdcos-04014-nrml-0053-00",
+    "birth_month": 4,
+    "birth_day": 14,
+    "debut_year": 2023,
+    "debut_month": 7,
+    "debut_day": 30,
+    "fan_name_lang_id": "la-fan_name-chr-04014",
+    "description_lang_id": "la-chara_intro-04014",
+    "comment_lang_id": "la-chara_comment-04014",
+    "youtube_url": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+    "x_url": "https://twitter.com/kosekibijou",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_ACTIVE",
+      "number": 5
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "04014",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-004",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-04014",
+    "bgm_asset_id": "bgm_chr_profile_04014",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-04014",
+    "regular_character_grouping_name_eng": "hololive EN Advent",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04014"
+    ],
+    "color1": "8674FF",
+    "color2": "FFA7CA",
+    "color3": "76D6D1",
+    "color4": "5137FF",
+    "order": 154,
+    "regular_character_grouping_ids": [
+      "grp-advent"
+    ]
+  },
+  {
+    "id": "chr-04015",
+    "name_lang_id": "la-name-chr-04015",
+    "short_name_lang_id": "la-short_name-chr-04015",
+    "name_eng": "Nerissa Ravencroft",
+    "short_name_eng": "Nerissa",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04015-nrml-0054-00",
+    "default_sd_costume_id": "sdcos-04015-nrml-0054-00",
+    "birth_month": 11,
+    "birth_day": 21,
+    "debut_year": 2023,
+    "debut_month": 7,
+    "debut_day": 31,
+    "fan_name_lang_id": "la-fan_name-chr-04015",
+    "description_lang_id": "la-chara_intro-04015",
+    "comment_lang_id": "la-chara_comment-04015",
+    "youtube_url": "https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg",
+    "x_url": "https://twitter.com/nerissa_en",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_SEXY",
+      "number": 2
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "04015",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-04015",
+    "bgm_asset_id": "bgm_chr_profile_04015",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-04015",
+    "regular_character_grouping_name_eng": "hololive EN Advent",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04015"
+    ],
+    "color1": "3950EE",
+    "color2": "3F3D53",
+    "color3": "A5A5AC",
+    "color4": "152CC5",
+    "order": 155,
+    "regular_character_grouping_ids": [
+      "grp-advent"
+    ]
+  },
+  {
+    "id": "chr-04016",
+    "name_lang_id": "la-name-chr-04016",
+    "short_name_lang_id": "la-short_name-chr-04016",
+    "name_eng": "Fuwawa Abyssgard",
+    "short_name_eng": "Fuwawa",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04016-nrml-0055-00",
+    "default_sd_costume_id": "sdcos-04016-nrml-0055-00",
+    "birth_month": 2,
+    "birth_day": 1,
+    "debut_year": 2023,
+    "debut_month": 7,
+    "debut_day": 31,
+    "fan_name_lang_id": "la-fan_name-chr-04016",
+    "description_lang_id": "la-chara_intro-04016",
+    "comment_lang_id": "la-chara_comment-04016",
+    "youtube_url": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+    "x_url": "https://twitter.com/fuwamoco_en",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_ACTIVE",
+      "number": 5
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "04016",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-002",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-04016",
+    "bgm_asset_id": "bgm_chr_profile_04016",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-04016",
+    "regular_character_grouping_name_eng": "hololive EN Advent",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04016"
+    ],
+    "color1": "80C2F8",
+    "color2": "F79BC2",
+    "color3": "AA87F5",
+    "color4": "33A1F0",
+    "order": 156,
+    "regular_character_grouping_ids": [
+      "grp-advent"
+    ]
+  },
+  {
+    "id": "chr-04017",
+    "name_lang_id": "la-name-chr-04017",
+    "short_name_lang_id": "la-short_name-chr-04017",
+    "name_eng": "Mococo Abyssgard",
+    "short_name_eng": "Mococo",
+    "character_production_id": "prd-en",
+    "default_costume_id": "cos-04017-nrml-0056-00",
+    "default_sd_costume_id": "sdcos-04017-nrml-0056-00",
+    "birth_month": 2,
+    "birth_day": 2,
+    "debut_year": 2023,
+    "debut_month": 7,
+    "debut_day": 31,
+    "fan_name_lang_id": "la-fan_name-chr-04017",
+    "description_lang_id": "la-chara_intro-04017",
+    "comment_lang_id": "la-chara_comment-04017",
+    "youtube_url": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+    "x_url": "https://twitter.com/fuwamoco_en",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_ACTIVE",
+      "number": 5
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "04017",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-003",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-04017",
+    "bgm_asset_id": "bgm_chr_profile_04017",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-04017",
+    "regular_character_grouping_name_eng": "hololive EN Advent",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-04017"
+    ],
+    "color1": "F79BC2",
+    "color2": "80C2F8",
+    "color3": "AA87F5",
+    "color4": "F168A1",
+    "order": 157,
+    "regular_character_grouping_ids": [
+      "grp-advent"
+    ]
+  },
+  {
+    "id": "chr-06001",
+    "name_lang_id": "la-name-chr-06001",
+    "short_name_lang_id": "la-short_name-chr-06001",
+    "name_eng": "Hiodoshi Ao",
+    "short_name_eng": "Ao",
+    "character_production_id": "prd-dev_is",
+    "default_costume_id": "cos-06001-nrml-0057-00",
+    "default_sd_costume_id": "sdcos-06001-nrml-0057-00",
+    "birth_month": 2,
+    "birth_day": 27,
+    "debut_year": 2023,
+    "debut_month": 9,
+    "debut_day": 9,
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "asset_id": "06001",
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-06001"
+    ],
+    "color1": "204596",
+    "color2": "88D3FD",
+    "color3": "3272FF",
+    "color4": "1E3566",
+    "order": 158,
+    "regular_character_grouping_ids": [
+      "grp-regloss"
+    ]
+  },
+  {
+    "id": "chr-06002",
+    "name_lang_id": "la-name-chr-06002",
+    "short_name_lang_id": "la-short_name-chr-06002",
+    "name_eng": "Otonose Kanade",
+    "short_name_eng": "Kanade",
+    "character_production_id": "prd-dev_is",
+    "default_costume_id": "cos-06002-nrml-0058-00",
+    "default_sd_costume_id": "sdcos-06002-nrml-0058-00",
+    "birth_month": 4,
+    "birth_day": 20,
+    "debut_year": 2023,
+    "debut_month": 9,
+    "debut_day": 9,
+    "fan_name_lang_id": "la-fan_name-chr-06002",
+    "description_lang_id": "la-chara_intro-06002",
+    "comment_lang_id": "la-chara_comment-06002",
+    "youtube_url": "https://www.youtube.com/@OtonoseKanade",
+    "x_url": "https://x.com/otonosekanade",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_CUTE",
+      "number": 4
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+      "number": 2
+    },
+    "is_playable": true,
+    "asset_id": "06002",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-001",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-06002",
+    "bgm_asset_id": "bgm_chr_profile_06002",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-06002",
+    "regular_character_grouping_name_eng": "DEV_IS ReGLOSS",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-06002"
+    ],
+    "color1": "FFD380",
+    "color2": "FC8275",
+    "color3": "A1705C",
+    "color4": "FFBA35",
+    "order": 159,
+    "regular_character_grouping_ids": [
+      "grp-regloss"
+    ]
+  },
+  {
+    "id": "chr-06003",
+    "name_lang_id": "la-name-chr-06003",
+    "short_name_lang_id": "la-short_name-chr-06003",
+    "name_eng": "Ichijou Ririka",
+    "short_name_eng": "Ririka",
+    "character_production_id": "prd-dev_is",
+    "default_costume_id": "cos-06003-nrml-0059-00",
+    "default_sd_costume_id": "sdcos-06003-nrml-0059-00",
+    "birth_month": 5,
+    "birth_day": 12,
+    "debut_year": 2023,
+    "debut_month": 9,
+    "debut_day": 9,
+    "fan_name_lang_id": "la-fan_name-chr-06003",
+    "description_lang_id": "la-chara_intro-06003",
+    "comment_lang_id": "la-chara_comment-06003",
+    "youtube_url": "https://www.youtube.com/@IchijouRirika",
+    "x_url": "https://x.com/ichijouririka",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_SEXY",
+      "number": 2
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "06003",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-002",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-06003",
+    "bgm_asset_id": "bgm_chr_profile_06003",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-06003",
+    "regular_character_grouping_name_eng": "DEV_IS ReGLOSS",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-06003"
+    ],
+    "color1": "FF77A9",
+    "color2": "9D8DFF",
+    "color3": "FFB6C8",
+    "color4": "F2558F",
+    "order": 160,
+    "regular_character_grouping_ids": [
+      "grp-regloss"
+    ]
+  },
+  {
+    "id": "chr-06004",
+    "name_lang_id": "la-name-chr-06004",
+    "short_name_lang_id": "la-short_name-chr-06004",
+    "name_eng": "Juufuutei Raden",
+    "short_name_eng": "Raden",
+    "character_production_id": "prd-dev_is",
+    "default_costume_id": "cos-06004-nrml-0060-00",
+    "default_sd_costume_id": "sdcos-06004-nrml-0060-00",
+    "birth_month": 2,
+    "birth_day": 4,
+    "debut_year": 2023,
+    "debut_month": 9,
+    "debut_day": 10,
+    "fan_name_lang_id": "la-fan_name-chr-06004",
+    "description_lang_id": "la-chara_intro-06004",
+    "comment_lang_id": "la-chara_comment-06004",
+    "youtube_url": "https://www.youtube.com/@JuufuuteiRaden",
+    "x_url": "https://twitter.com/juufuuteiraden",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+      "number": 3
+    },
+    "is_playable": true,
+    "asset_id": "06004",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-003",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-06004",
+    "bgm_asset_id": "bgm_chr_profile_06004",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-06004",
+    "regular_character_grouping_name_eng": "DEV_IS ReGLOSS",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-06004"
+    ],
+    "color1": "357B6C",
+    "color2": "D7845A",
+    "color3": "A32220",
+    "color4": "144F41",
+    "order": 161,
+    "regular_character_grouping_ids": [
+      "grp-regloss"
+    ]
+  },
+  {
+    "id": "chr-06005",
+    "name_lang_id": "la-name-chr-06005",
+    "short_name_lang_id": "la-short_name-chr-06005",
+    "name_eng": "Todoroki Hajime",
+    "short_name_eng": "Hajime",
+    "character_production_id": "prd-dev_is",
+    "default_costume_id": "cos-06005-nrml-0061-00",
+    "default_sd_costume_id": "sdcos-06005-nrml-0061-00",
+    "birth_month": 6,
+    "birth_day": 7,
+    "debut_year": 2023,
+    "debut_month": 9,
+    "debut_day": 10,
+    "fan_name_lang_id": "la-fan_name-chr-06005",
+    "description_lang_id": "la-chara_intro-06005",
+    "comment_lang_id": "la-chara_comment-06005",
+    "youtube_url": "https://www.youtube.com/@TodorokiHajime",
+    "x_url": "https://twitter.com/todoroki_hajime",
+    "personality_type": {
+      "name": "CHARACTER_PERSONALITY_TYPE_NATURAL",
+      "number": 3
+    },
+    "sd_personality_type": {
+      "name": "CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+      "number": 1
+    },
+    "is_playable": true,
+    "asset_id": "06005",
+    "character_level_group_id": "level-group-1",
+    "skill_tree_node_position_group_id": "tree-model-004",
+    "is_tutorial": true,
+    "dominant_hand_type": {
+      "name": "CHARACTER_HAND_TYPE_R",
+      "number": 1
+    },
+    "skill_tree_point_id": "skill_tree_point-chr-06005",
+    "bgm_asset_id": "bgm_chr_profile_06005",
+    "regular_character_grouping_name_lang_id": "la-regular-grp-name-06005",
+    "regular_character_grouping_name_eng": "DEV_IS ReGLOSS",
+    "search_keyword_lang_ids": [
+      "la-search_keyword-chr-06005"
+    ],
+    "color1": "A4AAFF",
+    "color2": "DEC2A7",
+    "color3": "84D3FF",
+    "color4": "6D77FF",
+    "order": 162,
+    "regular_character_grouping_ids": [
+      "grp-regloss"
+    ]
+  }
+]

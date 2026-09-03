@@ -1,0 +1,82 @@
+[
+  {
+    "id": "la-mini_game-chase-description",
+    "text": "밤의 파크에서 술래잡기!"
+  },
+  {
+    "id": "la-mini_game-chase-name",
+    "text": "어둠 속 추격"
+  },
+  {
+    "id": "la-mini_game-chase-ranking_score_type_lang_id",
+    "text": "SCORE"
+  },
+  {
+    "id": "la-mini_game-chase_game-ranking_view_description_lang_id",
+    "text": "베스트 스코어 상위 100명을 표시"
+  },
+  {
+    "id": "la-mini_game-circuit-description",
+    "text": "최대 16명이 겨루는 장애물 레이스 게임"
+  },
+  {
+    "id": "la-mini_game-circuit-name",
+    "text": "메가 서킷"
+  },
+  {
+    "id": "la-mini_game-circuit-ranking_score_type_lang_id",
+    "text": "TIME"
+  },
+  {
+    "id": "la-mini_game-circuit-ranking_view_description_lang_id",
+    "text": "베스트 타임 상위 100명을 표시"
+  },
+  {
+    "id": "la-mini_game-combo_card_game-description",
+    "text": "족보를 완성해 코인을 버는 카드 게임"
+  },
+  {
+    "id": "la-mini_game-combo_card_game-name",
+    "text": "포카장!"
+  },
+  {
+    "id": "la-mini_game-combo_card_game-ranking_score_type_lang_id",
+    "text": "RATING"
+  },
+  {
+    "id": "la-mini_game-combo_card_game-ranking_view_description_lang_id",
+    "text": "누적 코인 레이트 상위 100명을 표시"
+  },
+  {
+    "id": "la-mini_game-cooking_puzzle-description",
+    "text": "재료를 모아 요리를 만드는 퍼즐 게임"
+  },
+  {
+    "id": "la-mini_game-cooking_puzzle-name",
+    "text": "모아 쿠킹"
+  },
+  {
+    "id": "la-mini_game-cooking_puzzle-ranking_score_type_lang_id",
+    "text": "SCORE"
+  },
+  {
+    "id": "la-mini_game-cooking_puzzle-ranking_view_description_lang_id",
+    "text": "베스트 스코어 상위 100명을 표시"
+  },
+  {
+    "id": "la-mini_game-jump_rope-description",
+    "text": "단체 줄넘기를 하는 점프 게임"
+  },
+  {
+    "id": "la-mini_game-jump_rope-name",
+    "text": "줄넘기"
+  },
+  {
+    "id": "la-mini_game-jump_rope-ranking_score_type_lang_id",
+    "text": "SCORE"
+  },
+  {
+    "id": "la-mini_game-jump_rope-ranking_view_description_lang_id",
+    "text": "베스트 스코어 상위 100명을 표시"
+  }
+]

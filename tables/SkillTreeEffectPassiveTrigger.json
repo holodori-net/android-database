@@ -1,0 +1,942 @@
+[
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00001",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00001"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00001.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00002",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00002"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00002.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00004",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00004"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00004.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00005",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00005"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00005.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00006",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00006"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00006.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00007",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00007"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00007.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00009",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00009"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00009.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00010",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00010"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00010.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00011",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00011"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00011.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00012",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00012"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00012.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00013",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00013"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00013.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00014",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00014"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00014.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00015",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00015"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00015.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00016",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00016"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00016.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00017",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00017"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00017.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00018",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00018"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00018.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00019",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00019"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00019.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00021",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00021"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00021.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00022",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00022"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00022.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00023",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00023"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00023.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00024",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00024"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00024.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00026",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00026"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00026.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00027",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00027"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00027.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00028",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00028"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00028.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00030",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00030"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00030.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00031",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00031"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00031.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00032",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00032"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00032.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00034",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00034"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00034.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00035",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00035"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00035.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00036",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00036"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00036.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00037",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00037"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00037.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00038",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00038"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00038.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-00039",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-00039"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-00039.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-03001",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-03001"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03001.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-03002",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-03002"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03002.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-03003",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-03003"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03003.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-03004",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-03004"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03004.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-03005",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-03005"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03005.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-03006",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-03006"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03006.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-03007",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-03007"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03007.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-03008",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-03008"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03008.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-03009",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-03009"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-03009.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-04001",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-04001"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04001.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-04002",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-04002"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04002.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-04003",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-04003"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04003.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-04004",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-04004"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04004.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-04007",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-04007"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04007.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-04009",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-04009"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04009.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-04010",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-04010"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04010.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-04011",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-04011"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04011.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-04012",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-04012"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04012.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-04013",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-04013"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04013.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-04014",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-04014"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04014.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-04015",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-04015"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04015.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-04016",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-04016"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04016.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-04017",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-04017"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-04017.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-06001",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-06001"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06001.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-06002",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-06002"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06002.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-06003",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-06003"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06003.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-06004",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-06004"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06004.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character-chr-06005",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER",
+      "number": 4
+    },
+    "character_ids": [
+      "chr-06005"
+    ],
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character-chr-06005.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-advent",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-advent",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-advent.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-gamers",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-gamers",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gamers.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_0",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-gen_0",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_0.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_1",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-gen_1",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_1.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_2",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-gen_2",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_2.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_3",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-gen_3",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_3.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_4",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-gen_4",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_4.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_5",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-gen_5",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-gen_5.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-holox",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-holox",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-holox.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-indonesia",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia-gen_1",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-indonesia-gen_1",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia-gen_1.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia-gen_2",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-indonesia-gen_2",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia-gen_2.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia-gen_3",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-indonesia-gen_3",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-indonesia-gen_3.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-myth",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-myth",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-myth.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-promise",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-promise",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-promise.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_character_grouping-grp-regloss",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_CHARACTER_GROUPING",
+      "number": 5
+    },
+    "character_grouping_id": "grp-regloss",
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_character_grouping-grp-regloss.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_skill_tree_character",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_SKILL_TREE_CHARACTER",
+      "number": 9
+    },
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_skill_tree_character.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_SKILL_TREE_CHARACTER_AND_MUSIC_SINGER_TYPE",
+      "number": 10
+    },
+    "music_singer_type": {
+      "name": "MUSIC_SINGER_TYPE_ALL",
+      "number": 3
+    },
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_SKILL_TREE_CHARACTER_AND_MUSIC_SINGER_TYPE",
+      "number": 10
+    },
+    "music_singer_type": {
+      "name": "MUSIC_SINGER_TYPE_GROUP",
+      "number": 2
+    },
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group.1-description"
+  },
+  {
+    "group_id": "skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_EFFECT_PASSIVE_TRIGGER_TYPE_MUSIC_SKILL_TREE_CHARACTER_AND_MUSIC_SINGER_TYPE",
+      "number": 10
+    },
+    "music_singer_type": {
+      "name": "MUSIC_SINGER_TYPE_SOLO",
+      "number": 1
+    },
+    "description_lang_id": "la-generated-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo.1-description"
+  }
+]

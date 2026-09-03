@@ -1,0 +1,98 @@
+[
+  {
+    "id": "appeal_text-function_appeal-a01_exchangebooth-level_up",
+    "text_lang_id": "la-appeal_text-function_appeal-a01_exchangebooth-level_up-name",
+    "description_lang_id": "la-appeal_text-function_appeal-a01_exchangebooth-level_up-description",
+    "asset_id": "facility-level-up"
+  },
+  {
+    "id": "appeal_text-function_appeal-a01_station-level_up",
+    "text_lang_id": "la-appeal_text-function_appeal-a01_station-level_up-name",
+    "description_lang_id": "la-appeal_text-function_appeal-a01_station-level_up-description",
+    "asset_id": "facility-level-up"
+  },
+  {
+    "id": "appeal_text-function_appeal-a02_coinbooth-added_lineup",
+    "text_lang_id": "la-appeal_text-function_appeal-a02_coinbooth-added_lineup-name",
+    "description_lang_id": "la-appeal_text-function_appeal-a02_coinbooth-added_lineup-description",
+    "asset_id": "exchange-update"
+  },
+  {
+    "id": "appeal_text-function_appeal-a02_station-level_up",
+    "text_lang_id": "la-appeal_text-function_appeal-a02_station-level_up-name",
+    "description_lang_id": "la-appeal_text-function_appeal-a02_station-level_up-description",
+    "asset_id": "facility-level-up"
+  },
+  {
+    "id": "appeal_text-function_appeal-bet_coin_rate_up-circuit",
+    "text_lang_id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit-name",
+    "description_lang_id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit-description",
+    "asset_id": "bet-coin"
+  },
+  {
+    "id": "appeal_text-function_appeal-bet_coin_rate_up-circuit_and_combo_card_game",
+    "text_lang_id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit_and_combo_card_game-name",
+    "description_lang_id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit_and_combo_card_game-description",
+    "asset_id": "bet-coin"
+  },
+  {
+    "id": "appeal_text-function_appeal-random_symbol-level_up",
+    "text_lang_id": "la-appeal_text-function_appeal-random_symbol-level_up-name",
+    "description_lang_id": "la-appeal_text-function_appeal-random_symbol-level_up-description",
+    "asset_id": "park-random-symbol"
+  },
+  {
+    "id": "appeal_text-function_appeal-unlock-friend",
+    "text_lang_id": "la-appeal_text-function_appeal-unlock-friend-name",
+    "description_lang_id": "la-appeal_text-function_appeal-unlock-friend-description",
+    "asset_id": "function-unlock"
+  },
+  {
+    "id": "appeal_text-function_appeal-unlock-limit_break",
+    "text_lang_id": "la-appeal_text-function_appeal-unlock-limit_break-name",
+    "description_lang_id": "la-appeal_text-function_appeal-unlock-limit_break-description",
+    "asset_id": "function-unlock"
+  },
+  {
+    "id": "appeal_text-function_appeal-unlock-mission_pass",
+    "text_lang_id": "la-appeal_text-function_appeal-unlock-mission_pass-name",
+    "description_lang_id": "la-appeal_text-function_appeal-unlock-mission_pass-description",
+    "asset_id": "function-unlock"
+  },
+  {
+    "id": "appeal_text-function_appeal-unlock-present_advent",
+    "text_lang_id": "la-appeal_text-function_appeal-unlock-present_advent-name",
+    "description_lang_id": "la-appeal_text-function_appeal-unlock-present_advent-description",
+    "asset_id": "park-present"
+  },
+  {
+    "id": "appeal_text-function_appeal-unlock-present_gen_0",
+    "text_lang_id": "la-appeal_text-function_appeal-unlock-present_gen_0-name",
+    "description_lang_id": "la-appeal_text-function_appeal-unlock-present_gen_0-description",
+    "asset_id": "park-present"
+  },
+  {
+    "id": "appeal_text-function_appeal-unlock-random_symbol",
+    "text_lang_id": "la-appeal_text-function_appeal-unlock-random_symbol-name",
+    "description_lang_id": "la-appeal_text-function_appeal-unlock-random_symbol-description",
+    "asset_id": "park-random-symbol"
+  },
+  {
+    "id": "appeal_text-function_appeal-unlock-score_attack_cook",
+    "text_lang_id": "la-appeal_text-function_appeal-unlock-score_attack_cook-name",
+    "description_lang_id": "la-appeal_text-function_appeal-unlock-score_attack_cook-description",
+    "asset_id": "minigame-unlock"
+  },
+  {
+    "id": "appeal_text-function_appeal-unlock-score_attack_rope",
+    "text_lang_id": "la-appeal_text-function_appeal-unlock-score_attack_rope-name",
+    "description_lang_id": "la-appeal_text-function_appeal-unlock-score_attack_rope-description",
+    "asset_id": "minigame-unlock"
+  },
+  {
+    "id": "appeal_text-function_appeal-unlock-skill_tree_and_achievement",
+    "text_lang_id": "la-appeal_text-function_appeal-unlock-skill_tree_and_achievement-name",
+    "description_lang_id": "la-appeal_text-function_appeal-unlock-skill_tree_and_achievement-description",
+    "asset_id": "function-unlock"
+  }
+]

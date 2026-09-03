@@ -1,0 +1,22 @@
+[
+  {
+    "id": "character_voice_category-live",
+    "name_lang_id": "la-character_voice_category-live",
+    "order": 3
+  },
+  {
+    "id": "character_voice_category-member",
+    "name_lang_id": "la-character_voice_category-member",
+    "order": 2
+  },
+  {
+    "id": "character_voice_category-other",
+    "name_lang_id": "la-character_voice_category-other",
+    "order": 4
+  },
+  {
+    "id": "character_voice_category-system",
+    "name_lang_id": "la-character_voice_category-system",
+    "order": 1
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "la-feature_lock-achievement-description",
+    "text": "개방 조건: 메인 퀘스트 6화 클리어"
+  },
+  {
+    "id": "la-feature_lock-achievement-title",
+    "text": "업적"
+  },
+  {
+    "id": "la-feature_lock-card-title",
+    "text": "멤버"
+  },
+  {
+    "id": "la-feature_lock-card_level_limit_break-description",
+    "text": "개방 조건: 메인 퀘스트 2장 3화 클리어"
+  },
+  {
+    "id": "la-feature_lock-card_level_limit_break-title",
+    "text": "멤버 특훈"
+  },
+  {
+    "id": "la-feature_lock-character-title",
+    "text": "holo멤버"
+  },
+  {
+    "id": "la-feature_lock-chase",
+    "text": "어둠 속 추격"
+  },
+  {
+    "id": "la-feature_lock-circuit-title",
+    "text": "메가 서킷"
+  },
+  {
+    "id": "la-feature_lock-combo_card_game-title",
+    "text": "포카장!"
+  },
+  {
+    "id": "la-feature_lock-cooking_puzzle-title",
+    "text": "모아 쿠킹"
+  },
+  {
+    "id": "la-feature_lock-event-title",
+    "text": "이벤트"
+  },
+  {
+    "id": "la-feature_lock-exchange-title",
+    "text": "네포라보 마트"
+  },
+  {
+    "id": "la-feature_lock-friend-description",
+    "text": "개방 조건: 메인 퀘스트 4화 클리어"
+  },
+  {
+    "id": "la-feature_lock-friend-title",
+    "text": "친구"
+  },
+  {
+    "id": "la-feature_lock-gacha-title",
+    "text": "뽑기"
+  },
+  {
+    "id": "la-feature_lock-jump_rope-title",
+    "text": "줄넘기"
+  },
+  {
+    "id": "la-feature_lock-live-title",
+    "text": "라이브"
+  },
+  {
+    "id": "la-feature_lock-menu-title",
+    "text": "메뉴"
+  },
+  {
+    "id": "la-feature_lock-mini_game_convert_reward_up_stamina_to_bet_coin-title",
+    "text": "메가 스피어 코인 교환소"
+  },
+  {
+    "id": "la-feature_lock-mission_pass-description",
+    "text": "개방 조건: 메인 퀘스트 5화 클리어"
+  },
+  {
+    "id": "la-feature_lock-mission_pass-title",
+    "text": "미션 패스"
+  },
+  {
+    "id": "la-feature_lock-multi_game-title",
+    "text": "멀티 플레이"
+  },
+  {
+    "id": "la-feature_lock-multi_game_invitation-description",
+    "text": "개방 조건: 메인 퀘스트 4화 클리어"
+  },
+  {
+    "id": "la-feature_lock-multi_game_invitation-title",
+    "text": "초대"
+  },
+  {
+    "id": "la-feature_lock-multi_game_live",
+    "text": "개방 조건: 메인 퀘스트 4화 클리어"
+  },
+  {
+    "id": "la-feature_lock-music_highest_score_ranking-description",
+    "text": "개방 조건: 메인 퀘스트 12화 클리어"
+  },
+  {
+    "id": "la-feature_lock-music_highest_score_ranking-title",
+    "text": "하이 스코어 랭킹"
+  },
+  {
+    "id": "la-feature_lock-music_highest_score_rating_ranking-description",
+    "text": "개방 조건: 메인 퀘스트 12화 클리어"
+  },
+  {
+    "id": "la-feature_lock-music_highest_score_rating_ranking-title",
+    "text": "하이 스코어 레이팅 랭킹"
+  },
+  {
+    "id": "la-feature_lock-park_area_quest-title",
+    "text": "구역 퀘스트"
+  },
+  {
+    "id": "la-feature_lock-park_character_quest-title",
+    "text": "Holo멤버 퀘스트"
+  },
+  {
+    "id": "la-feature_lock-park_character_quest_invitation-description",
+    "text": "개방 조건: Holo멤버 퀘스트에서 holo멤버 1명을 개방"
+  },
+  {
+    "id": "la-feature_lock-park_character_quest_invitation-title",
+    "text": "holo멤버 초대"
+  },
+  {
+    "id": "la-feature_lock-park_character_set-title",
+    "text": "holo멤버 변경"
+  },
+  {
+    "id": "la-feature_lock-park_character_shop_balloon-title",
+    "text": "풍선 상점"
+  },
+  {
+    "id": "la-feature_lock-park_character_shop_candy-title",
+    "text": "사탕 상점"
+  },
+  {
+    "id": "la-feature_lock-park_character_shop_pen_light-title",
+    "text": "응원봉 상점"
+  },
+  {
+    "id": "la-feature_lock-park_daily_quest-title",
+    "text": "데일리 퀘스트"
+  },
+  {
+    "id": "la-feature_lock-park_emotion-title",
+    "text": "이모티콘"
+  },
+  {
+    "id": "la-feature_lock-park_high_low-title",
+    "text": "탐욕의 카드"
+  },
+  {
+    "id": "la-feature_lock-park_lottery_gachapon-title",
+    "text": "캡슐 콩"
+  },
+  {
+    "id": "la-feature_lock-park_lottery_scratch-title",
+    "text": "챠마챠마MAX 복권"
+  },
+  {
+    "id": "la-feature_lock-park_map-title",
+    "text": "지도"
+  },
+  {
+    "id": "la-feature_lock-park_notification",
+    "text": "-"
+  },
+  {
+    "id": "la-feature_lock-park_photo_mode-title",
+    "text": "촬영 모드"
+  },
+  {
+    "id": "la-feature_lock-park_print_booth-title",
+    "text": "메가프리"
+  },
+  {
+    "id": "la-feature_lock-park_time_period-title",
+    "text": "시간 변경"
+  },
+  {
+    "id": "la-feature_lock-poster-title",
+    "text": "메모리"
+  },
+  {
+    "id": "la-feature_lock-skill_tree-description",
+    "text": "개방 조건: 메인 퀘스트 6화 클리어"
+  },
+  {
+    "id": "la-feature_lock-skill_tree-title",
+    "text": "Holo멤버 보드"
+  },
+  {
+    "id": "la-feature_lock-story-title",
+    "text": "시어터"
+  },
+  {
+    "id": "la-feature_lock-work-title",
+    "text": "Holo워크"
+  },
+  {
+    "id": "la-tips-exchange-area02-training-item-title",
+    "text": "재료 변환소"
+  },
+  {
+    "id": "la-tips-park-character-shop-area02-hair-accessory-title",
+    "text": "실크 모자 상점"
+  }
+]

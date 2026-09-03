@@ -1,0 +1,862 @@
+[
+  {
+    "id": "la-generated-live_skill_trigger-combo_gte-100.1-description",
+    "text": "100コンボ以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-combo_gte-40.1-description",
+    "text": "40コンボ以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-3.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-4.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-5.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]5人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-2.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-3.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-4.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-5.1-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]5人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-2.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-3.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-4.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-5.1-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]5人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-1.1-description",
+    "text": "Adventが1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-2.1-description",
+    "text": "Adventが2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-3.1-description",
+    "text": "Adventが3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-4.1-description",
+    "text": "Adventが4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-5.1-description",
+    "text": "Adventが5人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-1.1-description",
+    "text": "ゲーマーズが1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-2.1-description",
+    "text": "ゲーマーズが2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-3.1-description",
+    "text": "ゲーマーズが3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-4.1-description",
+    "text": "ゲーマーズが4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-1.1-description",
+    "text": "0期生が1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-2.1-description",
+    "text": "0期生が2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-3.1-description",
+    "text": "0期生が3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-4.1-description",
+    "text": "0期生が4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-5.1-description",
+    "text": "0期生が5人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-1.1-description",
+    "text": "1期生が1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-2.1-description",
+    "text": "1期生が2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-3.1-description",
+    "text": "1期生が3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-4.1-description",
+    "text": "1期生が4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-1.1-description",
+    "text": "2期生が1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-2.1-description",
+    "text": "2期生が2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-3.1-description",
+    "text": "2期生が3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-4.1-description",
+    "text": "2期生が4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-1.1-description",
+    "text": "3期生が1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-2.1-description",
+    "text": "3期生が2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-3.1-description",
+    "text": "3期生が3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-4.1-description",
+    "text": "3期生が4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-1.1-description",
+    "text": "4期生が1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-2.1-description",
+    "text": "4期生が2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-3.1-description",
+    "text": "4期生が3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-4.1-description",
+    "text": "4期生が4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-1.1-description",
+    "text": "5期生が1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-2.1-description",
+    "text": "5期生が2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-3.1-description",
+    "text": "5期生が3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-4.1-description",
+    "text": "5期生が4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-1.1-description",
+    "text": "holoXが1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-2.1-description",
+    "text": "holoXが2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-3.1-description",
+    "text": "holoXが3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-4.1-description",
+    "text": "holoXが4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-1.1-description",
+    "text": "ホロライブ IDが1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-2.1-description",
+    "text": "ホロライブ IDが2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-3.1-description",
+    "text": "ホロライブ IDが3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-4.1-description",
+    "text": "ホロライブ IDが4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-5.1-description",
+    "text": "ホロライブ IDが5人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-1.1-description",
+    "text": "ID1期生が1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-2.1-description",
+    "text": "ID1期生が2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-3.1-description",
+    "text": "ID1期生が3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-1.1-description",
+    "text": "ID2期生が1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-2.1-description",
+    "text": "ID2期生が2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-3.1-description",
+    "text": "ID2期生が3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-1.1-description",
+    "text": "ID3期生が1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-2.1-description",
+    "text": "ID3期生が2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-3.1-description",
+    "text": "ID3期生が3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-1.1-description",
+    "text": "Mythが1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-2.1-description",
+    "text": "Mythが2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-3.1-description",
+    "text": "Mythが3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-4.1-description",
+    "text": "Mythが4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-1.1-description",
+    "text": "Promiseが1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-2.1-description",
+    "text": "Promiseが2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-3.1-description",
+    "text": "Promiseが3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-4.1-description",
+    "text": "Promiseが4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-1.1-description",
+    "text": "ReGLOSSが1人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-2.1-description",
+    "text": "ReGLOSSが2人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-3.1-description",
+    "text": "ReGLOSSが3人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-4.1-description",
+    "text": "ReGLOSSが4人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-5.1-description",
+    "text": "ReGLOSSが5人以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00001.1-description",
+    "text": "リーダーがときのそらで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00002.1-description",
+    "text": "リーダーがロボ子さんで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00004.1-description",
+    "text": "リーダーがアキ・ローゼンタールで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00005.1-description",
+    "text": "リーダーが赤井はあとで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00006.1-description",
+    "text": "リーダーが白上フブキで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00007.1-description",
+    "text": "リーダーが夏色まつりで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00010.1-description",
+    "text": "リーダーが百鬼あやめで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00011.1-description",
+    "text": "リーダーが癒月ちょこで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00012.1-description",
+    "text": "リーダーが大空スバルで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00013.1-description",
+    "text": "リーダーがAZKiで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00014.1-description",
+    "text": "リーダーが大神ミオで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00015.1-description",
+    "text": "リーダーがさくらみこで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00016.1-description",
+    "text": "リーダーが猫又おかゆで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00017.1-description",
+    "text": "リーダーが戌神ころねで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00018.1-description",
+    "text": "リーダーが星街すいせいで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00019.1-description",
+    "text": "リーダーが兎田ぺこらで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00021.1-description",
+    "text": "リーダーが不知火フレアで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00022.1-description",
+    "text": "リーダーが白銀ノエルで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00023.1-description",
+    "text": "リーダーが宝鐘マリンで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00024.1-description",
+    "text": "リーダーが天音かなたで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00026.1-description",
+    "text": "リーダーが角巻わためで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00027.1-description",
+    "text": "リーダーが常闇トワで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00028.1-description",
+    "text": "リーダーが姫森ルーナで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00030.1-description",
+    "text": "リーダーが雪花ラミィで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00031.1-description",
+    "text": "リーダーが桃鈴ねねで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00032.1-description",
+    "text": "リーダーが獅白ぼたんで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00034.1-description",
+    "text": "リーダーが尾丸ポルカで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00035.1-description",
+    "text": "リーダーがラプラス・ダークネスで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00036.1-description",
+    "text": "リーダーが鷹嶺ルイで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00037.1-description",
+    "text": "リーダーが博衣こよりで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00039.1-description",
+    "text": "リーダーが風真いろはで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03001.1-description",
+    "text": "リーダーがアユンダ・リスで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03002.1-description",
+    "text": "リーダーがムーナ・ホシノヴァで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03003.1-description",
+    "text": "リーダーがアイラニ・イオフィフティーンで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03004.1-description",
+    "text": "リーダーがクレイジー・オリーで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03005.1-description",
+    "text": "リーダーがアーニャ・メルフィッサで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03006.1-description",
+    "text": "リーダーがパヴォリア・レイネで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03007.1-description",
+    "text": "リーダーがベスティア・ゼータで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03008.1-description",
+    "text": "リーダーがカエラ・コヴァルスキアで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03009.1-description",
+    "text": "リーダーがこぼ・かなえるで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04001.1-description",
+    "text": "リーダーが森カリオペで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04002.1-description",
+    "text": "リーダーが小鳥遊キアラで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04003.1-description",
+    "text": "リーダーが一伊那尓栖で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04007.1-description",
+    "text": "リーダーがIRySで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04010.1-description",
+    "text": "リーダーがオーロ・クロニーで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04012.1-description",
+    "text": "リーダーがハコス・ベールズで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04013.1-description",
+    "text": "リーダーがシオリ・ノヴェラで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04014.1-description",
+    "text": "リーダーが古石ビジューで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04015.1-description",
+    "text": "リーダーがネリッサ・レイヴンクロフトで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04016.1-description",
+    "text": "リーダーがフワワ・アビスガードで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04017.1-description",
+    "text": "リーダーがモココ・アビスガードで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06001.1-description",
+    "text": "リーダーが火威青で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06002.1-description",
+    "text": "リーダーが音乃瀬奏で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06003.1-description",
+    "text": "リーダーが一条莉々華で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06004.1-description",
+    "text": "リーダーが儒烏風亭らでんで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06005.1-description",
+    "text": "リーダーが轟はじめで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-advent.1-description",
+    "text": "リーダーがAdventで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gamers.1-description",
+    "text": "リーダーがゲーマーズで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_0.1-description",
+    "text": "リーダーが0期生で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_1.1-description",
+    "text": "リーダーが1期生で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_2.1-description",
+    "text": "リーダーが2期生で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_3.1-description",
+    "text": "リーダーが3期生で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_4.1-description",
+    "text": "リーダーが4期生で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_5.1-description",
+    "text": "リーダーが5期生で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-holox.1-description",
+    "text": "リーダーがholoXで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_1.1-description",
+    "text": "リーダーがID1期生で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_2.1-description",
+    "text": "リーダーがID2期生で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_3.1-description",
+    "text": "リーダーがID3期生で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia.1-description",
+    "text": "リーダーがホロライブ IDで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-myth.1-description",
+    "text": "リーダーがMythで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-promise.1-description",
+    "text": "リーダーがPromiseで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-regloss.1-description",
+    "text": "リーダーがReGLOSSで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-judgement_type_gte-good.1-description",
+    "text": "判定がGOODで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-judgement_type_gte-great.1-description",
+    "text": "判定がGREATで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-judgement_type_gte-perfect.1-description",
+    "text": "判定がPERFECTで"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-life_gte-1000.1-description",
+    "text": "ライフ1000以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-life_gte-600.1-description",
+    "text": "ライフ600以上で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-life_lte-500.1-description",
+    "text": "ライフ500以下で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-life_lte-700.1-description",
+    "text": "ライフ700以下で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-life_lte-950.1-description",
+    "text": "ライフ950以下で"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00001.1-description",
+    "text": "ときのそらが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00002.1-description",
+    "text": "ロボ子さんが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00004.1-description",
+    "text": "アキ・ローゼンタールが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00005.1-description",
+    "text": "赤井はあとが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00006.1-description",
+    "text": "白上フブキが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00007.1-description",
+    "text": "夏色まつりが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00010.1-description",
+    "text": "百鬼あやめが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00011.1-description",
+    "text": "癒月ちょこが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00012.1-description",
+    "text": "大空スバルが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00013.1-description",
+    "text": "AZKiが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00014.1-description",
+    "text": "大神ミオが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00015.1-description",
+    "text": "さくらみこが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00016.1-description",
+    "text": "猫又おかゆが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00017.1-description",
+    "text": "戌神ころねが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00018.1-description",
+    "text": "星街すいせいが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00019.1-description",
+    "text": "兎田ぺこらが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00021.1-description",
+    "text": "不知火フレアが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00022.1-description",
+    "text": "白銀ノエルが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00023.1-description",
+    "text": "宝鐘マリンが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00024.1-description",
+    "text": "天音かなたが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00026.1-description",
+    "text": "角巻わためが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00027.1-description",
+    "text": "常闇トワが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00028.1-description",
+    "text": "姫森ルーナが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00030.1-description",
+    "text": "雪花ラミィが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00031.1-description",
+    "text": "桃鈴ねねが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00032.1-description",
+    "text": "獅白ぼたんが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00034.1-description",
+    "text": "尾丸ポルカが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00035.1-description",
+    "text": "ラプラス・ダークネスが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00036.1-description",
+    "text": "鷹嶺ルイが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00037.1-description",
+    "text": "博衣こよりが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00039.1-description",
+    "text": "風真いろはが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03001.1-description",
+    "text": "アユンダ・リスが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03002.1-description",
+    "text": "ムーナ・ホシノヴァが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03003.1-description",
+    "text": "アイラニ・イオフィフティーンが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03004.1-description",
+    "text": "クレイジー・オリーが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03005.1-description",
+    "text": "アーニャ・メルフィッサが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03006.1-description",
+    "text": "パヴォリア・レイネが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03007.1-description",
+    "text": "ベスティア・ゼータが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03008.1-description",
+    "text": "カエラ・コヴァルスキアが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03009.1-description",
+    "text": "こぼ・かなえるが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04001.1-description",
+    "text": "森カリオペが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04002.1-description",
+    "text": "小鳥遊キアラが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04003.1-description",
+    "text": "一伊那尓栖が歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04007.1-description",
+    "text": "IRySが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04010.1-description",
+    "text": "オーロ・クロニーが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04012.1-description",
+    "text": "ハコス・ベールズが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04013.1-description",
+    "text": "シオリ・ノヴェラが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04014.1-description",
+    "text": "古石ビジューが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04015.1-description",
+    "text": "ネリッサ・レイヴンクロフトが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04016.1-description",
+    "text": "フワワ・アビスガードが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04017.1-description",
+    "text": "モココ・アビスガードが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-06001.1-description",
+    "text": "火威青が歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-06002.1-description",
+    "text": "音乃瀬奏が歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-06003.1-description",
+    "text": "一条莉々華が歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-06004.1-description",
+    "text": "儒烏風亭らでんが歌唱者に含まれる時"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-06005.1-description",
+    "text": "轟はじめが歌唱者に含まれる時"
+  }
+]

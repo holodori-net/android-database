@@ -1,0 +1,186 @@
+[
+  {
+    "id": "ctm_preset_grp-001",
+    "name_lang_id": "la-ctm_preset_grp-001",
+    "order": 1,
+    "custom_palette_preset_layouts": [
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-001",
+        "number": 1,
+        "position_x_permil": -450000,
+        "position_y_permil": -300000,
+        "scale_permil": 1000,
+        "layer": 1
+      },
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-001",
+        "number": 2,
+        "position_x_permil": -450000,
+        "position_y_permil": -100000,
+        "scale_permil": 1000,
+        "layer": 2
+      },
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-001",
+        "number": 3,
+        "position_x_permil": -450000,
+        "position_y_permil": 100000,
+        "scale_permil": 1000,
+        "layer": 3
+      }
+    ]
+  },
+  {
+    "id": "ctm_preset_grp-002",
+    "name_lang_id": "la-ctm_preset_grp-002",
+    "order": 2,
+    "custom_palette_preset_layouts": [
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-002",
+        "number": 1,
+        "position_x_permil": -450000,
+        "position_y_permil": 300000,
+        "scale_permil": 1000,
+        "layer": 1
+      },
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-002",
+        "number": 2,
+        "position_x_permil": -450000,
+        "position_y_permil": 100000,
+        "scale_permil": 1000,
+        "layer": 2
+      },
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-002",
+        "number": 3,
+        "position_x_permil": -450000,
+        "position_y_permil": -100000,
+        "scale_permil": 1000,
+        "layer": 3
+      }
+    ]
+  },
+  {
+    "id": "ctm_preset_grp-003",
+    "name_lang_id": "la-ctm_preset_grp-003",
+    "order": 3,
+    "custom_palette_preset_layouts": [
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-003",
+        "number": 1,
+        "position_x_permil": 450000,
+        "position_y_permil": -300000,
+        "scale_permil": 1000,
+        "layer": 1
+      },
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-003",
+        "number": 2,
+        "position_x_permil": 450000,
+        "position_y_permil": -100000,
+        "scale_permil": 1000,
+        "layer": 2
+      },
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-003",
+        "number": 3,
+        "position_x_permil": 450000,
+        "position_y_permil": 100000,
+        "scale_permil": 1000,
+        "layer": 3
+      }
+    ]
+  },
+  {
+    "id": "ctm_preset_grp-004",
+    "name_lang_id": "la-ctm_preset_grp-004",
+    "order": 4,
+    "custom_palette_preset_layouts": [
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-004",
+        "number": 1,
+        "position_x_permil": 450000,
+        "position_y_permil": 300000,
+        "scale_permil": 1000,
+        "layer": 1
+      },
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-004",
+        "number": 2,
+        "position_x_permil": 450000,
+        "position_y_permil": 100000,
+        "scale_permil": 1000,
+        "layer": 2
+      },
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-004",
+        "number": 3,
+        "position_x_permil": 450000,
+        "position_y_permil": -100000,
+        "scale_permil": 1000,
+        "layer": 3
+      }
+    ]
+  },
+  {
+    "id": "ctm_preset_grp-005",
+    "name_lang_id": "la-ctm_preset_grp-005",
+    "order": 5,
+    "custom_palette_preset_layouts": [
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-005",
+        "number": 1,
+        "position_x_permil": 450000,
+        "position_y_permil": -300000,
+        "scale_permil": 1000,
+        "layer": 1
+      },
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-005",
+        "number": 2,
+        "position_y_permil": -300000,
+        "scale_permil": 1000,
+        "layer": 2
+      },
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-005",
+        "number": 3,
+        "position_x_permil": -450000,
+        "position_y_permil": -300000,
+        "scale_permil": 1000,
+        "layer": 3
+      }
+    ]
+  },
+  {
+    "id": "ctm_preset_grp-006",
+    "name_lang_id": "la-ctm_preset_grp-006",
+    "order": 6,
+    "custom_palette_preset_layouts": [
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-006",
+        "number": 1,
+        "position_x_permil": -450000,
+        "position_y_permil": 300000,
+        "scale_permil": 1000,
+        "layer": 1
+      },
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-006",
+        "number": 2,
+        "position_y_permil": 300000,
+        "scale_permil": 1000,
+        "layer": 2
+      },
+      {
+        "custom_palette_preset_layout_group_id": "ctm_preset_grp-006",
+        "number": 3,
+        "position_x_permil": 450000,
+        "position_y_permil": 300000,
+        "scale_permil": 1000,
+        "layer": 3
+      }
+    ]
+  }
+]

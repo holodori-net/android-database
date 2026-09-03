@@ -1,0 +1,34 @@
+[
+  {
+    "gimmick_type": {
+      "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+      "number": 1
+    },
+    "character_id": "chr-00019",
+    "sd_costume_id": "sdcos-00019-nrml-0016-00"
+  },
+  {
+    "gimmick_type": {
+      "name": "JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+      "number": 2
+    },
+    "character_id": "chr-00023",
+    "sd_costume_id": "sdcos-00023-nrml-0019-00"
+  },
+  {
+    "gimmick_type": {
+      "name": "JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+      "number": 3
+    },
+    "character_id": "chr-00021",
+    "sd_costume_id": "sdcos-00021-nrml-0017-00"
+  },
+  {
+    "gimmick_type": {
+      "name": "JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+      "number": 4
+    },
+    "character_id": "chr-00022",
+    "sd_costume_id": "sdcos-00022-nrml-0018-00"
+  }
+]

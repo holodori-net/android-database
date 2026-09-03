@@ -1,0 +1,314 @@
+[
+  {
+    "id": "help_category-faq-data-modelchange",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_FAQ",
+      "number": 2
+    },
+    "title_lang_id": "la-help_category-faq-data-modelchange",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 2
+  },
+  {
+    "id": "help_category-faq-game",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_FAQ",
+      "number": 2
+    },
+    "title_lang_id": "la-help_category-faq-game",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 5
+  },
+  {
+    "id": "help_category-faq-live",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_FAQ",
+      "number": 2
+    },
+    "title_lang_id": "la-help_category-faq-live",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 4
+  },
+  {
+    "id": "help_category-faq-others",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_FAQ",
+      "number": 2
+    },
+    "title_lang_id": "la-help_category-faq-others",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 6
+  },
+  {
+    "id": "help_category-faq-questions",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_FAQ",
+      "number": 2
+    },
+    "title_lang_id": "la-help_category-faq-questions",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 1
+  },
+  {
+    "id": "help_category-faq-trouble",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_FAQ",
+      "number": 2
+    },
+    "title_lang_id": "la-help_category-faq-trouble",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 3
+  },
+  {
+    "id": "help_category-help-account-alignment",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-account-alignment",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 17
+  },
+  {
+    "id": "help_category-help-achievements",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-achievements",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 9
+  },
+  {
+    "id": "help_category-help-card",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-card",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 6
+  },
+  {
+    "id": "help_category-help-character",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-character",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 5
+  },
+  {
+    "id": "help_category-help-creative-chart",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-creative-chart",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_MUSIC_CREATIVE_CHART",
+      "number": 2
+    },
+    "order": 4
+  },
+  {
+    "id": "help_category-help-exchange",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-exchange",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 11
+  },
+  {
+    "id": "help_category-help-friend",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-friend",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 14
+  },
+  {
+    "id": "help_category-help-gacha",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-gacha",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 13
+  },
+  {
+    "id": "help_category-help-game",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-game",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 7
+  },
+  {
+    "id": "help_category-help-item",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-item",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 16
+  },
+  {
+    "id": "help_category-help-option",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-option",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 18
+  },
+  {
+    "id": "help_category-help-park",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-park",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 1
+  },
+  {
+    "id": "help_category-help-poster",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-poster",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 12
+  },
+  {
+    "id": "help_category-help-profile",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-profile",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 15
+  },
+  {
+    "id": "help_category-help-quest",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-quest",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 2
+  },
+  {
+    "id": "help_category-help-rhythm",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-rhythm",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 3
+  },
+  {
+    "id": "help_category-help-shop",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-shop",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 10
+  },
+  {
+    "id": "help_category-help-work",
+    "type": {
+      "name": "HELP_CATEGORY_TYPE_HELP",
+      "number": 1
+    },
+    "title_lang_id": "la-help_category-help-work",
+    "screen_type": {
+      "name": "HELP_CATEGORY_SCREEN_TYPE_NONE",
+      "number": 1
+    },
+    "order": 8
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "area-a01-house-selector",
+    "area_grouping_id": "area_group-a01",
+    "facility_id": "facility-a01-house"
+  },
+  {
+    "id": "area-a01-multiplay-selector",
+    "area_grouping_id": "area_group-a01",
+    "facility_id": "facility-a01-multiplay"
+  },
+  {
+    "id": "area-a01-restaurant-selector",
+    "area_grouping_id": "area_group-a01",
+    "facility_id": "facility-a01-restaurant"
+  },
+  {
+    "id": "area-a01-selector",
+    "area_grouping_id": "area_group-a01",
+    "is_map_visible": true
+  },
+  {
+    "id": "area-a01-theater-selector",
+    "area_grouping_id": "area_group-a01",
+    "facility_id": "facility-a01-theater"
+  },
+  {
+    "id": "area-a02-play-selector",
+    "area_grouping_id": "area_group-a02",
+    "is_map_visible": true,
+    "is_user_selectable": true
+  },
+  {
+    "id": "area-a02-selector",
+    "area_grouping_id": "area_group-a02",
+    "is_map_visible": true
+  }
+]

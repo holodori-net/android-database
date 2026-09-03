@@ -1,0 +1,26 @@
+[
+  {
+    "id": "prd-dev_is",
+    "name_lang_id": "la-production-dev_is",
+    "asset_id": "prd-dev-is",
+    "order": 4
+  },
+  {
+    "id": "prd-en",
+    "name_lang_id": "la-production-en",
+    "asset_id": "prd-en",
+    "order": 3
+  },
+  {
+    "id": "prd-id",
+    "name_lang_id": "la-production-id",
+    "asset_id": "prd-id",
+    "order": 2
+  },
+  {
+    "id": "prd-jp",
+    "name_lang_id": "la-production-jp",
+    "asset_id": "prd-jp",
+    "order": 1
+  }
+]

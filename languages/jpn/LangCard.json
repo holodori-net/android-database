@@ -1,0 +1,714 @@
+[
+  {
+    "id": "la-card_flavor-00006-5-uniq-0074-00",
+    "text": "渚で魅せるtwinkle"
+  },
+  {
+    "id": "la-card_flavor-00010-5-uniq-0069-00",
+    "text": "鬼神流・ぷかぷかリゾート"
+  },
+  {
+    "id": "la-card_flavor-00012-5-uniq-0062-00",
+    "text": "Energeticスプラッシュ！"
+  },
+  {
+    "id": "la-card_flavor-00014-5-uniq-0075-00",
+    "text": "夏にまどろむWolf Heart"
+  },
+  {
+    "id": "la-card_flavor-00015-5-uniq-0067-00",
+    "text": "ビーチで弾ける、光彩ショット！"
+  },
+  {
+    "id": "la-card_flavor-00016-5-uniq-0076-00",
+    "text": "パラソル下のリバティキャット"
+  },
+  {
+    "id": "la-card_flavor-00017-5-uniq-0077-00",
+    "text": "密林を舞うワイルドサマー！"
+  },
+  {
+    "id": "la-card_flavor-00018-5-uniq-0068-00",
+    "text": "夏に一閃！水鉄砲のアルペジオ"
+  },
+  {
+    "id": "la-card_flavor-00021-5-uniq-0064-00",
+    "text": "sparks sunset"
+  },
+  {
+    "id": "la-card_flavor-00022-5-uniq-0063-00",
+    "text": "波まとうゆるふわKnight"
+  },
+  {
+    "id": "la-card_flavor-00026-5-uniq-0065-00",
+    "text": "真夏のもふもふフロートタイム"
+  },
+  {
+    "id": "la-card_flavor-00028-5-uniq-0070-00",
+    "text": "のんびり姫のおねだりビーチ"
+  },
+  {
+    "id": "la-card_flavor-03004-5-uniq-0073-00",
+    "text": "常夏のCrazy Dive"
+  },
+  {
+    "id": "la-card_flavor-04001-5-uniq-0071-00",
+    "text": "ビーチに刺さるReaper's Spike"
+  },
+  {
+    "id": "la-card_flavor-04003-5-uniq-0072-00",
+    "text": "潮騒の記憶をたどって"
+  },
+  {
+    "id": "la-card_flavor-06002-5-uniq-0066-00",
+    "text": "潮風にのせる、笑顔のハーモニー"
+  },
+  {
+    "id": "la-card_name-00001-3-nrml-0000-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00001-4-cmmn-0000-00",
+    "text": "空まで届け！まっすぐな歌声"
+  },
+  {
+    "id": "la-card_name-00001-5-uniq-0000-00",
+    "text": "ひたむきに描く虹のうた"
+  },
+  {
+    "id": "la-card_name-00002-3-nrml-0001-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00002-4-cmmn-0000-00",
+    "text": "ゆるふわウインクLIVE"
+  },
+  {
+    "id": "la-card_name-00002-5-uniq-0001-00",
+    "text": "高性能なVサイン"
+  },
+  {
+    "id": "la-card_name-00004-3-nrml-0005-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00004-4-cmmn-0000-00",
+    "text": "歌うcuriousハーフエルフ"
+  },
+  {
+    "id": "la-card_name-00004-5-uniq-0005-00",
+    "text": "艶帯びたハーフエルフ"
+  },
+  {
+    "id": "la-card_name-00005-3-nrml-0006-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00005-4-cmmn-0000-00",
+    "text": "ハートくすぐる奔放ライブ"
+  },
+  {
+    "id": "la-card_name-00005-5-uniq-0006-00",
+    "text": "let's freestyle おやつタイム"
+  },
+  {
+    "id": "la-card_name-00006-3-nrml-0007-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00006-4-cmmn-0000-00",
+    "text": "ギアあげるFOXパフォーマンス"
+  },
+  {
+    "id": "la-card_name-00006-5-uniq-0007-00",
+    "text": "狐のお宮でこんこんこん"
+  },
+  {
+    "id": "la-card_name-00007-3-nrml-0008-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00007-4-cmmn-0000-00",
+    "text": "あざとさ全開キュンキュンライブ"
+  },
+  {
+    "id": "la-card_name-00007-5-uniq-0008-00",
+    "text": "ハジける快活チアリーダー"
+  },
+  {
+    "id": "la-card_name-00010-3-nrml-0010-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00010-4-cmmn-0000-00",
+    "text": "鬼娘のほわっとアンコール"
+  },
+  {
+    "id": "la-card_name-00010-5-uniq-0010-00",
+    "text": "隠世でのほほん、気ままな提灯"
+  },
+  {
+    "id": "la-card_name-00011-3-nrml-0011-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00011-4-cmmn-0000-00",
+    "text": "保健医さん魅惑のライブ"
+  },
+  {
+    "id": "la-card_name-00011-5-uniq-0011-00",
+    "text": "悪魔な魅惑に手玉にとられて"
+  },
+  {
+    "id": "la-card_name-00012-3-nrml-0012-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00012-4-cmmn-0000-00",
+    "text": "心照らすActive Live"
+  },
+  {
+    "id": "la-card_name-00012-5-uniq-0012-00",
+    "text": "クワッとじゃれ合うアヒルの午後"
+  },
+  {
+    "id": "la-card_name-00013-3-nrml-0002-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00013-4-cmmn-0000-00",
+    "text": "やわらかな旋律に乗せて"
+  },
+  {
+    "id": "la-card_name-00013-5-uniq-0002-00",
+    "text": "咲き誇る一途な花"
+  },
+  {
+    "id": "la-card_name-00014-3-nrml-0013-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00014-4-cmmn-0000-00",
+    "text": "光射す狼の歌声"
+  },
+  {
+    "id": "la-card_name-00014-5-uniq-0013-00",
+    "text": "ホッととろけるnightscape"
+  },
+  {
+    "id": "la-card_name-00015-3-nrml-0003-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00015-4-cmmn-0000-00",
+    "text": "両手広げるCheerful show"
+  },
+  {
+    "id": "la-card_name-00015-5-uniq-0003-00",
+    "text": "サクラBloom"
+  },
+  {
+    "id": "la-card_name-00016-3-nrml-0014-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00016-4-cmmn-0000-00",
+    "text": "夢中にさせるいたずらCATライブ"
+  },
+  {
+    "id": "la-card_name-00016-5-uniq-0014-00",
+    "text": "宴の果てに、ナイショの戯れ"
+  },
+  {
+    "id": "la-card_name-00017-3-nrml-0015-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00017-4-cmmn-0000-00",
+    "text": "farout dogパンチライン"
+  },
+  {
+    "id": "la-card_name-00017-5-uniq-0015-00",
+    "text": "Go! Go! Laughing Skater"
+  },
+  {
+    "id": "la-card_name-00018-3-nrml-0004-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00018-4-cmmn-0000-00",
+    "text": "フロア沸かす目映い存在"
+  },
+  {
+    "id": "la-card_name-00018-5-uniq-0004-00",
+    "text": "心奪うComet Tune"
+  },
+  {
+    "id": "la-card_name-00019-3-nrml-0016-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00019-4-cmmn-0000-00",
+    "text": "cheekyホッピンバニー"
+  },
+  {
+    "id": "la-card_name-00019-5-uniq-0016-00",
+    "text": "愛嬌たっぷりラビットフィールド"
+  },
+  {
+    "id": "la-card_name-00021-3-nrml-0017-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00021-4-cmmn-0000-00",
+    "text": "ダンスから伝わる気遣い"
+  },
+  {
+    "id": "la-card_name-00021-5-uniq-0017-00",
+    "text": "ハーフエルフの風渡るゴンドラ"
+  },
+  {
+    "id": "la-card_name-00022-3-nrml-0018-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00022-4-cmmn-0000-00",
+    "text": "歌う脳筋ゴリ押しナイト"
+  },
+  {
+    "id": "la-card_name-00022-5-uniq-0018-00",
+    "text": "風薫るおっとり騎士"
+  },
+  {
+    "id": "la-card_name-00023-3-nrml-0019-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00023-4-cmmn-0000-00",
+    "text": "♡とらえる海賊のテリトリー"
+  },
+  {
+    "id": "la-card_name-00023-5-uniq-0019-00",
+    "text": "妖艶あふれるマリンブルー"
+  },
+  {
+    "id": "la-card_name-00026-3-nrml-0021-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00026-4-cmmn-0000-00",
+    "text": "広がるhealing sound"
+  },
+  {
+    "id": "la-card_name-00026-5-uniq-0021-00",
+    "text": "Woolly Smile Festival"
+  },
+  {
+    "id": "la-card_name-00027-3-nrml-0022-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00027-4-cmmn-0000-00",
+    "text": "余裕ぶっこくナイトライブ"
+  },
+  {
+    "id": "la-card_name-00027-5-uniq-0022-00",
+    "text": "ガチで終わらんチルい夜遊び"
+  },
+  {
+    "id": "la-card_name-00028-3-nrml-0023-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00028-4-cmmn-0000-00",
+    "text": "ふんわりプリンセスステージ"
+  },
+  {
+    "id": "la-card_name-00028-5-uniq-0023-00",
+    "text": "姫に忠誠アフタヌーン"
+  },
+  {
+    "id": "la-card_name-00030-3-nrml-0024-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00030-4-cmmn-0000-00",
+    "text": "照らすsnow mood！"
+  },
+  {
+    "id": "la-card_name-00030-5-uniq-0024-00",
+    "text": "さびしがり屋な雪夜の令嬢"
+  },
+  {
+    "id": "la-card_name-00031-3-nrml-0025-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00031-4-cmmn-0000-00",
+    "text": "get excitedジャンプ！"
+  },
+  {
+    "id": "la-card_name-00031-5-uniq-0025-00",
+    "text": "一緒に歌お！イノセントリズム"
+  },
+  {
+    "id": "la-card_name-00032-3-nrml-0026-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00032-4-cmmn-0000-00",
+    "text": "魅せるLaughing Lion"
+  },
+  {
+    "id": "la-card_name-00032-5-uniq-0026-00",
+    "text": "目を奪う神エイム！lion’s hunt"
+  },
+  {
+    "id": "la-card_name-00034-3-nrml-0027-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00034-4-cmmn-0000-00",
+    "text": "パーティーハード全開LIVE"
+  },
+  {
+    "id": "la-card_name-00034-5-uniq-0027-00",
+    "text": "変幻自在！ポルカサーカス開演！"
+  },
+  {
+    "id": "la-card_name-00035-3-nrml-0028-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00035-4-cmmn-0000-00",
+    "text": "今宵のライブ、吾輩が主役"
+  },
+  {
+    "id": "la-card_name-00035-5-uniq-0028-00",
+    "text": "作戦開始！見せろ総帥の手腕"
+  },
+  {
+    "id": "la-card_name-00036-3-nrml-0029-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00036-4-cmmn-0000-00",
+    "text": "どこでも信頼！切れ者LIVE"
+  },
+  {
+    "id": "la-card_name-00036-5-uniq-0029-00",
+    "text": "組織支える超敏腕幹部"
+  },
+  {
+    "id": "la-card_name-00037-3-nrml-0030-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00037-4-cmmn-0000-00",
+    "text": "舞台に響くcute howl"
+  },
+  {
+    "id": "la-card_name-00037-5-uniq-0030-00",
+    "text": "助手くんの心を鷲掴みライブ！"
+  },
+  {
+    "id": "la-card_name-00039-3-nrml-0032-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-00039-4-cmmn-0000-00",
+    "text": "ステージで放つ！修行の成果"
+  },
+  {
+    "id": "la-card_name-00039-5-uniq-0032-00",
+    "text": "ちくりんジャキン！と一刀両断"
+  },
+  {
+    "id": "la-card_name-03001-3-nrml-0033-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-03001-4-cmmn-0000-00",
+    "text": "まんまるしっぽのキュートライブ"
+  },
+  {
+    "id": "la-card_name-03001-5-uniq-0033-00",
+    "text": "いたずらたくらむ木漏れ日の森"
+  },
+  {
+    "id": "la-card_name-03002-3-nrml-0034-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-03002-4-cmmn-0000-00",
+    "text": "月のヒカリに溶けこむ歌声"
+  },
+  {
+    "id": "la-card_name-03002-5-uniq-0034-00",
+    "text": "Lunar Songstress"
+  },
+  {
+    "id": "la-card_name-03003-3-nrml-0035-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-03003-4-cmmn-0000-00",
+    "text": "麗らかなStage View"
+  },
+  {
+    "id": "la-card_name-03003-5-uniq-0035-00",
+    "text": "陽光射すCosmos Palette"
+  },
+  {
+    "id": "la-card_name-03004-3-nrml-0036-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-03004-4-cmmn-0000-00",
+    "text": "Deadly Encore"
+  },
+  {
+    "id": "la-card_name-03004-5-uniq-0036-00",
+    "text": "Z nonstop talker"
+  },
+  {
+    "id": "la-card_name-03005-3-nrml-0037-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-03005-4-cmmn-0000-00",
+    "text": "Little Back気ままなステージ"
+  },
+  {
+    "id": "la-card_name-03005-5-uniq-0037-00",
+    "text": "ソファに沈んでまったりゲーム"
+  },
+  {
+    "id": "la-card_name-03006-3-nrml-0038-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-03006-4-cmmn-0000-00",
+    "text": "祝福のラグジュアリーナイト"
+  },
+  {
+    "id": "la-card_name-03006-5-uniq-0038-00",
+    "text": "おすまし孔雀と嗜む一杯"
+  },
+  {
+    "id": "la-card_name-03007-3-nrml-0039-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-03007-4-cmmn-0000-00",
+    "text": "childlikeるんるんライブ"
+  },
+  {
+    "id": "la-card_name-03007-5-uniq-0039-00",
+    "text": "陽だまりとネコと構成員"
+  },
+  {
+    "id": "la-card_name-03008-3-nrml-0040-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-03008-4-cmmn-0000-00",
+    "text": "鍛冶場に匹敵！激アツライブ"
+  },
+  {
+    "id": "la-card_name-03008-5-uniq-0040-00",
+    "text": "こころ強さは鍛冶場で研ぐ"
+  },
+  {
+    "id": "la-card_name-03009-3-nrml-0041-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-03009-4-cmmn-0000-00",
+    "text": "ドタバタフルスロットルステージ"
+  },
+  {
+    "id": "la-card_name-03009-5-uniq-0041-00",
+    "text": "あめ上がりの雨喜雨喜シャーマン"
+  },
+  {
+    "id": "la-card_name-04001-3-nrml-0042-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-04001-4-cmmn-0000-00",
+    "text": "レペゼン冥土！ here we go"
+  },
+  {
+    "id": "la-card_name-04001-5-uniq-0042-00",
+    "text": "Reaper’s death flow"
+  },
+  {
+    "id": "la-card_name-04002-3-nrml-0043-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-04002-4-cmmn-0000-00",
+    "text": "ようこそハピネスステージへ"
+  },
+  {
+    "id": "la-card_name-04002-5-uniq-0043-00",
+    "text": "Lovely Phoenixダイナー"
+  },
+  {
+    "id": "la-card_name-04003-3-nrml-0044-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-04003-4-cmmn-0000-00",
+    "text": "舞台を飾る和やか笑顔"
+  },
+  {
+    "id": "la-card_name-04003-5-uniq-0044-00",
+    "text": "ぽかぽかチャージなひととき"
+  },
+  {
+    "id": "la-card_name-04007-3-nrml-0047-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-04007-4-cmmn-0000-00",
+    "text": "響き渡るホープフルボイス"
+  },
+  {
+    "id": "la-card_name-04007-5-uniq-0047-00",
+    "text": "nephilim sonority"
+  },
+  {
+    "id": "la-card_name-04010-3-nrml-0049-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-04010-4-cmmn-0000-00",
+    "text": "刻を忘れるパフォーマンス"
+  },
+  {
+    "id": "la-card_name-04010-5-uniq-0049-00",
+    "text": "典獄ささやくClock Tower"
+  },
+  {
+    "id": "la-card_name-04012-3-nrml-0051-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-04012-4-cmmn-0000-00",
+    "text": "Let's dance more！"
+  },
+  {
+    "id": "la-card_name-04012-5-uniq-0051-00",
+    "text": "Chaotic Powerful Rat"
+  },
+  {
+    "id": "la-card_name-04013-3-nrml-0052-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-04013-4-cmmn-0000-00",
+    "text": "ステージでもKeep it real"
+  },
+  {
+    "id": "la-card_name-04013-5-uniq-0052-00",
+    "text": "書庫ではぐくむ探求心"
+  },
+  {
+    "id": "la-card_name-04014-3-nrml-0053-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-04014-4-cmmn-0000-00",
+    "text": "キラリと見せる無垢な素顔"
+  },
+  {
+    "id": "la-card_name-04014-5-uniq-0053-00",
+    "text": "キラッキラCrystal place"
+  },
+  {
+    "id": "la-card_name-04015-3-nrml-0054-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-04015-4-cmmn-0000-00",
+    "text": "美声届ける夕闇ステージ"
+  },
+  {
+    "id": "la-card_name-04015-5-uniq-0054-00",
+    "text": "歌に揺らめくノクターン"
+  },
+  {
+    "id": "la-card_name-04016-3-nrml-0055-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-04016-4-cmmn-0000-00",
+    "text": "ホッと安らぐフワフワライブ"
+  },
+  {
+    "id": "la-card_name-04016-5-uniq-0055-00",
+    "text": "ぽわぽわドーナツパーティー♪"
+  },
+  {
+    "id": "la-card_name-04017-3-nrml-0056-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-04017-4-cmmn-0000-00",
+    "text": "パッと笑顔にモコモコライブ"
+  },
+  {
+    "id": "la-card_name-04017-5-uniq-0056-00",
+    "text": "のほほんドーナツパーティー♪"
+  },
+  {
+    "id": "la-card_name-06002-3-nrml-0058-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-06002-4-cmmn-0000-00",
+    "text": "届け！とびっきりハーモニー"
+  },
+  {
+    "id": "la-card_name-06002-5-uniq-0058-00",
+    "text": "パレードで笑顔をお届け"
+  },
+  {
+    "id": "la-card_name-06003-3-nrml-0059-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-06003-4-cmmn-0000-00",
+    "text": "ずっきゅんばっきゅんLIVE♡"
+  },
+  {
+    "id": "la-card_name-06003-5-uniq-0059-00",
+    "text": "深夜にひと息、CEOの限界飯"
+  },
+  {
+    "id": "la-card_name-06004-3-nrml-0060-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-06004-4-cmmn-0000-00",
+    "text": "cultural performer"
+  },
+  {
+    "id": "la-card_name-06004-5-uniq-0060-00",
+    "text": "叡智を灯し、アートに導く"
+  },
+  {
+    "id": "la-card_name-06005-3-nrml-0061-00",
+    "text": "We are hololive!"
+  },
+  {
+    "id": "la-card_name-06005-4-cmmn-0000-00",
+    "text": "番長の番長たる所以"
+  },
+  {
+    "id": "la-card_name-06005-5-uniq-0061-00",
+    "text": "ガーリー番長のお裾分け"
+  }
+]

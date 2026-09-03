@@ -1,0 +1,5981 @@
+{
+  "schemaVersion": 1,
+  "masterVersion": "ecafc5026910aa691822a154f926ed55d83bd6613c4f27ca0591692e2f4700e1",
+  "languages": [
+    "jpn",
+    "eng",
+    "ind",
+    "kor",
+    "cht",
+    "chs"
+  ],
+  "databases": {
+    "packs": 993,
+    "tables": 993,
+    "rows": 440139
+  },
+  "files": [
+    {
+      "packType": "AchievementCategory",
+      "table": "AchievementCategory",
+      "path": "tables/AchievementCategory.json",
+      "rows": 6
+    },
+    {
+      "packType": "AchievementGroup",
+      "table": "AchievementGroup",
+      "path": "tables/AchievementGroup.json",
+      "rows": 77
+    },
+    {
+      "packType": "AppealText",
+      "table": "AppealText",
+      "path": "tables/AppealText.json",
+      "rows": 16
+    },
+    {
+      "packType": "Area",
+      "table": "Area",
+      "path": "tables/Area.json",
+      "rows": 8
+    },
+    {
+      "packType": "AreaAppearance",
+      "table": "AreaAppearance",
+      "path": "tables/AreaAppearance.json",
+      "rows": 22
+    },
+    {
+      "packType": "AreaGrouping",
+      "table": "AreaGrouping",
+      "path": "tables/AreaGrouping.json",
+      "rows": 2
+    },
+    {
+      "packType": "AreaMap",
+      "table": "AreaMap",
+      "path": "tables/AreaMap.json",
+      "rows": 14
+    },
+    {
+      "packType": "AreaSelector",
+      "table": "AreaSelector",
+      "path": "tables/AreaSelector.json",
+      "rows": 7
+    },
+    {
+      "packType": "AreaStory",
+      "table": "AreaStory",
+      "path": "tables/AreaStory.json",
+      "rows": 17
+    },
+    {
+      "packType": "AreaStoryChapter",
+      "table": "AreaStoryChapter",
+      "path": "tables/AreaStoryChapter.json",
+      "rows": 2
+    },
+    {
+      "packType": "AssetDownload",
+      "table": "AssetDownload",
+      "path": "tables/AssetDownload.json",
+      "rows": 4395
+    },
+    {
+      "packType": "AssetEmbeddingText",
+      "table": "AssetEmbeddingText",
+      "path": "tables/AssetEmbeddingText.json",
+      "rows": 62
+    },
+    {
+      "packType": "AssetEntry",
+      "table": "AssetEntry",
+      "path": "tables/AssetEntry.json",
+      "rows": 1
+    },
+    {
+      "packType": "AssetStreamingMute",
+      "table": "AssetStreamingMute",
+      "path": "tables/AssetStreamingMute.json",
+      "rows": 72
+    },
+    {
+      "packType": "BenefitLicense",
+      "table": "BenefitLicense",
+      "path": "tables/BenefitLicense.json",
+      "rows": 1
+    },
+    {
+      "packType": "Card",
+      "table": "Card",
+      "path": "tables/Card.json",
+      "rows": 178
+    },
+    {
+      "packType": "CardLevel",
+      "table": "CardLevel",
+      "path": "tables/CardLevel.json",
+      "rows": 1890
+    },
+    {
+      "packType": "CardLevelLimit",
+      "table": "CardLevelLimit",
+      "path": "tables/CardLevelLimit.json",
+      "rows": 45
+    },
+    {
+      "packType": "CardPotential",
+      "table": "CardPotential",
+      "path": "tables/CardPotential.json",
+      "rows": 15
+    },
+    {
+      "packType": "CardPotentialUpgradeItem",
+      "table": "CardPotentialUpgradeItem",
+      "path": "tables/CardPotentialUpgradeItem.json",
+      "rows": 1
+    },
+    {
+      "packType": "Character",
+      "table": "Character",
+      "path": "tables/Character.json",
+      "rows": 62
+    },
+    {
+      "packType": "CharacterGrouping",
+      "table": "CharacterGrouping",
+      "path": "tables/CharacterGrouping.json",
+      "rows": 16
+    },
+    {
+      "packType": "CharacterHistory",
+      "table": "CharacterHistory",
+      "path": "tables/CharacterHistory.json",
+      "rows": 26
+    },
+    {
+      "packType": "CharacterHistoryDisplay",
+      "table": "CharacterHistoryDisplay",
+      "path": "tables/CharacterHistoryDisplay.json",
+      "rows": 12
+    },
+    {
+      "packType": "CharacterLevel",
+      "table": "CharacterLevel",
+      "path": "tables/CharacterLevel.json",
+      "rows": 50
+    },
+    {
+      "packType": "CharacterLiveDialogueVoice",
+      "table": "CharacterLiveDialogueVoice",
+      "path": "tables/CharacterLiveDialogueVoice.json",
+      "rows": 6248
+    },
+    {
+      "packType": "CharacterMotion",
+      "table": "CharacterMotion",
+      "path": "tables/CharacterMotion.json",
+      "rows": 1540
+    },
+    {
+      "packType": "CharacterProduction",
+      "table": "CharacterProduction",
+      "path": "tables/CharacterProduction.json",
+      "rows": 4
+    },
+    {
+      "packType": "CharacterStory",
+      "table": "CharacterStory",
+      "path": "tables/CharacterStory.json",
+      "rows": 59
+    },
+    {
+      "packType": "CharacterVoice",
+      "table": "CharacterVoice",
+      "path": "tables/CharacterVoice.json",
+      "rows": 16424
+    },
+    {
+      "packType": "CharacterVoiceCategory",
+      "table": "CharacterVoiceCategory",
+      "path": "tables/CharacterVoiceCategory.json",
+      "rows": 4
+    },
+    {
+      "packType": "Chase",
+      "table": "Chase",
+      "path": "tables/Chase.json",
+      "rows": 2
+    },
+    {
+      "packType": "ChasePatrolSkill",
+      "table": "ChasePatrolSkill",
+      "path": "tables/ChasePatrolSkill.json",
+      "rows": 3
+    },
+    {
+      "packType": "ChaseScoreReward",
+      "table": "ChaseScoreReward",
+      "path": "tables/ChaseScoreReward.json",
+      "rows": 16
+    },
+    {
+      "packType": "ChaseSetting",
+      "table": "ChaseSetting",
+      "path": "tables/ChaseSetting.json",
+      "rows": 1
+    },
+    {
+      "packType": "Cheat",
+      "table": "Cheat",
+      "path": "tables/Cheat.json",
+      "rows": 59
+    },
+    {
+      "packType": "Circuit",
+      "table": "Circuit",
+      "path": "tables/Circuit.json",
+      "rows": 3
+    },
+    {
+      "packType": "CircuitArea",
+      "table": "CircuitArea",
+      "path": "tables/CircuitArea.json",
+      "rows": 10
+    },
+    {
+      "packType": "CircuitDashCoolTime",
+      "table": "CircuitDashCoolTime",
+      "path": "tables/CircuitDashCoolTime.json",
+      "rows": 16
+    },
+    {
+      "packType": "CircuitRankBetCoinRate",
+      "table": "CircuitRankBetCoinRate",
+      "path": "tables/CircuitRankBetCoinRate.json",
+      "rows": 11
+    },
+    {
+      "packType": "CircuitSetting",
+      "table": "CircuitSetting",
+      "path": "tables/CircuitSetting.json",
+      "rows": 1
+    },
+    {
+      "packType": "ComboCardGame",
+      "table": "ComboCardGame",
+      "path": "tables/ComboCardGame.json",
+      "rows": 3
+    },
+    {
+      "packType": "ComboCardGameCard",
+      "table": "ComboCardGameCard",
+      "path": "tables/ComboCardGameCard.json",
+      "rows": 315
+    },
+    {
+      "packType": "ComboCardGameDeck",
+      "table": "ComboCardGameDeck",
+      "path": "tables/ComboCardGameDeck.json",
+      "rows": 828
+    },
+    {
+      "packType": "ComboCardGameDeckCharacterGrouping",
+      "table": "ComboCardGameDeckCharacterGrouping",
+      "path": "tables/ComboCardGameDeckCharacterGrouping.json",
+      "rows": 15
+    },
+    {
+      "packType": "ComboCardGameRankBetCoinRate",
+      "table": "ComboCardGameRankBetCoinRate",
+      "path": "tables/ComboCardGameRankBetCoinRate.json",
+      "rows": 4
+    },
+    {
+      "packType": "ComboCardGameRoleScore",
+      "table": "ComboCardGameRoleScore",
+      "path": "tables/ComboCardGameRoleScore.json",
+      "rows": 16
+    },
+    {
+      "packType": "ComboCardGameSetting",
+      "table": "ComboCardGameSetting",
+      "path": "tables/ComboCardGameSetting.json",
+      "rows": 1
+    },
+    {
+      "packType": "CommonBgm",
+      "table": "CommonBgm",
+      "path": "tables/CommonBgm.json",
+      "rows": 11
+    },
+    {
+      "packType": "Condition",
+      "table": "Condition",
+      "path": "tables/Condition.json",
+      "rows": 2182
+    },
+    {
+      "packType": "CookingPuzzle",
+      "table": "CookingPuzzle",
+      "path": "tables/CookingPuzzle.json",
+      "rows": 7
+    },
+    {
+      "packType": "CookingPuzzleCombo",
+      "table": "CookingPuzzleCombo",
+      "path": "tables/CookingPuzzleCombo.json",
+      "rows": 10
+    },
+    {
+      "packType": "CookingPuzzleCompletionCountReward",
+      "table": "CookingPuzzleCompletionCountReward",
+      "path": "tables/CookingPuzzleCompletionCountReward.json",
+      "rows": 25
+    },
+    {
+      "packType": "CookingPuzzleFoodstuff",
+      "table": "CookingPuzzleFoodstuff",
+      "path": "tables/CookingPuzzleFoodstuff.json",
+      "rows": 30
+    },
+    {
+      "packType": "CookingPuzzleRecipe",
+      "table": "CookingPuzzleRecipe",
+      "path": "tables/CookingPuzzleRecipe.json",
+      "rows": 34
+    },
+    {
+      "packType": "CookingPuzzleSetting",
+      "table": "CookingPuzzleSetting",
+      "path": "tables/CookingPuzzleSetting.json",
+      "rows": 1
+    },
+    {
+      "packType": "CookingPuzzleStage",
+      "table": "CookingPuzzleStage",
+      "path": "tables/CookingPuzzleStage.json",
+      "rows": 38
+    },
+    {
+      "packType": "CookingPuzzleStagePattern",
+      "table": "CookingPuzzleStagePattern",
+      "path": "tables/CookingPuzzleStagePattern.json",
+      "rows": 319
+    },
+    {
+      "packType": "Costume",
+      "table": "Costume",
+      "path": "tables/Costume.json",
+      "rows": 186
+    },
+    {
+      "packType": "Country",
+      "table": "Country",
+      "path": "tables/Country.json",
+      "rows": 83
+    },
+    {
+      "packType": "CustomPaletteDecoration",
+      "table": "CustomPaletteDecoration",
+      "path": "tables/CustomPaletteDecoration.json",
+      "rows": 2
+    },
+    {
+      "packType": "CustomPalettePresetLayoutGroup",
+      "table": "CustomPalettePresetLayoutGroup",
+      "path": "tables/CustomPalettePresetLayoutGroup.json",
+      "rows": 6
+    },
+    {
+      "packType": "Emblem",
+      "table": "Emblem",
+      "path": "tables/Emblem.json",
+      "rows": 875
+    },
+    {
+      "packType": "EventStory",
+      "table": "EventStory",
+      "path": "tables/EventStory.json",
+      "rows": 22
+    },
+    {
+      "packType": "EventStoryChapter",
+      "table": "EventStoryChapter",
+      "path": "tables/EventStoryChapter.json",
+      "rows": 7
+    },
+    {
+      "packType": "ExchangeBooth",
+      "table": "ExchangeBooth",
+      "path": "tables/ExchangeBooth.json",
+      "rows": 285
+    },
+    {
+      "packType": "ExchangeBoothFixedItem",
+      "table": "ExchangeBoothFixedItem",
+      "path": "tables/ExchangeBoothFixedItem.json",
+      "rows": 952
+    },
+    {
+      "packType": "ExchangeBoothGroup",
+      "table": "ExchangeBoothGroup",
+      "path": "tables/ExchangeBoothGroup.json",
+      "rows": 66
+    },
+    {
+      "packType": "Facility",
+      "table": "Facility",
+      "path": "tables/Facility.json",
+      "rows": 65
+    },
+    {
+      "packType": "FacilityAppearance",
+      "table": "FacilityAppearance",
+      "path": "tables/FacilityAppearance.json",
+      "rows": 187
+    },
+    {
+      "packType": "FacilityLevel",
+      "table": "FacilityLevel",
+      "path": "tables/FacilityLevel.json",
+      "rows": 30
+    },
+    {
+      "packType": "FanMark",
+      "table": "FanMark",
+      "path": "tables/FanMark.json",
+      "rows": 54
+    },
+    {
+      "packType": "FeatureLock",
+      "table": "FeatureLock",
+      "path": "tables/FeatureLock.json",
+      "rows": 47
+    },
+    {
+      "packType": "FeatureMaintenance",
+      "table": "FeatureMaintenance",
+      "path": "tables/FeatureMaintenance.json",
+      "rows": 0
+    },
+    {
+      "packType": "Gacha",
+      "table": "Gacha",
+      "path": "tables/Gacha.json",
+      "rows": 13
+    },
+    {
+      "packType": "GachaAnimationFake",
+      "table": "GachaAnimationFake",
+      "path": "tables/GachaAnimationFake.json",
+      "rows": 34
+    },
+    {
+      "packType": "GachaAnimationGrouping",
+      "table": "GachaAnimationGrouping",
+      "path": "tables/GachaAnimationGrouping.json",
+      "rows": 4
+    },
+    {
+      "packType": "GachaAnimationMovie",
+      "table": "GachaAnimationMovie",
+      "path": "tables/GachaAnimationMovie.json",
+      "rows": 28
+    },
+    {
+      "packType": "GachaAnimationTransition",
+      "table": "GachaAnimationTransition",
+      "path": "tables/GachaAnimationTransition.json",
+      "rows": 564
+    },
+    {
+      "packType": "GachaButton",
+      "table": "GachaButton",
+      "path": "tables/GachaButton.json",
+      "rows": 28
+    },
+    {
+      "packType": "GachaPoint",
+      "table": "GachaPoint",
+      "path": "tables/GachaPoint.json",
+      "rows": 6
+    },
+    {
+      "packType": "GameTitle",
+      "table": "GameTitle",
+      "path": "tables/GameTitle.json",
+      "rows": 1
+    },
+    {
+      "packType": "HelpCategory",
+      "table": "HelpCategory",
+      "path": "tables/HelpCategory.json",
+      "rows": 24
+    },
+    {
+      "packType": "HelpContent",
+      "table": "HelpContent",
+      "path": "tables/HelpContent.json",
+      "rows": 127
+    },
+    {
+      "packType": "HolograStory",
+      "table": "HolograStory",
+      "path": "tables/HolograStory.json",
+      "rows": 4
+    },
+    {
+      "packType": "InstantTips",
+      "table": "InstantTips",
+      "path": "tables/InstantTips.json",
+      "rows": 16
+    },
+    {
+      "packType": "Item",
+      "table": "Item",
+      "path": "tables/Item.json",
+      "rows": 120
+    },
+    {
+      "packType": "ItemLimit",
+      "table": "ItemLimit",
+      "path": "tables/ItemLimit.json",
+      "rows": 19
+    },
+    {
+      "packType": "ItemSelectableRewardBox",
+      "table": "ItemSelectableRewardBox",
+      "path": "tables/ItemSelectableRewardBox.json",
+      "rows": 71
+    },
+    {
+      "packType": "ItemTypeDetail",
+      "table": "ItemTypeDetail",
+      "path": "tables/ItemTypeDetail.json",
+      "rows": 19
+    },
+    {
+      "packType": "JumpRope",
+      "table": "JumpRope",
+      "path": "tables/JumpRope.json",
+      "rows": 14
+    },
+    {
+      "packType": "JumpRopeGimmick",
+      "table": "JumpRopeGimmick",
+      "path": "tables/JumpRopeGimmick.json",
+      "rows": 4
+    },
+    {
+      "packType": "JumpRopeJumpCountReward",
+      "table": "JumpRopeJumpCountReward",
+      "path": "tables/JumpRopeJumpCountReward.json",
+      "rows": 42
+    },
+    {
+      "packType": "JumpRopePhase",
+      "table": "JumpRopePhase",
+      "path": "tables/JumpRopePhase.json",
+      "rows": 6
+    },
+    {
+      "packType": "JumpRopePhaseGimmick",
+      "table": "JumpRopePhaseGimmick",
+      "path": "tables/JumpRopePhaseGimmick.json",
+      "rows": 69
+    },
+    {
+      "packType": "JumpRopeSetting",
+      "table": "JumpRopeSetting",
+      "path": "tables/JumpRopeSetting.json",
+      "rows": 1
+    },
+    {
+      "packType": "LangAchievementCategory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangAchievementCategory.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangAchievementCategory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangAchievementCategory.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangAchievementCategory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangAchievementCategory.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangAchievementCategory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangAchievementCategory.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangAchievementCategory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangAchievementCategory.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangAchievementCategory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangAchievementCategory.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangAchievementGroup_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangAchievementGroup.json",
+      "rows": 77
+    },
+    {
+      "packType": "LangAchievementGroup_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangAchievementGroup.json",
+      "rows": 77
+    },
+    {
+      "packType": "LangAchievementGroup_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangAchievementGroup.json",
+      "rows": 77
+    },
+    {
+      "packType": "LangAchievementGroup_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangAchievementGroup.json",
+      "rows": 77
+    },
+    {
+      "packType": "LangAchievementGroup_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangAchievementGroup.json",
+      "rows": 77
+    },
+    {
+      "packType": "LangAchievementGroup_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangAchievementGroup.json",
+      "rows": 77
+    },
+    {
+      "packType": "LangAppealText_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangAppealText.json",
+      "rows": 32
+    },
+    {
+      "packType": "LangAppealText_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangAppealText.json",
+      "rows": 32
+    },
+    {
+      "packType": "LangAppealText_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangAppealText.json",
+      "rows": 32
+    },
+    {
+      "packType": "LangAppealText_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangAppealText.json",
+      "rows": 32
+    },
+    {
+      "packType": "LangAppealText_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangAppealText.json",
+      "rows": 32
+    },
+    {
+      "packType": "LangAppealText_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangAppealText.json",
+      "rows": 32
+    },
+    {
+      "packType": "LangArea_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangArea.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangArea_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangArea.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangArea_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangArea.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangArea_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangArea.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangArea_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangArea.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangArea_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangArea.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangAreaGrouping_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangAreaGrouping.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangAreaGrouping_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangAreaGrouping.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangAreaGrouping_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangAreaGrouping.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangAreaGrouping_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangAreaGrouping.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangAreaGrouping_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangAreaGrouping.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangAreaGrouping_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangAreaGrouping.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangAreaStory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangAreaStory.json",
+      "rows": 17
+    },
+    {
+      "packType": "LangAreaStory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangAreaStory.json",
+      "rows": 17
+    },
+    {
+      "packType": "LangAreaStory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangAreaStory.json",
+      "rows": 17
+    },
+    {
+      "packType": "LangAreaStory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangAreaStory.json",
+      "rows": 17
+    },
+    {
+      "packType": "LangAreaStory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangAreaStory.json",
+      "rows": 17
+    },
+    {
+      "packType": "LangAreaStory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangAreaStory.json",
+      "rows": 17
+    },
+    {
+      "packType": "LangAreaStoryChapter_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangAreaStoryChapter.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangAreaStoryChapter_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangAreaStoryChapter.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangAreaStoryChapter_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangAreaStoryChapter.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangAreaStoryChapter_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangAreaStoryChapter.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangAreaStoryChapter_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangAreaStoryChapter.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangAreaStoryChapter_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangAreaStoryChapter.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangAssetEmbeddingText_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangAssetEmbeddingText.json",
+      "rows": 62
+    },
+    {
+      "packType": "LangAssetEmbeddingText_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangAssetEmbeddingText.json",
+      "rows": 62
+    },
+    {
+      "packType": "LangAssetEmbeddingText_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangAssetEmbeddingText.json",
+      "rows": 62
+    },
+    {
+      "packType": "LangAssetEmbeddingText_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangAssetEmbeddingText.json",
+      "rows": 62
+    },
+    {
+      "packType": "LangAssetEmbeddingText_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangAssetEmbeddingText.json",
+      "rows": 62
+    },
+    {
+      "packType": "LangAssetEmbeddingText_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangAssetEmbeddingText.json",
+      "rows": 62
+    },
+    {
+      "packType": "LangCard_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCard.json",
+      "rows": 178
+    },
+    {
+      "packType": "LangCard_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCard.json",
+      "rows": 178
+    },
+    {
+      "packType": "LangCard_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCard.json",
+      "rows": 178
+    },
+    {
+      "packType": "LangCard_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCard.json",
+      "rows": 178
+    },
+    {
+      "packType": "LangCard_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCard.json",
+      "rows": 178
+    },
+    {
+      "packType": "LangCard_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCard.json",
+      "rows": 178
+    },
+    {
+      "packType": "LangCharacter_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCharacter.json",
+      "rows": 402
+    },
+    {
+      "packType": "LangCharacter_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCharacter.json",
+      "rows": 402
+    },
+    {
+      "packType": "LangCharacter_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCharacter.json",
+      "rows": 402
+    },
+    {
+      "packType": "LangCharacter_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCharacter.json",
+      "rows": 402
+    },
+    {
+      "packType": "LangCharacter_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCharacter.json",
+      "rows": 402
+    },
+    {
+      "packType": "LangCharacter_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCharacter.json",
+      "rows": 402
+    },
+    {
+      "packType": "LangCharacterGrouping_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCharacterGrouping.json",
+      "rows": 32
+    },
+    {
+      "packType": "LangCharacterGrouping_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCharacterGrouping.json",
+      "rows": 32
+    },
+    {
+      "packType": "LangCharacterGrouping_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCharacterGrouping.json",
+      "rows": 32
+    },
+    {
+      "packType": "LangCharacterGrouping_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCharacterGrouping.json",
+      "rows": 32
+    },
+    {
+      "packType": "LangCharacterGrouping_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCharacterGrouping.json",
+      "rows": 32
+    },
+    {
+      "packType": "LangCharacterGrouping_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCharacterGrouping.json",
+      "rows": 32
+    },
+    {
+      "packType": "LangCharacterHistory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCharacterHistory.json",
+      "rows": 13
+    },
+    {
+      "packType": "LangCharacterHistory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCharacterHistory.json",
+      "rows": 13
+    },
+    {
+      "packType": "LangCharacterHistory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCharacterHistory.json",
+      "rows": 13
+    },
+    {
+      "packType": "LangCharacterHistory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCharacterHistory.json",
+      "rows": 13
+    },
+    {
+      "packType": "LangCharacterHistory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCharacterHistory.json",
+      "rows": 13
+    },
+    {
+      "packType": "LangCharacterHistory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCharacterHistory.json",
+      "rows": 13
+    },
+    {
+      "packType": "LangCharacterProduction_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCharacterProduction.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCharacterProduction_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCharacterProduction.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCharacterProduction_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCharacterProduction.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCharacterProduction_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCharacterProduction.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCharacterProduction_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCharacterProduction.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCharacterProduction_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCharacterProduction.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCharacterStory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCharacterStory.json",
+      "rows": 59
+    },
+    {
+      "packType": "LangCharacterStory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCharacterStory.json",
+      "rows": 59
+    },
+    {
+      "packType": "LangCharacterStory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCharacterStory.json",
+      "rows": 59
+    },
+    {
+      "packType": "LangCharacterStory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCharacterStory.json",
+      "rows": 59
+    },
+    {
+      "packType": "LangCharacterStory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCharacterStory.json",
+      "rows": 59
+    },
+    {
+      "packType": "LangCharacterStory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCharacterStory.json",
+      "rows": 59
+    },
+    {
+      "packType": "LangCharacterVoice_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCharacterVoice.json",
+      "rows": 26591
+    },
+    {
+      "packType": "LangCharacterVoice_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCharacterVoice.json",
+      "rows": 26591
+    },
+    {
+      "packType": "LangCharacterVoice_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCharacterVoice.json",
+      "rows": 26591
+    },
+    {
+      "packType": "LangCharacterVoice_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCharacterVoice.json",
+      "rows": 26591
+    },
+    {
+      "packType": "LangCharacterVoice_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCharacterVoice.json",
+      "rows": 26591
+    },
+    {
+      "packType": "LangCharacterVoice_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCharacterVoice.json",
+      "rows": 26591
+    },
+    {
+      "packType": "LangCharacterVoiceCategory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCharacterVoiceCategory.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCharacterVoiceCategory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCharacterVoiceCategory.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCharacterVoiceCategory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCharacterVoiceCategory.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCharacterVoiceCategory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCharacterVoiceCategory.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCharacterVoiceCategory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCharacterVoiceCategory.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCharacterVoiceCategory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCharacterVoiceCategory.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangChasePatrolSkill_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangChasePatrolSkill.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangChasePatrolSkill_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangChasePatrolSkill.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangChasePatrolSkill_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangChasePatrolSkill.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangChasePatrolSkill_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangChasePatrolSkill.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangChasePatrolSkill_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangChasePatrolSkill.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangChasePatrolSkill_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangChasePatrolSkill.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCircuit_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCircuit.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangCircuit_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCircuit.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangCircuit_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCircuit.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangCircuit_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCircuit.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangCircuit_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCircuit.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangCircuit_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCircuit.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangCircuitArea_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCircuitArea.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangCircuitArea_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCircuitArea.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangCircuitArea_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCircuitArea.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangCircuitArea_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCircuitArea.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangCircuitArea_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCircuitArea.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangCircuitArea_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCircuitArea.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangClientCommon_Chs",
+      "table": "LangClient",
+      "path": "languages/chs/LangClientCommon.json",
+      "rows": 3196
+    },
+    {
+      "packType": "LangClientCommon_Cht",
+      "table": "LangClient",
+      "path": "languages/cht/LangClientCommon.json",
+      "rows": 3196
+    },
+    {
+      "packType": "LangClientCommon_Eng",
+      "table": "LangClient",
+      "path": "languages/eng/LangClientCommon.json",
+      "rows": 3196
+    },
+    {
+      "packType": "LangClientCommon_Ind",
+      "table": "LangClient",
+      "path": "languages/ind/LangClientCommon.json",
+      "rows": 3196
+    },
+    {
+      "packType": "LangClientCommon_Jpn",
+      "table": "LangClient",
+      "path": "languages/jpn/LangClientCommon.json",
+      "rows": 3196
+    },
+    {
+      "packType": "LangClientCommon_Kor",
+      "table": "LangClient",
+      "path": "languages/kor/LangClientCommon.json",
+      "rows": 3196
+    },
+    {
+      "packType": "LangComboCardGame_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangComboCardGame.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangComboCardGame_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangComboCardGame.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangComboCardGame_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangComboCardGame.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangComboCardGame_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangComboCardGame.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangComboCardGame_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangComboCardGame.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangComboCardGame_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangComboCardGame.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangComboCardGameRoleScore_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangComboCardGameRoleScore.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangComboCardGameRoleScore_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangComboCardGameRoleScore.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangComboCardGameRoleScore_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangComboCardGameRoleScore.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangComboCardGameRoleScore_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangComboCardGameRoleScore.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangComboCardGameRoleScore_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangComboCardGameRoleScore.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangComboCardGameRoleScore_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangComboCardGameRoleScore.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangCondition_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCondition.json",
+      "rows": 82
+    },
+    {
+      "packType": "LangCondition_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCondition.json",
+      "rows": 82
+    },
+    {
+      "packType": "LangCondition_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCondition.json",
+      "rows": 82
+    },
+    {
+      "packType": "LangCondition_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCondition.json",
+      "rows": 82
+    },
+    {
+      "packType": "LangCondition_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCondition.json",
+      "rows": 82
+    },
+    {
+      "packType": "LangCondition_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCondition.json",
+      "rows": 82
+    },
+    {
+      "packType": "LangCookingPuzzle_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCookingPuzzle.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCookingPuzzle_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCookingPuzzle.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCookingPuzzle_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCookingPuzzle.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCookingPuzzle_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCookingPuzzle.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCookingPuzzle_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCookingPuzzle.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCookingPuzzle_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCookingPuzzle.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangCookingPuzzleFoodstuff_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCookingPuzzleFoodstuff.json",
+      "rows": 30
+    },
+    {
+      "packType": "LangCookingPuzzleFoodstuff_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCookingPuzzleFoodstuff.json",
+      "rows": 30
+    },
+    {
+      "packType": "LangCookingPuzzleFoodstuff_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCookingPuzzleFoodstuff.json",
+      "rows": 30
+    },
+    {
+      "packType": "LangCookingPuzzleFoodstuff_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCookingPuzzleFoodstuff.json",
+      "rows": 30
+    },
+    {
+      "packType": "LangCookingPuzzleFoodstuff_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCookingPuzzleFoodstuff.json",
+      "rows": 30
+    },
+    {
+      "packType": "LangCookingPuzzleFoodstuff_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCookingPuzzleFoodstuff.json",
+      "rows": 30
+    },
+    {
+      "packType": "LangCookingPuzzleRecipe_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCookingPuzzleRecipe.json",
+      "rows": 68
+    },
+    {
+      "packType": "LangCookingPuzzleRecipe_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCookingPuzzleRecipe.json",
+      "rows": 68
+    },
+    {
+      "packType": "LangCookingPuzzleRecipe_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCookingPuzzleRecipe.json",
+      "rows": 68
+    },
+    {
+      "packType": "LangCookingPuzzleRecipe_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCookingPuzzleRecipe.json",
+      "rows": 68
+    },
+    {
+      "packType": "LangCookingPuzzleRecipe_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCookingPuzzleRecipe.json",
+      "rows": 68
+    },
+    {
+      "packType": "LangCookingPuzzleRecipe_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCookingPuzzleRecipe.json",
+      "rows": 68
+    },
+    {
+      "packType": "LangCostume_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCostume.json",
+      "rows": 186
+    },
+    {
+      "packType": "LangCostume_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCostume.json",
+      "rows": 186
+    },
+    {
+      "packType": "LangCostume_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCostume.json",
+      "rows": 186
+    },
+    {
+      "packType": "LangCostume_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCostume.json",
+      "rows": 186
+    },
+    {
+      "packType": "LangCostume_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCostume.json",
+      "rows": 186
+    },
+    {
+      "packType": "LangCostume_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCostume.json",
+      "rows": 186
+    },
+    {
+      "packType": "LangCountry_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCountry.json",
+      "rows": 83
+    },
+    {
+      "packType": "LangCountry_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCountry.json",
+      "rows": 83
+    },
+    {
+      "packType": "LangCountry_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCountry.json",
+      "rows": 83
+    },
+    {
+      "packType": "LangCountry_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCountry.json",
+      "rows": 83
+    },
+    {
+      "packType": "LangCountry_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCountry.json",
+      "rows": 83
+    },
+    {
+      "packType": "LangCountry_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCountry.json",
+      "rows": 83
+    },
+    {
+      "packType": "LangCustomPaletteDecoration_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCustomPaletteDecoration.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangCustomPaletteDecoration_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCustomPaletteDecoration.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangCustomPaletteDecoration_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCustomPaletteDecoration.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangCustomPaletteDecoration_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCustomPaletteDecoration.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangCustomPaletteDecoration_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCustomPaletteDecoration.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangCustomPaletteDecoration_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCustomPaletteDecoration.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangCustomPalettePresetLayoutGroup_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangCustomPalettePresetLayoutGroup.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangCustomPalettePresetLayoutGroup_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangCustomPalettePresetLayoutGroup.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangCustomPalettePresetLayoutGroup_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangCustomPalettePresetLayoutGroup.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangCustomPalettePresetLayoutGroup_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangCustomPalettePresetLayoutGroup.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangCustomPalettePresetLayoutGroup_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangCustomPalettePresetLayoutGroup.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangCustomPalettePresetLayoutGroup_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangCustomPalettePresetLayoutGroup.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangEmblem_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangEmblem.json",
+      "rows": 875
+    },
+    {
+      "packType": "LangEmblem_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangEmblem.json",
+      "rows": 875
+    },
+    {
+      "packType": "LangEmblem_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangEmblem.json",
+      "rows": 875
+    },
+    {
+      "packType": "LangEmblem_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangEmblem.json",
+      "rows": 875
+    },
+    {
+      "packType": "LangEmblem_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangEmblem.json",
+      "rows": 875
+    },
+    {
+      "packType": "LangEmblem_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangEmblem.json",
+      "rows": 875
+    },
+    {
+      "packType": "LangEventStory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangEventStory.json",
+      "rows": 22
+    },
+    {
+      "packType": "LangEventStory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangEventStory.json",
+      "rows": 22
+    },
+    {
+      "packType": "LangEventStory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangEventStory.json",
+      "rows": 22
+    },
+    {
+      "packType": "LangEventStory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangEventStory.json",
+      "rows": 22
+    },
+    {
+      "packType": "LangEventStory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangEventStory.json",
+      "rows": 22
+    },
+    {
+      "packType": "LangEventStory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangEventStory.json",
+      "rows": 22
+    },
+    {
+      "packType": "LangEventStoryChapter_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangEventStoryChapter.json",
+      "rows": 7
+    },
+    {
+      "packType": "LangEventStoryChapter_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangEventStoryChapter.json",
+      "rows": 7
+    },
+    {
+      "packType": "LangEventStoryChapter_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangEventStoryChapter.json",
+      "rows": 7
+    },
+    {
+      "packType": "LangEventStoryChapter_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangEventStoryChapter.json",
+      "rows": 7
+    },
+    {
+      "packType": "LangEventStoryChapter_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangEventStoryChapter.json",
+      "rows": 7
+    },
+    {
+      "packType": "LangEventStoryChapter_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangEventStoryChapter.json",
+      "rows": 7
+    },
+    {
+      "packType": "LangFacility_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangFacility.json",
+      "rows": 107
+    },
+    {
+      "packType": "LangFacility_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangFacility.json",
+      "rows": 107
+    },
+    {
+      "packType": "LangFacility_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangFacility.json",
+      "rows": 107
+    },
+    {
+      "packType": "LangFacility_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangFacility.json",
+      "rows": 107
+    },
+    {
+      "packType": "LangFacility_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangFacility.json",
+      "rows": 107
+    },
+    {
+      "packType": "LangFacility_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangFacility.json",
+      "rows": 107
+    },
+    {
+      "packType": "LangFacilityAppearance_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangFacilityAppearance.json",
+      "rows": 28
+    },
+    {
+      "packType": "LangFacilityAppearance_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangFacilityAppearance.json",
+      "rows": 28
+    },
+    {
+      "packType": "LangFacilityAppearance_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangFacilityAppearance.json",
+      "rows": 28
+    },
+    {
+      "packType": "LangFacilityAppearance_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangFacilityAppearance.json",
+      "rows": 28
+    },
+    {
+      "packType": "LangFacilityAppearance_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangFacilityAppearance.json",
+      "rows": 28
+    },
+    {
+      "packType": "LangFacilityAppearance_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangFacilityAppearance.json",
+      "rows": 28
+    },
+    {
+      "packType": "LangFacilityLevel_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangFacilityLevel.json",
+      "rows": 21
+    },
+    {
+      "packType": "LangFacilityLevel_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangFacilityLevel.json",
+      "rows": 21
+    },
+    {
+      "packType": "LangFacilityLevel_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangFacilityLevel.json",
+      "rows": 21
+    },
+    {
+      "packType": "LangFacilityLevel_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangFacilityLevel.json",
+      "rows": 21
+    },
+    {
+      "packType": "LangFacilityLevel_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangFacilityLevel.json",
+      "rows": 21
+    },
+    {
+      "packType": "LangFacilityLevel_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangFacilityLevel.json",
+      "rows": 21
+    },
+    {
+      "packType": "LangFanMark_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangFanMark.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangFanMark_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangFanMark.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangFanMark_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangFanMark.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangFanMark_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangFanMark.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangFanMark_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangFanMark.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangFanMark_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangFanMark.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangFeatureLock_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangFeatureLock.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangFeatureLock_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangFeatureLock.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangFeatureLock_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangFeatureLock.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangFeatureLock_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangFeatureLock.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangFeatureLock_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangFeatureLock.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangFeatureLock_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangFeatureLock.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangGachaPoint_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangGachaPoint.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangGachaPoint_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangGachaPoint.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangGachaPoint_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangGachaPoint.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangGachaPoint_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangGachaPoint.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangGachaPoint_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangGachaPoint.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangGachaPoint_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangGachaPoint.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangGeneratedLiveActiveSkillEffect_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangGeneratedLiveActiveSkillEffect.json",
+      "rows": 52
+    },
+    {
+      "packType": "LangGeneratedLiveActiveSkillEffect_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangGeneratedLiveActiveSkillEffect.json",
+      "rows": 52
+    },
+    {
+      "packType": "LangGeneratedLiveActiveSkillEffect_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangGeneratedLiveActiveSkillEffect.json",
+      "rows": 52
+    },
+    {
+      "packType": "LangGeneratedLiveActiveSkillEffect_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangGeneratedLiveActiveSkillEffect.json",
+      "rows": 52
+    },
+    {
+      "packType": "LangGeneratedLiveActiveSkillEffect_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangGeneratedLiveActiveSkillEffect.json",
+      "rows": 52
+    },
+    {
+      "packType": "LangGeneratedLiveActiveSkillEffect_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangGeneratedLiveActiveSkillEffect.json",
+      "rows": 52
+    },
+    {
+      "packType": "LangGeneratedLiveActiveSkillLevel_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangGeneratedLiveActiveSkillLevel.json",
+      "rows": 359
+    },
+    {
+      "packType": "LangGeneratedLiveActiveSkillLevel_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangGeneratedLiveActiveSkillLevel.json",
+      "rows": 359
+    },
+    {
+      "packType": "LangGeneratedLiveActiveSkillLevel_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangGeneratedLiveActiveSkillLevel.json",
+      "rows": 359
+    },
+    {
+      "packType": "LangGeneratedLiveActiveSkillLevel_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangGeneratedLiveActiveSkillLevel.json",
+      "rows": 359
+    },
+    {
+      "packType": "LangGeneratedLiveActiveSkillLevel_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangGeneratedLiveActiveSkillLevel.json",
+      "rows": 359
+    },
+    {
+      "packType": "LangGeneratedLiveActiveSkillLevel_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangGeneratedLiveActiveSkillLevel.json",
+      "rows": 359
+    },
+    {
+      "packType": "LangGeneratedLiveLeaderSkill_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangGeneratedLiveLeaderSkill.json",
+      "rows": 178
+    },
+    {
+      "packType": "LangGeneratedLiveLeaderSkill_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangGeneratedLiveLeaderSkill.json",
+      "rows": 178
+    },
+    {
+      "packType": "LangGeneratedLiveLeaderSkill_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangGeneratedLiveLeaderSkill.json",
+      "rows": 178
+    },
+    {
+      "packType": "LangGeneratedLiveLeaderSkill_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangGeneratedLiveLeaderSkill.json",
+      "rows": 178
+    },
+    {
+      "packType": "LangGeneratedLiveLeaderSkill_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangGeneratedLiveLeaderSkill.json",
+      "rows": 178
+    },
+    {
+      "packType": "LangGeneratedLiveLeaderSkill_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangGeneratedLiveLeaderSkill.json",
+      "rows": 178
+    },
+    {
+      "packType": "LangGeneratedLivePassiveSkillEffect_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangGeneratedLivePassiveSkillEffect.json",
+      "rows": 182
+    },
+    {
+      "packType": "LangGeneratedLivePassiveSkillEffect_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangGeneratedLivePassiveSkillEffect.json",
+      "rows": 182
+    },
+    {
+      "packType": "LangGeneratedLivePassiveSkillEffect_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangGeneratedLivePassiveSkillEffect.json",
+      "rows": 182
+    },
+    {
+      "packType": "LangGeneratedLivePassiveSkillEffect_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangGeneratedLivePassiveSkillEffect.json",
+      "rows": 182
+    },
+    {
+      "packType": "LangGeneratedLivePassiveSkillEffect_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangGeneratedLivePassiveSkillEffect.json",
+      "rows": 182
+    },
+    {
+      "packType": "LangGeneratedLivePassiveSkillEffect_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangGeneratedLivePassiveSkillEffect.json",
+      "rows": 182
+    },
+    {
+      "packType": "LangGeneratedLivePassiveSkillLevel_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangGeneratedLivePassiveSkillLevel.json",
+      "rows": 356
+    },
+    {
+      "packType": "LangGeneratedLivePassiveSkillLevel_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangGeneratedLivePassiveSkillLevel.json",
+      "rows": 356
+    },
+    {
+      "packType": "LangGeneratedLivePassiveSkillLevel_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangGeneratedLivePassiveSkillLevel.json",
+      "rows": 356
+    },
+    {
+      "packType": "LangGeneratedLivePassiveSkillLevel_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangGeneratedLivePassiveSkillLevel.json",
+      "rows": 356
+    },
+    {
+      "packType": "LangGeneratedLivePassiveSkillLevel_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangGeneratedLivePassiveSkillLevel.json",
+      "rows": 356
+    },
+    {
+      "packType": "LangGeneratedLivePassiveSkillLevel_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangGeneratedLivePassiveSkillLevel.json",
+      "rows": 356
+    },
+    {
+      "packType": "LangGeneratedLiveSkillEffectTarget_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangGeneratedLiveSkillEffectTarget.json",
+      "rows": 83
+    },
+    {
+      "packType": "LangGeneratedLiveSkillEffectTarget_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangGeneratedLiveSkillEffectTarget.json",
+      "rows": 83
+    },
+    {
+      "packType": "LangGeneratedLiveSkillEffectTarget_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangGeneratedLiveSkillEffectTarget.json",
+      "rows": 83
+    },
+    {
+      "packType": "LangGeneratedLiveSkillEffectTarget_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangGeneratedLiveSkillEffectTarget.json",
+      "rows": 83
+    },
+    {
+      "packType": "LangGeneratedLiveSkillEffectTarget_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangGeneratedLiveSkillEffectTarget.json",
+      "rows": 83
+    },
+    {
+      "packType": "LangGeneratedLiveSkillEffectTarget_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangGeneratedLiveSkillEffectTarget.json",
+      "rows": 83
+    },
+    {
+      "packType": "LangGeneratedLiveSkillTrigger_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangGeneratedLiveSkillTrigger.json",
+      "rows": 215
+    },
+    {
+      "packType": "LangGeneratedLiveSkillTrigger_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangGeneratedLiveSkillTrigger.json",
+      "rows": 215
+    },
+    {
+      "packType": "LangGeneratedLiveSkillTrigger_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangGeneratedLiveSkillTrigger.json",
+      "rows": 215
+    },
+    {
+      "packType": "LangGeneratedLiveSkillTrigger_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangGeneratedLiveSkillTrigger.json",
+      "rows": 215
+    },
+    {
+      "packType": "LangGeneratedLiveSkillTrigger_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangGeneratedLiveSkillTrigger.json",
+      "rows": 215
+    },
+    {
+      "packType": "LangGeneratedLiveSkillTrigger_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangGeneratedLiveSkillTrigger.json",
+      "rows": 215
+    },
+    {
+      "packType": "LangGeneratedLiveSpecialSkillLevel_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangGeneratedLiveSpecialSkillLevel.json",
+      "rows": 356
+    },
+    {
+      "packType": "LangGeneratedLiveSpecialSkillLevel_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangGeneratedLiveSpecialSkillLevel.json",
+      "rows": 356
+    },
+    {
+      "packType": "LangGeneratedLiveSpecialSkillLevel_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangGeneratedLiveSpecialSkillLevel.json",
+      "rows": 356
+    },
+    {
+      "packType": "LangGeneratedLiveSpecialSkillLevel_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangGeneratedLiveSpecialSkillLevel.json",
+      "rows": 356
+    },
+    {
+      "packType": "LangGeneratedLiveSpecialSkillLevel_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangGeneratedLiveSpecialSkillLevel.json",
+      "rows": 356
+    },
+    {
+      "packType": "LangGeneratedLiveSpecialSkillLevel_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangGeneratedLiveSpecialSkillLevel.json",
+      "rows": 356
+    },
+    {
+      "packType": "LangGeneratedSkillTreeConnectEffect_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangGeneratedSkillTreeConnectEffect.json",
+      "rows": 40
+    },
+    {
+      "packType": "LangGeneratedSkillTreeConnectEffect_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangGeneratedSkillTreeConnectEffect.json",
+      "rows": 40
+    },
+    {
+      "packType": "LangGeneratedSkillTreeConnectEffect_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangGeneratedSkillTreeConnectEffect.json",
+      "rows": 40
+    },
+    {
+      "packType": "LangGeneratedSkillTreeConnectEffect_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangGeneratedSkillTreeConnectEffect.json",
+      "rows": 40
+    },
+    {
+      "packType": "LangGeneratedSkillTreeConnectEffect_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangGeneratedSkillTreeConnectEffect.json",
+      "rows": 40
+    },
+    {
+      "packType": "LangGeneratedSkillTreeConnectEffect_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangGeneratedSkillTreeConnectEffect.json",
+      "rows": 40
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffect_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangGeneratedSkillTreeEffect.json",
+      "rows": 121
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffect_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangGeneratedSkillTreeEffect.json",
+      "rows": 121
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffect_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangGeneratedSkillTreeEffect.json",
+      "rows": 121
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffect_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangGeneratedSkillTreeEffect.json",
+      "rows": 121
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffect_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangGeneratedSkillTreeEffect.json",
+      "rows": 121
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffect_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangGeneratedSkillTreeEffect.json",
+      "rows": 121
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffectPassiveTrigger_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangGeneratedSkillTreeEffectPassiveTrigger.json",
+      "rows": 81
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffectPassiveTrigger_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangGeneratedSkillTreeEffectPassiveTrigger.json",
+      "rows": 81
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffectPassiveTrigger_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangGeneratedSkillTreeEffectPassiveTrigger.json",
+      "rows": 81
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffectPassiveTrigger_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangGeneratedSkillTreeEffectPassiveTrigger.json",
+      "rows": 81
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffectPassiveTrigger_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangGeneratedSkillTreeEffectPassiveTrigger.json",
+      "rows": 81
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffectPassiveTrigger_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangGeneratedSkillTreeEffectPassiveTrigger.json",
+      "rows": 81
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffectTarget_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangGeneratedSkillTreeEffectTarget.json",
+      "rows": 79
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffectTarget_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangGeneratedSkillTreeEffectTarget.json",
+      "rows": 79
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffectTarget_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangGeneratedSkillTreeEffectTarget.json",
+      "rows": 79
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffectTarget_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangGeneratedSkillTreeEffectTarget.json",
+      "rows": 79
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffectTarget_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangGeneratedSkillTreeEffectTarget.json",
+      "rows": 79
+    },
+    {
+      "packType": "LangGeneratedSkillTreeEffectTarget_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangGeneratedSkillTreeEffectTarget.json",
+      "rows": 79
+    },
+    {
+      "packType": "LangHelpCategory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangHelpCategory.json",
+      "rows": 24
+    },
+    {
+      "packType": "LangHelpCategory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangHelpCategory.json",
+      "rows": 24
+    },
+    {
+      "packType": "LangHelpCategory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangHelpCategory.json",
+      "rows": 24
+    },
+    {
+      "packType": "LangHelpCategory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangHelpCategory.json",
+      "rows": 24
+    },
+    {
+      "packType": "LangHelpCategory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangHelpCategory.json",
+      "rows": 24
+    },
+    {
+      "packType": "LangHelpCategory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangHelpCategory.json",
+      "rows": 24
+    },
+    {
+      "packType": "LangHelpContent_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangHelpContent.json",
+      "rows": 256
+    },
+    {
+      "packType": "LangHelpContent_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangHelpContent.json",
+      "rows": 256
+    },
+    {
+      "packType": "LangHelpContent_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangHelpContent.json",
+      "rows": 256
+    },
+    {
+      "packType": "LangHelpContent_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangHelpContent.json",
+      "rows": 256
+    },
+    {
+      "packType": "LangHelpContent_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangHelpContent.json",
+      "rows": 256
+    },
+    {
+      "packType": "LangHelpContent_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangHelpContent.json",
+      "rows": 256
+    },
+    {
+      "packType": "LangHolograStory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangHolograStory.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangHolograStory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangHolograStory.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangHolograStory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangHolograStory.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangHolograStory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangHolograStory.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangHolograStory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangHolograStory.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangHolograStory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangHolograStory.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangInstantTips_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangInstantTips.json",
+      "rows": 11
+    },
+    {
+      "packType": "LangInstantTips_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangInstantTips.json",
+      "rows": 11
+    },
+    {
+      "packType": "LangInstantTips_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangInstantTips.json",
+      "rows": 11
+    },
+    {
+      "packType": "LangInstantTips_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangInstantTips.json",
+      "rows": 11
+    },
+    {
+      "packType": "LangInstantTips_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangInstantTips.json",
+      "rows": 11
+    },
+    {
+      "packType": "LangInstantTips_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangInstantTips.json",
+      "rows": 11
+    },
+    {
+      "packType": "LangItem_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangItem.json",
+      "rows": 240
+    },
+    {
+      "packType": "LangItem_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangItem.json",
+      "rows": 240
+    },
+    {
+      "packType": "LangItem_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangItem.json",
+      "rows": 240
+    },
+    {
+      "packType": "LangItem_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangItem.json",
+      "rows": 240
+    },
+    {
+      "packType": "LangItem_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangItem.json",
+      "rows": 240
+    },
+    {
+      "packType": "LangItem_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangItem.json",
+      "rows": 240
+    },
+    {
+      "packType": "LangItemTypeDetail_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangItemTypeDetail.json",
+      "rows": 19
+    },
+    {
+      "packType": "LangItemTypeDetail_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangItemTypeDetail.json",
+      "rows": 19
+    },
+    {
+      "packType": "LangItemTypeDetail_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangItemTypeDetail.json",
+      "rows": 19
+    },
+    {
+      "packType": "LangItemTypeDetail_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangItemTypeDetail.json",
+      "rows": 19
+    },
+    {
+      "packType": "LangItemTypeDetail_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangItemTypeDetail.json",
+      "rows": 19
+    },
+    {
+      "packType": "LangItemTypeDetail_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangItemTypeDetail.json",
+      "rows": 19
+    },
+    {
+      "packType": "LangJumpRope_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangJumpRope.json",
+      "rows": 8
+    },
+    {
+      "packType": "LangJumpRope_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangJumpRope.json",
+      "rows": 8
+    },
+    {
+      "packType": "LangJumpRope_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangJumpRope.json",
+      "rows": 8
+    },
+    {
+      "packType": "LangJumpRope_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangJumpRope.json",
+      "rows": 8
+    },
+    {
+      "packType": "LangJumpRope_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangJumpRope.json",
+      "rows": 8
+    },
+    {
+      "packType": "LangJumpRope_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangJumpRope.json",
+      "rows": 8
+    },
+    {
+      "packType": "LangJumpRopePhase_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangJumpRopePhase.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangJumpRopePhase_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangJumpRopePhase.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangJumpRopePhase_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangJumpRopePhase.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangJumpRopePhase_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangJumpRopePhase.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangJumpRopePhase_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangJumpRopePhase.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangJumpRopePhase_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangJumpRopePhase.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangLiveActiveSkillEffect_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLiveActiveSkillEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveActiveSkillEffect_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLiveActiveSkillEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveActiveSkillEffect_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLiveActiveSkillEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveActiveSkillEffect_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLiveActiveSkillEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveActiveSkillEffect_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLiveActiveSkillEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveActiveSkillEffect_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLiveActiveSkillEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveActiveSkillLevel_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLiveActiveSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveActiveSkillLevel_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLiveActiveSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveActiveSkillLevel_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLiveActiveSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveActiveSkillLevel_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLiveActiveSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveActiveSkillLevel_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLiveActiveSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveActiveSkillLevel_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLiveActiveSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveDialogueVoice_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLiveDialogueVoice.json",
+      "rows": 3302
+    },
+    {
+      "packType": "LangLiveDialogueVoice_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLiveDialogueVoice.json",
+      "rows": 3302
+    },
+    {
+      "packType": "LangLiveDialogueVoice_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLiveDialogueVoice.json",
+      "rows": 3302
+    },
+    {
+      "packType": "LangLiveDialogueVoice_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLiveDialogueVoice.json",
+      "rows": 3302
+    },
+    {
+      "packType": "LangLiveDialogueVoice_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLiveDialogueVoice.json",
+      "rows": 3302
+    },
+    {
+      "packType": "LangLiveDialogueVoice_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLiveDialogueVoice.json",
+      "rows": 3302
+    },
+    {
+      "packType": "LangLiveLeaderSkill_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLiveLeaderSkill.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveLeaderSkill_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLiveLeaderSkill.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveLeaderSkill_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLiveLeaderSkill.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveLeaderSkill_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLiveLeaderSkill.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveLeaderSkill_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLiveLeaderSkill.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveLeaderSkill_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLiveLeaderSkill.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLivePassiveSkillEffect_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLivePassiveSkillEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLivePassiveSkillEffect_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLivePassiveSkillEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLivePassiveSkillEffect_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLivePassiveSkillEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLivePassiveSkillEffect_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLivePassiveSkillEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLivePassiveSkillEffect_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLivePassiveSkillEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLivePassiveSkillEffect_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLivePassiveSkillEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLivePassiveSkillLevel_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLivePassiveSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLivePassiveSkillLevel_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLivePassiveSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLivePassiveSkillLevel_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLivePassiveSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLivePassiveSkillLevel_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLivePassiveSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLivePassiveSkillLevel_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLivePassiveSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLivePassiveSkillLevel_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLivePassiveSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillEffectFilterCategory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLiveSkillEffectFilterCategory.json",
+      "rows": 10
+    },
+    {
+      "packType": "LangLiveSkillEffectFilterCategory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLiveSkillEffectFilterCategory.json",
+      "rows": 10
+    },
+    {
+      "packType": "LangLiveSkillEffectFilterCategory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLiveSkillEffectFilterCategory.json",
+      "rows": 10
+    },
+    {
+      "packType": "LangLiveSkillEffectFilterCategory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLiveSkillEffectFilterCategory.json",
+      "rows": 10
+    },
+    {
+      "packType": "LangLiveSkillEffectFilterCategory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLiveSkillEffectFilterCategory.json",
+      "rows": 10
+    },
+    {
+      "packType": "LangLiveSkillEffectFilterCategory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLiveSkillEffectFilterCategory.json",
+      "rows": 10
+    },
+    {
+      "packType": "LangLiveSkillEffectTarget_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLiveSkillEffectTarget.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillEffectTarget_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLiveSkillEffectTarget.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillEffectTarget_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLiveSkillEffectTarget.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillEffectTarget_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLiveSkillEffectTarget.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillEffectTarget_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLiveSkillEffectTarget.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillEffectTarget_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLiveSkillEffectTarget.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillTrigger_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLiveSkillTrigger.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillTrigger_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLiveSkillTrigger.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillTrigger_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLiveSkillTrigger.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillTrigger_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLiveSkillTrigger.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillTrigger_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLiveSkillTrigger.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillTrigger_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLiveSkillTrigger.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillTriggerFilterCategory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLiveSkillTriggerFilterCategory.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillTriggerFilterCategory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLiveSkillTriggerFilterCategory.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillTriggerFilterCategory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLiveSkillTriggerFilterCategory.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillTriggerFilterCategory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLiveSkillTriggerFilterCategory.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillTriggerFilterCategory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLiveSkillTriggerFilterCategory.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkillTriggerFilterCategory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLiveSkillTriggerFilterCategory.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSkin_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLiveSkin.json",
+      "rows": 87
+    },
+    {
+      "packType": "LangLiveSkin_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLiveSkin.json",
+      "rows": 87
+    },
+    {
+      "packType": "LangLiveSkin_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLiveSkin.json",
+      "rows": 87
+    },
+    {
+      "packType": "LangLiveSkin_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLiveSkin.json",
+      "rows": 87
+    },
+    {
+      "packType": "LangLiveSkin_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLiveSkin.json",
+      "rows": 87
+    },
+    {
+      "packType": "LangLiveSkin_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLiveSkin.json",
+      "rows": 87
+    },
+    {
+      "packType": "LangLiveSkinGroup_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLiveSkinGroup.json",
+      "rows": 56
+    },
+    {
+      "packType": "LangLiveSkinGroup_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLiveSkinGroup.json",
+      "rows": 56
+    },
+    {
+      "packType": "LangLiveSkinGroup_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLiveSkinGroup.json",
+      "rows": 56
+    },
+    {
+      "packType": "LangLiveSkinGroup_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLiveSkinGroup.json",
+      "rows": 56
+    },
+    {
+      "packType": "LangLiveSkinGroup_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLiveSkinGroup.json",
+      "rows": 56
+    },
+    {
+      "packType": "LangLiveSkinGroup_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLiveSkinGroup.json",
+      "rows": 56
+    },
+    {
+      "packType": "LangLiveSoundEffect_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLiveSoundEffect.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangLiveSoundEffect_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLiveSoundEffect.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangLiveSoundEffect_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLiveSoundEffect.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangLiveSoundEffect_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLiveSoundEffect.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangLiveSoundEffect_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLiveSoundEffect.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangLiveSoundEffect_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLiveSoundEffect.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangLiveSpecialSkillLevel_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLiveSpecialSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSpecialSkillLevel_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLiveSpecialSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSpecialSkillLevel_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLiveSpecialSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSpecialSkillLevel_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLiveSpecialSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSpecialSkillLevel_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLiveSpecialSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLiveSpecialSkillLevel_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLiveSpecialSkillLevel.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangLoadingDisplay_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangLoadingDisplay.json",
+      "rows": 104
+    },
+    {
+      "packType": "LangLoadingDisplay_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangLoadingDisplay.json",
+      "rows": 104
+    },
+    {
+      "packType": "LangLoadingDisplay_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangLoadingDisplay.json",
+      "rows": 104
+    },
+    {
+      "packType": "LangLoadingDisplay_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangLoadingDisplay.json",
+      "rows": 104
+    },
+    {
+      "packType": "LangLoadingDisplay_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangLoadingDisplay.json",
+      "rows": 104
+    },
+    {
+      "packType": "LangLoadingDisplay_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangLoadingDisplay.json",
+      "rows": 104
+    },
+    {
+      "packType": "LangMainStory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangMainStory.json",
+      "rows": 36
+    },
+    {
+      "packType": "LangMainStory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangMainStory.json",
+      "rows": 36
+    },
+    {
+      "packType": "LangMainStory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangMainStory.json",
+      "rows": 36
+    },
+    {
+      "packType": "LangMainStory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangMainStory.json",
+      "rows": 36
+    },
+    {
+      "packType": "LangMainStory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangMainStory.json",
+      "rows": 36
+    },
+    {
+      "packType": "LangMainStory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangMainStory.json",
+      "rows": 36
+    },
+    {
+      "packType": "LangMainStoryChapter_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangMainStoryChapter.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangMainStoryChapter_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangMainStoryChapter.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangMainStoryChapter_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangMainStoryChapter.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangMainStoryChapter_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangMainStoryChapter.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangMainStoryChapter_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangMainStoryChapter.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangMainStoryChapter_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangMainStoryChapter.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangMarathonRankingGrade_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangMarathonRankingGrade.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangMarathonRankingGrade_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangMarathonRankingGrade.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangMarathonRankingGrade_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangMarathonRankingGrade.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangMarathonRankingGrade_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangMarathonRankingGrade.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangMarathonRankingGrade_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangMarathonRankingGrade.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangMarathonRankingGrade_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangMarathonRankingGrade.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangMembership_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangMembership.json",
+      "rows": 53
+    },
+    {
+      "packType": "LangMembership_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangMembership.json",
+      "rows": 53
+    },
+    {
+      "packType": "LangMembership_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangMembership.json",
+      "rows": 53
+    },
+    {
+      "packType": "LangMembership_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangMembership.json",
+      "rows": 53
+    },
+    {
+      "packType": "LangMembership_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangMembership.json",
+      "rows": 53
+    },
+    {
+      "packType": "LangMembership_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangMembership.json",
+      "rows": 53
+    },
+    {
+      "packType": "LangMiniGame_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangMiniGame.json",
+      "rows": 20
+    },
+    {
+      "packType": "LangMiniGame_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangMiniGame.json",
+      "rows": 20
+    },
+    {
+      "packType": "LangMiniGame_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangMiniGame.json",
+      "rows": 20
+    },
+    {
+      "packType": "LangMiniGame_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangMiniGame.json",
+      "rows": 20
+    },
+    {
+      "packType": "LangMiniGame_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangMiniGame.json",
+      "rows": 20
+    },
+    {
+      "packType": "LangMiniGame_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangMiniGame.json",
+      "rows": 20
+    },
+    {
+      "packType": "LangMission_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangMission.json",
+      "rows": 1655
+    },
+    {
+      "packType": "LangMission_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangMission.json",
+      "rows": 1655
+    },
+    {
+      "packType": "LangMission_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangMission.json",
+      "rows": 1655
+    },
+    {
+      "packType": "LangMission_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangMission.json",
+      "rows": 1655
+    },
+    {
+      "packType": "LangMission_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangMission.json",
+      "rows": 1655
+    },
+    {
+      "packType": "LangMission_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangMission.json",
+      "rows": 1655
+    },
+    {
+      "packType": "LangMissionGroup_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangMissionGroup.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangMissionGroup_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangMissionGroup.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangMissionGroup_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangMissionGroup.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangMissionGroup_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangMissionGroup.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangMissionGroup_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangMissionGroup.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangMissionGroup_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangMissionGroup.json",
+      "rows": 16
+    },
+    {
+      "packType": "LangMusic_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangMusic.json",
+      "rows": 1996
+    },
+    {
+      "packType": "LangMusic_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangMusic.json",
+      "rows": 1996
+    },
+    {
+      "packType": "LangMusic_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangMusic.json",
+      "rows": 1996
+    },
+    {
+      "packType": "LangMusic_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangMusic.json",
+      "rows": 1996
+    },
+    {
+      "packType": "LangMusic_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangMusic.json",
+      "rows": 1996
+    },
+    {
+      "packType": "LangMusic_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangMusic.json",
+      "rows": 1996
+    },
+    {
+      "packType": "LangMusicCreativeChartTag_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangMusicCreativeChartTag.json",
+      "rows": 7
+    },
+    {
+      "packType": "LangMusicCreativeChartTag_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangMusicCreativeChartTag.json",
+      "rows": 7
+    },
+    {
+      "packType": "LangMusicCreativeChartTag_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangMusicCreativeChartTag.json",
+      "rows": 7
+    },
+    {
+      "packType": "LangMusicCreativeChartTag_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangMusicCreativeChartTag.json",
+      "rows": 7
+    },
+    {
+      "packType": "LangMusicCreativeChartTag_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangMusicCreativeChartTag.json",
+      "rows": 7
+    },
+    {
+      "packType": "LangMusicCreativeChartTag_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangMusicCreativeChartTag.json",
+      "rows": 7
+    },
+    {
+      "packType": "LangMusicMv_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangMusicMv.json",
+      "rows": 145
+    },
+    {
+      "packType": "LangMusicMv_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangMusicMv.json",
+      "rows": 145
+    },
+    {
+      "packType": "LangMusicMv_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangMusicMv.json",
+      "rows": 145
+    },
+    {
+      "packType": "LangMusicMv_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangMusicMv.json",
+      "rows": 145
+    },
+    {
+      "packType": "LangMusicMv_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangMusicMv.json",
+      "rows": 145
+    },
+    {
+      "packType": "LangMusicMv_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangMusicMv.json",
+      "rows": 145
+    },
+    {
+      "packType": "LangMusicMvCategory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangMusicMvCategory.json",
+      "rows": 5
+    },
+    {
+      "packType": "LangMusicMvCategory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangMusicMvCategory.json",
+      "rows": 5
+    },
+    {
+      "packType": "LangMusicMvCategory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangMusicMvCategory.json",
+      "rows": 5
+    },
+    {
+      "packType": "LangMusicMvCategory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangMusicMvCategory.json",
+      "rows": 5
+    },
+    {
+      "packType": "LangMusicMvCategory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangMusicMvCategory.json",
+      "rows": 5
+    },
+    {
+      "packType": "LangMusicMvCategory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangMusicMvCategory.json",
+      "rows": 5
+    },
+    {
+      "packType": "LangParkAccessory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkAccessory.json",
+      "rows": 163
+    },
+    {
+      "packType": "LangParkAccessory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkAccessory.json",
+      "rows": 163
+    },
+    {
+      "packType": "LangParkAccessory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkAccessory.json",
+      "rows": 163
+    },
+    {
+      "packType": "LangParkAccessory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkAccessory.json",
+      "rows": 163
+    },
+    {
+      "packType": "LangParkAccessory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkAccessory.json",
+      "rows": 163
+    },
+    {
+      "packType": "LangParkAccessory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkAccessory.json",
+      "rows": 163
+    },
+    {
+      "packType": "LangParkEmotion_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkEmotion.json",
+      "rows": 918
+    },
+    {
+      "packType": "LangParkEmotion_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkEmotion.json",
+      "rows": 918
+    },
+    {
+      "packType": "LangParkEmotion_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkEmotion.json",
+      "rows": 918
+    },
+    {
+      "packType": "LangParkEmotion_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkEmotion.json",
+      "rows": 918
+    },
+    {
+      "packType": "LangParkEmotion_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkEmotion.json",
+      "rows": 918
+    },
+    {
+      "packType": "LangParkEmotion_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkEmotion.json",
+      "rows": 918
+    },
+    {
+      "packType": "LangParkFishingBait_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkFishingBait.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingBait_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkFishingBait.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingBait_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkFishingBait.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingBait_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkFishingBait.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingBait_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkFishingBait.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingBait_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkFishingBait.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingFish_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkFishingFish.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingFish_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkFishingFish.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingFish_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkFishingFish.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingFish_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkFishingFish.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingFish_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkFishingFish.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingFish_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkFishingFish.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingFishSpecies_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkFishingFishSpecies.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingFishSpecies_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkFishingFishSpecies.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingFishSpecies_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkFishingFishSpecies.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingFishSpecies_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkFishingFishSpecies.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingFishSpecies_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkFishingFishSpecies.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingFishSpecies_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkFishingFishSpecies.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingRod_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkFishingRod.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingRod_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkFishingRod.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingRod_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkFishingRod.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingRod_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkFishingRod.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingRod_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkFishingRod.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkFishingRod_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkFishingRod.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkHighLow_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkHighLow.json",
+      "rows": 1
+    },
+    {
+      "packType": "LangParkHighLow_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkHighLow.json",
+      "rows": 1
+    },
+    {
+      "packType": "LangParkHighLow_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkHighLow.json",
+      "rows": 1
+    },
+    {
+      "packType": "LangParkHighLow_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkHighLow.json",
+      "rows": 1
+    },
+    {
+      "packType": "LangParkHighLow_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkHighLow.json",
+      "rows": 1
+    },
+    {
+      "packType": "LangParkHighLow_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkHighLow.json",
+      "rows": 1
+    },
+    {
+      "packType": "LangParkHighLowHand_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkHighLowHand.json",
+      "rows": 10
+    },
+    {
+      "packType": "LangParkHighLowHand_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkHighLowHand.json",
+      "rows": 10
+    },
+    {
+      "packType": "LangParkHighLowHand_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkHighLowHand.json",
+      "rows": 10
+    },
+    {
+      "packType": "LangParkHighLowHand_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkHighLowHand.json",
+      "rows": 10
+    },
+    {
+      "packType": "LangParkHighLowHand_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkHighLowHand.json",
+      "rows": 10
+    },
+    {
+      "packType": "LangParkHighLowHand_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkHighLowHand.json",
+      "rows": 10
+    },
+    {
+      "packType": "LangParkPermanence_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkPermanence.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkPermanence_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkPermanence.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkPermanence_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkPermanence.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkPermanence_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkPermanence.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkPermanence_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkPermanence.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkPermanence_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkPermanence.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkPermanenceAction_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkPermanenceAction.json",
+      "rows": 3
+    },
+    {
+      "packType": "LangParkPermanenceAction_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkPermanenceAction.json",
+      "rows": 3
+    },
+    {
+      "packType": "LangParkPermanenceAction_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkPermanenceAction.json",
+      "rows": 3
+    },
+    {
+      "packType": "LangParkPermanenceAction_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkPermanenceAction.json",
+      "rows": 3
+    },
+    {
+      "packType": "LangParkPermanenceAction_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkPermanenceAction.json",
+      "rows": 3
+    },
+    {
+      "packType": "LangParkPermanenceAction_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkPermanenceAction.json",
+      "rows": 3
+    },
+    {
+      "packType": "LangParkQuest_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkQuest.json",
+      "rows": 272
+    },
+    {
+      "packType": "LangParkQuest_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkQuest.json",
+      "rows": 272
+    },
+    {
+      "packType": "LangParkQuest_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkQuest.json",
+      "rows": 272
+    },
+    {
+      "packType": "LangParkQuest_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkQuest.json",
+      "rows": 272
+    },
+    {
+      "packType": "LangParkQuest_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkQuest.json",
+      "rows": 272
+    },
+    {
+      "packType": "LangParkQuest_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkQuest.json",
+      "rows": 272
+    },
+    {
+      "packType": "LangParkQuestChapter_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkQuestChapter.json",
+      "rows": 59
+    },
+    {
+      "packType": "LangParkQuestChapter_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkQuestChapter.json",
+      "rows": 59
+    },
+    {
+      "packType": "LangParkQuestChapter_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkQuestChapter.json",
+      "rows": 59
+    },
+    {
+      "packType": "LangParkQuestChapter_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkQuestChapter.json",
+      "rows": 59
+    },
+    {
+      "packType": "LangParkQuestChapter_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkQuestChapter.json",
+      "rows": 59
+    },
+    {
+      "packType": "LangParkQuestChapter_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkQuestChapter.json",
+      "rows": 59
+    },
+    {
+      "packType": "LangParkQuestStep_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkQuestStep.json",
+      "rows": 768
+    },
+    {
+      "packType": "LangParkQuestStep_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkQuestStep.json",
+      "rows": 768
+    },
+    {
+      "packType": "LangParkQuestStep_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkQuestStep.json",
+      "rows": 768
+    },
+    {
+      "packType": "LangParkQuestStep_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkQuestStep.json",
+      "rows": 768
+    },
+    {
+      "packType": "LangParkQuestStep_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkQuestStep.json",
+      "rows": 768
+    },
+    {
+      "packType": "LangParkQuestStep_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkQuestStep.json",
+      "rows": 768
+    },
+    {
+      "packType": "LangParkQuestStepAction_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkQuestStepAction.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkQuestStepAction_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkQuestStepAction.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkQuestStepAction_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkQuestStepAction.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkQuestStepAction_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkQuestStepAction.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkQuestStepAction_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkQuestStepAction.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkQuestStepAction_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkQuestStepAction.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkQuestStepGroup_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkQuestStepGroup.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkQuestStepGroup_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkQuestStepGroup.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkQuestStepGroup_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkQuestStepGroup.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkQuestStepGroup_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkQuestStepGroup.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkQuestStepGroup_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkQuestStepGroup.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkQuestStepGroup_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkQuestStepGroup.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangParkTalk_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkTalk.json",
+      "rows": 4432
+    },
+    {
+      "packType": "LangParkTalk_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkTalk.json",
+      "rows": 4432
+    },
+    {
+      "packType": "LangParkTalk_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkTalk.json",
+      "rows": 4432
+    },
+    {
+      "packType": "LangParkTalk_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkTalk.json",
+      "rows": 4432
+    },
+    {
+      "packType": "LangParkTalk_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkTalk.json",
+      "rows": 4432
+    },
+    {
+      "packType": "LangParkTalk_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkTalk.json",
+      "rows": 4432
+    },
+    {
+      "packType": "LangParkTargetMapping_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangParkTargetMapping.json",
+      "rows": 26
+    },
+    {
+      "packType": "LangParkTargetMapping_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangParkTargetMapping.json",
+      "rows": 26
+    },
+    {
+      "packType": "LangParkTargetMapping_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangParkTargetMapping.json",
+      "rows": 26
+    },
+    {
+      "packType": "LangParkTargetMapping_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangParkTargetMapping.json",
+      "rows": 26
+    },
+    {
+      "packType": "LangParkTargetMapping_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangParkTargetMapping.json",
+      "rows": 26
+    },
+    {
+      "packType": "LangParkTargetMapping_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangParkTargetMapping.json",
+      "rows": 26
+    },
+    {
+      "packType": "LangPoster_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangPoster.json",
+      "rows": 29
+    },
+    {
+      "packType": "LangPoster_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangPoster.json",
+      "rows": 29
+    },
+    {
+      "packType": "LangPoster_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangPoster.json",
+      "rows": 29
+    },
+    {
+      "packType": "LangPoster_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangPoster.json",
+      "rows": 29
+    },
+    {
+      "packType": "LangPoster_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangPoster.json",
+      "rows": 29
+    },
+    {
+      "packType": "LangPoster_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangPoster.json",
+      "rows": 29
+    },
+    {
+      "packType": "LangPreferenceCapacityLimit_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangPreferenceCapacityLimit.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangPreferenceCapacityLimit_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangPreferenceCapacityLimit.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangPreferenceCapacityLimit_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangPreferenceCapacityLimit.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangPreferenceCapacityLimit_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangPreferenceCapacityLimit.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangPreferenceCapacityLimit_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangPreferenceCapacityLimit.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangPreferenceCapacityLimit_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangPreferenceCapacityLimit.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangResourceObtainmentRoute_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangResourceObtainmentRoute.json",
+      "rows": 36
+    },
+    {
+      "packType": "LangResourceObtainmentRoute_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangResourceObtainmentRoute.json",
+      "rows": 36
+    },
+    {
+      "packType": "LangResourceObtainmentRoute_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangResourceObtainmentRoute.json",
+      "rows": 36
+    },
+    {
+      "packType": "LangResourceObtainmentRoute_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangResourceObtainmentRoute.json",
+      "rows": 36
+    },
+    {
+      "packType": "LangResourceObtainmentRoute_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangResourceObtainmentRoute.json",
+      "rows": 36
+    },
+    {
+      "packType": "LangResourceObtainmentRoute_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangResourceObtainmentRoute.json",
+      "rows": 36
+    },
+    {
+      "packType": "LangResourceTypeDetail_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangResourceTypeDetail.json",
+      "rows": 49
+    },
+    {
+      "packType": "LangResourceTypeDetail_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangResourceTypeDetail.json",
+      "rows": 49
+    },
+    {
+      "packType": "LangResourceTypeDetail_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangResourceTypeDetail.json",
+      "rows": 49
+    },
+    {
+      "packType": "LangResourceTypeDetail_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangResourceTypeDetail.json",
+      "rows": 49
+    },
+    {
+      "packType": "LangResourceTypeDetail_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangResourceTypeDetail.json",
+      "rows": 49
+    },
+    {
+      "packType": "LangResourceTypeDetail_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangResourceTypeDetail.json",
+      "rows": 49
+    },
+    {
+      "packType": "LangRule_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangRule.json",
+      "rows": 31
+    },
+    {
+      "packType": "LangRule_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangRule.json",
+      "rows": 31
+    },
+    {
+      "packType": "LangRule_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangRule.json",
+      "rows": 31
+    },
+    {
+      "packType": "LangRule_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangRule.json",
+      "rows": 31
+    },
+    {
+      "packType": "LangRule_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangRule.json",
+      "rows": 31
+    },
+    {
+      "packType": "LangRule_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangRule.json",
+      "rows": 31
+    },
+    {
+      "packType": "LangSdCostume_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangSdCostume.json",
+      "rows": 294
+    },
+    {
+      "packType": "LangSdCostume_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangSdCostume.json",
+      "rows": 294
+    },
+    {
+      "packType": "LangSdCostume_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangSdCostume.json",
+      "rows": 294
+    },
+    {
+      "packType": "LangSdCostume_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangSdCostume.json",
+      "rows": 294
+    },
+    {
+      "packType": "LangSdCostume_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangSdCostume.json",
+      "rows": 294
+    },
+    {
+      "packType": "LangSdCostume_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangSdCostume.json",
+      "rows": 294
+    },
+    {
+      "packType": "LangSdCostumeHairAccessory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangSdCostumeHairAccessory.json",
+      "rows": 270
+    },
+    {
+      "packType": "LangSdCostumeHairAccessory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangSdCostumeHairAccessory.json",
+      "rows": 270
+    },
+    {
+      "packType": "LangSdCostumeHairAccessory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangSdCostumeHairAccessory.json",
+      "rows": 270
+    },
+    {
+      "packType": "LangSdCostumeHairAccessory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangSdCostumeHairAccessory.json",
+      "rows": 270
+    },
+    {
+      "packType": "LangSdCostumeHairAccessory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangSdCostumeHairAccessory.json",
+      "rows": 270
+    },
+    {
+      "packType": "LangSdCostumeHairAccessory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangSdCostumeHairAccessory.json",
+      "rows": 270
+    },
+    {
+      "packType": "LangSemiResourceTypeDetail_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangSemiResourceTypeDetail.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangSemiResourceTypeDetail_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangSemiResourceTypeDetail.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangSemiResourceTypeDetail_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangSemiResourceTypeDetail.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangSemiResourceTypeDetail_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangSemiResourceTypeDetail.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangSemiResourceTypeDetail_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangSemiResourceTypeDetail.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangSemiResourceTypeDetail_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangSemiResourceTypeDetail.json",
+      "rows": 6
+    },
+    {
+      "packType": "LangSkillTreeConnectEffect_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangSkillTreeConnectEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeConnectEffect_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangSkillTreeConnectEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeConnectEffect_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangSkillTreeConnectEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeConnectEffect_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangSkillTreeConnectEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeConnectEffect_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangSkillTreeConnectEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeConnectEffect_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangSkillTreeConnectEffect.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeEffect_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangSkillTreeEffect.json",
+      "rows": 5
+    },
+    {
+      "packType": "LangSkillTreeEffect_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangSkillTreeEffect.json",
+      "rows": 5
+    },
+    {
+      "packType": "LangSkillTreeEffect_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangSkillTreeEffect.json",
+      "rows": 5
+    },
+    {
+      "packType": "LangSkillTreeEffect_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangSkillTreeEffect.json",
+      "rows": 5
+    },
+    {
+      "packType": "LangSkillTreeEffect_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangSkillTreeEffect.json",
+      "rows": 5
+    },
+    {
+      "packType": "LangSkillTreeEffect_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangSkillTreeEffect.json",
+      "rows": 5
+    },
+    {
+      "packType": "LangSkillTreeEffectPassiveTrigger_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangSkillTreeEffectPassiveTrigger.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeEffectPassiveTrigger_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangSkillTreeEffectPassiveTrigger.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeEffectPassiveTrigger_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangSkillTreeEffectPassiveTrigger.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeEffectPassiveTrigger_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangSkillTreeEffectPassiveTrigger.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeEffectPassiveTrigger_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangSkillTreeEffectPassiveTrigger.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeEffectPassiveTrigger_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangSkillTreeEffectPassiveTrigger.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeEffectTarget_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangSkillTreeEffectTarget.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeEffectTarget_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangSkillTreeEffectTarget.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeEffectTarget_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangSkillTreeEffectTarget.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeEffectTarget_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangSkillTreeEffectTarget.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeEffectTarget_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangSkillTreeEffectTarget.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreeEffectTarget_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangSkillTreeEffectTarget.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSkillTreePoint_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangSkillTreePoint.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangSkillTreePoint_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangSkillTreePoint.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangSkillTreePoint_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangSkillTreePoint.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangSkillTreePoint_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangSkillTreePoint.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangSkillTreePoint_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangSkillTreePoint.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangSkillTreePoint_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangSkillTreePoint.json",
+      "rows": 54
+    },
+    {
+      "packType": "LangSpecialStory_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangSpecialStory.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangSpecialStory_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangSpecialStory.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangSpecialStory_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangSpecialStory.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangSpecialStory_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangSpecialStory.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangSpecialStory_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangSpecialStory.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangSpecialStory_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangSpecialStory.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangSplashBall_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangSplashBall.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSplashBall_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangSplashBall.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSplashBall_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangSplashBall.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSplashBall_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangSplashBall.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSplashBall_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangSplashBall.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangSplashBall_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangSplashBall.json",
+      "rows": 0
+    },
+    {
+      "packType": "LangStamp_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangStamp.json",
+      "rows": 329
+    },
+    {
+      "packType": "LangStamp_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangStamp.json",
+      "rows": 329
+    },
+    {
+      "packType": "LangStamp_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangStamp.json",
+      "rows": 329
+    },
+    {
+      "packType": "LangStamp_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangStamp.json",
+      "rows": 329
+    },
+    {
+      "packType": "LangStamp_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangStamp.json",
+      "rows": 329
+    },
+    {
+      "packType": "LangStamp_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangStamp.json",
+      "rows": 329
+    },
+    {
+      "packType": "LangTips_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangTips.json",
+      "rows": 136
+    },
+    {
+      "packType": "LangTips_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangTips.json",
+      "rows": 136
+    },
+    {
+      "packType": "LangTips_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangTips.json",
+      "rows": 136
+    },
+    {
+      "packType": "LangTips_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangTips.json",
+      "rows": 136
+    },
+    {
+      "packType": "LangTips_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangTips.json",
+      "rows": 136
+    },
+    {
+      "packType": "LangTips_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangTips.json",
+      "rows": 136
+    },
+    {
+      "packType": "LangTipsDetail_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangTipsDetail.json",
+      "rows": 281
+    },
+    {
+      "packType": "LangTipsDetail_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangTipsDetail.json",
+      "rows": 281
+    },
+    {
+      "packType": "LangTipsDetail_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangTipsDetail.json",
+      "rows": 281
+    },
+    {
+      "packType": "LangTipsDetail_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangTipsDetail.json",
+      "rows": 281
+    },
+    {
+      "packType": "LangTipsDetail_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangTipsDetail.json",
+      "rows": 281
+    },
+    {
+      "packType": "LangTipsDetail_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangTipsDetail.json",
+      "rows": 281
+    },
+    {
+      "packType": "LangTutorial_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangTutorial.json",
+      "rows": 11
+    },
+    {
+      "packType": "LangTutorial_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangTutorial.json",
+      "rows": 11
+    },
+    {
+      "packType": "LangTutorial_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangTutorial.json",
+      "rows": 11
+    },
+    {
+      "packType": "LangTutorial_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangTutorial.json",
+      "rows": 11
+    },
+    {
+      "packType": "LangTutorial_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangTutorial.json",
+      "rows": 11
+    },
+    {
+      "packType": "LangTutorial_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangTutorial.json",
+      "rows": 11
+    },
+    {
+      "packType": "LangWallpaper_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangWallpaper.json",
+      "rows": 13
+    },
+    {
+      "packType": "LangWallpaper_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangWallpaper.json",
+      "rows": 13
+    },
+    {
+      "packType": "LangWallpaper_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangWallpaper.json",
+      "rows": 13
+    },
+    {
+      "packType": "LangWallpaper_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangWallpaper.json",
+      "rows": 13
+    },
+    {
+      "packType": "LangWallpaper_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangWallpaper.json",
+      "rows": 13
+    },
+    {
+      "packType": "LangWallpaper_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangWallpaper.json",
+      "rows": 13
+    },
+    {
+      "packType": "LangWork_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangWork.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangWork_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangWork.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangWork_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangWork.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangWork_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangWork.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangWork_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangWork.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangWork_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangWork.json",
+      "rows": 4
+    },
+    {
+      "packType": "LangWorld_Chs",
+      "table": "Lang",
+      "path": "languages/chs/LangWorld.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangWorld_Cht",
+      "table": "Lang",
+      "path": "languages/cht/LangWorld.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangWorld_Eng",
+      "table": "Lang",
+      "path": "languages/eng/LangWorld.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangWorld_Ind",
+      "table": "Lang",
+      "path": "languages/ind/LangWorld.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangWorld_Jpn",
+      "table": "Lang",
+      "path": "languages/jpn/LangWorld.json",
+      "rows": 2
+    },
+    {
+      "packType": "LangWorld_Kor",
+      "table": "Lang",
+      "path": "languages/kor/LangWorld.json",
+      "rows": 2
+    },
+    {
+      "packType": "LiveActiveSkill",
+      "table": "LiveActiveSkill",
+      "path": "tables/LiveActiveSkill.json",
+      "rows": 180
+    },
+    {
+      "packType": "LiveActiveSkillEffect",
+      "table": "LiveActiveSkillEffect",
+      "path": "tables/LiveActiveSkillEffect.json",
+      "rows": 52
+    },
+    {
+      "packType": "LiveActiveSkillLevel",
+      "table": "LiveActiveSkillLevel",
+      "path": "tables/LiveActiveSkillLevel.json",
+      "rows": 359
+    },
+    {
+      "packType": "LiveCombo",
+      "table": "LiveCombo",
+      "path": "tables/LiveCombo.json",
+      "rows": 11
+    },
+    {
+      "packType": "LiveDeckEvaluationBonusRank",
+      "table": "LiveDeckEvaluationBonusRank",
+      "path": "tables/LiveDeckEvaluationBonusRank.json",
+      "rows": 14
+    },
+    {
+      "packType": "LiveDeckEvaluationRank",
+      "table": "LiveDeckEvaluationRank",
+      "path": "tables/LiveDeckEvaluationRank.json",
+      "rows": 14
+    },
+    {
+      "packType": "LiveDeckPowerRank",
+      "table": "LiveDeckPowerRank",
+      "path": "tables/LiveDeckPowerRank.json",
+      "rows": 14
+    },
+    {
+      "packType": "LiveDialogue",
+      "table": "LiveDialogue",
+      "path": "tables/LiveDialogue.json",
+      "rows": 2970
+    },
+    {
+      "packType": "LiveDialogueVoice",
+      "table": "LiveDialogueVoice",
+      "path": "tables/LiveDialogueVoice.json",
+      "rows": 3302
+    },
+    {
+      "packType": "LiveDialogueVoiceCharacter",
+      "table": "LiveDialogueVoiceCharacter",
+      "path": "tables/LiveDialogueVoiceCharacter.json",
+      "rows": 6426
+    },
+    {
+      "packType": "LiveLeaderSkill",
+      "table": "LiveLeaderSkill",
+      "path": "tables/LiveLeaderSkill.json",
+      "rows": 178
+    },
+    {
+      "packType": "LiveMultiFever",
+      "table": "LiveMultiFever",
+      "path": "tables/LiveMultiFever.json",
+      "rows": 4
+    },
+    {
+      "packType": "LiveMusicClearCountReward",
+      "table": "LiveMusicClearCountReward",
+      "path": "tables/LiveMusicClearCountReward.json",
+      "rows": 4
+    },
+    {
+      "packType": "LiveMusicDifficultyMaxComboCountReward",
+      "table": "LiveMusicDifficultyMaxComboCountReward",
+      "path": "tables/LiveMusicDifficultyMaxComboCountReward.json",
+      "rows": 4
+    },
+    {
+      "packType": "LiveMusicFullComboReward",
+      "table": "LiveMusicFullComboReward",
+      "path": "tables/LiveMusicFullComboReward.json",
+      "rows": 4
+    },
+    {
+      "packType": "LiveMusicHighestScoreEvaluationRankReward",
+      "table": "LiveMusicHighestScoreEvaluationRankReward",
+      "path": "tables/LiveMusicHighestScoreEvaluationRankReward.json",
+      "rows": 4
+    },
+    {
+      "packType": "LiveNote",
+      "table": "LiveNote",
+      "path": "tables/LiveNote.json",
+      "rows": 38
+    },
+    {
+      "packType": "LiveNoteJudgementTechnicalScore",
+      "table": "LiveNoteJudgementTechnicalScore",
+      "path": "tables/LiveNoteJudgementTechnicalScore.json",
+      "rows": 7
+    },
+    {
+      "packType": "LivePassiveSkill",
+      "table": "LivePassiveSkill",
+      "path": "tables/LivePassiveSkill.json",
+      "rows": 178
+    },
+    {
+      "packType": "LivePassiveSkillEffect",
+      "table": "LivePassiveSkillEffect",
+      "path": "tables/LivePassiveSkillEffect.json",
+      "rows": 182
+    },
+    {
+      "packType": "LivePassiveSkillLevel",
+      "table": "LivePassiveSkillLevel",
+      "path": "tables/LivePassiveSkillLevel.json",
+      "rows": 356
+    },
+    {
+      "packType": "LiveRewardUpStaminaEffect",
+      "table": "LiveRewardUpStaminaEffect",
+      "path": "tables/LiveRewardUpStaminaEffect.json",
+      "rows": 10
+    },
+    {
+      "packType": "LiveScoreEvaluationRank",
+      "table": "LiveScoreEvaluationRank",
+      "path": "tables/LiveScoreEvaluationRank.json",
+      "rows": 28
+    },
+    {
+      "packType": "LiveSkillEffectFilterCategory",
+      "table": "LiveSkillEffectFilterCategory",
+      "path": "tables/LiveSkillEffectFilterCategory.json",
+      "rows": 10
+    },
+    {
+      "packType": "LiveSkillEffectTarget",
+      "table": "LiveSkillEffectTarget",
+      "path": "tables/LiveSkillEffectTarget.json",
+      "rows": 83
+    },
+    {
+      "packType": "LiveSkillTrigger",
+      "table": "LiveSkillTrigger",
+      "path": "tables/LiveSkillTrigger.json",
+      "rows": 215
+    },
+    {
+      "packType": "LiveSkillTriggerFilterCategory",
+      "table": "LiveSkillTriggerFilterCategory",
+      "path": "tables/LiveSkillTriggerFilterCategory.json",
+      "rows": 0
+    },
+    {
+      "packType": "LiveSkin",
+      "table": "LiveSkin",
+      "path": "tables/LiveSkin.json",
+      "rows": 282
+    },
+    {
+      "packType": "LiveSkinGroup",
+      "table": "LiveSkinGroup",
+      "path": "tables/LiveSkinGroup.json",
+      "rows": 56
+    },
+    {
+      "packType": "LiveSoundEffect",
+      "table": "LiveSoundEffect",
+      "path": "tables/LiveSoundEffect.json",
+      "rows": 4
+    },
+    {
+      "packType": "LiveSpecialCardDialogue",
+      "table": "LiveSpecialCardDialogue",
+      "path": "tables/LiveSpecialCardDialogue.json",
+      "rows": 278
+    },
+    {
+      "packType": "LiveSpecialCostumeDialogue",
+      "table": "LiveSpecialCostumeDialogue",
+      "path": "tables/LiveSpecialCostumeDialogue.json",
+      "rows": 278
+    },
+    {
+      "packType": "LiveSpecialSkill",
+      "table": "LiveSpecialSkill",
+      "path": "tables/LiveSpecialSkill.json",
+      "rows": 178
+    },
+    {
+      "packType": "LiveSpecialSkillLevel",
+      "table": "LiveSpecialSkillLevel",
+      "path": "tables/LiveSpecialSkillLevel.json",
+      "rows": 356
+    },
+    {
+      "packType": "LoadingDisplay",
+      "table": "LoadingDisplay",
+      "path": "tables/LoadingDisplay.json",
+      "rows": 107
+    },
+    {
+      "packType": "MainStory",
+      "table": "MainStory",
+      "path": "tables/MainStory.json",
+      "rows": 36
+    },
+    {
+      "packType": "MainStoryChapter",
+      "table": "MainStoryChapter",
+      "path": "tables/MainStoryChapter.json",
+      "rows": 2
+    },
+    {
+      "packType": "MarathonLiveRewardUpStaminaEffect",
+      "table": "MarathonLiveRewardUpStaminaEffect",
+      "path": "tables/MarathonLiveRewardUpStaminaEffect.json",
+      "rows": 10
+    },
+    {
+      "packType": "MarathonMiniGameRewardUpStaminaEffect",
+      "table": "MarathonMiniGameRewardUpStaminaEffect",
+      "path": "tables/MarathonMiniGameRewardUpStaminaEffect.json",
+      "rows": 12
+    },
+    {
+      "packType": "MarathonRankingGrade",
+      "table": "MarathonRankingGrade",
+      "path": "tables/MarathonRankingGrade.json",
+      "rows": 6
+    },
+    {
+      "packType": "Membership",
+      "table": "Membership",
+      "path": "tables/Membership.json",
+      "rows": 53
+    },
+    {
+      "packType": "MiniGame",
+      "table": "MiniGame",
+      "path": "tables/MiniGame.json",
+      "rows": 5
+    },
+    {
+      "packType": "MiniGameBetCoinConsumption",
+      "table": "MiniGameBetCoinConsumption",
+      "path": "tables/MiniGameBetCoinConsumption.json",
+      "rows": 4
+    },
+    {
+      "packType": "MiniGameMultiGame",
+      "table": "MiniGameMultiGame",
+      "path": "tables/MiniGameMultiGame.json",
+      "rows": 8
+    },
+    {
+      "packType": "MiniGameNpc",
+      "table": "MiniGameNpc",
+      "path": "tables/MiniGameNpc.json",
+      "rows": 62
+    },
+    {
+      "packType": "MiniGameNpcLotteryPeriod",
+      "table": "MiniGameNpcLotteryPeriod",
+      "path": "tables/MiniGameNpcLotteryPeriod.json",
+      "rows": 4
+    },
+    {
+      "packType": "MiniGameRewardUpStaminaConversion",
+      "table": "MiniGameRewardUpStaminaConversion",
+      "path": "tables/MiniGameRewardUpStaminaConversion.json",
+      "rows": 1
+    },
+    {
+      "packType": "MiniGameRewardUpStaminaEffect",
+      "table": "MiniGameRewardUpStaminaEffect",
+      "path": "tables/MiniGameRewardUpStaminaEffect.json",
+      "rows": 12
+    },
+    {
+      "packType": "Mission",
+      "table": "Mission",
+      "path": "tables/Mission.json",
+      "rows": 1621
+    },
+    {
+      "packType": "MissionGroup",
+      "table": "MissionGroup",
+      "path": "tables/MissionGroup.json",
+      "rows": 18
+    },
+    {
+      "packType": "MissionPass",
+      "table": "MissionPass",
+      "path": "tables/MissionPass.json",
+      "rows": 2
+    },
+    {
+      "packType": "MissionPassLevel",
+      "table": "MissionPassLevel",
+      "path": "tables/MissionPassLevel.json",
+      "rows": 102
+    },
+    {
+      "packType": "MissionPassPoint",
+      "table": "MissionPassPoint",
+      "path": "tables/MissionPassPoint.json",
+      "rows": 2
+    },
+    {
+      "packType": "MissionProgress",
+      "table": "MissionProgress",
+      "path": "tables/MissionProgress.json",
+      "rows": 11313
+    },
+    {
+      "packType": "MissionTypeDefaultNavigation",
+      "table": "MissionTypeDefaultNavigation",
+      "path": "tables/MissionTypeDefaultNavigation.json",
+      "rows": 107
+    },
+    {
+      "packType": "Music",
+      "table": "Music",
+      "path": "tables/Music.json",
+      "rows": 194
+    },
+    {
+      "packType": "MusicCreativeChartTag",
+      "table": "MusicCreativeChartTag",
+      "path": "tables/MusicCreativeChartTag.json",
+      "rows": 7
+    },
+    {
+      "packType": "MusicDifficulty",
+      "table": "MusicDifficulty",
+      "path": "tables/MusicDifficulty.json",
+      "rows": 776
+    },
+    {
+      "packType": "MusicDifficultyChart",
+      "table": "MusicDifficultyChart",
+      "path": "tables/MusicDifficultyChart.json",
+      "rows": 776
+    },
+    {
+      "packType": "MusicDifficultyConfiguration",
+      "table": "MusicDifficultyConfiguration",
+      "path": "tables/MusicDifficultyConfiguration.json",
+      "rows": 4
+    },
+    {
+      "packType": "MusicHighestScoreRatingRankingReward",
+      "table": "MusicHighestScoreRatingRankingReward",
+      "path": "tables/MusicHighestScoreRatingRankingReward.json",
+      "rows": 216
+    },
+    {
+      "packType": "MusicMv",
+      "table": "MusicMv",
+      "path": "tables/MusicMv.json",
+      "rows": 270
+    },
+    {
+      "packType": "MusicMvCategory",
+      "table": "MusicMvCategory",
+      "path": "tables/MusicMvCategory.json",
+      "rows": 3
+    },
+    {
+      "packType": "OctoSetting",
+      "table": "OctoSetting",
+      "path": "tables/OctoSetting.json",
+      "rows": 1
+    },
+    {
+      "packType": "ParkAccessory",
+      "table": "ParkAccessory",
+      "path": "tables/ParkAccessory.json",
+      "rows": 190
+    },
+    {
+      "packType": "ParkCall",
+      "table": "ParkCall",
+      "path": "tables/ParkCall.json",
+      "rows": 64
+    },
+    {
+      "packType": "ParkCharacterShop",
+      "table": "ParkCharacterShop",
+      "path": "tables/ParkCharacterShop.json",
+      "rows": 4
+    },
+    {
+      "packType": "ParkEmotion",
+      "table": "ParkEmotion",
+      "path": "tables/ParkEmotion.json",
+      "rows": 918
+    },
+    {
+      "packType": "ParkFishingBait",
+      "table": "ParkFishingBait",
+      "path": "tables/ParkFishingBait.json",
+      "rows": 0
+    },
+    {
+      "packType": "ParkFishingFish",
+      "table": "ParkFishingFish",
+      "path": "tables/ParkFishingFish.json",
+      "rows": 0
+    },
+    {
+      "packType": "ParkFishingFishIcon",
+      "table": "ParkFishingFishIcon",
+      "path": "tables/ParkFishingFishIcon.json",
+      "rows": 0
+    },
+    {
+      "packType": "ParkFishingFishSpecies",
+      "table": "ParkFishingFishSpecies",
+      "path": "tables/ParkFishingFishSpecies.json",
+      "rows": 0
+    },
+    {
+      "packType": "ParkFishingRod",
+      "table": "ParkFishingRod",
+      "path": "tables/ParkFishingRod.json",
+      "rows": 0
+    },
+    {
+      "packType": "ParkFishingSetting",
+      "table": "ParkFishingSetting",
+      "path": "tables/ParkFishingSetting.json",
+      "rows": 1
+    },
+    {
+      "packType": "ParkFishingSpot",
+      "table": "ParkFishingSpot",
+      "path": "tables/ParkFishingSpot.json",
+      "rows": 0
+    },
+    {
+      "packType": "ParkFishingTotalCaughtReward",
+      "table": "ParkFishingTotalCaughtReward",
+      "path": "tables/ParkFishingTotalCaughtReward.json",
+      "rows": 0
+    },
+    {
+      "packType": "ParkFixedSymbol",
+      "table": "ParkFixedSymbol",
+      "path": "tables/ParkFixedSymbol.json",
+      "rows": 2
+    },
+    {
+      "packType": "ParkGraph",
+      "table": "ParkGraph",
+      "path": "tables/ParkGraph.json",
+      "rows": 315
+    },
+    {
+      "packType": "ParkHighLow",
+      "table": "ParkHighLow",
+      "path": "tables/ParkHighLow.json",
+      "rows": 1
+    },
+    {
+      "packType": "ParkHighLowHand",
+      "table": "ParkHighLowHand",
+      "path": "tables/ParkHighLowHand.json",
+      "rows": 10
+    },
+    {
+      "packType": "ParkLottery",
+      "table": "ParkLottery",
+      "path": "tables/ParkLottery.json",
+      "rows": 2
+    },
+    {
+      "packType": "ParkNotice",
+      "table": "ParkNotice",
+      "path": "tables/ParkNotice.json",
+      "rows": 17
+    },
+    {
+      "packType": "ParkNpc",
+      "table": "ParkNpc",
+      "path": "tables/ParkNpc.json",
+      "rows": 13165
+    },
+    {
+      "packType": "ParkNpcGroup",
+      "table": "ParkNpcGroup",
+      "path": "tables/ParkNpcGroup.json",
+      "rows": 12728
+    },
+    {
+      "packType": "ParkNpcQuality",
+      "table": "ParkNpcQuality",
+      "path": "tables/ParkNpcQuality.json",
+      "rows": 15
+    },
+    {
+      "packType": "ParkPermanence",
+      "table": "ParkPermanence",
+      "path": "tables/ParkPermanence.json",
+      "rows": 115
+    },
+    {
+      "packType": "ParkPermanenceAction",
+      "table": "ParkPermanenceAction",
+      "path": "tables/ParkPermanenceAction.json",
+      "rows": 120
+    },
+    {
+      "packType": "ParkPosition",
+      "table": "ParkPosition",
+      "path": "tables/ParkPosition.json",
+      "rows": 802
+    },
+    {
+      "packType": "ParkPositionGrouping",
+      "table": "ParkPositionGrouping",
+      "path": "tables/ParkPositionGrouping.json",
+      "rows": 197
+    },
+    {
+      "packType": "ParkPrintBooth",
+      "table": "ParkPrintBooth",
+      "path": "tables/ParkPrintBooth.json",
+      "rows": 12
+    },
+    {
+      "packType": "ParkPrintBoothComposition",
+      "table": "ParkPrintBoothComposition",
+      "path": "tables/ParkPrintBoothComposition.json",
+      "rows": 18
+    },
+    {
+      "packType": "ParkPrintBoothMotion",
+      "table": "ParkPrintBoothMotion",
+      "path": "tables/ParkPrintBoothMotion.json",
+      "rows": 1
+    },
+    {
+      "packType": "ParkQuest",
+      "table": "ParkQuest",
+      "path": "tables/ParkQuest.json",
+      "rows": 244
+    },
+    {
+      "packType": "ParkQuestChapter",
+      "table": "ParkQuestChapter",
+      "path": "tables/ParkQuestChapter.json",
+      "rows": 59
+    },
+    {
+      "packType": "ParkQuestChase",
+      "table": "ParkQuestChase",
+      "path": "tables/ParkQuestChase.json",
+      "rows": 1
+    },
+    {
+      "packType": "ParkQuestCircuit",
+      "table": "ParkQuestCircuit",
+      "path": "tables/ParkQuestCircuit.json",
+      "rows": 3
+    },
+    {
+      "packType": "ParkQuestComboCardGame",
+      "table": "ParkQuestComboCardGame",
+      "path": "tables/ParkQuestComboCardGame.json",
+      "rows": 3
+    },
+    {
+      "packType": "ParkQuestCookingPuzzle",
+      "table": "ParkQuestCookingPuzzle",
+      "path": "tables/ParkQuestCookingPuzzle.json",
+      "rows": 14
+    },
+    {
+      "packType": "ParkQuestJumpRope",
+      "table": "ParkQuestJumpRope",
+      "path": "tables/ParkQuestJumpRope.json",
+      "rows": 20
+    },
+    {
+      "packType": "ParkQuestLive",
+      "table": "ParkQuestLive",
+      "path": "tables/ParkQuestLive.json",
+      "rows": 130
+    },
+    {
+      "packType": "ParkQuestLiveDeckPosition",
+      "table": "ParkQuestLiveDeckPosition",
+      "path": "tables/ParkQuestLiveDeckPosition.json",
+      "rows": 0
+    },
+    {
+      "packType": "ParkQuestLiveMusicDifficulty",
+      "table": "ParkQuestLiveMusicDifficulty",
+      "path": "tables/ParkQuestLiveMusicDifficulty.json",
+      "rows": 520
+    },
+    {
+      "packType": "ParkQuestSplashBall",
+      "table": "ParkQuestSplashBall",
+      "path": "tables/ParkQuestSplashBall.json",
+      "rows": 0
+    },
+    {
+      "packType": "ParkQuestStep",
+      "table": "ParkQuestStep",
+      "path": "tables/ParkQuestStep.json",
+      "rows": 766
+    },
+    {
+      "packType": "ParkQuestStepAction",
+      "table": "ParkQuestStepAction",
+      "path": "tables/ParkQuestStepAction.json",
+      "rows": 774
+    },
+    {
+      "packType": "ParkQuestStepGroup",
+      "table": "ParkQuestStepGroup",
+      "path": "tables/ParkQuestStepGroup.json",
+      "rows": 0
+    },
+    {
+      "packType": "ParkRandomSymbol",
+      "table": "ParkRandomSymbol",
+      "path": "tables/ParkRandomSymbol.json",
+      "rows": 198
+    },
+    {
+      "packType": "ParkTalk",
+      "table": "ParkTalk",
+      "path": "tables/ParkTalk.json",
+      "rows": 4841
+    },
+    {
+      "packType": "ParkTalkFree",
+      "table": "ParkTalkFree",
+      "path": "tables/ParkTalkFree.json",
+      "rows": 7406
+    },
+    {
+      "packType": "ParkTalkFreeGrouping",
+      "table": "ParkTalkFreeGrouping",
+      "path": "tables/ParkTalkFreeGrouping.json",
+      "rows": 148
+    },
+    {
+      "packType": "ParkTargetMapping",
+      "table": "ParkTargetMapping",
+      "path": "tables/ParkTargetMapping.json",
+      "rows": 8549
+    },
+    {
+      "packType": "ParkTimePeriod",
+      "table": "ParkTimePeriod",
+      "path": "tables/ParkTimePeriod.json",
+      "rows": 3
+    },
+    {
+      "packType": "ParkTreasure",
+      "table": "ParkTreasure",
+      "path": "tables/ParkTreasure.json",
+      "rows": 42
+    },
+    {
+      "packType": "PlayerLevel",
+      "table": "PlayerLevel",
+      "path": "tables/PlayerLevel.json",
+      "rows": 50
+    },
+    {
+      "packType": "Poster",
+      "table": "Poster",
+      "path": "tables/Poster.json",
+      "rows": 29
+    },
+    {
+      "packType": "PosterCollectEffect",
+      "table": "PosterCollectEffect",
+      "path": "tables/PosterCollectEffect.json",
+      "rows": 50
+    },
+    {
+      "packType": "PreferenceCapacityLimit",
+      "table": "PreferenceCapacityLimit",
+      "path": "tables/PreferenceCapacityLimit.json",
+      "rows": 4
+    },
+    {
+      "packType": "ResourceObtainmentRoute",
+      "table": "ResourceObtainmentRoute",
+      "path": "tables/ResourceObtainmentRoute.json",
+      "rows": 130
+    },
+    {
+      "packType": "ResourceTypeDetail",
+      "table": "ResourceTypeDetail",
+      "path": "tables/ResourceTypeDetail.json",
+      "rows": 25
+    },
+    {
+      "packType": "Rule",
+      "table": "Rule",
+      "path": "tables/Rule.json",
+      "rows": 24
+    },
+    {
+      "packType": "SdCostume",
+      "table": "SdCostume",
+      "path": "tables/SdCostume.json",
+      "rows": 294
+    },
+    {
+      "packType": "SdCostumeHairAccessory",
+      "table": "SdCostumeHairAccessory",
+      "path": "tables/SdCostumeHairAccessory.json",
+      "rows": 270
+    },
+    {
+      "packType": "SemiResourceTypeDetail",
+      "table": "SemiResourceTypeDetail",
+      "path": "tables/SemiResourceTypeDetail.json",
+      "rows": 3
+    },
+    {
+      "packType": "Setting",
+      "table": "Setting",
+      "path": "tables/Setting.json",
+      "rows": 1
+    },
+    {
+      "packType": "ShopChargeItemProduct",
+      "table": "ShopChargeItemProduct",
+      "path": "tables/ShopChargeItemProduct.json",
+      "rows": 141
+    },
+    {
+      "packType": "SkillTreeConnectEffect",
+      "table": "SkillTreeConnectEffect",
+      "path": "tables/SkillTreeConnectEffect.json",
+      "rows": 40
+    },
+    {
+      "packType": "SkillTreeConnectEffectExtent",
+      "table": "SkillTreeConnectEffectExtent",
+      "path": "tables/SkillTreeConnectEffectExtent.json",
+      "rows": 89
+    },
+    {
+      "packType": "SkillTreeEffect",
+      "table": "SkillTreeEffect",
+      "path": "tables/SkillTreeEffect.json",
+      "rows": 121
+    },
+    {
+      "packType": "SkillTreeEffectPassiveTrigger",
+      "table": "SkillTreeEffectPassiveTrigger",
+      "path": "tables/SkillTreeEffectPassiveTrigger.json",
+      "rows": 81
+    },
+    {
+      "packType": "SkillTreeEffectTarget",
+      "table": "SkillTreeEffectTarget",
+      "path": "tables/SkillTreeEffectTarget.json",
+      "rows": 79
+    },
+    {
+      "packType": "SkillTreeEffectValueLimit",
+      "table": "SkillTreeEffectValueLimit",
+      "path": "tables/SkillTreeEffectValueLimit.json",
+      "rows": 2
+    },
+    {
+      "packType": "SkillTreeNode",
+      "table": "SkillTreeNode",
+      "path": "tables/SkillTreeNode.json",
+      "rows": 324
+    },
+    {
+      "packType": "SkillTreeNodeAutoSelection",
+      "table": "SkillTreeNodeAutoSelection",
+      "path": "tables/SkillTreeNodeAutoSelection.json",
+      "rows": 15
+    },
+    {
+      "packType": "SkillTreeNodePosition",
+      "table": "SkillTreeNodePosition",
+      "path": "tables/SkillTreeNodePosition.json",
+      "rows": 612
+    },
+    {
+      "packType": "SkillTreePoint",
+      "table": "SkillTreePoint",
+      "path": "tables/SkillTreePoint.json",
+      "rows": 54
+    },
+    {
+      "packType": "SpecialStory",
+      "table": "SpecialStory",
+      "path": "tables/SpecialStory.json",
+      "rows": 2
+    },
+    {
+      "packType": "SplashBall",
+      "table": "SplashBall",
+      "path": "tables/SplashBall.json",
+      "rows": 0
+    },
+    {
+      "packType": "SplashBallBall",
+      "table": "SplashBallBall",
+      "path": "tables/SplashBallBall.json",
+      "rows": 0
+    },
+    {
+      "packType": "SplashBallPlayerPosition",
+      "table": "SplashBallPlayerPosition",
+      "path": "tables/SplashBallPlayerPosition.json",
+      "rows": 0
+    },
+    {
+      "packType": "SplashBallSetting",
+      "table": "SplashBallSetting",
+      "path": "tables/SplashBallSetting.json",
+      "rows": 1
+    },
+    {
+      "packType": "Stamp",
+      "table": "Stamp",
+      "path": "tables/Stamp.json",
+      "rows": 329
+    },
+    {
+      "packType": "Story",
+      "table": "Story",
+      "path": "tables/Story.json",
+      "rows": 141
+    },
+    {
+      "packType": "SystemSound",
+      "table": "SystemSound",
+      "path": "tables/SystemSound.json",
+      "rows": 301
+    },
+    {
+      "packType": "SystemVoice",
+      "table": "SystemVoice",
+      "path": "tables/SystemVoice.json",
+      "rows": 6156
+    },
+    {
+      "packType": "Tips",
+      "table": "Tips",
+      "path": "tables/Tips.json",
+      "rows": 140
+    },
+    {
+      "packType": "TipsDetail",
+      "table": "TipsDetail",
+      "path": "tables/TipsDetail.json",
+      "rows": 288
+    },
+    {
+      "packType": "Tutorial",
+      "table": "Tutorial",
+      "path": "tables/Tutorial.json",
+      "rows": 58
+    },
+    {
+      "packType": "Wallpaper",
+      "table": "Wallpaper",
+      "path": "tables/Wallpaper.json",
+      "rows": 13
+    },
+    {
+      "packType": "Work",
+      "table": "Work",
+      "path": "tables/Work.json",
+      "rows": 2040
+    },
+    {
+      "packType": "WorkDisplay",
+      "table": "WorkDisplay",
+      "path": "tables/WorkDisplay.json",
+      "rows": 2
+    },
+    {
+      "packType": "WorkEvaluationRank",
+      "table": "WorkEvaluationRank",
+      "path": "tables/WorkEvaluationRank.json",
+      "rows": 200
+    },
+    {
+      "packType": "WorkSlot",
+      "table": "WorkSlot",
+      "path": "tables/WorkSlot.json",
+      "rows": 4
+    },
+    {
+      "packType": "World",
+      "table": "World",
+      "path": "tables/World.json",
+      "rows": 1
+    }
+  ],
+  "app": {
+    "versionName": "1.1.0",
+    "versionCode": 1787028384
+  }
+}

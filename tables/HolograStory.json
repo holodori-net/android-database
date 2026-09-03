@@ -1,0 +1,50 @@
+[
+  {
+    "id": "hologra_story-001",
+    "title_lang_id": "la-hologra_story-001",
+    "story_id": "story-hologra_story-001",
+    "asset_id": "hologra-001",
+    "asset_type": {
+      "name": "STORY_ASSET_TYPE_ADV",
+      "number": 1
+    },
+    "start_time": "946652400000",
+    "order": 1
+  },
+  {
+    "id": "hologra_story-002",
+    "title_lang_id": "la-hologra_story-002",
+    "story_id": "story-hologra_story-002",
+    "asset_id": "hologra-002",
+    "asset_type": {
+      "name": "STORY_ASSET_TYPE_ADV",
+      "number": 1
+    },
+    "start_time": "946652400000",
+    "order": 2
+  },
+  {
+    "id": "hologra_story-003",
+    "title_lang_id": "la-hologra_story-003",
+    "story_id": "story-hologra_story-003",
+    "asset_id": "hologra-003",
+    "asset_type": {
+      "name": "STORY_ASSET_TYPE_ADV",
+      "number": 1
+    },
+    "start_time": "946652400000",
+    "order": 3
+  },
+  {
+    "id": "hologra_story-004",
+    "title_lang_id": "la-hologra_story-004",
+    "story_id": "story-hologra_story-004",
+    "asset_id": "hologra-004",
+    "asset_type": {
+      "name": "STORY_ASSET_TYPE_ADV",
+      "number": 1
+    },
+    "start_time": "946652400000",
+    "order": 4
+  }
+]

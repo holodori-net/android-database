@@ -1,0 +1,134 @@
+[
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+      "number": 2
+    },
+    "target_id": "perm-a01-facerock-present-all_character_get",
+    "order": 12
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+      "number": 2
+    },
+    "target_id": "perm-a01-facerock-present-default",
+    "order": 13
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+      "number": 2
+    },
+    "target_id": "perm-a01-house-present-fri",
+    "order": 9
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+      "number": 2
+    },
+    "target_id": "perm-a01-house-present-mon",
+    "order": 5
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+      "number": 2
+    },
+    "target_id": "perm-a01-house-present-sat",
+    "order": 10
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+      "number": 2
+    },
+    "target_id": "perm-a01-house-present-sun",
+    "order": 4
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+      "number": 2
+    },
+    "target_id": "perm-a01-house-present-thu",
+    "order": 8
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+      "number": 2
+    },
+    "target_id": "perm-a01-house-present-tue",
+    "order": 6
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+      "number": 2
+    },
+    "target_id": "perm-a01-house-present-wed",
+    "order": 7
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+      "number": 2
+    },
+    "target_id": "perm-a01-prison-present",
+    "order": 11
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_PLAYER_LEVEL_REWARD_RECEIVABLE",
+      "number": 3
+    },
+    "order": 1
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_WORK_FINISH",
+      "number": 4
+    },
+    "order": 2
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_WORK_AVAILABLE",
+      "number": 5
+    },
+    "order": 3
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_EXCHANGE_RECEIVABLE",
+      "number": 6
+    },
+    "target_id": "exchange_booth_group-facility-a01-exchangebooth",
+    "order": 14
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_EXCHANGE_RECEIVABLE",
+      "number": 6
+    },
+    "target_id": "exchange_booth_group-facility-a02-exchangebooth2",
+    "order": 15
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_EXCHANGE_RECEIVABLE",
+      "number": 6
+    },
+    "target_id": "exchange_booth_group-facility-a02-exchangebooth3",
+    "order": 16
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_PARK_LOTTERY_SCRATCH_AVAILABLE",
+      "number": 8
+    },
+    "order": 17
+  }
+]

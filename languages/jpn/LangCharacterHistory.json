@@ -1,0 +1,54 @@
+[
+  {
+    "id": "la-chr_history-achievement-10",
+    "text": "アチーブメントを{1}個<alpha=#8c>達成"
+  },
+  {
+    "id": "la-chr_history-birthday-0",
+    "text": "{0}誕生日"
+  },
+  {
+    "id": "la-chr_history-character_get_duration_months-1",
+    "text": "出会ってから{0}ヶ月<alpha=#8c>経過"
+  },
+  {
+    "id": "la-chr_history-character_get_duration_months-6",
+    "text": "出会ってから{0}ヶ月<alpha=#8c>経過"
+  },
+  {
+    "id": "la-chr_history-character_get_duration_years-1",
+    "text": "出会ってから{0}年<alpha=#8c>経過"
+  },
+  {
+    "id": "la-chr_history-character_level-1",
+    "text": "ホロメンランク{0}達成！"
+  },
+  {
+    "id": "la-chr_history-live_play_count-100",
+    "text": "ライブ累計プレイ回数{1}回<alpha=#8c>達成"
+  },
+  {
+    "id": "la-chr_history-membership_duration_months-1",
+    "text": "メンバーシップ加入から{0}ヶ月<alpha=#8c>経過"
+  },
+  {
+    "id": "la-chr_history-mini_game_play_count-100",
+    "text": "ミニゲーム累計プレイ回数{1}回<alpha=#8c>達成"
+  },
+  {
+    "id": "la-chr_history-park_costume_get-0",
+    "text": "ライブ衣装 {0}<alpha=#8c> 入手"
+  },
+  {
+    "id": "la-chr_history-score_rank",
+    "text": "ユニットスコアランク{1}<alpha=#8c>到達"
+  },
+  {
+    "id": "la-chr_history-sd_costume_get-0",
+    "text": "パーク衣装 {0}<alpha=#8c> 入手"
+  },
+  {
+    "id": "la-chr_history-ssr_card_get-0",
+    "text": "メンバー {0}<alpha=#8c> 入手"
+  }
+]

@@ -1,0 +1,1562 @@
+[
+  {
+    "group_id": "evaluation-rank_01_01_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_01_01_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "24500"
+  },
+  {
+    "group_id": "evaluation-rank_01_01_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "32500"
+  },
+  {
+    "group_id": "evaluation-rank_01_01_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "38500"
+  },
+  {
+    "group_id": "evaluation-rank_01_01_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "41500"
+  },
+  {
+    "group_id": "evaluation-rank_01_01_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_01_01_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "24500"
+  },
+  {
+    "group_id": "evaluation-rank_01_01_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "32500"
+  },
+  {
+    "group_id": "evaluation-rank_01_01_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "38500"
+  },
+  {
+    "group_id": "evaluation-rank_01_01_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "41500"
+  },
+  {
+    "group_id": "evaluation-rank_01_02_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_01_02_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "28000"
+  },
+  {
+    "group_id": "evaluation-rank_01_02_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "41500"
+  },
+  {
+    "group_id": "evaluation-rank_01_02_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "44000"
+  },
+  {
+    "group_id": "evaluation-rank_01_02_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "48000"
+  },
+  {
+    "group_id": "evaluation-rank_01_02_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_01_02_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "28000"
+  },
+  {
+    "group_id": "evaluation-rank_01_02_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "41500"
+  },
+  {
+    "group_id": "evaluation-rank_01_02_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "44000"
+  },
+  {
+    "group_id": "evaluation-rank_01_02_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "48000"
+  },
+  {
+    "group_id": "evaluation-rank_01_03_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_01_03_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "41500"
+  },
+  {
+    "group_id": "evaluation-rank_01_03_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "46500"
+  },
+  {
+    "group_id": "evaluation-rank_01_03_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "54000"
+  },
+  {
+    "group_id": "evaluation-rank_01_03_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "64000"
+  },
+  {
+    "group_id": "evaluation-rank_01_03_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_01_03_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "41500"
+  },
+  {
+    "group_id": "evaluation-rank_01_03_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "46500"
+  },
+  {
+    "group_id": "evaluation-rank_01_03_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "54000"
+  },
+  {
+    "group_id": "evaluation-rank_01_03_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "64000"
+  },
+  {
+    "group_id": "evaluation-rank_01_04_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_01_04_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "48000"
+  },
+  {
+    "group_id": "evaluation-rank_01_04_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "59000"
+  },
+  {
+    "group_id": "evaluation-rank_01_04_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "69500"
+  },
+  {
+    "group_id": "evaluation-rank_01_04_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "80500"
+  },
+  {
+    "group_id": "evaluation-rank_01_04_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_01_04_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "48000"
+  },
+  {
+    "group_id": "evaluation-rank_01_04_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "59000"
+  },
+  {
+    "group_id": "evaluation-rank_01_04_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "69500"
+  },
+  {
+    "group_id": "evaluation-rank_01_04_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "80500"
+  },
+  {
+    "group_id": "evaluation-rank_01_05_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_01_05_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "64000"
+  },
+  {
+    "group_id": "evaluation-rank_01_05_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "80500"
+  },
+  {
+    "group_id": "evaluation-rank_01_05_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "101500"
+  },
+  {
+    "group_id": "evaluation-rank_01_05_item-skill_tree_card",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "129500"
+  },
+  {
+    "group_id": "evaluation-rank_01_05_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_01_05_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "64000"
+  },
+  {
+    "group_id": "evaluation-rank_01_05_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "80500"
+  },
+  {
+    "group_id": "evaluation-rank_01_05_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "101500"
+  },
+  {
+    "group_id": "evaluation-rank_01_05_item-skill_tree_leader",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "129500"
+  },
+  {
+    "group_id": "evaluation-rank_02_01_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_02_01_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "24500"
+  },
+  {
+    "group_id": "evaluation-rank_02_01_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "32500"
+  },
+  {
+    "group_id": "evaluation-rank_02_01_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "38500"
+  },
+  {
+    "group_id": "evaluation-rank_02_01_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "41500"
+  },
+  {
+    "group_id": "evaluation-rank_02_02_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_02_02_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "28000"
+  },
+  {
+    "group_id": "evaluation-rank_02_02_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "41500"
+  },
+  {
+    "group_id": "evaluation-rank_02_02_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "44000"
+  },
+  {
+    "group_id": "evaluation-rank_02_02_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "48000"
+  },
+  {
+    "group_id": "evaluation-rank_02_03_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_02_03_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "41500"
+  },
+  {
+    "group_id": "evaluation-rank_02_03_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "46500"
+  },
+  {
+    "group_id": "evaluation-rank_02_03_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "54000"
+  },
+  {
+    "group_id": "evaluation-rank_02_03_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "64000"
+  },
+  {
+    "group_id": "evaluation-rank_02_04_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_02_04_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "48000"
+  },
+  {
+    "group_id": "evaluation-rank_02_04_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "59000"
+  },
+  {
+    "group_id": "evaluation-rank_02_04_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "69500"
+  },
+  {
+    "group_id": "evaluation-rank_02_04_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "80500"
+  },
+  {
+    "group_id": "evaluation-rank_02_05_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_02_05_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "64000"
+  },
+  {
+    "group_id": "evaluation-rank_02_05_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "80500"
+  },
+  {
+    "group_id": "evaluation-rank_02_05_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "101500"
+  },
+  {
+    "group_id": "evaluation-rank_02_05_item-card_level_up",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "129500"
+  },
+  {
+    "group_id": "evaluation-rank_03_01_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_03_01_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "38500"
+  },
+  {
+    "group_id": "evaluation-rank_03_01_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "44000"
+  },
+  {
+    "group_id": "evaluation-rank_03_01_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "48000"
+  },
+  {
+    "group_id": "evaluation-rank_03_01_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "54000"
+  },
+  {
+    "group_id": "evaluation-rank_03_01_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_03_01_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "38500"
+  },
+  {
+    "group_id": "evaluation-rank_03_01_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "44000"
+  },
+  {
+    "group_id": "evaluation-rank_03_01_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "48000"
+  },
+  {
+    "group_id": "evaluation-rank_03_01_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "54000"
+  },
+  {
+    "group_id": "evaluation-rank_03_02_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_03_02_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "41500"
+  },
+  {
+    "group_id": "evaluation-rank_03_02_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "50500"
+  },
+  {
+    "group_id": "evaluation-rank_03_02_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "64000"
+  },
+  {
+    "group_id": "evaluation-rank_03_02_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "73500"
+  },
+  {
+    "group_id": "evaluation-rank_03_02_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_03_02_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "41500"
+  },
+  {
+    "group_id": "evaluation-rank_03_02_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "50500"
+  },
+  {
+    "group_id": "evaluation-rank_03_02_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "64000"
+  },
+  {
+    "group_id": "evaluation-rank_03_02_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "73500"
+  },
+  {
+    "group_id": "evaluation-rank_03_03_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_03_03_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "54000"
+  },
+  {
+    "group_id": "evaluation-rank_03_03_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "68500"
+  },
+  {
+    "group_id": "evaluation-rank_03_03_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "85000"
+  },
+  {
+    "group_id": "evaluation-rank_03_03_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "105000"
+  },
+  {
+    "group_id": "evaluation-rank_03_03_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_03_03_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "54000"
+  },
+  {
+    "group_id": "evaluation-rank_03_03_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "68500"
+  },
+  {
+    "group_id": "evaluation-rank_03_03_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "85000"
+  },
+  {
+    "group_id": "evaluation-rank_03_03_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "105000"
+  },
+  {
+    "group_id": "evaluation-rank_03_04_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_03_04_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "59000"
+  },
+  {
+    "group_id": "evaluation-rank_03_04_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "77500"
+  },
+  {
+    "group_id": "evaluation-rank_03_04_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "101500"
+  },
+  {
+    "group_id": "evaluation-rank_03_04_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "117500"
+  },
+  {
+    "group_id": "evaluation-rank_03_04_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_03_04_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "59000"
+  },
+  {
+    "group_id": "evaluation-rank_03_04_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "77500"
+  },
+  {
+    "group_id": "evaluation-rank_03_04_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "101500"
+  },
+  {
+    "group_id": "evaluation-rank_03_04_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "117500"
+  },
+  {
+    "group_id": "evaluation-rank_03_05_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_03_05_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "68500"
+  },
+  {
+    "group_id": "evaluation-rank_03_05_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "97500"
+  },
+  {
+    "group_id": "evaluation-rank_03_05_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "113500"
+  },
+  {
+    "group_id": "evaluation-rank_03_05_item-skill_tree_allmember",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "158000"
+  },
+  {
+    "group_id": "evaluation-rank_03_05_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_03_05_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "68500"
+  },
+  {
+    "group_id": "evaluation-rank_03_05_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "97500"
+  },
+  {
+    "group_id": "evaluation-rank_03_05_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "113500"
+  },
+  {
+    "group_id": "evaluation-rank_03_05_item-skill_tree_content",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "158000"
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "38500"
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "44000"
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "48000"
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "54000"
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "38500"
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "44000"
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "48000"
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "54000"
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "38500"
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "44000"
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "48000"
+  },
+  {
+    "group_id": "evaluation-rank_04_01_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "54000"
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "41500"
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "50500"
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "64000"
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "73500"
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "41500"
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "50500"
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "64000"
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "73500"
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "41500"
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "50500"
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "64000"
+  },
+  {
+    "group_id": "evaluation-rank_04_02_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "73500"
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "54000"
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "68500"
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "85000"
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "105000"
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "54000"
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "68500"
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "85000"
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "105000"
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "54000"
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "68500"
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "85000"
+  },
+  {
+    "group_id": "evaluation-rank_04_03_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "105000"
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "59000"
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "77500"
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "101500"
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "117500"
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "59000"
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "77500"
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "101500"
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "117500"
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "59000"
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "77500"
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "101500"
+  },
+  {
+    "group_id": "evaluation-rank_04_04_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "117500"
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "68500"
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "97500"
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "113500"
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_1",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "158000"
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "68500"
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "97500"
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "113500"
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_2",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "158000"
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "68500"
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "97500"
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "113500"
+  },
+  {
+    "group_id": "evaluation-rank_04_05_item-card_limit_break-attribute_3",
+    "type": {
+      "name": "WORK_EVALUATION_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "158000"
+  }
+]

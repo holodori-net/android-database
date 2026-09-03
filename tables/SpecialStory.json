@@ -1,0 +1,26 @@
+[
+  {
+    "id": "special_story-normal_area-a01-mv",
+    "title_lang_id": "la-special_story-normal_area-a01-mv",
+    "story_id": "story-special_normal_area-a01-mv",
+    "asset_id": "special-001",
+    "asset_type": {
+      "name": "STORY_ASSET_TYPE_MOVIE",
+      "number": 2
+    },
+    "order": 1
+  },
+  {
+    "id": "special_story-normal_area-a02-mv",
+    "title_lang_id": "la-special_story-normal_area-a02-mv",
+    "story_id": "story-special_normal_area-a02-mv",
+    "archive_view_condition_group_id": "cd-quest_clear-quest-main-w1-02-01",
+    "unlock_condition_group_id": "cd-quest_clear-quest-main-w1-02-01",
+    "asset_id": "special-002",
+    "asset_type": {
+      "name": "STORY_ASSET_TYPE_MOVIE",
+      "number": 2
+    },
+    "order": 3
+  }
+]

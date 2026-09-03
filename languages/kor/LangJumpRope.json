@@ -1,0 +1,34 @@
+[
+  {
+    "id": "la-jump_rope-game_playing_display_clear_condition_lang-count",
+    "text": "<size=56>{0}</size>회 뛰자!"
+  },
+  {
+    "id": "la-jump_rope-game_playing_display_clear_condition_lang-score_attack",
+    "text": "베스트 스코어를 노리자!"
+  },
+  {
+    "id": "la-jump_rope-game_playing_display_clear_condition_lang-survival",
+    "text": "가장 길게 뛰자!"
+  },
+  {
+    "id": "la-jump_rope-game_start_display_clear_condition_lang-count",
+    "text": "{0}회 뛰자!"
+  },
+  {
+    "id": "la-jump_rope-game_start_display_clear_condition_lang-score_attack",
+    "text": "베스트 스코어를 노리자!"
+  },
+  {
+    "id": "la-jump_rope-game_start_display_clear_condition_lang-survival",
+    "text": "가장 길게 뛰자!"
+  },
+  {
+    "id": "la-jump_rope-mode_select_display_clear_condition_lang-score_attack",
+    "text": "베스트 스코어를\\n노리자!"
+  },
+  {
+    "id": "la-jump_rope-mode_select_display_clear_condition_lang-survival",
+    "text": "가장 길게 뛰자!"
+  }
+]

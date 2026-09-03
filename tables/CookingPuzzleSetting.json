@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "mini_game_reward_up_stamina_effect_group_id": "mini_game_reward_up_stamina_effect-cooking_puzzle-01",
+    "stock_space_quantity": 7,
+    "foodstuff_collecting_increment_score": "100",
+    "stock_space_overflow_decrement_score": "50",
+    "guide_activation_milliseconds": 5000,
+    "guide_lighting_duration_milliseconds": 10000,
+    "guide_expansion_rate_permil_up": 200,
+    "tap_expansion_rate_permil_up": 200,
+    "reward_up_stamina_consumption_unit": 30,
+    "gauge_yellow_remaining_time_rate_permil": 700,
+    "gauge_red_remaining_time_rate_permil": 400,
+    "alert_remaining_time_seconds": 10,
+    "score_attack_result_voice_threshold_score_normal": "5000",
+    "score_attack_result_voice_threshold_score_good": "7500",
+    "score_attack_result_voice_threshold_score_great": "10000"
+  }
+]

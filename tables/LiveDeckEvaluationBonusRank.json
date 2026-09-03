@@ -1,0 +1,108 @@
+[
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_D",
+      "number": 1
+    },
+    "plus": 1,
+    "threshold_permil_up": 400
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold_permil_up": 500
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_C",
+      "number": 2
+    },
+    "plus": 1,
+    "threshold_permil_up": 600
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold_permil_up": 700
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_B",
+      "number": 3
+    },
+    "plus": 1,
+    "threshold_permil_up": 800
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold_permil_up": 1000
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_A",
+      "number": 4
+    },
+    "plus": 1,
+    "threshold_permil_up": 1100
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold_permil_up": 1300
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 1,
+    "threshold_permil_up": 1400
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 2,
+    "threshold_permil_up": 1500
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 3,
+    "threshold_permil_up": 1650
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 4,
+    "threshold_permil_up": 1800
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 5,
+    "threshold_permil_up": 2000
+  }
+]

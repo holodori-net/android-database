@@ -1,0 +1,418 @@
+[
+  {
+    "id": "la-loading_display-tips-achievement-001-text",
+    "text": "조건을 달성해서 Holo멤버 Exp나 칭호 등의 보상을 획득해 보자!"
+  },
+  {
+    "id": "la-loading_display-tips-achievement-001-title",
+    "text": "업적"
+  },
+  {
+    "id": "la-loading_display-tips-card-001-text",
+    "text": "레벨 업하면 파라미터가 상승해!"
+  },
+  {
+    "id": "la-loading_display-tips-card-001-title",
+    "text": "멤버 레벨"
+  },
+  {
+    "id": "la-loading_display-tips-card-002-text",
+    "text": "레슨 Pt는 Holo워크 등에서 획득할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-card-002-title",
+    "text": "레슨 Pt"
+  },
+  {
+    "id": "la-loading_display-tips-card-003-text",
+    "text": "범위 내의 칸을 개방하면 보너스를 얻을 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-card-003-title",
+    "text": "커넥트 칸"
+  },
+  {
+    "id": "la-loading_display-tips-card-004-text",
+    "text": "특훈으로 최대 레벨이 상승합니다!"
+  },
+  {
+    "id": "la-loading_display-tips-card-004-title",
+    "text": "멤버 특훈"
+  },
+  {
+    "id": "la-loading_display-tips-card-005-text",
+    "text": "특훈 아이템은 라이브 클리어 보상 등으로 획득할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-card-005-title",
+    "text": "특훈 아이템"
+  },
+  {
+    "id": "la-loading_display-tips-card-006-text",
+    "text": "개화를 통해 스킬이나 커넥트 효과 등을 강화할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-card-006-title",
+    "text": "멤버 개화"
+  },
+  {
+    "id": "la-loading_display-tips-card-007-text",
+    "text": "멤버를 육성하면 유닛 스코어가 상승해!"
+  },
+  {
+    "id": "la-loading_display-tips-card-007-title",
+    "text": "유닛 스코어"
+  },
+  {
+    "id": "la-loading_display-tips-card-008-text",
+    "text": "멤버 타입은 3종류가 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-card-008-title",
+    "text": "멤버 타입"
+  },
+  {
+    "id": "la-loading_display-tips-card-009-text",
+    "text": "라이브 중에 스킬 효과가 발동돼!"
+  },
+  {
+    "id": "la-loading_display-tips-card-009-title",
+    "text": "멤버 스킬"
+  },
+  {
+    "id": "la-loading_display-tips-character-001-text",
+    "text": "랭크 업하면 Holo멤버 보드 개방 재료를 획득할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-character-001-title",
+    "text": "Holo멤버 랭크"
+  },
+  {
+    "id": "la-loading_display-tips-character-002-text",
+    "text": "매스를 해방하면 유닛을 강화할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-character-002-title",
+    "text": "Holo멤버 보드"
+  },
+  {
+    "id": "la-loading_display-tips-character-003-text",
+    "text": "의상을 변경해서 의상 스킬을 전환하자!"
+  },
+  {
+    "id": "la-loading_display-tips-character-003-title",
+    "text": "의상 스킬"
+  },
+  {
+    "id": "la-loading_display-tips-exchange-001-text",
+    "text": "아이템이 부족할 때는 네포라보 마트에 가보자!"
+  },
+  {
+    "id": "la-loading_display-tips-exchange-001-title",
+    "text": "아이템 교환"
+  },
+  {
+    "id": "la-loading_display-tips-exchange-coin-001-text",
+    "text": "메가 스피어 코인 교환소에서 부스트를 코인 변환하자!"
+  },
+  {
+    "id": "la-loading_display-tips-exchange-coin-001-title",
+    "text": "코인 변환"
+  },
+  {
+    "id": "la-loading_display-tips-friend-001-text",
+    "text": "친구가 되면 멀티로 초대할 수 있어요!"
+  },
+  {
+    "id": "la-loading_display-tips-friend-001-title",
+    "text": "친구"
+  },
+  {
+    "id": "la-loading_display-tips-friend-002-text",
+    "text": "친구 신청은 상대 프로필에서 할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-friend-002-title",
+    "text": "친구 신청"
+  },
+  {
+    "id": "la-loading_display-tips-gacha-001-text",
+    "text": "뽑기 Pt를 모으면 멤버와 교환할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-gacha-001-title",
+    "text": "뽑기 Pt"
+  },
+  {
+    "id": "la-loading_display-tips-live-001-text",
+    "text": "난이도는 4종류가 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-live-001-title",
+    "text": "라이브 난이도"
+  },
+  {
+    "id": "la-loading_display-tips-live-002-text",
+    "text": "라이브 달성 보상은 각 악곡에 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-live-002-title",
+    "text": "라이브 달성 보상"
+  },
+  {
+    "id": "la-loading_display-tips-live-003-text",
+    "text": "뮤직 디스크로 교환한 악곡은 라이브에서 플레이할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-live-003-title",
+    "text": "악곡 상점"
+  },
+  {
+    "id": "la-loading_display-tips-live-004-text",
+    "text": "오토 티켓 소비로 라이브를 자동으로 플레이 할 수 있어요!"
+  },
+  {
+    "id": "la-loading_display-tips-live-004-title",
+    "text": "자동 라이브"
+  },
+  {
+    "id": "la-loading_display-tips-live-005-text",
+    "text": "「MULTI」에서 멀티 라이브를 플레이할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-live-005-title",
+    "text": "다 같이 LIVE"
+  },
+  {
+    "id": "la-loading_display-tips-live-006-text",
+    "text": "부스트를 소비하면 보상이 커져!"
+  },
+  {
+    "id": "la-loading_display-tips-live-006-title",
+    "text": "라이브 부스트"
+  },
+  {
+    "id": "la-loading_display-tips-live-007-text",
+    "text": "자유롭게 악보를 만들어 공개하거나 모두가 만든 악보로 놀자!"
+  },
+  {
+    "id": "la-loading_display-tips-live-007-title",
+    "text": "창작 악보"
+  },
+  {
+    "id": "la-loading_display-tips-mg-001-text",
+    "text": "부스트를 소비하면 보상이 커져!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-001-title",
+    "text": "미니 게임 부스트"
+  },
+  {
+    "id": "la-loading_display-tips-mg-chase-001-text",
+    "text": "열쇠를 연속으로 사용하면 열쇠 사용 시간이 단축돼!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-chase-001-title",
+    "text": "어둠 속 추격 팁 (장난꾸러기 팀)"
+  },
+  {
+    "id": "la-loading_display-tips-mg-chase-002-text",
+    "text": "스킬 발동 타이밍을 잘 노리자!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-chase-002-title",
+    "text": "어둠 속 추격 팁 (순찰대)"
+  },
+  {
+    "id": "la-loading_display-tips-mg-circuit-001-text",
+    "text": "장애물은 대시를 활용해 회피하자!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-circuit-001-title",
+    "text": "메가 서킷 힌트"
+  },
+  {
+    "id": "la-loading_display-tips-mg-combo-card-game-001-text",
+    "text": "같은 색깔 보너스를 의식해 역을 완성하자!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-combo-card-game-001-title",
+    "text": "포카장! 힌트"
+  },
+  {
+    "id": "la-loading_display-tips-mg-cooking-puzzle-001-text",
+    "text": "재료를 찾을 수 없을 때는 셔플 버튼을 눌러보자!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-cooking-puzzle-001-title",
+    "text": "모아 쿠킹 힌트"
+  },
+  {
+    "id": "la-loading_display-tips-mg-high-low-001-text",
+    "text": "더블 업을 잘 활용해 대량 코인 획득을 노리자!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-high-low-001-title",
+    "text": "탐욕의 카드 힌트"
+  },
+  {
+    "id": "la-loading_display-tips-mg-jump-rope-001-text",
+    "text": "줄넘기를 돌리는 사람이 교대하면, 줄넘기의 속도나 돌리는 방법이 달라져!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-jump-rope-001-title",
+    "text": "호핀 로프 팁"
+  },
+  {
+    "id": "la-loading_display-tips-mission-001-text",
+    "text": "미션레벨을 올려서 보상을 획득하자!"
+  },
+  {
+    "id": "la-loading_display-tips-mission-001-title",
+    "text": "미션 패스"
+  },
+  {
+    "id": "la-loading_display-tips-park-001-text",
+    "text": "랭크 업하면 보상을 획득할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-park-001-title",
+    "text": "드림 랭크"
+  },
+  {
+    "id": "la-loading_display-tips-park-002-text",
+    "text": "선물은 하루 1회 받을 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-park-002-title",
+    "text": "선물"
+  },
+  {
+    "id": "la-loading_display-tips-park-003-text",
+    "text": "업그레이드하면 새로운 효과가 추가돼!"
+  },
+  {
+    "id": "la-loading_display-tips-park-003-title",
+    "text": "시설 업그레이드"
+  },
+  {
+    "id": "la-loading_display-tips-park-004-text",
+    "text": "공원 내에서 자유롭게 촬영할 수 있어요!"
+  },
+  {
+    "id": "la-loading_display-tips-park-004-title",
+    "text": "촬영 모드"
+  },
+  {
+    "id": "la-loading_display-tips-park-005-text",
+    "text": "［이동］을 탭하면 해당 위치로 이동할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-park-005-title",
+    "text": "지도"
+  },
+  {
+    "id": "la-loading_display-tips-park-006-text",
+    "text": "프로미스 타워에서는 시간을 변경할 수 있어요!"
+  },
+  {
+    "id": "la-loading_display-tips-park-006-title",
+    "text": "시간"
+  },
+  {
+    "id": "la-loading_display-tips-park-007-text",
+    "text": "멀티 플레이 시 커뮤니케이션에 활용하자!"
+  },
+  {
+    "id": "la-loading_display-tips-park-007-title",
+    "text": "스탬프"
+  },
+  {
+    "id": "la-loading_display-tips-park-008-text",
+    "text": "메모리를 모으면 유닛의 파라미터가 상승해!"
+  },
+  {
+    "id": "la-loading_display-tips-park-008-title",
+    "text": "메모리"
+  },
+  {
+    "id": "la-loading_display-tips-park-009-text",
+    "text": "HOLO 시네마즈에서 이야기를 되돌아 볼 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-park-009-title",
+    "text": "스토리"
+  },
+  {
+    "id": "la-loading_display-tips-park-010-text",
+    "text": "구역 내 곳곳에 있으니 찾아보자!"
+  },
+  {
+    "id": "la-loading_display-tips-park-010-title",
+    "text": "트레저 박스"
+  },
+  {
+    "id": "la-loading_display-tips-park-011-text",
+    "text": "지도에서 구역 내에 있는 개수를 확인할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-park-011-title",
+    "text": "트레저 박스 개수"
+  },
+  {
+    "id": "la-loading_display-tips-profile-001-text",
+    "text": "획득한 칭호는 프로필에 설정할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-profile-001-title",
+    "text": "칭호"
+  },
+  {
+    "id": "la-loading_display-tips-quest-001-text",
+    "text": "퀘스트를 클리어하면 스토리가 진행돼!"
+  },
+  {
+    "id": "la-loading_display-tips-quest-001-title",
+    "text": "메인 퀘스트"
+  },
+  {
+    "id": "la-loading_display-tips-quest-002-text",
+    "text": "퀘스트를 클리어하면 holo멤이 개방돼!"
+  },
+  {
+    "id": "la-loading_display-tips-quest-002-title",
+    "text": "Holo멤버 퀘스트"
+  },
+  {
+    "id": "la-loading_display-tips-quest-003-text",
+    "text": "퀘스트를 클리어하면 다양한 보상을 획득할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-quest-003-title",
+    "text": "구역 퀘스트"
+  },
+  {
+    "id": "la-loading_display-tips-quest-004-text",
+    "text": "데일리 퀘스트는 매일 갱신돼!"
+  },
+  {
+    "id": "la-loading_display-tips-quest-004-title",
+    "text": "데일리 퀘스트"
+  },
+  {
+    "id": "la-loading_display-tips-quest-005-text",
+    "text": "퀘스트는 4종류가 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-quest-005-title",
+    "text": "퀘스트 종류"
+  },
+  {
+    "id": "la-loading_display-tips-work-001-text",
+    "text": "활동을 하면 보상을 획득할 수 있어!"
+  },
+  {
+    "id": "la-loading_display-tips-work-001-title",
+    "text": "Holo워크"
+  }
+]

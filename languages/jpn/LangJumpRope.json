@@ -1,0 +1,34 @@
+[
+  {
+    "id": "la-jump_rope-game_playing_display_clear_condition_lang-count",
+    "text": "<size=56>{0}</size> 回跳ぼう！"
+  },
+  {
+    "id": "la-jump_rope-game_playing_display_clear_condition_lang-score_attack",
+    "text": "ベストスコアを目指そう！"
+  },
+  {
+    "id": "la-jump_rope-game_playing_display_clear_condition_lang-survival",
+    "text": "一番長く跳ぼう！"
+  },
+  {
+    "id": "la-jump_rope-game_start_display_clear_condition_lang-count",
+    "text": "{0}回跳ぼう！"
+  },
+  {
+    "id": "la-jump_rope-game_start_display_clear_condition_lang-score_attack",
+    "text": "ベストスコアを目指そう！"
+  },
+  {
+    "id": "la-jump_rope-game_start_display_clear_condition_lang-survival",
+    "text": "一番長く跳ぼう！"
+  },
+  {
+    "id": "la-jump_rope-mode_select_display_clear_condition_lang-score_attack",
+    "text": "ベストスコアを\\n目指そう！"
+  },
+  {
+    "id": "la-jump_rope-mode_select_display_clear_condition_lang-survival",
+    "text": "一番長く跳ぼう！"
+  }
+]

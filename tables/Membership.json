@@ -1,0 +1,1275 @@
+[
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00001-001",
+    "character_ids": [
+      "chr-00001"
+    ],
+    "name_lang_id": "la-name-chr-00001",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00001-01",
+      "stamp-chr-membership_join_00001-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00001-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00001"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00001",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00001",
+    "thumbnail_asset_id": "00001",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00002-001",
+    "character_ids": [
+      "chr-00002"
+    ],
+    "name_lang_id": "la-name-chr-00002",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00002-01",
+      "stamp-chr-membership_join_00002-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00002-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00002"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00002",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00002",
+    "thumbnail_asset_id": "00002",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00004-001",
+    "character_ids": [
+      "chr-00004"
+    ],
+    "name_lang_id": "la-name-chr-00004",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00004-01",
+      "stamp-chr-membership_join_00004-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00004-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00004"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00004",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00004",
+    "thumbnail_asset_id": "00004",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00005-001",
+    "character_ids": [
+      "chr-00005"
+    ],
+    "name_lang_id": "la-name-chr-00005",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00005-01",
+      "stamp-chr-membership_join_00005-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00005-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00005"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00005",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00005",
+    "thumbnail_asset_id": "00005",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00006-001",
+    "character_ids": [
+      "chr-00006"
+    ],
+    "name_lang_id": "la-name-chr-00006",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00006-01",
+      "stamp-chr-membership_join_00006-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00006-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00006"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00006",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00006",
+    "thumbnail_asset_id": "00006",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00007-001",
+    "character_ids": [
+      "chr-00007"
+    ],
+    "name_lang_id": "la-name-chr-00007",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00007-01",
+      "stamp-chr-membership_join_00007-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00007-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00007"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00007",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00007",
+    "thumbnail_asset_id": "00007",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00010-001",
+    "character_ids": [
+      "chr-00010"
+    ],
+    "name_lang_id": "la-name-chr-00010",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00010-01",
+      "stamp-chr-membership_join_00010-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00010-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00010"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00010",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00010",
+    "thumbnail_asset_id": "00010",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00011-001",
+    "character_ids": [
+      "chr-00011"
+    ],
+    "name_lang_id": "la-name-chr-00011",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00011-01",
+      "stamp-chr-membership_join_00011-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00011-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00011"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00011",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00011",
+    "thumbnail_asset_id": "00011",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00012-001",
+    "character_ids": [
+      "chr-00012"
+    ],
+    "name_lang_id": "la-name-chr-00012",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00012-01",
+      "stamp-chr-membership_join_00012-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00012-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00012"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00012",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00012",
+    "thumbnail_asset_id": "00012",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00013-001",
+    "character_ids": [
+      "chr-00013"
+    ],
+    "name_lang_id": "la-name-chr-00013",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00013-01",
+      "stamp-chr-membership_join_00013-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00013-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00013"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00013",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00013",
+    "thumbnail_asset_id": "00013",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00014-001",
+    "character_ids": [
+      "chr-00014"
+    ],
+    "name_lang_id": "la-name-chr-00014",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00014-01",
+      "stamp-chr-membership_join_00014-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00014-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00014"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00014",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00014",
+    "thumbnail_asset_id": "00014",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00015-001",
+    "character_ids": [
+      "chr-00015"
+    ],
+    "name_lang_id": "la-name-chr-00015",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00015-01",
+      "stamp-chr-membership_join_00015-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00015-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00015"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00015",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00015",
+    "thumbnail_asset_id": "00015",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00016-001",
+    "character_ids": [
+      "chr-00016"
+    ],
+    "name_lang_id": "la-name-chr-00016",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00016-01",
+      "stamp-chr-membership_join_00016-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00016-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00016"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00016",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00016",
+    "thumbnail_asset_id": "00016",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00017-001",
+    "character_ids": [
+      "chr-00017"
+    ],
+    "name_lang_id": "la-name-chr-00017",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00017-01",
+      "stamp-chr-membership_join_00017-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00017-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00017"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00017",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00017",
+    "thumbnail_asset_id": "00017",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00018-001",
+    "character_ids": [
+      "chr-00018"
+    ],
+    "name_lang_id": "la-name-chr-00018",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00018-01",
+      "stamp-chr-membership_join_00018-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00018-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00018"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00018",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00018",
+    "thumbnail_asset_id": "00018",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00019-001",
+    "character_ids": [
+      "chr-00019"
+    ],
+    "name_lang_id": "la-name-chr-00019",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00019-01",
+      "stamp-chr-membership_join_00019-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00019-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00019"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00019",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00019",
+    "thumbnail_asset_id": "00019",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00021-001",
+    "character_ids": [
+      "chr-00021"
+    ],
+    "name_lang_id": "la-name-chr-00021",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00021-01",
+      "stamp-chr-membership_join_00021-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00021-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00021"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00021",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00021",
+    "thumbnail_asset_id": "00021",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00022-001",
+    "character_ids": [
+      "chr-00022"
+    ],
+    "name_lang_id": "la-name-chr-00022",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00022-01",
+      "stamp-chr-membership_join_00022-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00022-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00022"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00022",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00022",
+    "thumbnail_asset_id": "00022",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00023-001",
+    "character_ids": [
+      "chr-00023"
+    ],
+    "name_lang_id": "la-name-chr-00023",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00023-01",
+      "stamp-chr-membership_join_00023-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00023-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00023"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00023",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00023",
+    "thumbnail_asset_id": "00023",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00026-001",
+    "character_ids": [
+      "chr-00026"
+    ],
+    "name_lang_id": "la-name-chr-00026",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00026-01",
+      "stamp-chr-membership_join_00026-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00026-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00026"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00026",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00026",
+    "thumbnail_asset_id": "00026",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00027-001",
+    "character_ids": [
+      "chr-00027"
+    ],
+    "name_lang_id": "la-name-chr-00027",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00027-01",
+      "stamp-chr-membership_join_00027-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00027-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00027"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00027",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00027",
+    "thumbnail_asset_id": "00027",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00028-001",
+    "character_ids": [
+      "chr-00028"
+    ],
+    "name_lang_id": "la-name-chr-00028",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00028-01",
+      "stamp-chr-membership_join_00028-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00028-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00028"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00028",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00028",
+    "thumbnail_asset_id": "00028",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00030-001",
+    "character_ids": [
+      "chr-00030"
+    ],
+    "name_lang_id": "la-name-chr-00030",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00030-01",
+      "stamp-chr-membership_join_00030-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00030-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00030"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00030",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00030",
+    "thumbnail_asset_id": "00030",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00031-001",
+    "character_ids": [
+      "chr-00031"
+    ],
+    "name_lang_id": "la-name-chr-00031",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00031-01",
+      "stamp-chr-membership_join_00031-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00031-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00031"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00031",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00031",
+    "thumbnail_asset_id": "00031",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00032-001",
+    "character_ids": [
+      "chr-00032"
+    ],
+    "name_lang_id": "la-name-chr-00032",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00032-01",
+      "stamp-chr-membership_join_00032-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00032-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00032"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00032",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00032",
+    "thumbnail_asset_id": "00032",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00034-001",
+    "character_ids": [
+      "chr-00034"
+    ],
+    "name_lang_id": "la-name-chr-00034",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00034-01",
+      "stamp-chr-membership_join_00034-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00034-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00034"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00034",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00034",
+    "thumbnail_asset_id": "00034",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00035-001",
+    "character_ids": [
+      "chr-00035"
+    ],
+    "name_lang_id": "la-name-chr-00035",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00035-01",
+      "stamp-chr-membership_join_00035-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00035-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00035"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00035",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00035",
+    "thumbnail_asset_id": "00035",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00036-001",
+    "character_ids": [
+      "chr-00036"
+    ],
+    "name_lang_id": "la-name-chr-00036",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00036-01",
+      "stamp-chr-membership_join_00036-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00036-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00036"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00036",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00036",
+    "thumbnail_asset_id": "00036",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00037-001",
+    "character_ids": [
+      "chr-00037"
+    ],
+    "name_lang_id": "la-name-chr-00037",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00037-01",
+      "stamp-chr-membership_join_00037-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00037-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00037"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00037",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00037",
+    "thumbnail_asset_id": "00037",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00039-001",
+    "character_ids": [
+      "chr-00039"
+    ],
+    "name_lang_id": "la-name-chr-00039",
+    "stamp_ids": [
+      "stamp-chr-membership_join_00039-01",
+      "stamp-chr-membership_join_00039-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_00039-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-00039"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-00039",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-00039",
+    "thumbnail_asset_id": "00039",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03001-001",
+    "character_ids": [
+      "chr-03001"
+    ],
+    "name_lang_id": "la-name-chr-03001",
+    "stamp_ids": [
+      "stamp-chr-membership_join_03001-01",
+      "stamp-chr-membership_join_03001-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_03001-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-03001"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-03001",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-03001",
+    "thumbnail_asset_id": "03001",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03002-001",
+    "character_ids": [
+      "chr-03002"
+    ],
+    "name_lang_id": "la-name-chr-03002",
+    "stamp_ids": [
+      "stamp-chr-membership_join_03002-01",
+      "stamp-chr-membership_join_03002-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_03002-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-03002"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-03002",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-03002",
+    "thumbnail_asset_id": "03002",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03003-001",
+    "character_ids": [
+      "chr-03003"
+    ],
+    "name_lang_id": "la-name-chr-03003",
+    "stamp_ids": [
+      "stamp-chr-membership_join_03003-01",
+      "stamp-chr-membership_join_03003-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_03003-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-03003"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-03003",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-03003",
+    "thumbnail_asset_id": "03003",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03004-001",
+    "character_ids": [
+      "chr-03004"
+    ],
+    "name_lang_id": "la-name-chr-03004",
+    "stamp_ids": [
+      "stamp-chr-membership_join_03004-01",
+      "stamp-chr-membership_join_03004-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_03004-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-03004"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-03004",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-03004",
+    "thumbnail_asset_id": "03004",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03005-001",
+    "character_ids": [
+      "chr-03005"
+    ],
+    "name_lang_id": "la-name-chr-03005",
+    "stamp_ids": [
+      "stamp-chr-membership_join_03005-01",
+      "stamp-chr-membership_join_03005-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_03005-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-03005"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-03005",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-03005",
+    "thumbnail_asset_id": "03005",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03006-001",
+    "character_ids": [
+      "chr-03006"
+    ],
+    "name_lang_id": "la-name-chr-03006",
+    "stamp_ids": [
+      "stamp-chr-membership_join_03006-01",
+      "stamp-chr-membership_join_03006-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_03006-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-03006"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-03006",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-03006",
+    "thumbnail_asset_id": "03006",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03007-001",
+    "character_ids": [
+      "chr-03007"
+    ],
+    "name_lang_id": "la-name-chr-03007",
+    "stamp_ids": [
+      "stamp-chr-membership_join_03007-01",
+      "stamp-chr-membership_join_03007-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_03007-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-03007"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-03007",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-03007",
+    "thumbnail_asset_id": "03007",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03008-001",
+    "character_ids": [
+      "chr-03008"
+    ],
+    "name_lang_id": "la-name-chr-03008",
+    "stamp_ids": [
+      "stamp-chr-membership_join_03008-01",
+      "stamp-chr-membership_join_03008-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_03008-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-03008"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-03008",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-03008",
+    "thumbnail_asset_id": "03008",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03009-001",
+    "character_ids": [
+      "chr-03009"
+    ],
+    "name_lang_id": "la-name-chr-03009",
+    "stamp_ids": [
+      "stamp-chr-membership_join_03009-01",
+      "stamp-chr-membership_join_03009-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_03009-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-03009"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-03009",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-03009",
+    "thumbnail_asset_id": "03009",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04001-001",
+    "character_ids": [
+      "chr-04001"
+    ],
+    "name_lang_id": "la-name-chr-04001",
+    "stamp_ids": [
+      "stamp-chr-membership_join_04001-01",
+      "stamp-chr-membership_join_04001-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_04001-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-04001"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-04001",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-04001",
+    "thumbnail_asset_id": "04001",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04002-001",
+    "character_ids": [
+      "chr-04002"
+    ],
+    "name_lang_id": "la-name-chr-04002",
+    "stamp_ids": [
+      "stamp-chr-membership_join_04002-01",
+      "stamp-chr-membership_join_04002-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_04002-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-04002"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-04002",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-04002",
+    "thumbnail_asset_id": "04002",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04003-001",
+    "character_ids": [
+      "chr-04003"
+    ],
+    "name_lang_id": "la-name-chr-04003",
+    "stamp_ids": [
+      "stamp-chr-membership_join_04003-01",
+      "stamp-chr-membership_join_04003-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_04003-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-04003"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-04003",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-04003",
+    "thumbnail_asset_id": "04003",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04007-001",
+    "character_ids": [
+      "chr-04007"
+    ],
+    "name_lang_id": "la-name-chr-04007",
+    "stamp_ids": [
+      "stamp-chr-membership_join_04007-01",
+      "stamp-chr-membership_join_04007-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_04007-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-04007"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-04007",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-04007",
+    "thumbnail_asset_id": "04007",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04010-001",
+    "character_ids": [
+      "chr-04010"
+    ],
+    "name_lang_id": "la-name-chr-04010",
+    "stamp_ids": [
+      "stamp-chr-membership_join_04010-01",
+      "stamp-chr-membership_join_04010-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_04010-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-04010"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-04010",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-04010",
+    "thumbnail_asset_id": "04010",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04012-001",
+    "character_ids": [
+      "chr-04012"
+    ],
+    "name_lang_id": "la-name-chr-04012",
+    "stamp_ids": [
+      "stamp-chr-membership_join_04012-01",
+      "stamp-chr-membership_join_04012-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_04012-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-04012"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-04012",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-04012",
+    "thumbnail_asset_id": "04012",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04013-001",
+    "character_ids": [
+      "chr-04013"
+    ],
+    "name_lang_id": "la-name-chr-04013",
+    "stamp_ids": [
+      "stamp-chr-membership_join_04013-01",
+      "stamp-chr-membership_join_04013-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_04013-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-04013"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-04013",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-04013",
+    "thumbnail_asset_id": "04013",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04014-001",
+    "character_ids": [
+      "chr-04014"
+    ],
+    "name_lang_id": "la-name-chr-04014",
+    "stamp_ids": [
+      "stamp-chr-membership_join_04014-01",
+      "stamp-chr-membership_join_04014-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_04014-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-04014"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-04014",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-04014",
+    "thumbnail_asset_id": "04014",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04015-001",
+    "character_ids": [
+      "chr-04015"
+    ],
+    "name_lang_id": "la-name-chr-04015",
+    "stamp_ids": [
+      "stamp-chr-membership_join_04015-01",
+      "stamp-chr-membership_join_04015-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_04015-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-04015"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-04015",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-04015",
+    "thumbnail_asset_id": "04015",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-06002-001",
+    "character_ids": [
+      "chr-06002"
+    ],
+    "name_lang_id": "la-name-chr-06002",
+    "stamp_ids": [
+      "stamp-chr-membership_join_06002-01",
+      "stamp-chr-membership_join_06002-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_06002-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-06002"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-06002",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-06002",
+    "thumbnail_asset_id": "06002",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-06003-001",
+    "character_ids": [
+      "chr-06003"
+    ],
+    "name_lang_id": "la-name-chr-06003",
+    "stamp_ids": [
+      "stamp-chr-membership_join_06003-01",
+      "stamp-chr-membership_join_06003-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_06003-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-06003"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-06003",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-06003",
+    "thumbnail_asset_id": "06003",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-06004-001",
+    "character_ids": [
+      "chr-06004"
+    ],
+    "name_lang_id": "la-name-chr-06004",
+    "stamp_ids": [
+      "stamp-chr-membership_join_06004-01",
+      "stamp-chr-membership_join_06004-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_06004-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-06004"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-06004",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-06004",
+    "thumbnail_asset_id": "06004",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-06005-001",
+    "character_ids": [
+      "chr-06005"
+    ],
+    "name_lang_id": "la-name-chr-06005",
+    "stamp_ids": [
+      "stamp-chr-membership_join_06005-01",
+      "stamp-chr-membership_join_06005-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_06005-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-06005"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-06005",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-06005",
+    "thumbnail_asset_id": "06005",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  },
+  {
+    "shop_charge_item_subscription_shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-80001-001",
+    "character_ids": [
+      "chr-04016",
+      "chr-04017"
+    ],
+    "name_lang_id": "la-name-chr-80001",
+    "stamp_ids": [
+      "stamp-chr-membership_join_80001-01",
+      "stamp-chr-membership_join_80001-02"
+    ],
+    "emblem_ids": [
+      "emblem-chr-membership_join_80001-01"
+    ],
+    "fan_mark_ids": [
+      "fan_mark-chr-80001"
+    ],
+    "character_coin_item_id": "item-character_coin-chr-80001",
+    "character_coin_item_quantity": 3,
+    "first_join_reward_character_coin_item_quantity": 3,
+    "character_coin_exchange_booth_group_id": "exchange_booth_group-membership-chr-80001",
+    "thumbnail_asset_id": "80001",
+    "motion_asset_id": "mot_general_chr_typ000_cos000_doya00_in",
+    "notification_start_time": "946652400000"
+  }
+]

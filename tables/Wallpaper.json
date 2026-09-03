@@ -1,0 +1,93 @@
+[
+  {
+    "id": "wallpaper_default-001",
+    "name_lang_id": "la-wallpaper_default-001",
+    "asset_id": "default-001",
+    "is_preset": true,
+    "order": 2
+  },
+  {
+    "id": "wallpaper_default-002",
+    "name_lang_id": "la-wallpaper_default-002",
+    "asset_id": "default-002",
+    "is_preset": true,
+    "order": 3
+  },
+  {
+    "id": "wallpaper_default-003",
+    "name_lang_id": "la-wallpaper_default-003",
+    "asset_id": "default-003",
+    "is_preset": true,
+    "order": 4
+  },
+  {
+    "id": "wallpaper_default-004",
+    "name_lang_id": "la-wallpaper_default-004",
+    "asset_id": "default-004",
+    "is_preset": true,
+    "order": 5
+  },
+  {
+    "id": "wallpaper_default-005",
+    "name_lang_id": "la-wallpaper_default-005",
+    "asset_id": "default-005",
+    "is_preset": true,
+    "order": 6
+  },
+  {
+    "id": "wallpaper_default-006",
+    "name_lang_id": "la-wallpaper_default-006",
+    "asset_id": "default-006",
+    "is_preset": true,
+    "order": 7
+  },
+  {
+    "id": "wallpaper_default-007",
+    "name_lang_id": "la-wallpaper_default-007",
+    "asset_id": "default-007",
+    "is_preset": true,
+    "order": 8
+  },
+  {
+    "id": "wallpaper_park-area-a01-bedroom-01-noon",
+    "name_lang_id": "la-wallpaper_park-area-a01-bedroom-01-noon",
+    "asset_id": "park-area-a01-bedroom-01-noon",
+    "is_preset": true,
+    "order": 14
+  },
+  {
+    "id": "wallpaper_park-area-a01-corridor-01-noon",
+    "name_lang_id": "la-wallpaper_park-area-a01-corridor-01-noon",
+    "asset_id": "park-area-a01-corridor-01-noon",
+    "is_preset": true,
+    "order": 13
+  },
+  {
+    "id": "wallpaper_park-area-a01-deck-01-noon",
+    "name_lang_id": "la-wallpaper_park-area-a01-deck-01-noon",
+    "asset_id": "park-area-a01-deck-01-noon",
+    "is_preset": true,
+    "order": 10
+  },
+  {
+    "id": "wallpaper_park-area-a01-livestage-01-noon",
+    "name_lang_id": "la-wallpaper_park-area-a01-livestage-01-noon",
+    "asset_id": "park-area-a01-livestage-01-noon",
+    "is_preset": true,
+    "order": 11
+  },
+  {
+    "id": "wallpaper_park-area-a01-livestage-02-night",
+    "name_lang_id": "la-wallpaper_park-area-a01-livestage-02-night",
+    "asset_id": "park-area-a01-livestage-02-night",
+    "is_preset": true,
+    "order": 12
+  },
+  {
+    "id": "wallpaper_park-area-a01-sky-01-noon",
+    "name_lang_id": "la-wallpaper_park-area-a01-sky-01-noon",
+    "asset_id": "park-area-a01-sky-01-noon",
+    "is_preset": true,
+    "order": 9
+  }
+]

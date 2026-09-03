@@ -1,0 +1,2027 @@
+[
+  {
+    "id": "item-card-potential-upgrade-cmn",
+    "name_lang_id": "la-item-card-potential-upgrade-cmn-name",
+    "description_lang_id": "la-item-card-potential-upgrade-cmn-description",
+    "type": {
+      "name": "ITEM_TYPE_CARD_POTENTIAL_UPGRADE",
+      "number": 3
+    },
+    "asset_id": "card-potential-upgrade-cmn",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-card-potential-upgrade-cmn_point-01",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 2004
+  },
+  {
+    "id": "item-card_level_up",
+    "name_lang_id": "la-item-card_level_up-name",
+    "description_lang_id": "la-item-card_level_up-description",
+    "type": {
+      "name": "ITEM_TYPE_CARD_LEVEL_UP",
+      "number": 1
+    },
+    "asset_id": "card-level-up",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-card_level_up",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1001
+  },
+  {
+    "id": "item-card_limit_break-attribute_1-1",
+    "name_lang_id": "la-item-card_limit_break-attribute_1-1-name",
+    "description_lang_id": "la-item-card_limit_break-attribute_1-1-description",
+    "type": {
+      "name": "ITEM_TYPE_CARD_LEVEL_LIMIT_BREAK",
+      "number": 2
+    },
+    "asset_id": "card-limit-break-attribute-1-1",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-card_limit_break-attribute_1-1",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1011
+  },
+  {
+    "id": "item-card_limit_break-attribute_1-2",
+    "name_lang_id": "la-item-card_limit_break-attribute_1-2-name",
+    "description_lang_id": "la-item-card_limit_break-attribute_1-2-description",
+    "type": {
+      "name": "ITEM_TYPE_CARD_LEVEL_LIMIT_BREAK",
+      "number": 2
+    },
+    "asset_id": "card-limit-break-attribute-1-2",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-card_limit_break-attribute_1-2",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1012
+  },
+  {
+    "id": "item-card_limit_break-attribute_2-1",
+    "name_lang_id": "la-item-card_limit_break-attribute_2-1-name",
+    "description_lang_id": "la-item-card_limit_break-attribute_2-1-description",
+    "type": {
+      "name": "ITEM_TYPE_CARD_LEVEL_LIMIT_BREAK",
+      "number": 2
+    },
+    "asset_id": "card-limit-break-attribute-2-1",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-card_limit_break-attribute_2-1",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1021
+  },
+  {
+    "id": "item-card_limit_break-attribute_2-2",
+    "name_lang_id": "la-item-card_limit_break-attribute_2-2-name",
+    "description_lang_id": "la-item-card_limit_break-attribute_2-2-description",
+    "type": {
+      "name": "ITEM_TYPE_CARD_LEVEL_LIMIT_BREAK",
+      "number": 2
+    },
+    "asset_id": "card-limit-break-attribute-2-2",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-card_limit_break-attribute_2-2",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1022
+  },
+  {
+    "id": "item-card_limit_break-attribute_3-1",
+    "name_lang_id": "la-item-card_limit_break-attribute_3-1-name",
+    "description_lang_id": "la-item-card_limit_break-attribute_3-1-description",
+    "type": {
+      "name": "ITEM_TYPE_CARD_LEVEL_LIMIT_BREAK",
+      "number": 2
+    },
+    "asset_id": "card-limit-break-attribute-3-1",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-card_limit_break-attribute_3-1",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1031
+  },
+  {
+    "id": "item-card_limit_break-attribute_3-2",
+    "name_lang_id": "la-item-card_limit_break-attribute_3-2-name",
+    "description_lang_id": "la-item-card_limit_break-attribute_3-2-description",
+    "type": {
+      "name": "ITEM_TYPE_CARD_LEVEL_LIMIT_BREAK",
+      "number": 2
+    },
+    "asset_id": "card-limit-break-attribute-3-2",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-card_limit_break-attribute_3-2",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1032
+  },
+  {
+    "id": "item-card_limit_break-cmn-sr",
+    "name_lang_id": "la-item-card_limit_break-cmn-sr-name",
+    "description_lang_id": "la-item-card_limit_break-cmn-sr-description",
+    "type": {
+      "name": "ITEM_TYPE_CARD_LEVEL_LIMIT_BREAK",
+      "number": 2
+    },
+    "asset_id": "card-limit-break-cmn-sr",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-card_limit_break-cmn-sr",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1041
+  },
+  {
+    "id": "item-character_coin-chr-00001",
+    "name_lang_id": "la-item-character_coin-chr-00001-name",
+    "description_lang_id": "la-item-character_coin-chr-00001-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00001",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20001
+  },
+  {
+    "id": "item-character_coin-chr-00002",
+    "name_lang_id": "la-item-character_coin-chr-00002-name",
+    "description_lang_id": "la-item-character_coin-chr-00002-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00002",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20002
+  },
+  {
+    "id": "item-character_coin-chr-00004",
+    "name_lang_id": "la-item-character_coin-chr-00004-name",
+    "description_lang_id": "la-item-character_coin-chr-00004-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00004",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20006
+  },
+  {
+    "id": "item-character_coin-chr-00005",
+    "name_lang_id": "la-item-character_coin-chr-00005-name",
+    "description_lang_id": "la-item-character_coin-chr-00005-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00005",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20007
+  },
+  {
+    "id": "item-character_coin-chr-00006",
+    "name_lang_id": "la-item-character_coin-chr-00006-name",
+    "description_lang_id": "la-item-character_coin-chr-00006-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00006",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20008
+  },
+  {
+    "id": "item-character_coin-chr-00007",
+    "name_lang_id": "la-item-character_coin-chr-00007-name",
+    "description_lang_id": "la-item-character_coin-chr-00007-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00007",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20009
+  },
+  {
+    "id": "item-character_coin-chr-00010",
+    "name_lang_id": "la-item-character_coin-chr-00010-name",
+    "description_lang_id": "la-item-character_coin-chr-00010-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00010",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20010
+  },
+  {
+    "id": "item-character_coin-chr-00011",
+    "name_lang_id": "la-item-character_coin-chr-00011-name",
+    "description_lang_id": "la-item-character_coin-chr-00011-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00011",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20011
+  },
+  {
+    "id": "item-character_coin-chr-00012",
+    "name_lang_id": "la-item-character_coin-chr-00012-name",
+    "description_lang_id": "la-item-character_coin-chr-00012-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00012",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20012
+  },
+  {
+    "id": "item-character_coin-chr-00013",
+    "name_lang_id": "la-item-character_coin-chr-00013-name",
+    "description_lang_id": "la-item-character_coin-chr-00013-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00013",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20003
+  },
+  {
+    "id": "item-character_coin-chr-00014",
+    "name_lang_id": "la-item-character_coin-chr-00014-name",
+    "description_lang_id": "la-item-character_coin-chr-00014-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00014",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20013
+  },
+  {
+    "id": "item-character_coin-chr-00015",
+    "name_lang_id": "la-item-character_coin-chr-00015-name",
+    "description_lang_id": "la-item-character_coin-chr-00015-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00015",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20004
+  },
+  {
+    "id": "item-character_coin-chr-00016",
+    "name_lang_id": "la-item-character_coin-chr-00016-name",
+    "description_lang_id": "la-item-character_coin-chr-00016-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00016",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20014
+  },
+  {
+    "id": "item-character_coin-chr-00017",
+    "name_lang_id": "la-item-character_coin-chr-00017-name",
+    "description_lang_id": "la-item-character_coin-chr-00017-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00017",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20015
+  },
+  {
+    "id": "item-character_coin-chr-00018",
+    "name_lang_id": "la-item-character_coin-chr-00018-name",
+    "description_lang_id": "la-item-character_coin-chr-00018-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00018",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20005
+  },
+  {
+    "id": "item-character_coin-chr-00019",
+    "name_lang_id": "la-item-character_coin-chr-00019-name",
+    "description_lang_id": "la-item-character_coin-chr-00019-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00019",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20016
+  },
+  {
+    "id": "item-character_coin-chr-00021",
+    "name_lang_id": "la-item-character_coin-chr-00021-name",
+    "description_lang_id": "la-item-character_coin-chr-00021-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00021",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20017
+  },
+  {
+    "id": "item-character_coin-chr-00022",
+    "name_lang_id": "la-item-character_coin-chr-00022-name",
+    "description_lang_id": "la-item-character_coin-chr-00022-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00022",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20018
+  },
+  {
+    "id": "item-character_coin-chr-00023",
+    "name_lang_id": "la-item-character_coin-chr-00023-name",
+    "description_lang_id": "la-item-character_coin-chr-00023-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00023",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20019
+  },
+  {
+    "id": "item-character_coin-chr-00026",
+    "name_lang_id": "la-item-character_coin-chr-00026-name",
+    "description_lang_id": "la-item-character_coin-chr-00026-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00026",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20020
+  },
+  {
+    "id": "item-character_coin-chr-00027",
+    "name_lang_id": "la-item-character_coin-chr-00027-name",
+    "description_lang_id": "la-item-character_coin-chr-00027-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00027",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20021
+  },
+  {
+    "id": "item-character_coin-chr-00028",
+    "name_lang_id": "la-item-character_coin-chr-00028-name",
+    "description_lang_id": "la-item-character_coin-chr-00028-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00028",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20022
+  },
+  {
+    "id": "item-character_coin-chr-00030",
+    "name_lang_id": "la-item-character_coin-chr-00030-name",
+    "description_lang_id": "la-item-character_coin-chr-00030-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00030",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20023
+  },
+  {
+    "id": "item-character_coin-chr-00031",
+    "name_lang_id": "la-item-character_coin-chr-00031-name",
+    "description_lang_id": "la-item-character_coin-chr-00031-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00031",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20024
+  },
+  {
+    "id": "item-character_coin-chr-00032",
+    "name_lang_id": "la-item-character_coin-chr-00032-name",
+    "description_lang_id": "la-item-character_coin-chr-00032-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00032",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20025
+  },
+  {
+    "id": "item-character_coin-chr-00034",
+    "name_lang_id": "la-item-character_coin-chr-00034-name",
+    "description_lang_id": "la-item-character_coin-chr-00034-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00034",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20026
+  },
+  {
+    "id": "item-character_coin-chr-00035",
+    "name_lang_id": "la-item-character_coin-chr-00035-name",
+    "description_lang_id": "la-item-character_coin-chr-00035-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00035",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20027
+  },
+  {
+    "id": "item-character_coin-chr-00036",
+    "name_lang_id": "la-item-character_coin-chr-00036-name",
+    "description_lang_id": "la-item-character_coin-chr-00036-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00036",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20028
+  },
+  {
+    "id": "item-character_coin-chr-00037",
+    "name_lang_id": "la-item-character_coin-chr-00037-name",
+    "description_lang_id": "la-item-character_coin-chr-00037-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00037",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20029
+  },
+  {
+    "id": "item-character_coin-chr-00039",
+    "name_lang_id": "la-item-character_coin-chr-00039-name",
+    "description_lang_id": "la-item-character_coin-chr-00039-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-00039",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20030
+  },
+  {
+    "id": "item-character_coin-chr-03001",
+    "name_lang_id": "la-item-character_coin-chr-03001-name",
+    "description_lang_id": "la-item-character_coin-chr-03001-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-03001",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20031
+  },
+  {
+    "id": "item-character_coin-chr-03002",
+    "name_lang_id": "la-item-character_coin-chr-03002-name",
+    "description_lang_id": "la-item-character_coin-chr-03002-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-03002",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20032
+  },
+  {
+    "id": "item-character_coin-chr-03003",
+    "name_lang_id": "la-item-character_coin-chr-03003-name",
+    "description_lang_id": "la-item-character_coin-chr-03003-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-03003",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20033
+  },
+  {
+    "id": "item-character_coin-chr-03004",
+    "name_lang_id": "la-item-character_coin-chr-03004-name",
+    "description_lang_id": "la-item-character_coin-chr-03004-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-03004",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20034
+  },
+  {
+    "id": "item-character_coin-chr-03005",
+    "name_lang_id": "la-item-character_coin-chr-03005-name",
+    "description_lang_id": "la-item-character_coin-chr-03005-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-03005",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20035
+  },
+  {
+    "id": "item-character_coin-chr-03006",
+    "name_lang_id": "la-item-character_coin-chr-03006-name",
+    "description_lang_id": "la-item-character_coin-chr-03006-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-03006",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20036
+  },
+  {
+    "id": "item-character_coin-chr-03007",
+    "name_lang_id": "la-item-character_coin-chr-03007-name",
+    "description_lang_id": "la-item-character_coin-chr-03007-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-03007",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20037
+  },
+  {
+    "id": "item-character_coin-chr-03008",
+    "name_lang_id": "la-item-character_coin-chr-03008-name",
+    "description_lang_id": "la-item-character_coin-chr-03008-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-03008",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20038
+  },
+  {
+    "id": "item-character_coin-chr-03009",
+    "name_lang_id": "la-item-character_coin-chr-03009-name",
+    "description_lang_id": "la-item-character_coin-chr-03009-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-03009",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20039
+  },
+  {
+    "id": "item-character_coin-chr-04001",
+    "name_lang_id": "la-item-character_coin-chr-04001-name",
+    "description_lang_id": "la-item-character_coin-chr-04001-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-04001",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20040
+  },
+  {
+    "id": "item-character_coin-chr-04002",
+    "name_lang_id": "la-item-character_coin-chr-04002-name",
+    "description_lang_id": "la-item-character_coin-chr-04002-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-04002",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20041
+  },
+  {
+    "id": "item-character_coin-chr-04003",
+    "name_lang_id": "la-item-character_coin-chr-04003-name",
+    "description_lang_id": "la-item-character_coin-chr-04003-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-04003",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20042
+  },
+  {
+    "id": "item-character_coin-chr-04007",
+    "name_lang_id": "la-item-character_coin-chr-04007-name",
+    "description_lang_id": "la-item-character_coin-chr-04007-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-04007",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20043
+  },
+  {
+    "id": "item-character_coin-chr-04010",
+    "name_lang_id": "la-item-character_coin-chr-04010-name",
+    "description_lang_id": "la-item-character_coin-chr-04010-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-04010",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20044
+  },
+  {
+    "id": "item-character_coin-chr-04012",
+    "name_lang_id": "la-item-character_coin-chr-04012-name",
+    "description_lang_id": "la-item-character_coin-chr-04012-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-04012",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20045
+  },
+  {
+    "id": "item-character_coin-chr-04013",
+    "name_lang_id": "la-item-character_coin-chr-04013-name",
+    "description_lang_id": "la-item-character_coin-chr-04013-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-04013",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20046
+  },
+  {
+    "id": "item-character_coin-chr-04014",
+    "name_lang_id": "la-item-character_coin-chr-04014-name",
+    "description_lang_id": "la-item-character_coin-chr-04014-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-04014",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20047
+  },
+  {
+    "id": "item-character_coin-chr-04015",
+    "name_lang_id": "la-item-character_coin-chr-04015-name",
+    "description_lang_id": "la-item-character_coin-chr-04015-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-04015",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20048
+  },
+  {
+    "id": "item-character_coin-chr-06002",
+    "name_lang_id": "la-item-character_coin-chr-06002-name",
+    "description_lang_id": "la-item-character_coin-chr-06002-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-06002",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20050
+  },
+  {
+    "id": "item-character_coin-chr-06003",
+    "name_lang_id": "la-item-character_coin-chr-06003-name",
+    "description_lang_id": "la-item-character_coin-chr-06003-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-06003",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20051
+  },
+  {
+    "id": "item-character_coin-chr-06004",
+    "name_lang_id": "la-item-character_coin-chr-06004-name",
+    "description_lang_id": "la-item-character_coin-chr-06004-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-06004",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20052
+  },
+  {
+    "id": "item-character_coin-chr-06005",
+    "name_lang_id": "la-item-character_coin-chr-06005-name",
+    "description_lang_id": "la-item-character_coin-chr-06005-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-06005",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20053
+  },
+  {
+    "id": "item-character_coin-chr-80001",
+    "name_lang_id": "la-item-character_coin-chr-80001-name",
+    "description_lang_id": "la-item-character_coin-chr-80001-description",
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "asset_id": "character-coin-80001",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-character_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_HIDDEN",
+      "number": 1000
+    },
+    "order": 20049
+  },
+  {
+    "id": "item-event_badge-marathon_event-normal-001-chapter-01",
+    "name_lang_id": "la-item-event_badge-marathon_event-normal-001-chapter-01-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-normal-001-chapter-01-description",
+    "type": {
+      "name": "ITEM_TYPE_EXCHANGE",
+      "number": 7
+    },
+    "common_limit_time": "1786445999000",
+    "asset_id": "event-badge-01",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-normal-001-chapter-01",
+    "order": 5001,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-event_badge-marathon_event-normal-002-chapter-01",
+    "name_lang_id": "la-item-event_badge-marathon_event-normal-002-chapter-01-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-normal-002-chapter-01-description",
+    "type": {
+      "name": "ITEM_TYPE_EXCHANGE",
+      "number": 7
+    },
+    "common_limit_time": "1787309999000",
+    "asset_id": "event-badge-03",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-normal-002-chapter-01",
+    "order": 9002,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-event_badge-marathon_event-normal-003-chapter-01",
+    "name_lang_id": "la-item-event_badge-marathon_event-normal-003-chapter-01-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-normal-003-chapter-01-description",
+    "type": {
+      "name": "ITEM_TYPE_MARATHON_EVENT_BADGE",
+      "number": 1000
+    },
+    "common_limit_time": "1789210799000",
+    "asset_id": "event-badge-01",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-normal-003-chapter-01",
+    "order": 5001,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-event_badge-marathon_event-relay-001-all",
+    "name_lang_id": "la-item-event_badge-marathon_event-relay-001-all-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-relay-001-all-description",
+    "type": {
+      "name": "ITEM_TYPE_EXCHANGE",
+      "number": 7
+    },
+    "common_limit_time": "1788346799000",
+    "asset_id": "event-badge-04",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-relay-001-all",
+    "order": 5003,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-event_badge-marathon_event-relay-001-chapter-01",
+    "name_lang_id": "la-item-event_badge-marathon_event-relay-001-chapter-01-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-relay-001-chapter-01-description",
+    "type": {
+      "name": "ITEM_TYPE_EXCHANGE",
+      "number": 7
+    },
+    "common_limit_time": "1788346799000",
+    "asset_id": "event-badge-02",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-relay-001-chapter-01",
+    "thumbnail_sub_asset_id": "img_chr_icon_mini_04001",
+    "order": 5003,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-event_badge-marathon_event-relay-001-chapter-02",
+    "name_lang_id": "la-item-event_badge-marathon_event-relay-001-chapter-02-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-relay-001-chapter-02-description",
+    "type": {
+      "name": "ITEM_TYPE_EXCHANGE",
+      "number": 7
+    },
+    "common_limit_time": "1788346799000",
+    "asset_id": "event-badge-02",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-relay-001-chapter-02",
+    "thumbnail_sub_asset_id": "img_chr_icon_mini_00010",
+    "order": 5004,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-event_badge-marathon_event-relay-001-chapter-03",
+    "name_lang_id": "la-item-event_badge-marathon_event-relay-001-chapter-03-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-relay-001-chapter-03-description",
+    "type": {
+      "name": "ITEM_TYPE_EXCHANGE",
+      "number": 7
+    },
+    "common_limit_time": "1788346799000",
+    "asset_id": "event-badge-02",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-relay-001-chapter-03",
+    "thumbnail_sub_asset_id": "img_chr_icon_mini_03004",
+    "order": 5005,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-event_badge-marathon_event-relay-001-chapter-04",
+    "name_lang_id": "la-item-event_badge-marathon_event-relay-001-chapter-04-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-relay-001-chapter-04-description",
+    "type": {
+      "name": "ITEM_TYPE_EXCHANGE",
+      "number": 7
+    },
+    "common_limit_time": "1788346799000",
+    "asset_id": "event-badge-02",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-relay-001-chapter-04",
+    "thumbnail_sub_asset_id": "img_chr_icon_mini_00028",
+    "order": 5006,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-event_badge-marathon_event-relay-001-chapter-05",
+    "name_lang_id": "la-item-event_badge-marathon_event-relay-001-chapter-05-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-relay-001-chapter-05-description",
+    "type": {
+      "name": "ITEM_TYPE_EXCHANGE",
+      "number": 7
+    },
+    "common_limit_time": "1788346799000",
+    "asset_id": "event-badge-02",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-relay-001-chapter-05",
+    "thumbnail_sub_asset_id": "img_chr_icon_mini_04003",
+    "order": 5007,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-exchange-holomedal",
+    "name_lang_id": "la-item-exchange-holomedal-name",
+    "description_lang_id": "la-item-exchange-holomedal-description",
+    "type": {
+      "name": "ITEM_TYPE_EXCHANGE",
+      "number": 7
+    },
+    "asset_id": "exchange-holomedal",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-exchange-holomedal",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "is_display_owned": true,
+    "order": 3005
+  },
+  {
+    "id": "item-facility-area_a01-000-cmn",
+    "name_lang_id": "la-item-facility-area_a01-000-cmn-name",
+    "description_lang_id": "la-item-facility-area_a01-000-cmn-description",
+    "type": {
+      "name": "ITEM_TYPE_FACILITY",
+      "number": 6
+    },
+    "asset_id": "facility-area-a01-000-cmn",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-facility-area_a01-000-cmn",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_PARK",
+      "number": 2
+    },
+    "is_display_owned": true,
+    "order": 1201
+  },
+  {
+    "id": "item-facility-area_a01-001-1",
+    "name_lang_id": "la-item-facility-area_a01-001-1-name",
+    "description_lang_id": "la-item-facility-area_a01-001-1-description",
+    "type": {
+      "name": "ITEM_TYPE_FACILITY",
+      "number": 6
+    },
+    "asset_id": "facility-area-a01-001-1",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-facility-area_a01-001-1",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_PARK",
+      "number": 2
+    },
+    "is_display_owned": true,
+    "order": 1202
+  },
+  {
+    "id": "item-facility-area_a01-001-2",
+    "name_lang_id": "la-item-facility-area_a01-001-2-name",
+    "description_lang_id": "la-item-facility-area_a01-001-2-description",
+    "type": {
+      "name": "ITEM_TYPE_FACILITY",
+      "number": 6
+    },
+    "asset_id": "facility-area-a01-001-2",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-facility-area_a01-001-2",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_PARK",
+      "number": 2
+    },
+    "is_display_owned": true,
+    "order": 1204
+  },
+  {
+    "id": "item-facility-area_a01-002-1",
+    "name_lang_id": "la-item-facility-area_a01-002-1-name",
+    "description_lang_id": "la-item-facility-area_a01-002-1-description",
+    "type": {
+      "name": "ITEM_TYPE_FACILITY",
+      "number": 6
+    },
+    "asset_id": "facility-area-a01-002-1",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-facility-area_a01-002-1",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_PARK",
+      "number": 2
+    },
+    "is_display_owned": true,
+    "order": 1203
+  },
+  {
+    "id": "item-facility-area_a01-002-2",
+    "name_lang_id": "la-item-facility-area_a01-002-2-name",
+    "description_lang_id": "la-item-facility-area_a01-002-2-description",
+    "type": {
+      "name": "ITEM_TYPE_FACILITY",
+      "number": 6
+    },
+    "asset_id": "facility-area-a01-002-2",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-facility-area_a01-002-2",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_PARK",
+      "number": 2
+    },
+    "is_display_owned": true,
+    "order": 1205
+  },
+  {
+    "id": "item-facility-area_a02-000-cmn",
+    "name_lang_id": "la-item-facility-area_a02-000-cmn-name",
+    "description_lang_id": "la-item-facility-area_a02-000-cmn-description",
+    "type": {
+      "name": "ITEM_TYPE_FACILITY",
+      "number": 6
+    },
+    "asset_id": "facility-area-a02-000-cmn",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-facility-area_a02-000-cmn",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_PARK",
+      "number": 2
+    },
+    "is_display_owned": true,
+    "order": 1206
+  },
+  {
+    "id": "item-facility-area_a02-001-1",
+    "name_lang_id": "la-item-facility-area_a02-001-1-name",
+    "description_lang_id": "la-item-facility-area_a02-001-1-description",
+    "type": {
+      "name": "ITEM_TYPE_FACILITY",
+      "number": 6
+    },
+    "asset_id": "facility-area-a02-001-1",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-facility-area_a02-001-1",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_PARK",
+      "number": 2
+    },
+    "is_display_owned": true,
+    "order": 1207
+  },
+  {
+    "id": "item-facility-area_a02-002-1",
+    "name_lang_id": "la-item-facility-area_a02-002-1-name",
+    "description_lang_id": "la-item-facility-area_a02-002-1-description",
+    "type": {
+      "name": "ITEM_TYPE_FACILITY",
+      "number": 6
+    },
+    "asset_id": "facility-area-a02-002-1",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-facility-area_a02-002-1",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_PARK",
+      "number": 2
+    },
+    "is_display_owned": true,
+    "order": 1208
+  },
+  {
+    "id": "item-gacha-cmn_sticker-01",
+    "name_lang_id": "la-item-gacha-cmn_sticker-01-name",
+    "description_lang_id": "la-item-gacha-cmn_sticker-01-description",
+    "type": {
+      "name": "ITEM_TYPE_EXCHANGE",
+      "number": 7
+    },
+    "asset_id": "gacha-cmn-sticker-01",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-gacha-cmn_sticker-01",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "is_display_owned": true,
+    "order": 3009
+  },
+  {
+    "id": "item-gacha-sp_sticker-01",
+    "name_lang_id": "la-item-gacha-sp_sticker-01-name",
+    "description_lang_id": "la-item-gacha-sp_sticker-01-description",
+    "type": {
+      "name": "ITEM_TYPE_EXCHANGE",
+      "number": 7
+    },
+    "asset_id": "gacha-sp-sticker-01",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-gacha-sp_sticker-01",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "is_display_owned": true,
+    "order": 3010
+  },
+  {
+    "id": "item-gacha_ticket-cmn-01",
+    "name_lang_id": "la-item-gacha_ticket-cmn-01-name",
+    "description_lang_id": "la-item-gacha_ticket-cmn-01-description",
+    "type": {
+      "name": "ITEM_TYPE_GACHA_TICKET",
+      "number": 5
+    },
+    "asset_id": "gacha-ticket-cmn-01",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-gacha_ticket-cmn-01",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "is_display_owned": true,
+    "order": 2001
+  },
+  {
+    "id": "item-gacha_ticket-r4-01",
+    "name_lang_id": "la-item-gacha_ticket-r4-01-name",
+    "description_lang_id": "la-item-gacha_ticket-r4-01-description",
+    "type": {
+      "name": "ITEM_TYPE_GACHA_TICKET",
+      "number": 5
+    },
+    "asset_id": "gacha-ticket-r4-01",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-gacha_ticket-r4-01",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 2003
+  },
+  {
+    "id": "item-gacha_ticket-r5-01",
+    "name_lang_id": "la-item-gacha_ticket-r5-01-name",
+    "description_lang_id": "la-item-gacha_ticket-r5-01-description",
+    "type": {
+      "name": "ITEM_TYPE_GACHA_TICKET",
+      "number": 5
+    },
+    "asset_id": "gacha-ticket-r5-01",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-gacha_ticket-r5-01",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 2002
+  },
+  {
+    "id": "item-gold",
+    "name_lang_id": "la-item-gold-name",
+    "description_lang_id": "la-item-gold-description",
+    "type": {
+      "name": "ITEM_TYPE_GOLD",
+      "number": 15
+    },
+    "asset_id": "gold",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-gold",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "is_display_owned": true,
+    "order": 3001
+  },
+  {
+    "id": "item-live_auto_play",
+    "name_lang_id": "la-item-live_auto_play-name",
+    "description_lang_id": "la-item-live_auto_play-description",
+    "type": {
+      "name": "ITEM_TYPE_LIVE_AUTO_PLAY",
+      "number": 10
+    },
+    "asset_id": "live-auto-play",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-live_auto_play",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "is_display_owned": true,
+    "order": 3007
+  },
+  {
+    "id": "item-live_reward_up_stamina_recover",
+    "name_lang_id": "la-item-live_reward_up_stamina_recover-name",
+    "description_lang_id": "la-item-live_reward_up_stamina_recover-description",
+    "type": {
+      "name": "ITEM_TYPE_LIVE_REWARD_UP_STAMINA_RECOVER",
+      "number": 9
+    },
+    "effect_value": "1",
+    "asset_id": "live-reward-up-stamina-recover",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-live_reward_up_stamina_recover",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "is_display_owned": true,
+    "order": 3002
+  },
+  {
+    "id": "item-mini-game-chase-coin",
+    "name_lang_id": "la-item-mini-game-chase-coin-name",
+    "description_lang_id": "la-item-mini-game-chase-coin-description",
+    "type": {
+      "name": "ITEM_TYPE_OTHER",
+      "number": 999
+    },
+    "asset_id": "mini-game-chase-coin",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-mini-game-chase-coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 21
+  },
+  {
+    "id": "item-mini_game_bet_coin",
+    "name_lang_id": "la-item-mini_game_bet_coin-name",
+    "description_lang_id": "la-item-mini_game_bet_coin-description",
+    "type": {
+      "name": "ITEM_TYPE_MINI_GAME_BET_COIN",
+      "number": 11
+    },
+    "asset_id": "mini-game-bet-coin",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-mini_game_bet_coin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "is_display_owned": true,
+    "order": 3004
+  },
+  {
+    "id": "item-mini_game_reward_up_stamina_recover",
+    "name_lang_id": "la-item-mini_game_reward_up_stamina_recover-name",
+    "description_lang_id": "la-item-mini_game_reward_up_stamina_recover-description",
+    "type": {
+      "name": "ITEM_TYPE_MINI_GAME_REWARD_UP_STAMINA_RECOVER",
+      "number": 17
+    },
+    "effect_value": "30",
+    "asset_id": "mini-game-reward-up-stamina-recover",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-mini_game_reward_up_stamina_recover",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "is_display_owned": true,
+    "order": 3003
+  },
+  {
+    "id": "item-music_release",
+    "name_lang_id": "la-item-music_release-name",
+    "description_lang_id": "la-item-music_release-description",
+    "type": {
+      "name": "ITEM_TYPE_MUSIC_RELEASE",
+      "number": 13
+    },
+    "asset_id": "music-release",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-music_release",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "is_display_owned": true,
+    "order": 3006
+  },
+  {
+    "id": "item-park_character_quest",
+    "name_lang_id": "la-item-park_character_quest-name",
+    "description_lang_id": "la-item-park_character_quest-description",
+    "type": {
+      "name": "ITEM_TYPE_PARK_CHARACTER_QUEST",
+      "number": 8
+    },
+    "asset_id": "park-character-quest",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-park_character_quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "is_display_owned": true,
+    "order": 3008
+  },
+  {
+    "id": "item-quest-area-a01-17-1-2",
+    "name_lang_id": "la-item-quest-area-a01-17-1-2-name",
+    "description_lang_id": "la-item-quest-area-a01-17-1-2-description",
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "asset_id": "park-quest-cleaning",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 11001
+  },
+  {
+    "id": "item-quest-main-w1-01-02-1-4",
+    "name_lang_id": "la-item-quest-main-w1-01-02-1-4-name",
+    "description_lang_id": "la-item-quest-main-w1-01-02-1-4-description",
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "asset_id": "park-quest-luggage",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 10001
+  },
+  {
+    "id": "item-quest-main-w1-01-05-1-4",
+    "name_lang_id": "la-item-quest-main-w1-01-05-1-4-name",
+    "description_lang_id": "la-item-quest-main-w1-01-05-1-4-description",
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "asset_id": "park-quest-luggage",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 10002
+  },
+  {
+    "id": "item-quest-main-w1-01-08-1-4",
+    "name_lang_id": "la-item-quest-main-w1-01-08-1-4-name",
+    "description_lang_id": "la-item-quest-main-w1-01-08-1-4-description",
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "asset_id": "park-quest-luggage",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 10003
+  },
+  {
+    "id": "item-quest-main-w1-01-11-1-4",
+    "name_lang_id": "la-item-quest-main-w1-01-11-1-4-name",
+    "description_lang_id": "la-item-quest-main-w1-01-11-1-4-description",
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "asset_id": "park-quest-luggage",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 10004
+  },
+  {
+    "id": "item-quest-main-w1-01-11-1-5",
+    "name_lang_id": "la-item-quest-main-w1-01-11-1-5-name",
+    "description_lang_id": "la-item-quest-main-w1-01-11-1-5-description",
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "asset_id": "park-quest-luggage",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 10005
+  },
+  {
+    "id": "item-quest-main-w1-01-12-1-3",
+    "name_lang_id": "la-item-quest-main-w1-01-12-1-3-name",
+    "description_lang_id": "la-item-quest-main-w1-01-12-1-3-description",
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "asset_id": "park-quest-lunchbox",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 10006
+  },
+  {
+    "id": "item-quest-main-w1-01-12-1-4",
+    "name_lang_id": "la-item-quest-main-w1-01-12-1-4-name",
+    "description_lang_id": "la-item-quest-main-w1-01-12-1-4-description",
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "asset_id": "park-quest-snack",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 10007
+  },
+  {
+    "id": "item-quest-main-w1-01-13-1-4",
+    "name_lang_id": "la-item-quest-main-w1-01-13-1-4-name",
+    "description_lang_id": "la-item-quest-main-w1-01-13-1-4-description",
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "asset_id": "park-quest-luggage",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 10010
+  },
+  {
+    "id": "item-quest-main-w1-01-15-1-1",
+    "name_lang_id": "la-item-quest-main-w1-01-15-1-1-name",
+    "description_lang_id": "la-item-quest-main-w1-01-15-1-1-description",
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "asset_id": "park-quest-luggage",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 10011
+  },
+  {
+    "id": "item-quest-main-w1-01-18-1-3",
+    "name_lang_id": "la-item-quest-main-w1-01-18-1-3-name",
+    "description_lang_id": "la-item-quest-main-w1-01-18-1-3-description",
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "asset_id": "park-quest-decoration-red",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 10012
+  },
+  {
+    "id": "item-quest-main-w1-01-18-1-4",
+    "name_lang_id": "la-item-quest-main-w1-01-18-1-4-name",
+    "description_lang_id": "la-item-quest-main-w1-01-18-1-4-description",
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "asset_id": "park-quest-decoration-blue",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 10013
+  },
+  {
+    "id": "item-selectable_reward_box-item-card_limit_break-attribute_1-10",
+    "name_lang_id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-10-name",
+    "description_lang_id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-10-description",
+    "type": {
+      "name": "ITEM_TYPE_SELECTABLE_REWARD_BOX",
+      "number": 16
+    },
+    "asset_id": "selectable-limit-break-attribute-box-01-01",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_1-10",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "order": 2
+  },
+  {
+    "id": "item-selectable_reward_box-item-card_limit_break-attribute_1-100",
+    "name_lang_id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-100-name",
+    "description_lang_id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-100-description",
+    "type": {
+      "name": "ITEM_TYPE_SELECTABLE_REWARD_BOX",
+      "number": 16
+    },
+    "asset_id": "selectable-limit-break-attribute-box-01-02",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_1-100",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "order": 3
+  },
+  {
+    "id": "item-selectable_reward_box-item-card_limit_break-attribute_1-300",
+    "name_lang_id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-300-name",
+    "description_lang_id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-300-description",
+    "type": {
+      "name": "ITEM_TYPE_SELECTABLE_REWARD_BOX",
+      "number": 16
+    },
+    "asset_id": "selectable-limit-break-attribute-box-01-03",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_1-300",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "order": 4
+  },
+  {
+    "id": "item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+    "name_lang_id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-10-name",
+    "description_lang_id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-10-description",
+    "type": {
+      "name": "ITEM_TYPE_SELECTABLE_REWARD_BOX",
+      "number": 16
+    },
+    "asset_id": "selectable-limit-break-attribute-box-02-01",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "order": 5
+  },
+  {
+    "id": "item-selectable_reward_box-item-card_limit_break-attribute_2-100",
+    "name_lang_id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-100-name",
+    "description_lang_id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-100-description",
+    "type": {
+      "name": "ITEM_TYPE_SELECTABLE_REWARD_BOX",
+      "number": 16
+    },
+    "asset_id": "selectable-limit-break-attribute-box-02-02",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_2-100",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "order": 6
+  },
+  {
+    "id": "item-selectable_reward_box-item-card_limit_break-attribute_2-300",
+    "name_lang_id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-300-name",
+    "description_lang_id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-300-description",
+    "type": {
+      "name": "ITEM_TYPE_SELECTABLE_REWARD_BOX",
+      "number": 16
+    },
+    "asset_id": "selectable-limit-break-attribute-box-02-03",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_2-300",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "order": 7
+  },
+  {
+    "id": "item-selectable_reward_box_membership_medal",
+    "name_lang_id": "la-item-selectable_reward_membership_medal",
+    "description_lang_id": "la-item-selectable_reward_membership_medal-description",
+    "type": {
+      "name": "ITEM_TYPE_SELECTABLE_REWARD_BOX",
+      "number": 16
+    },
+    "asset_id": "selectable-reward-box-normal",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 1
+  },
+  {
+    "id": "item-skill_tree_allmember-1",
+    "name_lang_id": "la-item-skill_tree_allmember-1-name",
+    "description_lang_id": "la-item-skill_tree_allmember-1-description",
+    "type": {
+      "name": "ITEM_TYPE_SKILL_TREE",
+      "number": 4
+    },
+    "asset_id": "skill-tree-allmember-1",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-skill_tree_allmember-1",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1081
+  },
+  {
+    "id": "item-skill_tree_allmember-2",
+    "name_lang_id": "la-item-skill_tree_allmember-2-name",
+    "description_lang_id": "la-item-skill_tree_allmember-2-description",
+    "type": {
+      "name": "ITEM_TYPE_SKILL_TREE",
+      "number": 4
+    },
+    "asset_id": "skill-tree-allmember-2",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-skill_tree_allmember-2",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1082
+  },
+  {
+    "id": "item-skill_tree_card-1",
+    "name_lang_id": "la-item-skill_tree_card-1-name",
+    "description_lang_id": "la-item-skill_tree_card-1-description",
+    "type": {
+      "name": "ITEM_TYPE_SKILL_TREE",
+      "number": 4
+    },
+    "asset_id": "skill-tree-card-1",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-skill_tree_card-1",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1061
+  },
+  {
+    "id": "item-skill_tree_card-2",
+    "name_lang_id": "la-item-skill_tree_card-2-name",
+    "description_lang_id": "la-item-skill_tree_card-2-description",
+    "type": {
+      "name": "ITEM_TYPE_SKILL_TREE",
+      "number": 4
+    },
+    "asset_id": "skill-tree-card-2",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-skill_tree_card-2",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1062
+  },
+  {
+    "id": "item-skill_tree_content-1",
+    "name_lang_id": "la-item-skill_tree_content-1-name",
+    "description_lang_id": "la-item-skill_tree_content-1-description",
+    "type": {
+      "name": "ITEM_TYPE_SKILL_TREE",
+      "number": 4
+    },
+    "asset_id": "skill-tree-content-1",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-skill_tree_content-1",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1071
+  },
+  {
+    "id": "item-skill_tree_content-2",
+    "name_lang_id": "la-item-skill_tree_content-2-name",
+    "description_lang_id": "la-item-skill_tree_content-2-description",
+    "type": {
+      "name": "ITEM_TYPE_SKILL_TREE",
+      "number": 4
+    },
+    "asset_id": "skill-tree-content-2",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-skill_tree_content-2",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1072
+  },
+  {
+    "id": "item-skill_tree_leader-1",
+    "name_lang_id": "la-item-skill_tree_leader-1-name",
+    "description_lang_id": "la-item-skill_tree_leader-1-description",
+    "type": {
+      "name": "ITEM_TYPE_SKILL_TREE",
+      "number": 4
+    },
+    "asset_id": "skill-tree-leader-1",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-skill_tree_leader-1",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1051
+  },
+  {
+    "id": "item-skill_tree_leader-2",
+    "name_lang_id": "la-item-skill_tree_leader-2-name",
+    "description_lang_id": "la-item-skill_tree_leader-2-description",
+    "type": {
+      "name": "ITEM_TYPE_SKILL_TREE",
+      "number": 4
+    },
+    "asset_id": "skill-tree-leader-2",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-skill_tree_leader-2",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1052
+  }
+]

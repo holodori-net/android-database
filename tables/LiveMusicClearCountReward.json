@@ -1,0 +1,54 @@
+[
+  {
+    "clear_count": 5,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "2000"
+      }
+    ]
+  },
+  {
+    "clear_count": 10,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "5000"
+      }
+    ]
+  },
+  {
+    "clear_count": 20,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "10000"
+      }
+    ]
+  },
+  {
+    "clear_count": 50,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "20000"
+      }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "type": {
+      "name": "PARK_PRINT_BOOTH_TYPE_SINGLE",
+      "number": 1
+    },
+    "number": 1,
+    "park_print_booth_composition_id": "park_print_booth_composition-single_001",
+    "ratio": 1,
+    "park_print_booth_motion_group_id": "park_print_booth_motion-default_001"
+  },
+  {
+    "type": {
+      "name": "PARK_PRINT_BOOTH_TYPE_SINGLE",
+      "number": 1
+    },
+    "number": 2,
+    "park_print_booth_composition_id": "park_print_booth_composition-single_002",
+    "ratio": 1,
+    "park_print_booth_motion_group_id": "park_print_booth_motion-default_001"
+  },
+  {
+    "type": {
+      "name": "PARK_PRINT_BOOTH_TYPE_SINGLE",
+      "number": 1
+    },
+    "number": 3,
+    "park_print_booth_composition_id": "park_print_booth_composition-single_003",
+    "ratio": 1,
+    "park_print_booth_motion_group_id": "park_print_booth_motion-default_001"
+  },
+  {
+    "type": {
+      "name": "PARK_PRINT_BOOTH_TYPE_SINGLE",
+      "number": 1
+    },
+    "number": 4,
+    "park_print_booth_composition_id": "park_print_booth_composition-single_004",
+    "ratio": 1,
+    "park_print_booth_motion_group_id": "park_print_booth_motion-default_001"
+  },
+  {
+    "type": {
+      "name": "PARK_PRINT_BOOTH_TYPE_SINGLE",
+      "number": 1
+    },
+    "number": 5,
+    "park_print_booth_composition_id": "park_print_booth_composition-single_005",
+    "ratio": 1,
+    "park_print_booth_motion_group_id": "park_print_booth_motion-default_001"
+  },
+  {
+    "type": {
+      "name": "PARK_PRINT_BOOTH_TYPE_SINGLE",
+      "number": 1
+    },
+    "number": 6,
+    "park_print_booth_composition_id": "park_print_booth_composition-single_006",
+    "ratio": 1,
+    "park_print_booth_motion_group_id": "park_print_booth_motion-default_001"
+  },
+  {
+    "type": {
+      "name": "PARK_PRINT_BOOTH_TYPE_PAIR",
+      "number": 2
+    },
+    "number": 1,
+    "park_print_booth_composition_id": "park_print_booth_composition-pair_001",
+    "ratio": 1,
+    "park_print_booth_motion_group_id": "park_print_booth_motion-default_001"
+  },
+  {
+    "type": {
+      "name": "PARK_PRINT_BOOTH_TYPE_PAIR",
+      "number": 2
+    },
+    "number": 2,
+    "park_print_booth_composition_id": "park_print_booth_composition-pair_002",
+    "ratio": 1,
+    "park_print_booth_motion_group_id": "park_print_booth_motion-default_001"
+  },
+  {
+    "type": {
+      "name": "PARK_PRINT_BOOTH_TYPE_PAIR",
+      "number": 2
+    },
+    "number": 3,
+    "park_print_booth_composition_id": "park_print_booth_composition-pair_003",
+    "ratio": 1,
+    "park_print_booth_motion_group_id": "park_print_booth_motion-default_001"
+  },
+  {
+    "type": {
+      "name": "PARK_PRINT_BOOTH_TYPE_PAIR",
+      "number": 2
+    },
+    "number": 4,
+    "park_print_booth_composition_id": "park_print_booth_composition-pair_004",
+    "ratio": 1,
+    "park_print_booth_motion_group_id": "park_print_booth_motion-default_001"
+  },
+  {
+    "type": {
+      "name": "PARK_PRINT_BOOTH_TYPE_PAIR",
+      "number": 2
+    },
+    "number": 5,
+    "park_print_booth_composition_id": "park_print_booth_composition-pair_005",
+    "ratio": 1,
+    "park_print_booth_motion_group_id": "park_print_booth_motion-default_001"
+  },
+  {
+    "type": {
+      "name": "PARK_PRINT_BOOTH_TYPE_PAIR",
+      "number": 2
+    },
+    "number": 6,
+    "park_print_booth_composition_id": "park_print_booth_composition-pair_006",
+    "ratio": 1,
+    "park_print_booth_motion_group_id": "park_print_booth_motion-default_001"
+  }
+]

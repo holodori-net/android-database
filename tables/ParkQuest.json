@@ -1,0 +1,3923 @@
+[
+  {
+    "id": "quest-area-a01-01",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 1,
+    "title_lang_id": "la-quest-area-a01-01-title",
+    "description_lang_id": "la-quest-area-a01-01-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-01",
+    "order": 1010
+  },
+  {
+    "id": "quest-area-a01-02",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 2,
+    "title_lang_id": "la-quest-area-a01-02-title",
+    "description_lang_id": "la-quest-area-a01-02-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-02",
+    "order": 1020
+  },
+  {
+    "id": "quest-area-a01-03",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 3,
+    "title_lang_id": "la-quest-area-a01-03-title",
+    "description_lang_id": "la-quest-area-a01-03-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-03",
+    "order": 1030
+  },
+  {
+    "id": "quest-area-a01-04",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 4,
+    "title_lang_id": "la-quest-area-a01-04-title",
+    "description_lang_id": "la-quest-area-a01-04-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-04",
+    "order": 1040
+  },
+  {
+    "id": "quest-area-a01-05",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 5,
+    "title_lang_id": "la-quest-area-a01-05-title",
+    "description_lang_id": "la-quest-area-a01-05-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-05",
+    "order": 1050
+  },
+  {
+    "id": "quest-area-a01-06",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 6,
+    "title_lang_id": "la-quest-area-a01-06-title",
+    "description_lang_id": "la-quest-area-a01-06-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 810,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-06",
+    "order": 1005
+  },
+  {
+    "id": "quest-area-a01-07",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 7,
+    "title_lang_id": "la-quest-area-a01-07-title",
+    "description_lang_id": "la-quest-area-a01-07-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-07",
+    "order": 1070
+  },
+  {
+    "id": "quest-area-a01-08",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 8,
+    "title_lang_id": "la-quest-area-a01-08-title",
+    "description_lang_id": "la-quest-area-a01-08-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-08",
+    "order": 1080
+  },
+  {
+    "id": "quest-area-a01-09",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 9,
+    "title_lang_id": "la-quest-area-a01-09-title",
+    "description_lang_id": "la-quest-area-a01-09-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-09",
+    "order": 1090
+  },
+  {
+    "id": "quest-area-a01-10",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 10,
+    "title_lang_id": "la-quest-area-a01-10-title",
+    "description_lang_id": "la-quest-area-a01-10-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-10",
+    "order": 1100
+  },
+  {
+    "id": "quest-area-a01-11",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 11,
+    "title_lang_id": "la-quest-area-a01-11-title",
+    "description_lang_id": "la-quest-area-a01-11-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-11",
+    "unlock_condition_group_id": "cd-quest-area-a01-11-unlock",
+    "order": 1110
+  },
+  {
+    "id": "quest-area-a01-12",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 13,
+    "title_lang_id": "la-quest-area-a01-12-title",
+    "description_lang_id": "la-quest-area-a01-12-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-12",
+    "order": 1120
+  },
+  {
+    "id": "quest-area-a01-13",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 14,
+    "title_lang_id": "la-quest-area-a01-13-title",
+    "description_lang_id": "la-quest-area-a01-13-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-13",
+    "order": 1130
+  },
+  {
+    "id": "quest-area-a01-14",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 12,
+    "title_lang_id": "la-quest-area-a01-14-title",
+    "description_lang_id": "la-quest-area-a01-14-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-14",
+    "unlock_condition_group_id": "cd-quest-area-a01-14-unlock",
+    "order": 1140
+  },
+  {
+    "id": "quest-area-a01-15",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 15,
+    "title_lang_id": "la-quest-area-a01-15-title",
+    "description_lang_id": "la-quest-area-a01-15-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-15",
+    "order": 1150
+  },
+  {
+    "id": "quest-area-a01-16",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 16,
+    "title_lang_id": "la-quest-area-a01-16-title",
+    "description_lang_id": "la-quest-area-a01-16-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-16",
+    "unlock_condition_group_id": "cd-quest-area-a01-16-unlock",
+    "order": 1160
+  },
+  {
+    "id": "quest-area-a01-17",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 17,
+    "title_lang_id": "la-quest-area-a01-17-title",
+    "description_lang_id": "la-quest-area-a01-17-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-17",
+    "order": 1170
+  },
+  {
+    "id": "quest-area-a01-18",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 19,
+    "title_lang_id": "la-quest-area-a01-18-title",
+    "description_lang_id": "la-quest-area-a01-18-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-18",
+    "order": 1180
+  },
+  {
+    "id": "quest-area-a01-19",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 18,
+    "title_lang_id": "la-quest-area-a01-19-title",
+    "description_lang_id": "la-quest-area-a01-19-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-19",
+    "order": 1190
+  },
+  {
+    "id": "quest-area-a01-20",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 20,
+    "title_lang_id": "la-quest-area-a01-20-title",
+    "description_lang_id": "la-quest-area-a01-20-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-20",
+    "order": 1200
+  },
+  {
+    "id": "quest-area-a01-21",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 21,
+    "title_lang_id": "la-quest-area-a01-21-title",
+    "description_lang_id": "la-quest-area-a01-21-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-21",
+    "order": 1210
+  },
+  {
+    "id": "quest-area-a01-22",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 22,
+    "title_lang_id": "la-quest-area-a01-22-title",
+    "description_lang_id": "la-quest-area-a01-22-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-22",
+    "order": 1220
+  },
+  {
+    "id": "quest-area-a01-23",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 23,
+    "title_lang_id": "la-quest-area-a01-23-title",
+    "description_lang_id": "la-quest-area-a01-23-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-23",
+    "unlock_condition_group_id": "cd-quest-area-a01-23-unlock",
+    "order": 1230
+  },
+  {
+    "id": "quest-area-a01-24",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 24,
+    "title_lang_id": "la-quest-area-a01-24-title",
+    "description_lang_id": "la-quest-area-a01-24-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-24",
+    "unlock_condition_group_id": "cd-quest-area-a01-24-unlock",
+    "order": 1240
+  },
+  {
+    "id": "quest-area-a01-25",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 25,
+    "title_lang_id": "la-quest-area-a01-25-title",
+    "description_lang_id": "la-quest-area-a01-25-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-25",
+    "unlock_condition_group_id": "cd-quest-area-a01-25-unlock",
+    "order": 1250
+  },
+  {
+    "id": "quest-area-a01-26",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 26,
+    "title_lang_id": "la-quest-area-a01-26-title",
+    "description_lang_id": "la-quest-area-a01-26-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-26",
+    "unlock_condition_group_id": "cd-quest-area-a01-26-unlock",
+    "order": 1260
+  },
+  {
+    "id": "quest-area-a01-27",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 27,
+    "title_lang_id": "la-quest-area-a01-27-title",
+    "description_lang_id": "la-quest-area-a01-27-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-27",
+    "unlock_condition_group_id": "cd-quest-area-a01-27-unlock",
+    "order": 1270
+  },
+  {
+    "id": "quest-area-a01-28",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 28,
+    "title_lang_id": "la-quest-area-a01-28-title",
+    "description_lang_id": "la-quest-area-a01-28-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-28",
+    "unlock_condition_group_id": "cd-quest-area-a01-28-unlock",
+    "order": 1280
+  },
+  {
+    "id": "quest-area-a01-29",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 29,
+    "title_lang_id": "la-quest-area-a01-29-title",
+    "description_lang_id": "la-quest-area-a01-29-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a01-29-unlock",
+    "unlock_condition_group_id": "cd-quest-area-a01-29-unlock",
+    "order": 900
+  },
+  {
+    "id": "quest-area-a02-01",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 1,
+    "title_lang_id": "la-quest-area-a02-01-title",
+    "description_lang_id": "la-quest-area-a02-01-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-01",
+    "order": 2010
+  },
+  {
+    "id": "quest-area-a02-02",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 2,
+    "title_lang_id": "la-quest-area-a02-02-title",
+    "description_lang_id": "la-quest-area-a02-02-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-02",
+    "order": 2020
+  },
+  {
+    "id": "quest-area-a02-03",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 3,
+    "title_lang_id": "la-quest-area-a02-03-title",
+    "description_lang_id": "la-quest-area-a02-03-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-03",
+    "order": 2030
+  },
+  {
+    "id": "quest-area-a02-04",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 4,
+    "title_lang_id": "la-quest-area-a02-04-title",
+    "description_lang_id": "la-quest-area-a02-04-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-04",
+    "order": 2040
+  },
+  {
+    "id": "quest-area-a02-05",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 5,
+    "title_lang_id": "la-quest-area-a02-05-title",
+    "description_lang_id": "la-quest-area-a02-05-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-05",
+    "order": 2050
+  },
+  {
+    "id": "quest-area-a02-06",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 6,
+    "title_lang_id": "la-quest-area-a02-06-title",
+    "description_lang_id": "la-quest-area-a02-06-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-06",
+    "order": 2060
+  },
+  {
+    "id": "quest-area-a02-07",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 7,
+    "title_lang_id": "la-quest-area-a02-07-title",
+    "description_lang_id": "la-quest-area-a02-07-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-07",
+    "order": 2070
+  },
+  {
+    "id": "quest-area-a02-08",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 8,
+    "title_lang_id": "la-quest-area-a02-08-title",
+    "description_lang_id": "la-quest-area-a02-08-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-08",
+    "unlock_condition_group_id": "cd-quest-area-a02-08-unlock",
+    "order": 2080
+  },
+  {
+    "id": "quest-area-a02-09",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 9,
+    "title_lang_id": "la-quest-area-a02-09-title",
+    "description_lang_id": "la-quest-area-a02-09-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-09",
+    "order": 2090
+  },
+  {
+    "id": "quest-area-a02-10",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 10,
+    "title_lang_id": "la-quest-area-a02-10-title",
+    "description_lang_id": "la-quest-area-a02-10-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-10",
+    "unlock_condition_group_id": "cd-quest-area-a02-10-unlock",
+    "order": 2100
+  },
+  {
+    "id": "quest-area-a02-11",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 11,
+    "title_lang_id": "la-quest-area-a02-11-title",
+    "description_lang_id": "la-quest-area-a02-11-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-11",
+    "order": 2110
+  },
+  {
+    "id": "quest-area-a02-12",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 12,
+    "title_lang_id": "la-quest-area-a02-12-title",
+    "description_lang_id": "la-quest-area-a02-12-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-12",
+    "order": 2120
+  },
+  {
+    "id": "quest-area-a02-13",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 13,
+    "title_lang_id": "la-quest-area-a02-13-title",
+    "description_lang_id": "la-quest-area-a02-13-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-13",
+    "order": 2130
+  },
+  {
+    "id": "quest-area-a02-14",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 14,
+    "title_lang_id": "la-quest-area-a02-14-title",
+    "description_lang_id": "la-quest-area-a02-14-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-14",
+    "order": 2140
+  },
+  {
+    "id": "quest-area-a02-15",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 15,
+    "title_lang_id": "la-quest-area-a02-15-title",
+    "description_lang_id": "la-quest-area-a02-15-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-15",
+    "order": 2150
+  },
+  {
+    "id": "quest-area-a02-16",
+    "park_quest_chapter_id": "quest_chapter-area-a02",
+    "number": 16,
+    "title_lang_id": "la-quest-area-a02-16-title",
+    "description_lang_id": "la-quest-area-a02-16-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest-area-a02-16",
+    "unlock_condition_group_id": "cd-quest-area-a02-16-unlock",
+    "order": 2160
+  },
+  {
+    "id": "quest-chr-00001",
+    "park_quest_chapter_id": "quest_chapter-chr-00001",
+    "number": 1,
+    "title_lang_id": "la-quest_chapter-chr-00001",
+    "description_lang_id": "la-quest-chr-00001-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00001",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00002",
+    "park_quest_chapter_id": "quest_chapter-chr-00002",
+    "number": 2,
+    "title_lang_id": "la-quest_chapter-chr-00002",
+    "description_lang_id": "la-quest-chr-00002-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00002",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00004",
+    "park_quest_chapter_id": "quest_chapter-chr-00004",
+    "number": 6,
+    "title_lang_id": "la-quest_chapter-chr-00004",
+    "description_lang_id": "la-quest-chr-00004-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00004",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00005",
+    "park_quest_chapter_id": "quest_chapter-chr-00005",
+    "number": 7,
+    "title_lang_id": "la-quest_chapter-chr-00005",
+    "description_lang_id": "la-quest-chr-00005-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00005",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00006",
+    "park_quest_chapter_id": "quest_chapter-chr-00006",
+    "number": 8,
+    "title_lang_id": "la-quest_chapter-chr-00006",
+    "description_lang_id": "la-quest-chr-00006-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00006",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00007",
+    "park_quest_chapter_id": "quest_chapter-chr-00007",
+    "number": 9,
+    "title_lang_id": "la-quest_chapter-chr-00007",
+    "description_lang_id": "la-quest-chr-00007-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00007",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00010",
+    "park_quest_chapter_id": "quest_chapter-chr-00010",
+    "number": 10,
+    "title_lang_id": "la-quest_chapter-chr-00010",
+    "description_lang_id": "la-quest-chr-00010-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00010",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00011",
+    "park_quest_chapter_id": "quest_chapter-chr-00011",
+    "number": 11,
+    "title_lang_id": "la-quest_chapter-chr-00011",
+    "description_lang_id": "la-quest-chr-00011-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00011",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00012",
+    "park_quest_chapter_id": "quest_chapter-chr-00012",
+    "number": 12,
+    "title_lang_id": "la-quest_chapter-chr-00012",
+    "description_lang_id": "la-quest-chr-00012-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00012",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00013",
+    "park_quest_chapter_id": "quest_chapter-chr-00013",
+    "number": 3,
+    "title_lang_id": "la-quest_chapter-chr-00013",
+    "description_lang_id": "la-quest-chr-00013-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00013",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00014",
+    "park_quest_chapter_id": "quest_chapter-chr-00014",
+    "number": 13,
+    "title_lang_id": "la-quest_chapter-chr-00014",
+    "description_lang_id": "la-quest-chr-00014-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00014",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00015",
+    "park_quest_chapter_id": "quest_chapter-chr-00015",
+    "number": 4,
+    "title_lang_id": "la-quest_chapter-chr-00015",
+    "description_lang_id": "la-quest-chr-00015-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00015",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00016",
+    "park_quest_chapter_id": "quest_chapter-chr-00016",
+    "number": 14,
+    "title_lang_id": "la-quest_chapter-chr-00016",
+    "description_lang_id": "la-quest-chr-00016-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00016",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00017",
+    "park_quest_chapter_id": "quest_chapter-chr-00017",
+    "number": 15,
+    "title_lang_id": "la-quest_chapter-chr-00017",
+    "description_lang_id": "la-quest-chr-00017-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00017",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00018",
+    "park_quest_chapter_id": "quest_chapter-chr-00018",
+    "number": 5,
+    "title_lang_id": "la-quest_chapter-chr-00018",
+    "description_lang_id": "la-quest-chr-00018-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00018",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00019",
+    "park_quest_chapter_id": "quest_chapter-chr-00019",
+    "number": 16,
+    "title_lang_id": "la-quest_chapter-chr-00019",
+    "description_lang_id": "la-quest-chr-00019-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00019",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00021",
+    "park_quest_chapter_id": "quest_chapter-chr-00021",
+    "number": 17,
+    "title_lang_id": "la-quest_chapter-chr-00021",
+    "description_lang_id": "la-quest-chr-00021-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00021",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00022",
+    "park_quest_chapter_id": "quest_chapter-chr-00022",
+    "number": 18,
+    "title_lang_id": "la-quest_chapter-chr-00022",
+    "description_lang_id": "la-quest-chr-00022-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00022",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00023",
+    "park_quest_chapter_id": "quest_chapter-chr-00023",
+    "number": 19,
+    "title_lang_id": "la-quest_chapter-chr-00023",
+    "description_lang_id": "la-quest-chr-00023-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00023",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00026",
+    "park_quest_chapter_id": "quest_chapter-chr-00026",
+    "number": 21,
+    "title_lang_id": "la-quest_chapter-chr-00026",
+    "description_lang_id": "la-quest-chr-00026-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00026",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00027",
+    "park_quest_chapter_id": "quest_chapter-chr-00027",
+    "number": 22,
+    "title_lang_id": "la-quest_chapter-chr-00027",
+    "description_lang_id": "la-quest-chr-00027-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00027",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00028",
+    "park_quest_chapter_id": "quest_chapter-chr-00028",
+    "number": 23,
+    "title_lang_id": "la-quest_chapter-chr-00028",
+    "description_lang_id": "la-quest-chr-00028-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00028",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00030",
+    "park_quest_chapter_id": "quest_chapter-chr-00030",
+    "number": 24,
+    "title_lang_id": "la-quest_chapter-chr-00030",
+    "description_lang_id": "la-quest-chr-00030-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00030",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00031",
+    "park_quest_chapter_id": "quest_chapter-chr-00031",
+    "number": 25,
+    "title_lang_id": "la-quest_chapter-chr-00031",
+    "description_lang_id": "la-quest-chr-00031-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00031",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00032",
+    "park_quest_chapter_id": "quest_chapter-chr-00032",
+    "number": 26,
+    "title_lang_id": "la-quest_chapter-chr-00032",
+    "description_lang_id": "la-quest-chr-00032-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00032",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00034",
+    "park_quest_chapter_id": "quest_chapter-chr-00034",
+    "number": 27,
+    "title_lang_id": "la-quest_chapter-chr-00034",
+    "description_lang_id": "la-quest-chr-00034-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00034",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00035",
+    "park_quest_chapter_id": "quest_chapter-chr-00035",
+    "number": 28,
+    "title_lang_id": "la-quest_chapter-chr-00035",
+    "description_lang_id": "la-quest-chr-00035-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00035",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00036",
+    "park_quest_chapter_id": "quest_chapter-chr-00036",
+    "number": 29,
+    "title_lang_id": "la-quest_chapter-chr-00036",
+    "description_lang_id": "la-quest-chr-00036-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00036",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00037",
+    "park_quest_chapter_id": "quest_chapter-chr-00037",
+    "number": 30,
+    "title_lang_id": "la-quest_chapter-chr-00037",
+    "description_lang_id": "la-quest-chr-00037-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00037",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-00039",
+    "park_quest_chapter_id": "quest_chapter-chr-00039",
+    "number": 31,
+    "title_lang_id": "la-quest_chapter-chr-00039",
+    "description_lang_id": "la-quest-chr-00039-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-00039",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-03001",
+    "park_quest_chapter_id": "quest_chapter-chr-03001",
+    "number": 32,
+    "title_lang_id": "la-quest_chapter-chr-03001",
+    "description_lang_id": "la-quest-chr-03001-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-03001",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-03002",
+    "park_quest_chapter_id": "quest_chapter-chr-03002",
+    "number": 33,
+    "title_lang_id": "la-quest_chapter-chr-03002",
+    "description_lang_id": "la-quest-chr-03002-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-03002",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-03003",
+    "park_quest_chapter_id": "quest_chapter-chr-03003",
+    "number": 34,
+    "title_lang_id": "la-quest_chapter-chr-03003",
+    "description_lang_id": "la-quest-chr-03003-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-03003",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-03004",
+    "park_quest_chapter_id": "quest_chapter-chr-03004",
+    "number": 35,
+    "title_lang_id": "la-quest_chapter-chr-03004",
+    "description_lang_id": "la-quest-chr-03004-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-03004",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-03005",
+    "park_quest_chapter_id": "quest_chapter-chr-03005",
+    "number": 36,
+    "title_lang_id": "la-quest_chapter-chr-03005",
+    "description_lang_id": "la-quest-chr-03005-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-03005",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-03006",
+    "park_quest_chapter_id": "quest_chapter-chr-03006",
+    "number": 37,
+    "title_lang_id": "la-quest_chapter-chr-03006",
+    "description_lang_id": "la-quest-chr-03006-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-03006",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-03007",
+    "park_quest_chapter_id": "quest_chapter-chr-03007",
+    "number": 38,
+    "title_lang_id": "la-quest_chapter-chr-03007",
+    "description_lang_id": "la-quest-chr-03007-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-03007",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-03008",
+    "park_quest_chapter_id": "quest_chapter-chr-03008",
+    "number": 39,
+    "title_lang_id": "la-quest_chapter-chr-03008",
+    "description_lang_id": "la-quest-chr-03008-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-03008",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-03009",
+    "park_quest_chapter_id": "quest_chapter-chr-03009",
+    "number": 40,
+    "title_lang_id": "la-quest_chapter-chr-03009",
+    "description_lang_id": "la-quest-chr-03009-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-03009",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-04001",
+    "park_quest_chapter_id": "quest_chapter-chr-04001",
+    "number": 41,
+    "title_lang_id": "la-quest_chapter-chr-04001",
+    "description_lang_id": "la-quest-chr-04001-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-04001",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-04002",
+    "park_quest_chapter_id": "quest_chapter-chr-04002",
+    "number": 42,
+    "title_lang_id": "la-quest_chapter-chr-04002",
+    "description_lang_id": "la-quest-chr-04002-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-04002",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-04003",
+    "park_quest_chapter_id": "quest_chapter-chr-04003",
+    "number": 43,
+    "title_lang_id": "la-quest_chapter-chr-04003",
+    "description_lang_id": "la-quest-chr-04003-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-04003",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-04007",
+    "park_quest_chapter_id": "quest_chapter-chr-04007",
+    "number": 44,
+    "title_lang_id": "la-quest_chapter-chr-04007",
+    "description_lang_id": "la-quest-chr-04007-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-04007",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-04010",
+    "park_quest_chapter_id": "quest_chapter-chr-04010",
+    "number": 45,
+    "title_lang_id": "la-quest_chapter-chr-04010",
+    "description_lang_id": "la-quest-chr-04010-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-04010",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-04012",
+    "park_quest_chapter_id": "quest_chapter-chr-04012",
+    "number": 46,
+    "title_lang_id": "la-quest_chapter-chr-04012",
+    "description_lang_id": "la-quest-chr-04012-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-04012",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-04013",
+    "park_quest_chapter_id": "quest_chapter-chr-04013",
+    "number": 47,
+    "title_lang_id": "la-quest_chapter-chr-04013",
+    "description_lang_id": "la-quest-chr-04013-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-04013",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-04014",
+    "park_quest_chapter_id": "quest_chapter-chr-04014",
+    "number": 48,
+    "title_lang_id": "la-quest_chapter-chr-04014",
+    "description_lang_id": "la-quest-chr-04014-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-04014",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-04015",
+    "park_quest_chapter_id": "quest_chapter-chr-04015",
+    "number": 49,
+    "title_lang_id": "la-quest_chapter-chr-04015",
+    "description_lang_id": "la-quest-chr-04015-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-04015",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-04016",
+    "park_quest_chapter_id": "quest_chapter-chr-04016",
+    "number": 50,
+    "title_lang_id": "la-quest_chapter-chr-04016",
+    "description_lang_id": "la-quest-chr-04016-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-04016",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-04017",
+    "park_quest_chapter_id": "quest_chapter-chr-04017",
+    "number": 51,
+    "title_lang_id": "la-quest_chapter-chr-04017",
+    "description_lang_id": "la-quest-chr-04017-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-04017",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-06002",
+    "park_quest_chapter_id": "quest_chapter-chr-06002",
+    "number": 53,
+    "title_lang_id": "la-quest_chapter-chr-06002",
+    "description_lang_id": "la-quest-chr-06002-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-06002",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-06003",
+    "park_quest_chapter_id": "quest_chapter-chr-06003",
+    "number": 54,
+    "title_lang_id": "la-quest_chapter-chr-06003",
+    "description_lang_id": "la-quest-chr-06003-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-06003",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-06004",
+    "park_quest_chapter_id": "quest_chapter-chr-06004",
+    "number": 55,
+    "title_lang_id": "la-quest_chapter-chr-06004",
+    "description_lang_id": "la-quest-chr-06004-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-06004",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-chr-06005",
+    "park_quest_chapter_id": "quest_chapter-chr-06005",
+    "number": 56,
+    "title_lang_id": "la-quest_chapter-chr-06005",
+    "description_lang_id": "la-quest-chr-06005-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_CHARACTER",
+      "number": 2
+    },
+    "play_character_id": "chr-06005",
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-daily-bet_coin-00026",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
+    "order": 4
+  },
+  {
+    "id": "quest-daily-bet_coin-00030",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
+    "order": 7
+  },
+  {
+    "id": "quest-daily-bet_coin-00034",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
+    "order": 8
+  },
+  {
+    "id": "quest-daily-bet_coin-00035",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
+    "order": 2
+  },
+  {
+    "id": "quest-daily-bet_coin-03005",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-bet_coin-04001",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
+    "order": 6
+  },
+  {
+    "id": "quest-daily-bet_coin-06002",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
+    "order": 3
+  },
+  {
+    "id": "quest-daily-bet_coin-06004",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
+    "order": 5
+  },
+  {
+    "id": "quest-daily-card-00005",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
+    "order": 6
+  },
+  {
+    "id": "quest-daily-card-00015",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-card-00018",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
+    "order": 5
+  },
+  {
+    "id": "quest-daily-card-00019",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
+    "order": 7
+  },
+  {
+    "id": "quest-daily-card-00037",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
+    "order": 8
+  },
+  {
+    "id": "quest-daily-card-03002",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
+    "order": 4
+  },
+  {
+    "id": "quest-daily-card-04013",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
+    "order": 2
+  },
+  {
+    "id": "quest-daily-card-04015",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
+    "order": 3
+  },
+  {
+    "id": "quest-daily-circuit-00002",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-01",
+    "order": 4
+  },
+  {
+    "id": "quest-daily-circuit-00016",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-01",
+    "order": 6
+  },
+  {
+    "id": "quest-daily-circuit-00017",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
+    "order": 8
+  },
+  {
+    "id": "quest-daily-circuit-00039",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-01",
+    "order": 7
+  },
+  {
+    "id": "quest-daily-circuit-03004",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-01",
+    "order": 2
+  },
+  {
+    "id": "quest-daily-circuit-03008",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-04",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-circuit-04002",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-05",
+    "order": 5
+  },
+  {
+    "id": "quest-daily-circuit-04012",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-05",
+    "order": 3
+  },
+  {
+    "id": "quest-daily-cooking-00004",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-cooking-00005",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-21",
+    "order": 7
+  },
+  {
+    "id": "quest-daily-cooking-00006",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
+    "order": 10
+  },
+  {
+    "id": "quest-daily-cooking-00007",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
+    "order": 5
+  },
+  {
+    "id": "quest-daily-cooking-00011",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
+    "order": 11
+  },
+  {
+    "id": "quest-daily-cooking-00014",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
+    "order": 8
+  },
+  {
+    "id": "quest-daily-cooking-00032",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
+    "order": 6
+  },
+  {
+    "id": "quest-daily-cooking-00036",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
+    "order": 9
+  },
+  {
+    "id": "quest-daily-cooking-03006",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
+    "order": 3
+  },
+  {
+    "id": "quest-daily-cooking-04010",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
+    "order": 2
+  },
+  {
+    "id": "quest-daily-cooking-06003",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
+    "order": 4
+  },
+  {
+    "id": "quest-daily-delivery-00013",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-delivery-00027",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
+    "order": 7
+  },
+  {
+    "id": "quest-daily-delivery-00028",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-09",
+    "order": 4
+  },
+  {
+    "id": "quest-daily-delivery-03003",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-15",
+    "order": 3
+  },
+  {
+    "id": "quest-daily-delivery-03007",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
+    "order": 5
+  },
+  {
+    "id": "quest-daily-delivery-04003",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-12",
+    "order": 6
+  },
+  {
+    "id": "quest-daily-delivery-04007",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 2
+  },
+  {
+    "id": "quest-daily-group-04016",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-09",
+    "order": 8
+  },
+  {
+    "id": "quest-daily-live-00001",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 10
+  },
+  {
+    "id": "quest-daily-live-00002",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 15
+  },
+  {
+    "id": "quest-daily-live-00004",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 5
+  },
+  {
+    "id": "quest-daily-live-00005",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
+    "order": 25
+  },
+  {
+    "id": "quest-daily-live-00006",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 34
+  },
+  {
+    "id": "quest-daily-live-00007",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-13",
+    "order": 18
+  },
+  {
+    "id": "quest-daily-live-00010",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 40
+  },
+  {
+    "id": "quest-daily-live-00011",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 50
+  },
+  {
+    "id": "quest-daily-live-00012",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 26
+  },
+  {
+    "id": "quest-daily-live-00013",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-live-00014",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-09",
+    "order": 27
+  },
+  {
+    "id": "quest-daily-live-00015",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 8
+  },
+  {
+    "id": "quest-daily-live-00016",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-14",
+    "order": 31
+  },
+  {
+    "id": "quest-daily-live-00017",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 35
+  },
+  {
+    "id": "quest-daily-live-00018",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-08",
+    "order": 24
+  },
+  {
+    "id": "quest-daily-live-00019",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 48
+  },
+  {
+    "id": "quest-daily-live-00021",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 55
+  },
+  {
+    "id": "quest-daily-live-00022",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 33
+  },
+  {
+    "id": "quest-daily-live-00023",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 53
+  },
+  {
+    "id": "quest-daily-live-00026",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 45
+  },
+  {
+    "id": "quest-daily-live-00027",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 22
+  },
+  {
+    "id": "quest-daily-live-00028",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 51
+  },
+  {
+    "id": "quest-daily-live-00030",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-06",
+    "order": 39
+  },
+  {
+    "id": "quest-daily-live-00031",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 30
+  },
+  {
+    "id": "quest-daily-live-00032",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 20
+  },
+  {
+    "id": "quest-daily-live-00034",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 52
+  },
+  {
+    "id": "quest-daily-live-00035",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-06",
+    "order": 14
+  },
+  {
+    "id": "quest-daily-live-00036",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 28
+  },
+  {
+    "id": "quest-daily-live-00037",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 32
+  },
+  {
+    "id": "quest-daily-live-00039",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 49
+  },
+  {
+    "id": "quest-daily-live-03001",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-08",
+    "order": 41
+  },
+  {
+    "id": "quest-daily-live-03002",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
+    "order": 13
+  },
+  {
+    "id": "quest-daily-live-03003",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-21",
+    "order": 4
+  },
+  {
+    "id": "quest-daily-live-03004",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-07",
+    "order": 7
+  },
+  {
+    "id": "quest-daily-live-03005",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 3
+  },
+  {
+    "id": "quest-daily-live-03006",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
+    "order": 37
+  },
+  {
+    "id": "quest-daily-live-03007",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 12
+  },
+  {
+    "id": "quest-daily-live-03008",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
+    "order": 6
+  },
+  {
+    "id": "quest-daily-live-03009",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-14",
+    "order": 36
+  },
+  {
+    "id": "quest-daily-live-04001",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
+    "order": 23
+  },
+  {
+    "id": "quest-daily-live-04002",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 47
+  },
+  {
+    "id": "quest-daily-live-04003",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
+    "order": 16
+  },
+  {
+    "id": "quest-daily-live-04007",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 2
+  },
+  {
+    "id": "quest-daily-live-04010",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 54
+  },
+  {
+    "id": "quest-daily-live-04012",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 11
+  },
+  {
+    "id": "quest-daily-live-04013",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-12",
+    "order": 9
+  },
+  {
+    "id": "quest-daily-live-04014",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-09",
+    "order": 19
+  },
+  {
+    "id": "quest-daily-live-04015",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 42
+  },
+  {
+    "id": "quest-daily-live-04016",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 38
+  },
+  {
+    "id": "quest-daily-live-04017",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 43
+  },
+  {
+    "id": "quest-daily-live-06002",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 44
+  },
+  {
+    "id": "quest-daily-live-06003",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-21",
+    "order": 17
+  },
+  {
+    "id": "quest-daily-live-06004",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-14",
+    "order": 21
+  },
+  {
+    "id": "quest-daily-live-06005",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 46
+  },
+  {
+    "id": "quest-daily-rope-00001",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-14",
+    "order": 3
+  },
+  {
+    "id": "quest-daily-rope-00010",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 10
+  },
+  {
+    "id": "quest-daily-rope-00012",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 6
+  },
+  {
+    "id": "quest-daily-rope-00019",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-12",
+    "order": 7
+  },
+  {
+    "id": "quest-daily-rope-00021",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 11
+  },
+  {
+    "id": "quest-daily-rope-00022",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 9
+  },
+  {
+    "id": "quest-daily-rope-00023",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-13",
+    "order": 12
+  },
+  {
+    "id": "quest-daily-rope-00031",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 8
+  },
+  {
+    "id": "quest-daily-rope-03001",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-07",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-rope-03009",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
+    "order": 2
+  },
+  {
+    "id": "quest-daily-rope-04014",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 4
+  },
+  {
+    "id": "quest-daily-rope-06005",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "order": 5
+  },
+  {
+    "id": "quest-main-w1-01-01",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 1,
+    "title_lang_id": "la-quest-main-w1-01-01-title",
+    "description_lang_id": "la-quest-main-w1-01-01-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-02",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 2,
+    "title_lang_id": "la-quest-main-w1-01-02-title",
+    "description_lang_id": "la-quest-main-w1-01-02-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-01",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-03",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 3,
+    "title_lang_id": "la-quest-main-w1-01-03-title",
+    "description_lang_id": "la-quest-main-w1-01-03-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-02",
+    "unlock_condition_group_id": "cd-quest-main-w1-01-03-unlock",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-04",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 4,
+    "title_lang_id": "la-quest-main-w1-01-04-title",
+    "description_lang_id": "la-quest-main-w1-01-04-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-03",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-05",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 5,
+    "title_lang_id": "la-quest-main-w1-01-05-title",
+    "description_lang_id": "la-quest-main-w1-01-05-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-04",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-06",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 6,
+    "title_lang_id": "la-quest-main-w1-01-06-title",
+    "description_lang_id": "la-quest-main-w1-01-06-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "unlock_condition_group_id": "cd-quest-main-w1-01-06-unlock",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-07",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 7,
+    "title_lang_id": "la-quest-main-w1-01-07-title",
+    "description_lang_id": "la-quest-main-w1-01-07-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-06",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-08",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 8,
+    "title_lang_id": "la-quest-main-w1-01-08-title",
+    "description_lang_id": "la-quest-main-w1-01-08-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-07",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-09",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 9,
+    "title_lang_id": "la-quest-main-w1-01-09-title",
+    "description_lang_id": "la-quest-main-w1-01-09-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-08",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-10",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 10,
+    "title_lang_id": "la-quest-main-w1-01-10-title",
+    "description_lang_id": "la-quest-main-w1-01-10-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-09",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-11",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 11,
+    "title_lang_id": "la-quest-main-w1-01-11-title",
+    "description_lang_id": "la-quest-main-w1-01-11-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-10",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-12",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 12,
+    "title_lang_id": "la-quest-main-w1-01-12-title",
+    "description_lang_id": "la-quest-main-w1-01-12-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
+    "unlock_condition_group_id": "cd-quest-main-w1-01-12-unlock",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-13",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 13,
+    "title_lang_id": "la-quest-main-w1-01-13-title",
+    "description_lang_id": "la-quest-main-w1-01-13-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-12",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-14",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 14,
+    "title_lang_id": "la-quest-main-w1-01-14-title",
+    "description_lang_id": "la-quest-main-w1-01-14-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-13",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-15",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 15,
+    "title_lang_id": "la-quest-main-w1-01-15-title",
+    "description_lang_id": "la-quest-main-w1-01-15-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-14",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-16",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 16,
+    "title_lang_id": "la-quest-main-w1-01-16-title",
+    "description_lang_id": "la-quest-main-w1-01-16-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-15",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-17",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 17,
+    "title_lang_id": "la-quest-main-w1-01-17-title",
+    "description_lang_id": "la-quest-main-w1-01-17-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-18",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 18,
+    "title_lang_id": "la-quest-main-w1-01-18-title",
+    "description_lang_id": "la-quest-main-w1-01-18-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-17",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-19",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 19,
+    "title_lang_id": "la-quest-main-w1-01-19-title",
+    "description_lang_id": "la-quest-main-w1-01-19-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-18",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-20",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 20,
+    "title_lang_id": "la-quest-main-w1-01-20-title",
+    "description_lang_id": "la-quest-main-w1-01-20-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-19",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-21",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 21,
+    "title_lang_id": "la-quest-main-w1-01-21-title",
+    "description_lang_id": "la-quest-main-w1-01-21-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-20",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-22",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 22,
+    "title_lang_id": "la-quest-main-w1-01-22-title",
+    "description_lang_id": "la-quest-main-w1-01-22-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-21",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-23",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 23,
+    "title_lang_id": "la-quest-main-w1-01-23-title",
+    "description_lang_id": "la-quest-main-w1-01-23-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-22",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-01-24",
+    "park_quest_chapter_id": "quest_chapter-main-w1-01",
+    "number": 24,
+    "title_lang_id": "la-quest-main-w1-01-24-title",
+    "description_lang_id": "la-quest-main-w1-01-24-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a01",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-23",
+    "unlock_condition_group_id": "cd-quest-main-w1-01-24-unlock",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-02-01",
+    "park_quest_chapter_id": "quest_chapter-main-w1-02",
+    "number": 1,
+    "title_lang_id": "la-quest-main-w1-02-01-title",
+    "description_lang_id": "la-quest-main-w1-02-01-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-24",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-02-02",
+    "park_quest_chapter_id": "quest_chapter-main-w1-02",
+    "number": 2,
+    "title_lang_id": "la-quest-main-w1-02-02-title",
+    "description_lang_id": "la-quest-main-w1-02-02-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-01",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-02-03",
+    "park_quest_chapter_id": "quest_chapter-main-w1-02",
+    "number": 3,
+    "title_lang_id": "la-quest-main-w1-02-03-title",
+    "description_lang_id": "la-quest-main-w1-02-03-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-02",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-02-04",
+    "park_quest_chapter_id": "quest_chapter-main-w1-02",
+    "number": 4,
+    "title_lang_id": "la-quest-main-w1-02-04-title",
+    "description_lang_id": "la-quest-main-w1-02-04-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-03",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-02-05",
+    "park_quest_chapter_id": "quest_chapter-main-w1-02",
+    "number": 5,
+    "title_lang_id": "la-quest-main-w1-02-05-title",
+    "description_lang_id": "la-quest-main-w1-02-05-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-04",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-02-06",
+    "park_quest_chapter_id": "quest_chapter-main-w1-02",
+    "number": 6,
+    "title_lang_id": "la-quest-main-w1-02-06-title",
+    "description_lang_id": "la-quest-main-w1-02-06-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-05",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-02-07",
+    "park_quest_chapter_id": "quest_chapter-main-w1-02",
+    "number": 7,
+    "title_lang_id": "la-quest-main-w1-02-07-title",
+    "description_lang_id": "la-quest-main-w1-02-07-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-06",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-02-08",
+    "park_quest_chapter_id": "quest_chapter-main-w1-02",
+    "number": 8,
+    "title_lang_id": "la-quest-main-w1-02-08-title",
+    "description_lang_id": "la-quest-main-w1-02-08-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-02-09",
+    "park_quest_chapter_id": "quest_chapter-main-w1-02",
+    "number": 9,
+    "title_lang_id": "la-quest-main-w1-02-09-title",
+    "description_lang_id": "la-quest-main-w1-02-09-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
+    "unlock_condition_group_id": "cd-quest-main-w1-02-09-unlock",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-02-10",
+    "park_quest_chapter_id": "quest_chapter-main-w1-02",
+    "number": 10,
+    "title_lang_id": "la-quest-main-w1-02-10-title",
+    "description_lang_id": "la-quest-main-w1-02-10-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-09",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-02-11",
+    "park_quest_chapter_id": "quest_chapter-main-w1-02",
+    "number": 11,
+    "title_lang_id": "la-quest-main-w1-02-11-title",
+    "description_lang_id": "la-quest-main-w1-02-11-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-10",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-02-12",
+    "park_quest_chapter_id": "quest_chapter-main-w1-02",
+    "number": 12,
+    "title_lang_id": "la-quest-main-w1-02-12-title",
+    "description_lang_id": "la-quest-main-w1-02-12-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a02",
+    "ratio": 100,
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-11",
+    "order": 1
+  }
+]

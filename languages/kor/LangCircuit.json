@@ -1,0 +1,26 @@
+[
+  {
+    "id": "la-circuit-game_playing_display_clear_condition_lang-default",
+    "text": "<size=56>{0}</size>위 이내로 통과하면 LAP2 진출!"
+  },
+  {
+    "id": "la-circuit-game_playing_display_clear_condition_lang-play",
+    "text": "끝까지 플레이하자!"
+  },
+  {
+    "id": "la-circuit-game_playing_display_clear_condition_lang-rank",
+    "text": "<size=56>{0}</size>위 이내를 노리자!"
+  },
+  {
+    "id": "la-circuit-game_start_display_clear_condition_lang-default",
+    "text": "{0}위 이내로 Lap2 진출!"
+  },
+  {
+    "id": "la-circuit-game_start_display_clear_condition_lang-play",
+    "text": "끝까지 플레이하자!"
+  },
+  {
+    "id": "la-circuit-game_start_display_clear_condition_lang-rank",
+    "text": "{0}위 이내를 노리자!"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1",
+    "max_user_count": 16,
+    "random_match_min_user_count": 1,
+    "private_room_min_user_count": 2,
+    "mini_game_bet_coin_consumption_group_id": "circuit-bet-coin-consumption-group",
+    "time_limit_seconds_after_top_rank_clear": 300,
+    "first_lap_clear_threshold_rank": 8,
+    "random_match_start_time_limit_seconds": 30,
+    "multi_game_setup_time_limit_seconds": 25,
+    "total_finish_time_limit_seconds": 600,
+    "is_cheat_detect_red_disconnect_user_enabled": true
+  }
+]

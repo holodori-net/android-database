@@ -1,0 +1,55 @@
+[
+  {
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE1",
+      "number": 1
+    },
+    "name_lang_id": "la-jump_rope_phase-phase1",
+    "icon_asset_id": "icon-01"
+  },
+  {
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE2",
+      "number": 2
+    },
+    "name_lang_id": "la-jump_rope_phase-phase2",
+    "icon_asset_id": "icon-02"
+  },
+  {
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE3",
+      "number": 3
+    },
+    "name_lang_id": "la-jump_rope_phase-phase3",
+    "icon_asset_id": "icon-03"
+  },
+  {
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE4",
+      "number": 4
+    },
+    "name_lang_id": "la-jump_rope_phase-phase4",
+    "is_rope_emission_enabled": true,
+    "icon_asset_id": "icon-04"
+  },
+  {
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE5",
+      "number": 5
+    },
+    "name_lang_id": "la-jump_rope_phase-phase5",
+    "is_rope_emission_enabled": true,
+    "is_spinner_change_enabled": true,
+    "icon_asset_id": "icon-05"
+  },
+  {
+    "phase_type": {
+      "name": "JUMP_ROPE_PHASE_TYPE_PHASE6",
+      "number": 6
+    },
+    "name_lang_id": "la-jump_rope_phase-phase6",
+    "is_rope_emission_enabled": true,
+    "is_spinner_change_enabled": true,
+    "icon_asset_id": "icon-05"
+  }
+]

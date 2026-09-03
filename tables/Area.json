@@ -1,0 +1,68 @@
+[
+  {
+    "id": "area-a01",
+    "area_selector_id": "area-a01-selector",
+    "priority": 1,
+    "name_lang_id": "la-area_group-a01-name",
+    "description_lang_id": "la-area-a01-description",
+    "order": 1
+  },
+  {
+    "id": "area-a01-house",
+    "area_selector_id": "area-a01-house-selector",
+    "priority": 1,
+    "name_lang_id": "la-area-a01-house-name",
+    "description_lang_id": "la-area-a01-house-description",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-02-1-5",
+    "order": 1
+  },
+  {
+    "id": "area-a01-multiplay",
+    "area_selector_id": "area-a01-multiplay-selector",
+    "priority": 1,
+    "name_lang_id": "la-area-a01-multiplay-name",
+    "description_lang_id": "la-area-a01-multiplay-description",
+    "order": 1
+  },
+  {
+    "id": "area-a01-restaurant",
+    "area_selector_id": "area-a01-restaurant-selector",
+    "priority": 1,
+    "name_lang_id": "la-area-a01-restaurant-name",
+    "description_lang_id": "la-area-a01-restaurant-description",
+    "order": 1
+  },
+  {
+    "id": "area-a01-theater",
+    "area_selector_id": "area-a01-theater-selector",
+    "priority": 1,
+    "name_lang_id": "la-area-a01-theater-name",
+    "description_lang_id": "la-area-a01-theater-description",
+    "order": 1
+  },
+  {
+    "id": "area-a02-casino",
+    "area_selector_id": "area-a02-play-selector",
+    "priority": 2,
+    "name_lang_id": "la-area-a02-casino-name",
+    "description_lang_id": "la-area-a02-casino-description",
+    "view_condition_group_id": "cd-park_area_select-area-a02-casino",
+    "order": 4
+  },
+  {
+    "id": "area-a02-game",
+    "area_selector_id": "area-a02-play-selector",
+    "priority": 1,
+    "name_lang_id": "la-area-a02-game-name",
+    "description_lang_id": "la-area-a02-game-description",
+    "order": 3
+  },
+  {
+    "id": "area-a02-lobby",
+    "area_selector_id": "area-a02-selector",
+    "priority": 10,
+    "name_lang_id": "la-area-a02-lobby-name",
+    "description_lang_id": "la-area-a02-lobby-description",
+    "order": 2
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "game_title-default_001",
+    "asset_type": {
+      "name": "GAME_TITLE_ASSET_TYPE_MOVIE",
+      "number": 2
+    },
+    "asset_id": "mov_ui_title_default-001",
+    "bgm_asset_id": "bgm_sys_title-default",
+    "priority": 1
+  }
+]

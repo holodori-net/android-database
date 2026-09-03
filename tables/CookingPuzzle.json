@@ -1,0 +1,95 @@
+[
+  {
+    "id": "cooking_puzzle-challenge_easy_001",
+    "play_type": {
+      "name": "COOKING_PUZZLE_PLAY_TYPE_CHALLENGE_EASY",
+      "number": 10
+    },
+    "limit_time_seconds": 120,
+    "shuffle_cool_time_milliseconds": "5000",
+    "cooking_puzzle_combo_group_id": "cooking_combo_group_1",
+    "cooking_puzzle_completion_count_reward_group_id": "cooking_completion_count_reward_group-challenge_easy_001",
+    "game_start_display_clear_condition_lang_id": "la-cooking_puzzle-game_start_display_clear_condition_lang-count",
+    "mode_select_display_clear_condition_lang_id": "la-cooking_puzzle-mode_select_display_clear_condition_lang-count",
+    "order": 1
+  },
+  {
+    "id": "cooking_puzzle-challenge_normal_001",
+    "play_type": {
+      "name": "COOKING_PUZZLE_PLAY_TYPE_CHALLENGE_NORMAL",
+      "number": 11
+    },
+    "unlock_condition_group_id": "cd-cook-unlock_normal",
+    "limit_time_seconds": 150,
+    "shuffle_cool_time_milliseconds": "5000",
+    "cooking_puzzle_combo_group_id": "cooking_combo_group_1",
+    "cooking_puzzle_completion_count_reward_group_id": "cooking_completion_count_reward_group-challenge_normal_001",
+    "game_start_display_clear_condition_lang_id": "la-cooking_puzzle-game_start_display_clear_condition_lang-count",
+    "mode_select_display_clear_condition_lang_id": "la-cooking_puzzle-mode_select_display_clear_condition_lang-count",
+    "order": 2
+  },
+  {
+    "id": "cooking_puzzle-quest_cooking_puzzle-area-a01-11-1-2",
+    "play_type": {
+      "name": "COOKING_PUZZLE_PLAY_TYPE_PARK_QUEST",
+      "number": 30
+    },
+    "limit_time_seconds": 150,
+    "shuffle_cool_time_milliseconds": "5000",
+    "cooking_puzzle_combo_group_id": "cooking_combo_group_1",
+    "game_start_display_clear_condition_lang_id": "la-cooking_puzzle-game_start_display_clear_condition_lang-count",
+    "order": 9999
+  },
+  {
+    "id": "cooking_puzzle-quest_cooking_puzzle-area-a01-20-1-4",
+    "play_type": {
+      "name": "COOKING_PUZZLE_PLAY_TYPE_PARK_QUEST",
+      "number": 30
+    },
+    "limit_time_seconds": 180,
+    "shuffle_cool_time_milliseconds": "5000",
+    "cooking_puzzle_combo_group_id": "cooking_combo_group_1",
+    "game_start_display_clear_condition_lang_id": "la-cooking_puzzle-game_start_display_clear_condition_lang-count",
+    "order": 9999
+  },
+  {
+    "id": "cooking_puzzle-quest_cooking_puzzle-daily",
+    "play_type": {
+      "name": "COOKING_PUZZLE_PLAY_TYPE_PARK_QUEST",
+      "number": 30
+    },
+    "limit_time_seconds": 150,
+    "shuffle_cool_time_milliseconds": "5000",
+    "cooking_puzzle_combo_group_id": "cooking_combo_group_1",
+    "game_start_display_clear_condition_lang_id": "la-cooking_puzzle-game_start_display_clear_condition_lang-count",
+    "order": 9999
+  },
+  {
+    "id": "cooking_puzzle-quest_cooking_puzzle-main-w1-01-11-1-3",
+    "play_type": {
+      "name": "COOKING_PUZZLE_PLAY_TYPE_PARK_QUEST",
+      "number": 30
+    },
+    "limit_time_seconds": 120,
+    "shuffle_cool_time_milliseconds": "5000",
+    "cooking_puzzle_combo_group_id": "cooking_combo_group_1",
+    "game_start_display_clear_condition_lang_id": "la-cooking_puzzle-game_start_display_clear_condition_lang-count",
+    "order": 9999
+  },
+  {
+    "id": "cooking_puzzle-score_attack_001",
+    "play_type": {
+      "name": "COOKING_PUZZLE_PLAY_TYPE_SCORE_ATTACK",
+      "number": 20
+    },
+    "unlock_condition_group_id": "cd-cook-unlock_score_attack",
+    "limit_time_seconds": 180,
+    "shuffle_cool_time_milliseconds": "5000",
+    "cooking_puzzle_combo_group_id": "cooking_combo_group_1",
+    "loop_start_stage_number": 7,
+    "cooking_puzzle_completion_count_reward_group_id": "cooking_completion_count_reward_group-score_attack_001",
+    "game_start_display_clear_condition_lang_id": "la-cooking_puzzle-game_start_display_clear_condition_lang-score_attack",
+    "mode_select_display_clear_condition_lang_id": "la-cooking_puzzle-mode_select_display_clear_condition_lang-score_attack",
+    "order": 3
+  }
+]

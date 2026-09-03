@@ -1,0 +1,862 @@
+[
+  {
+    "id": "la-generated-live_skill_trigger-combo_gte-100.1-description",
+    "text": "Minimal 100 kombo,"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-combo_gte-40.1-description",
+    "text": "Minimal 40 kombo,"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-2.1-description",
+    "text": "Minimal 2 member [attribute=cute]Cute Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-3.1-description",
+    "text": "Minimal 3 member [attribute=cute]Cute Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-4.1-description",
+    "text": "Minimal 4 member [attribute=cute]Cute Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-5.1-description",
+    "text": "Minimal 5 member [attribute=cute]Cute Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-2.1-description",
+    "text": "Minimal 2 member [attribute=pure]Pure Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-3.1-description",
+    "text": "Minimal 3 member [attribute=pure]Pure Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-4.1-description",
+    "text": "Minimal 4 member [attribute=pure]Pure Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-5.1-description",
+    "text": "Minimal 5 member [attribute=pure]Pure Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-2.1-description",
+    "text": "Minimal 2 member [attribute=happy]Happy Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-3.1-description",
+    "text": "Minimal 3 member [attribute=happy]Happy Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-4.1-description",
+    "text": "Minimal 4 member [attribute=happy]Happy Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-5.1-description",
+    "text": "Minimal 5 member [attribute=happy]Happy Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-1.1-description",
+    "text": "Lebih dari 1 member Advent"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-2.1-description",
+    "text": "Lebih dari 2 member Advent"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-3.1-description",
+    "text": "Lebih dari 3 member Advent"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-4.1-description",
+    "text": "Lebih dari 4 member Advent"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-5.1-description",
+    "text": "Lebih dari 5 member Advent"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-1.1-description",
+    "text": "Lebih dari 1 member GAMERS"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-2.1-description",
+    "text": "Lebih dari 2 member GAMERS"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-3.1-description",
+    "text": "Lebih dari 3 member GAMERS"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-4.1-description",
+    "text": "Lebih dari 4 member GAMERS"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-1.1-description",
+    "text": "Lebih dari 1 member Gen 0"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-2.1-description",
+    "text": "Lebih dari 2 member Gen 0"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-3.1-description",
+    "text": "Lebih dari 3 member Gen 0"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-4.1-description",
+    "text": "Lebih dari 4 member Gen 0"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-5.1-description",
+    "text": "Lebih dari 5 member Gen 0"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-1.1-description",
+    "text": "Lebih dari 1 member Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-2.1-description",
+    "text": "Lebih dari 2 member Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-3.1-description",
+    "text": "Lebih dari 3 member Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-4.1-description",
+    "text": "Lebih dari 4 member Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-1.1-description",
+    "text": "Lebih dari 1 member Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-2.1-description",
+    "text": "Lebih dari 2 member Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-3.1-description",
+    "text": "Lebih dari 3 member Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-4.1-description",
+    "text": "Lebih dari 4 member Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-1.1-description",
+    "text": "Lebih dari 1 member Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-2.1-description",
+    "text": "Lebih dari 2 member Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-3.1-description",
+    "text": "Lebih dari 3 member Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-4.1-description",
+    "text": "Lebih dari 4 member Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-1.1-description",
+    "text": "Lebih dari 1 member Gen 4"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-2.1-description",
+    "text": "Lebih dari 2 member Gen 4"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-3.1-description",
+    "text": "Lebih dari 3 member Gen 4"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-4.1-description",
+    "text": "Lebih dari 4 member Gen 4"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-1.1-description",
+    "text": "Lebih dari 1 member Gen 5"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-2.1-description",
+    "text": "Lebih dari 2 member Gen 5"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-3.1-description",
+    "text": "Lebih dari 3 member Gen 5"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-4.1-description",
+    "text": "Lebih dari 4 member Gen 5"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-1.1-description",
+    "text": "Lebih dari 1 member holoX"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-2.1-description",
+    "text": "Lebih dari 2 member holoX"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-3.1-description",
+    "text": "Lebih dari 3 member holoX"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-4.1-description",
+    "text": "Lebih dari 4 member holoX"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-1.1-description",
+    "text": "Lebih dari 1 member hololive ID"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-2.1-description",
+    "text": "Lebih dari 2 member hololive ID"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-3.1-description",
+    "text": "Lebih dari 3 member hololive ID"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-4.1-description",
+    "text": "Lebih dari 4 member hololive ID"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-5.1-description",
+    "text": "Lebih dari 5 member hololive ID"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-1.1-description",
+    "text": "Lebih dari 1 member ID Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-2.1-description",
+    "text": "Lebih dari 2 member ID Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-3.1-description",
+    "text": "Lebih dari 3 member ID Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-1.1-description",
+    "text": "Lebih dari 1 member ID Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-2.1-description",
+    "text": "Lebih dari 2 member ID Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-3.1-description",
+    "text": "Lebih dari 3 member ID Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-1.1-description",
+    "text": "Lebih dari 1 member ID Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-2.1-description",
+    "text": "Lebih dari 2 member ID Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-3.1-description",
+    "text": "Lebih dari 3 member ID Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-1.1-description",
+    "text": "Lebih dari 1 member Myth"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-2.1-description",
+    "text": "Lebih dari 2 member Myth"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-3.1-description",
+    "text": "Lebih dari 3 member Myth"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-4.1-description",
+    "text": "Lebih dari 4 member Myth"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-1.1-description",
+    "text": "Lebih dari 1 member Promise"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-2.1-description",
+    "text": "Lebih dari 2 member Promise"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-3.1-description",
+    "text": "Lebih dari 3 member Promise"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-4.1-description",
+    "text": "Lebih dari 4 member Promise"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-1.1-description",
+    "text": "Lebih dari 1 member ReGLOSS"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-2.1-description",
+    "text": "Lebih dari 2 member ReGLOSS"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-3.1-description",
+    "text": "Lebih dari 3 member ReGLOSS"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-4.1-description",
+    "text": "Lebih dari 4 member ReGLOSS"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-5.1-description",
+    "text": "Lebih dari 5 member ReGLOSS"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00001.1-description",
+    "text": "Jika Leader adalah Tokino Sora"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00002.1-description",
+    "text": "Jika Leader adalah Robocosan"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00004.1-description",
+    "text": "Jika Leader adalah Aki Rosenthal"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00005.1-description",
+    "text": "Jika Leader adalah Akai Haato"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00006.1-description",
+    "text": "Jika Leader adalah Shirakami Fubuki"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00007.1-description",
+    "text": "Jika Leader adalah Natsuiro Matsuri"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00010.1-description",
+    "text": "Jika Leader adalah Nakiri Ayame"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00011.1-description",
+    "text": "Jika Leader adalah Yuzuki Choco"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00012.1-description",
+    "text": "Jika Leader adalah Oozora Subaru"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00013.1-description",
+    "text": "Jika Leader adalah AZKi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00014.1-description",
+    "text": "Jika Leader adalah Ookami Mio"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00015.1-description",
+    "text": "Jika Leader adalah Sakura Miko"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00016.1-description",
+    "text": "Jika Leader adalah Nekomata Okayu"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00017.1-description",
+    "text": "Jika Leader adalah Inugami Korone"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00018.1-description",
+    "text": "Jika Leader adalah Hoshimachi Suisei"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00019.1-description",
+    "text": "Jika Leader adalah Usada Pekora"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00021.1-description",
+    "text": "Jika Leader adalah Shiranui Flare"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00022.1-description",
+    "text": "Jika Leader adalah Shirogane Noel"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00023.1-description",
+    "text": "Jika Leader adalah Houshou Marine"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00024.1-description",
+    "text": "Jika Leader adalah Amane Kanata"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00026.1-description",
+    "text": "Jika Leader adalah Tsunomaki Watame"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00027.1-description",
+    "text": "Jika Leader adalah Tokoyami Towa"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00028.1-description",
+    "text": "Jika Leader adalah Himemori Luna"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00030.1-description",
+    "text": "Jika Leader adalah Yukihana Lamy"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00031.1-description",
+    "text": "Jika Leader adalah Momosuzu Nene"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00032.1-description",
+    "text": "Jika Leader adalah Shishiro Botan"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00034.1-description",
+    "text": "Jika Leader adalah Omaru Polka"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00035.1-description",
+    "text": "Jika Leader adalah La+ Darknesss"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00036.1-description",
+    "text": "Jika Leader adalah Takane Lui"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00037.1-description",
+    "text": "Jika Leader adalah Hakui Koyori"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-00039.1-description",
+    "text": "Jika Leader adalah Kazama Iroha"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03001.1-description",
+    "text": "Jika Leader adalah Ayunda Risu"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03002.1-description",
+    "text": "Jika Leader adalah Moona Hoshinova"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03003.1-description",
+    "text": "Jika Leader adalah Airani Iofifteen"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03004.1-description",
+    "text": "Jika Leader adalah Kureiji Ollie"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03005.1-description",
+    "text": "Jika Leader adalah Anya Melfissa"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03006.1-description",
+    "text": "Jika Leader adalah Pavolia Reine"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03007.1-description",
+    "text": "Jika Leader adalah Vestia Zeta"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03008.1-description",
+    "text": "Jika Leader adalah Kaela Kovalskia"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-03009.1-description",
+    "text": "Jika Leader adalah Kobo Kanaeru"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04001.1-description",
+    "text": "Jika Leader adalah Mori Calliope"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04002.1-description",
+    "text": "Jika Leader adalah Takanashi Kiara"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04003.1-description",
+    "text": "Jika Leader adalah Ninomae Ina'nis"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04007.1-description",
+    "text": "Jika Leader adalah IRyS"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04010.1-description",
+    "text": "Jika Leader adalah Ouro Kronii"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04012.1-description",
+    "text": "Jika Leader adalah Hakos Baelz"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04013.1-description",
+    "text": "Jika Leader adalah Shiori Novella"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04014.1-description",
+    "text": "Jika Leader adalah Koseki Bijou"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04015.1-description",
+    "text": "Jika Leader adalah Nerissa Ravencroft"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04016.1-description",
+    "text": "Jika Leader adalah Fuwawa Abyssgard"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-04017.1-description",
+    "text": "Jika Leader adalah Mococo Abyssgard"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06001.1-description",
+    "text": "Jika Leader adalah Hiodoshi Ao"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06002.1-description",
+    "text": "Jika Leader adalah Otonose Kanade"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06003.1-description",
+    "text": "Jika Leader adalah Ichijou Ririka"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06004.1-description",
+    "text": "Jika Leader adalah Juufuutei Raden"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character-chr-06005.1-description",
+    "text": "Jika Leader adalah Todoroki Hajime"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-advent.1-description",
+    "text": "Jika Leader adalah Advent"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gamers.1-description",
+    "text": "Jika Leader adalah GAMERS"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_0.1-description",
+    "text": "Jika Leader adalah Gen 0"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_1.1-description",
+    "text": "Jika Leader adalah Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_2.1-description",
+    "text": "Jika Leader adalah Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_3.1-description",
+    "text": "Jika Leader adalah Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_4.1-description",
+    "text": "Jika Leader adalah Gen 4"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_5.1-description",
+    "text": "Jika Leader adalah Gen 5"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-holox.1-description",
+    "text": "Jika Leader adalah holoX"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_1.1-description",
+    "text": "Jika Leader adalah ID Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_2.1-description",
+    "text": "Jika Leader adalah ID Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_3.1-description",
+    "text": "Jika Leader adalah ID Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia.1-description",
+    "text": "Jika Leader adalah hololive ID"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-myth.1-description",
+    "text": "Jika Leader adalah Myth"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-promise.1-description",
+    "text": "Jika Leader adalah Promise"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-regloss.1-description",
+    "text": "Jika Leader adalah ReGLOSS"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-judgement_type_gte-good.1-description",
+    "text": "Dengan hasil Good"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-judgement_type_gte-great.1-description",
+    "text": "Dengan hasil Great"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-judgement_type_gte-perfect.1-description",
+    "text": "Dengan hasil Perfect"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-life_gte-1000.1-description",
+    "text": "Dengan LIFE diatas 1000"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-life_gte-600.1-description",
+    "text": "Dengan LIFE diatas 600"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-life_lte-500.1-description",
+    "text": "Dengan LIFE dibawah 500"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-life_lte-700.1-description",
+    "text": "Dengan LIFE dibawah 700"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-life_lte-950.1-description",
+    "text": "Dengan LIFE dibawah 950"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00001.1-description",
+    "text": "Ketika Tokino Sora disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00002.1-description",
+    "text": "Ketika Robocosan disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00004.1-description",
+    "text": "Ketika Aki Rosenthal disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00005.1-description",
+    "text": "Ketika Akai Haato disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00006.1-description",
+    "text": "Ketika Shirakami Fubuki disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00007.1-description",
+    "text": "Ketika Natsuiro Matsuri disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00010.1-description",
+    "text": "Ketika Nakiri Ayame disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00011.1-description",
+    "text": "Ketika Yuzuki Choco disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00012.1-description",
+    "text": "Ketika Oozora Subaru disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00013.1-description",
+    "text": "Ketika AZKi disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00014.1-description",
+    "text": "Ketika Ookami Mio disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00015.1-description",
+    "text": "Ketika Sakura Miko disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00016.1-description",
+    "text": "Ketika Nekomata Okayu disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00017.1-description",
+    "text": "Ketika Inugami Korone disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00018.1-description",
+    "text": "Ketika Hoshimachi Suisei disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00019.1-description",
+    "text": "Ketika Usada Pekora disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00021.1-description",
+    "text": "Ketika Shiranui Flare disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00022.1-description",
+    "text": "Ketika Shirogane Noel disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00023.1-description",
+    "text": "Ketika Houshou Marine disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00024.1-description",
+    "text": "Ketika Amane Kanata disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00026.1-description",
+    "text": "Ketika Tsunomaki Watame disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00027.1-description",
+    "text": "Ketika Tokoyami Towa disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00028.1-description",
+    "text": "Ketika Himemori Luna disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00030.1-description",
+    "text": "Ketika Yukihana Lamy disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00031.1-description",
+    "text": "Ketika Momosuzu Nene disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00032.1-description",
+    "text": "Ketika Shishiro Botan disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00034.1-description",
+    "text": "Ketika Omaru Polka disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00035.1-description",
+    "text": "Ketika La+ Darknesss disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00036.1-description",
+    "text": "Ketika Takane Lui disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00037.1-description",
+    "text": "Ketika Hakui Koyori disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-00039.1-description",
+    "text": "Ketika Kazama Iroha disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03001.1-description",
+    "text": "Ketika Ayunda Risu disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03002.1-description",
+    "text": "Ketika Moona Hoshinova disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03003.1-description",
+    "text": "Ketika Airani Iofifteen disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03004.1-description",
+    "text": "Ketika Kureiji Ollie disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03005.1-description",
+    "text": "Ketika Anya Melfissa disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03006.1-description",
+    "text": "Ketika Pavolia Reine disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03007.1-description",
+    "text": "Ketika Vestia Zeta disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03008.1-description",
+    "text": "Ketika Kaela Kovalskia disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-03009.1-description",
+    "text": "Ketika Kobo Kanaeru disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04001.1-description",
+    "text": "Ketika Mori Calliope disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04002.1-description",
+    "text": "Ketika Takanashi Kiara disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04003.1-description",
+    "text": "Ketika Ninomae Ina'nis disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04007.1-description",
+    "text": "Ketika IRyS disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04010.1-description",
+    "text": "Ketika Ouro Kronii disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04012.1-description",
+    "text": "Ketika Hakos Baelz disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04013.1-description",
+    "text": "Ketika Shiori Novella disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04014.1-description",
+    "text": "Ketika Koseki Bijou disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04015.1-description",
+    "text": "Ketika Nerissa Ravencroft disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04016.1-description",
+    "text": "Ketika Fuwawa Abyssgard disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-04017.1-description",
+    "text": "Ketika Mococo Abyssgard disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-06001.1-description",
+    "text": "Ketika Hiodoshi Ao disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-06002.1-description",
+    "text": "Ketika Otonose Kanade disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-06003.1-description",
+    "text": "Ketika Ichijou Ririka disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-06004.1-description",
+    "text": "Ketika Juufuutei Raden disertakan sebagai penyanyi"
+  },
+  {
+    "id": "la-generated-live_skill_trigger-music_character-chr-06005.1-description",
+    "text": "Ketika Todoroki Hajime disertakan sebagai penyanyi"
+  }
+]

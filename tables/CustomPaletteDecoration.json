@@ -1,0 +1,22 @@
+[
+  {
+    "id": "custom_palette_decoration-background-official_player-01",
+    "custom_palette_decoration_type": {
+      "name": "CUSTOM_PALETTE_DECORATION_TYPE_BACKGROUND",
+      "number": 1
+    },
+    "name_lang_id": "la-custom_palette_decoration-official_background-name",
+    "asset_id": "img_custom_deco_bg_official-001",
+    "order": 99999
+  },
+  {
+    "id": "custom_palette_decoration-background-shop-pack-01-beginner-01",
+    "custom_palette_decoration_type": {
+      "name": "CUSTOM_PALETTE_DECORATION_TYPE_BACKGROUND",
+      "number": 1
+    },
+    "name_lang_id": "la-custom_palette_decoration-background-name",
+    "asset_id": "img_custom_deco_bg_shop-pack-01-beginner-01",
+    "order": 1
+  }
+]

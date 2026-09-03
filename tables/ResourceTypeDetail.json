@@ -1,0 +1,400 @@
+[
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_CHARACTER",
+      "number": 1
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-character-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-character-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-character",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_CARD",
+      "number": 2
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-card-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-card-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-card",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_ITEM",
+      "number": 3
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-item-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-item-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_COSTUME",
+      "number": 4
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-costume-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-costume-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-costume",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_SD_COSTUME",
+      "number": 5
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-sd_costume-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-sd_costume-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-sd_costume",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+      "number": 6
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-sd_costume_hair_accessory-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-sd_costume_hair_accessory-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-sd_costume_hair_accessory",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_PARK_EMOTION",
+      "number": 7
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-park_emotion-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-park_emotion-description",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_PARK_ACCESSORY",
+      "number": 8
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-park_accessory-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-park_accessory-description",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_FAN_MARK",
+      "number": 9
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-fan_mark-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-fan_mark-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-fan_mark",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_LIVE_SKIN",
+      "number": 10
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-live_skin-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-live_skin-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-live_skin",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_EMBLEM",
+      "number": 11
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-emblem-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-emblem-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-emblem",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_CUSTOM_PALETTE_DECORATION",
+      "number": 12
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-custom_palette_decoration-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-custom_palette_decoration-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-custom_palette_decoration",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_PLAYER_EXP",
+      "number": 13
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-player_exp-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-player_exp-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-player_exp",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_MISSION_PASS_POINT",
+      "number": 14
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-mission_pass_point-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-mission_pass_point-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-mission_pass_point",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_STAMP",
+      "number": 15
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-stamp-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-stamp-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-stamp",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_MUSIC",
+      "number": 16
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-music-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-music-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-music",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_GACHA_POINT",
+      "number": 18
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-gacha_point-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-gacha_point-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-gacha_point",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_POSTER",
+      "number": 19
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-poster-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-poster-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-poster",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_PREMIUM_MISSION_PASS",
+      "number": 20
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-premium_mission_pass-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-premium_mission_pass-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-premium_mission_pass",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_WALLPAPER",
+      "number": 21
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-wallpaper-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-wallpaper-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-wallpaper",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_SKILL_TREE_POINT",
+      "number": 22
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-skill_tree_point-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-skill_tree_point-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-skill_tree_point",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_APPEAL_TEXT",
+      "number": 25
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-appealtext",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-set-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-appealtext",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_STONE_TOTAL",
+      "number": 1001
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-stone_total-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-stone_total-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-stone_total",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_STONE_PAID_ONLY",
+      "number": 1002
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-stone_paid_only-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-stone_paid_only-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-stone_paid_only",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  },
+  {
+    "type": {
+      "name": "RESOURCE_TYPE_SET",
+      "number": 9999
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-resource_type_detail-set-name",
+    "icon_asset_id": "other",
+    "description_lang_id": "la-resource_type_detail-set-description",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-set",
+    "background_color": "28C3FF",
+    "background_pattern_type": {
+      "name": "RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3",
+      "number": 3
+    }
+  }
+]

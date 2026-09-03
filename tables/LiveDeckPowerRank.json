@@ -1,0 +1,108 @@
+[
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_D",
+      "number": 1
+    }
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_D",
+      "number": 1
+    },
+    "plus": 1,
+    "threshold": "30000"
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_C",
+      "number": 2
+    },
+    "threshold": "50000"
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_C",
+      "number": 2
+    },
+    "plus": 1,
+    "threshold": "70000"
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_B",
+      "number": 3
+    },
+    "threshold": "100000"
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_B",
+      "number": 3
+    },
+    "plus": 1,
+    "threshold": "120000"
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_A",
+      "number": 4
+    },
+    "threshold": "150000"
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_A",
+      "number": 4
+    },
+    "plus": 1,
+    "threshold": "170000"
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "threshold": "200000"
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 1,
+    "threshold": "220000"
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 2,
+    "threshold": "270000"
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 3,
+    "threshold": "300000"
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 4,
+    "threshold": "350000"
+  },
+  {
+    "type": {
+      "name": "LIVE_DECK_RANK_TYPE_S",
+      "number": 5
+    },
+    "plus": 5,
+    "threshold": "400000"
+  }
+]

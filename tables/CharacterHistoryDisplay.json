@@ -1,0 +1,86 @@
+[
+  {
+    "type": {
+      "name": "CHARACTER_HISTORY_TYPE_CHARACTER_LEVEL",
+      "number": 1
+    },
+    "order": 12
+  },
+  {
+    "type": {
+      "name": "CHARACTER_HISTORY_TYPE_CARD_GET_RARITY_GTE_5",
+      "number": 2
+    },
+    "order": 11
+  },
+  {
+    "type": {
+      "name": "CHARACTER_HISTORY_TYPE_COSTUME_GET",
+      "number": 3
+    },
+    "order": 10
+  },
+  {
+    "type": {
+      "name": "CHARACTER_HISTORY_TYPE_SD_COSTUME_GET",
+      "number": 4
+    },
+    "order": 9
+  },
+  {
+    "type": {
+      "name": "CHARACTER_HISTORY_TYPE_ACHIEVEMENT",
+      "number": 5
+    },
+    "order": 8
+  },
+  {
+    "type": {
+      "name": "CHARACTER_HISTORY_TYPE_MEMBERSHIP_ELAPSED_MONTHS",
+      "number": 6
+    },
+    "order": 7
+  },
+  {
+    "type": {
+      "name": "CHARACTER_HISTORY_TYPE_LIVE_PLAY_COUNT",
+      "number": 7
+    },
+    "order": 6
+  },
+  {
+    "type": {
+      "name": "CHARACTER_HISTORY_TYPE_MINI_GAME_PLAY_COUNT",
+      "number": 8
+    },
+    "order": 5
+  },
+  {
+    "type": {
+      "name": "CHARACTER_HISTORY_TYPE_CHARACTER_GET_DURATION_MONTHS",
+      "number": 9
+    },
+    "order": 3
+  },
+  {
+    "type": {
+      "name": "CHARACTER_HISTORY_TYPE_CHARACTER_GET_DURATION_YEARS",
+      "number": 10
+    },
+    "order": 4
+  },
+  {
+    "type": {
+      "name": "CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+      "number": 11
+    },
+    "order": 2
+  },
+  {
+    "type": {
+      "name": "CHARACTER_HISTORY_TYPE_BIRTHDAY",
+      "number": 12
+    },
+    "order": 1
+  }
+]

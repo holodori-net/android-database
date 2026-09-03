@@ -1,0 +1,962 @@
+[
+  {
+    "id": "la-item-card-potential-upgrade-cmn-description",
+    "text": "★5 멤버의 개화에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-card-potential-upgrade-cmn-name",
+    "text": "블룸 스톤"
+  },
+  {
+    "id": "la-item-card_level_up-description",
+    "text": "멤버의 레벨업에 사용하는 아이템"
+  },
+  {
+    "id": "la-item-card_level_up-name",
+    "text": "레슨 Pt"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_1-1-description",
+    "text": "멤버의 특훈에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_1-1-name",
+    "text": "큐트 피스"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_1-2-description",
+    "text": "멤버의 특훈에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_1-2-name",
+    "text": "큐트 크리스털"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_2-1-description",
+    "text": "멤버의 특훈에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_2-1-name",
+    "text": "퓨어 피스"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_2-2-description",
+    "text": "멤버의 특훈에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_2-2-name",
+    "text": "퓨어 크리스털"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_3-1-description",
+    "text": "멤버의 특훈에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_3-1-name",
+    "text": "해피 피스"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_3-2-description",
+    "text": "멤버의 특훈에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_3-2-name",
+    "text": "해피 크리스털"
+  },
+  {
+    "id": "la-item-card_limit_break-cmn-sr-description",
+    "text": "멤버의 특훈에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-card_limit_break-cmn-sr-name",
+    "text": "Holo리움"
+  },
+  {
+    "id": "la-item-character_coin-chr-00001-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00001-name",
+    "text": "멤버십 메달(소라)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00002-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00002-name",
+    "text": "멤버십 메달(로보코 씨)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00004-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00004-name",
+    "text": "멤버십 메달(아키)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00005-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00005-name",
+    "text": "멤버십 메달(하아토)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00006-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00006-name",
+    "text": "멤버십 메달(후부키)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00007-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00007-name",
+    "text": "멤버십 메달(마츠리)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00010-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00010-name",
+    "text": "멤버십 메달(아야메)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00011-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00011-name",
+    "text": "멤버십 메달(초코)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00012-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00012-name",
+    "text": "멤버십 메달(스바루)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00013-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00013-name",
+    "text": "멤버십 메달(AZKi)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00014-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00014-name",
+    "text": "멤버십 메달(미오)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00015-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00015-name",
+    "text": "멤버십 메달(미코)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00016-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00016-name",
+    "text": "멤버십 메달(오카유)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00017-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00017-name",
+    "text": "멤버십 메달(코로네)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00018-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00018-name",
+    "text": "멤버십 메달(스이세이)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00019-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00019-name",
+    "text": "멤버십 메달(페코라)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00021-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00021-name",
+    "text": "멤버십 메달(후레아)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00022-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00022-name",
+    "text": "멤버십 메달(노엘)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00023-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00023-name",
+    "text": "멤버십 메달(마린)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00026-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00026-name",
+    "text": "멤버십 메달(와타메)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00027-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00027-name",
+    "text": "멤버십 메달(토와)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00028-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00028-name",
+    "text": "멤버십 메달(루나)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00030-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00030-name",
+    "text": "멤버십 메달(라미)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00031-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00031-name",
+    "text": "멤버십 메달(네네)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00032-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00032-name",
+    "text": "멤버십 메달(보탄)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00034-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00034-name",
+    "text": "멤버십 메달(폴카)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00035-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00035-name",
+    "text": "멤버십 메달(라플라스)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00036-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00036-name",
+    "text": "멤버십 메달(루이)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00037-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00037-name",
+    "text": "멤버십 메달(코요리)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00039-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-00039-name",
+    "text": "멤버십 메달(이로하)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03001-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-03001-name",
+    "text": "멤버십 메달(리스)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03002-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-03002-name",
+    "text": "멤버십 메달(무나)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03003-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-03003-name",
+    "text": "멤버십 메달(이오피)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03004-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-03004-name",
+    "text": "멤버십 메달(올리)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03005-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-03005-name",
+    "text": "멤버십 메달(아냐)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03006-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-03006-name",
+    "text": "멤버십 메달(레이네)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03007-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-03007-name",
+    "text": "멤버십 메달(제타)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03008-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-03008-name",
+    "text": "멤버십 메달(카엘라)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03009-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-03009-name",
+    "text": "멤버십 메달(코보)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04001-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-04001-name",
+    "text": "멤버십 메달(칼리오페)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04002-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-04002-name",
+    "text": "멤버십 메달(키아라)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04003-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-04003-name",
+    "text": "멤버십 메달(이나니스)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04007-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-04007-name",
+    "text": "멤버십 메달(IRyS)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04010-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-04010-name",
+    "text": "멤버십 메달(크로니)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04012-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-04012-name",
+    "text": "멤버십 메달(벨즈)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04013-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-04013-name",
+    "text": "멤버십 메달(시오리)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04014-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-04014-name",
+    "text": "멤버십 메달(비쥬)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04015-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-04015-name",
+    "text": "멤버십 메달(네리사)"
+  },
+  {
+    "id": "la-item-character_coin-chr-06002-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-06002-name",
+    "text": "멤버십 메달(카나데)"
+  },
+  {
+    "id": "la-item-character_coin-chr-06003-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-06003-name",
+    "text": "멤버십 메달(리리카)"
+  },
+  {
+    "id": "la-item-character_coin-chr-06004-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-06004-name",
+    "text": "멤버십 메달(라덴)"
+  },
+  {
+    "id": "la-item-character_coin-chr-06005-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-06005-name",
+    "text": "멤버십 메달(하지메)"
+  },
+  {
+    "id": "la-item-character_coin-chr-80001-description",
+    "text": "멤버십 내 아이템과 교환할 수 있는 메달."
+  },
+  {
+    "id": "la-item-character_coin-chr-80001-name",
+    "text": "멤버십 메달(FUWAMOCO)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-description",
+    "text": "이벤트 교환소의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-name",
+    "text": "이벤트 배지"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-002-chapter-01-description",
+    "text": "이벤트 교환소의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-002-chapter-01-name",
+    "text": "이벤트 배지"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-description",
+    "text": "이벤트 교환소의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-name",
+    "text": "이벤트 배지"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-all-description",
+    "text": "이벤트 교환소(전체)의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-all-name",
+    "text": "이벤트 배지(전체)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-01-description",
+    "text": "이벤트 교환소(칼리오페)의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-01-name",
+    "text": "이벤트 배지(칼리오페)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-02-description",
+    "text": "이벤트 교환소(아야메)의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-02-name",
+    "text": "이벤트 배지(아야메)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-03-description",
+    "text": "이벤트 교환소(올리)의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-03-name",
+    "text": "이벤트 배지(올리)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-04-description",
+    "text": "이벤트 교환소(루나)의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-04-name",
+    "text": "이벤트 배지(루나)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-05-description",
+    "text": "이벤트 교환소(이나니스)의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-05-name",
+    "text": "이벤트 배지(이나니스)"
+  },
+  {
+    "id": "la-item-exchange-holomedal-description",
+    "text": "파크 내 상점에서 아이템과 교환할 수 있는 아이템."
+  },
+  {
+    "id": "la-item-exchange-holomedal-name",
+    "text": "Holo메달"
+  },
+  {
+    "id": "la-item-facility-area_a01-000-cmn-description",
+    "text": "시설 건축 및 강화 등에 사용하는 아이템"
+  },
+  {
+    "id": "la-item-facility-area_a01-000-cmn-name",
+    "text": "목재"
+  },
+  {
+    "id": "la-item-facility-area_a01-001-1-description",
+    "text": "시설 건축 및 강화 등에 사용하는 아이템"
+  },
+  {
+    "id": "la-item-facility-area_a01-001-1-name",
+    "text": "못"
+  },
+  {
+    "id": "la-item-facility-area_a01-001-2-description",
+    "text": "시설 건축 및 강화 등에 사용하는 아이템"
+  },
+  {
+    "id": "la-item-facility-area_a01-001-2-name",
+    "text": "페인트"
+  },
+  {
+    "id": "la-item-facility-area_a01-002-1-description",
+    "text": "시설 건축 및 강화 등에 사용하는 아이템"
+  },
+  {
+    "id": "la-item-facility-area_a01-002-1-name",
+    "text": "석재"
+  },
+  {
+    "id": "la-item-facility-area_a01-002-2-description",
+    "text": "시설 건축 및 강화 등에 사용하는 아이템"
+  },
+  {
+    "id": "la-item-facility-area_a01-002-2-name",
+    "text": "유리"
+  },
+  {
+    "id": "la-item-facility-area_a02-000-cmn-description",
+    "text": "메가 스피어에 있는 게임기 수리에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-facility-area_a02-000-cmn-name",
+    "text": "수리 재료"
+  },
+  {
+    "id": "la-item-facility-area_a02-001-1-description",
+    "text": "시설 건축 및 강화 등에 사용하는 아이템"
+  },
+  {
+    "id": "la-item-facility-area_a02-001-1-name",
+    "text": "나사"
+  },
+  {
+    "id": "la-item-facility-area_a02-002-1-description",
+    "text": "시설 건축 및 강화 등에 사용하는 아이템"
+  },
+  {
+    "id": "la-item-facility-area_a02-002-1-name",
+    "text": "IC칩"
+  },
+  {
+    "id": "la-item-gacha-cmn_sticker-01-description",
+    "text": "Holo스티커 교환소에서 아이템과 교환할 수 있는 스티커."
+  },
+  {
+    "id": "la-item-gacha-cmn_sticker-01-name",
+    "text": "Holo스티커"
+  },
+  {
+    "id": "la-item-gacha-sp_sticker-01-description",
+    "text": "특별 Holo스티커 교환소에서 아이템과 교환할 수 있는 스티커."
+  },
+  {
+    "id": "la-item-gacha-sp_sticker-01-name",
+    "text": "특별 Holo스티커"
+  },
+  {
+    "id": "la-item-gacha_ticket-cmn-01-description",
+    "text": "holo드림 뽑기를 이용할 수 있는 티켓."
+  },
+  {
+    "id": "la-item-gacha_ticket-cmn-01-name",
+    "text": "holo드림 뽑기 티켓"
+  },
+  {
+    "id": "la-item-gacha_ticket-r4-01-description",
+    "text": "★4 이상 멤버 확정 뽑기를 이용할 수 있는 티켓."
+  },
+  {
+    "id": "la-item-gacha_ticket-r4-01-name",
+    "text": "★4 이상 확정 뽑기 티켓"
+  },
+  {
+    "id": "la-item-gacha_ticket-r5-01-description",
+    "text": "★5 확정 티켓 뽑기를 이용할 수 있는 티켓."
+  },
+  {
+    "id": "la-item-gacha_ticket-r5-01-name",
+    "text": "★5 확정 뽑기 티켓"
+  },
+  {
+    "id": "la-item-gold-description",
+    "text": "다양한 용도에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-gold-name",
+    "text": "Holo골드"
+  },
+  {
+    "id": "la-item-live_auto_play-description",
+    "text": "라이브를 자동으로 플레이할 수 있는 아이템."
+  },
+  {
+    "id": "la-item-live_auto_play-name",
+    "text": "자동 티켓"
+  },
+  {
+    "id": "la-item-live_reward_up_stamina_recover-description",
+    "text": "라이브 부스트에 교환 가능한 아이템."
+  },
+  {
+    "id": "la-item-live_reward_up_stamina_recover-name",
+    "text": "라이브 부스트 음료"
+  },
+  {
+    "id": "la-item-mini-game-chase-coin-description",
+    "text": "하모니 가든 코인 교환소에서 상품과 교환할 수 있는 아이템."
+  },
+  {
+    "id": "la-item-mini-game-chase-coin-name",
+    "text": "하모니 가든 코인"
+  },
+  {
+    "id": "la-item-mini_game_bet_coin-description",
+    "text": "메가 스피어의 미니 게임이나 교환소 등에서 사용하는 아이템."
+  },
+  {
+    "id": "la-item-mini_game_bet_coin-name",
+    "text": "메가 스피어 코인"
+  },
+  {
+    "id": "la-item-mini_game_reward_up_stamina_recover-description",
+    "text": "미니 게임 부스트에 교환 가능한 아이템."
+  },
+  {
+    "id": "la-item-mini_game_reward_up_stamina_recover-name",
+    "text": "미니 게임 부스트 젤리"
+  },
+  {
+    "id": "la-item-music_release-description",
+    "text": "악곡 교환에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-music_release-name",
+    "text": "뮤직 디스크"
+  },
+  {
+    "id": "la-item-park_character_quest-description",
+    "text": "holo멤버를 선택해 holo멤버 퀘스트를 발생시킬 수 있는 아이템."
+  },
+  {
+    "id": "la-item-park_character_quest-name",
+    "text": "holo멤버 초대장"
+  },
+  {
+    "id": "la-item-quest-area-a01-17-1-2-description",
+    "text": "Advent 멤버가 The Cell 리턴즈를 청소하기 위해 사용하는 도구. Advent 멤버에게 건네주고 청소를 시작하자."
+  },
+  {
+    "id": "la-item-quest-area-a01-17-1-2-name",
+    "text": "청소 도구"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-02-1-4-description",
+    "text": "holo멤의 짐이 들어 있는 박스. 개인 소지품을 중심으로 다양한 물건이 들어 있다. 필요한 사람에게 전해주자."
+  },
+  {
+    "id": "la-item-quest-main-w1-01-02-1-4-name",
+    "text": "holo멤의 짐"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-05-1-4-description",
+    "text": "holo멤의 짐이 들어 있는 박스. 개인 소지품뿐만 아니라 라이브에 필요한 물건도 들어 있다. 필요한 사람에게 전해주자."
+  },
+  {
+    "id": "la-item-quest-main-w1-01-05-1-4-name",
+    "text": "holo멤의 짐"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-08-1-4-description",
+    "text": "holo멤의 짐이 들어 있는 박스. 3기생의 짐과 GAMERS의 짐이 있다. 필요한 사람에게 전해주자."
+  },
+  {
+    "id": "la-item-quest-main-w1-01-08-1-4-name",
+    "text": "holo멤의 짐"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-11-1-4-description",
+    "text": "먹방 여행에서 제공하는, 아주 맛있어 보이는 음료. 재고가 동나기 전에 먹방 여행에 전해주자."
+  },
+  {
+    "id": "la-item-quest-main-w1-01-11-1-4-name",
+    "text": "맛있어 보이는 음료"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-11-1-5-description",
+    "text": "먹방 여행에서 제공하는, 아주 먹음직스러운 식재료들. 재고가 동나기 전에 먹방 여행에 전해주자."
+  },
+  {
+    "id": "la-item-quest-main-w1-01-11-1-5-name",
+    "text": "먹음직스러운 식재료"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-12-1-3-description",
+    "text": "심플하면서도 장난기 가득한 네포라보 특제 도시락. 날씨가 좋으니 소풍 가서 먹자."
+  },
+  {
+    "id": "la-item-quest-main-w1-01-12-1-3-name",
+    "text": "네포라보 우걱우걱 도시락"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-12-1-4-description",
+    "text": "h3ro 비이클로 조달한 과자 세트. 날씨가 좋으니 소풍 가서 먹자."
+  },
+  {
+    "id": "la-item-quest-main-w1-01-12-1-4-name",
+    "text": "과자 세트"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-13-1-4-description",
+    "text": "파크 시설에 필요한 비품들. 지금 당장 필요하지는 않지만, 없으면 안 되는 것들. 각각의 시설에 전해주자."
+  },
+  {
+    "id": "la-item-quest-main-w1-01-13-1-4-name",
+    "text": "시설 비품"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-15-1-1-description",
+    "text": "루츄츄 모빌 15에서 취급하는 색색의 풍선. holo멤들에게 전해주고 소감을 들어보자."
+  },
+  {
+    "id": "la-item-quest-main-w1-01-15-1-1-name",
+    "text": "컬러풀한 풍선"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-18-1-3-description",
+    "text": "초VeryBad 드림 파티 출장소, 완성 파티 장식용 풍선. 가져가서 파티에 화려함을 더하자."
+  },
+  {
+    "id": "la-item-quest-main-w1-01-18-1-3-name",
+    "text": "파티용 풍선"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-18-1-4-description",
+    "text": "초VeryBad 드림 파티 출장소, 완성 파티 장식. 다양한 형태가 있다. 가져가서 장식하자."
+  },
+  {
+    "id": "la-item-quest-main-w1-01-18-1-4-name",
+    "text": "파티 장식"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-10-description",
+    "text": "좋아하는 피스 10개와 교환할 수 있는 아이템."
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-10-name",
+    "text": "피스 박스 S"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-100-description",
+    "text": "좋아하는 피스 100개와 교환할 수 있는 아이템."
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-100-name",
+    "text": "피스 박스 M"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-300-description",
+    "text": "좋아하는 피스 300개와 교환할 수 있는 아이템."
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-300-name",
+    "text": "피스 박스 L"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-10-description",
+    "text": "좋아하는 크리스털 10개와 교환할 수 있는 아이템."
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-10-name",
+    "text": "크리스털 박스 S"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-100-description",
+    "text": "좋아하는 크리스털 100개와 교환할 수 있는 아이템."
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-100-name",
+    "text": "크리스털 박스 M"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-300-description",
+    "text": "좋아하는 크리스털 300개와 교환할 수 있는 아이템."
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-300-name",
+    "text": "크리스털 박스 L"
+  },
+  {
+    "id": "la-item-selectable_reward_membership_medal",
+    "text": "출시 기념 선물"
+  },
+  {
+    "id": "la-item-selectable_reward_membership_medal-description",
+    "text": "좋아하는 멤버십 메달을 선택해 획득할 수 있는 상자."
+  },
+  {
+    "id": "la-item-skill_tree_allmember-1-description",
+    "text": "Holo멤버 보드 칸 개방에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-skill_tree_allmember-1-name",
+    "text": "그린 큐브"
+  },
+  {
+    "id": "la-item-skill_tree_allmember-2-description",
+    "text": "Holo멤버 보드 칸 개방에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-skill_tree_allmember-2-name",
+    "text": "그린 코어 큐브"
+  },
+  {
+    "id": "la-item-skill_tree_card-1-description",
+    "text": "Holo멤버 보드 칸 개방에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-skill_tree_card-1-name",
+    "text": "블루 큐브"
+  },
+  {
+    "id": "la-item-skill_tree_card-2-description",
+    "text": "Holo멤버 보드 칸 개방에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-skill_tree_card-2-name",
+    "text": "블루 코어 큐브"
+  },
+  {
+    "id": "la-item-skill_tree_content-1-description",
+    "text": "Holo멤버 보드 칸 개방에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-skill_tree_content-1-name",
+    "text": "옐로 큐브"
+  },
+  {
+    "id": "la-item-skill_tree_content-2-description",
+    "text": "Holo멤버 보드 칸 개방에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-skill_tree_content-2-name",
+    "text": "옐로 코어 큐브"
+  },
+  {
+    "id": "la-item-skill_tree_leader-1-description",
+    "text": "Holo멤버 보드 칸 개방에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-skill_tree_leader-1-name",
+    "text": "레드 큐브"
+  },
+  {
+    "id": "la-item-skill_tree_leader-2-description",
+    "text": "Holo멤버 보드 칸 개방에 사용하는 아이템."
+  },
+  {
+    "id": "la-item-skill_tree_leader-2-name",
+    "text": "레드 코어 큐브"
+  }
+]

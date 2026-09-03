@@ -1,0 +1,334 @@
+[
+  {
+    "id": "la-generated-live_skill_effect_target-all-description",
+    "text": "Setiap Member"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_1-1-description",
+    "text": "1 Member [attribute=cute]Cute Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_1-2-description",
+    "text": "2 Member [attribute=cute]Cute Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_1-3-description",
+    "text": "3 Member [attribute=cute]Cute Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_1-4-description",
+    "text": "4 Member [attribute=cute]Cute Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_1-5-description",
+    "text": "5 Member [attribute=cute]Cute Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_2-1-description",
+    "text": "1 Member [attribute=pure]Pure Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_2-2-description",
+    "text": "2 Member [attribute=pure]Pure Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_2-3-description",
+    "text": "3 Member [attribute=pure]Pure Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_2-4-description",
+    "text": "4 Member [attribute=pure]Pure Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_2-5-description",
+    "text": "5 Member [attribute=pure]Pure Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_3-1-description",
+    "text": "1 Member [attribute=happy]Happy Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_3-2-description",
+    "text": "2 Member [attribute=happy]Happy Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_3-3-description",
+    "text": "3 Member [attribute=happy]Happy Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_3-4-description",
+    "text": "4 Member [attribute=happy]Happy Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_3-5-description",
+    "text": "5 Member [attribute=happy]Happy Type[/attribute]"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-1-description",
+    "text": "1 orang Advent"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-2-description",
+    "text": "2 orang Advent"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-3-description",
+    "text": "3 orang Advent"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-4-description",
+    "text": "4 orang Advent"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-5-description",
+    "text": "5 orang Advent"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-1-description",
+    "text": "1 orang GAMERS"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-2-description",
+    "text": "2 orang GAMERS"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-3-description",
+    "text": "3 orang GAMERS"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-4-description",
+    "text": "4 orang GAMERS"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-1-description",
+    "text": "1 orang Gen 0"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-2-description",
+    "text": "2 orang Gen 0"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-3-description",
+    "text": "3 orang Gen 0"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-4-description",
+    "text": "4 orang Gen 0"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-5-description",
+    "text": "5 orang Gen 0"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-1-description",
+    "text": "1 orang Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-2-description",
+    "text": "2 orang Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-3-description",
+    "text": "3 orang Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-4-description",
+    "text": "4 orang Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-1-description",
+    "text": "1 orang Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-2-description",
+    "text": "2 orang Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-3-description",
+    "text": "3 orang Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-4-description",
+    "text": "4 orang Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-1-description",
+    "text": "1 orang Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-2-description",
+    "text": "2 orang Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-3-description",
+    "text": "3 orang Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-4-description",
+    "text": "4 orang Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-1-description",
+    "text": "1 orang Gen 4"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-2-description",
+    "text": "2 orang Gen 4"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-3-description",
+    "text": "3 orang Gen 4"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-4-description",
+    "text": "4 orang Gen 4"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-1-description",
+    "text": "1 orang Gen 5"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-2-description",
+    "text": "2 orang Gen 5"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-3-description",
+    "text": "3 orang Gen 5"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-4-description",
+    "text": "4 orang Gen 5"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-1-description",
+    "text": "1 orang holoX"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-2-description",
+    "text": "2 orang holoX"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-3-description",
+    "text": "3 orang holoX"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-4-description",
+    "text": "4 orang holoX"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-1-description",
+    "text": "1 orang hololive ID"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-2-description",
+    "text": "2 orang hololive ID"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-3-description",
+    "text": "3 orang hololive ID"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-4-description",
+    "text": "4 orang hololive ID"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-5-description",
+    "text": "5 orang hololive ID"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-description",
+    "text": "0 orang hololive ID"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-1-description",
+    "text": "1 orang ID Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2-description",
+    "text": "2 orang ID Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-3-description",
+    "text": "3 orang ID Gen 1"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-1-description",
+    "text": "1 orang ID Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-2-description",
+    "text": "2 orang ID Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-3-description",
+    "text": "3 orang ID Gen 2"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-1-description",
+    "text": "1 orang ID Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2-description",
+    "text": "2 orang ID Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-3-description",
+    "text": "3 orang ID Gen 3"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-1-description",
+    "text": "1 orang Myth"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-2-description",
+    "text": "2 orang Myth"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-3-description",
+    "text": "3 orang Myth"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-4-description",
+    "text": "4 orang Myth"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-1-description",
+    "text": "1 orang Promise"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-2-description",
+    "text": "2 orang Promise"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-3-description",
+    "text": "3 orang Promise"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-4-description",
+    "text": "4 orang Promise"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-1-description",
+    "text": "1 orang ReGLOSS"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-2-description",
+    "text": "2 orang ReGLOSS"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-3-description",
+    "text": "3 orang ReGLOSS"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-4-description",
+    "text": "4 orang ReGLOSS"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-5-description",
+    "text": "5 orang ReGLOSS"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-self-description",
+    "text": "Diri sendiri"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "gacha_point-beginner-select-001",
+    "name_lang_id": "la-gacha_point-beginner-select-001",
+    "icon_asset_id": "gacha-point-common-001",
+    "exchange_booth_group_id": "exchange_booth_group-gacha-beginner-select-001",
+    "order": 1
+  },
+  {
+    "id": "gacha_point-common-001",
+    "name_lang_id": "la-gacha_point-common-001",
+    "icon_asset_id": "gacha-point-common-001",
+    "exchange_booth_group_id": "exchange_booth_group-gacha-common-001",
+    "order": 1
+  },
+  {
+    "id": "gacha_point-pickup-260728",
+    "name_lang_id": "la-gacha_point-pickup-260728",
+    "icon_asset_id": "gacha-point-common-001",
+    "exchange_booth_group_id": "exchange_booth_group-gacha-pickup-260728",
+    "order": 1
+  },
+  {
+    "id": "gacha_point-pickup-260807",
+    "name_lang_id": "la-gacha_point-pickup-260807",
+    "icon_asset_id": "gacha-point-common-001",
+    "exchange_booth_group_id": "exchange_booth_group-gacha-pickup-260807",
+    "order": 1
+  },
+  {
+    "id": "gacha_point-pickup-260817",
+    "name_lang_id": "la-gacha_point-pickup-260817",
+    "icon_asset_id": "gacha-point-common-001",
+    "exchange_booth_group_id": "exchange_booth_group-gacha-pickup-260817",
+    "order": 1
+  },
+  {
+    "id": "gacha_point-pickup-260829",
+    "name_lang_id": "la-gacha_point-pickup-260829",
+    "icon_asset_id": "gacha-point-common-001",
+    "exchange_booth_group_id": "exchange_booth_group-gacha-pickup-260829",
+    "order": 1
+  }
+]

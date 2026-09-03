@@ -1,0 +1,334 @@
+[
+  {
+    "id": "la-generated-live_skill_effect_target-all-description",
+    "text": "전원의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_1-1-description",
+    "text": "[attribute=cute]큐트 타입[/attribute] 1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_1-2-description",
+    "text": "[attribute=cute]큐트 타입[/attribute] 2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_1-3-description",
+    "text": "[attribute=cute]큐트 타입[/attribute] 3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_1-4-description",
+    "text": "[attribute=cute]큐트 타입[/attribute] 4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_1-5-description",
+    "text": "[attribute=cute]큐트 타입[/attribute] 5명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_2-1-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_2-2-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_2-3-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_2-4-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_2-5-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 5명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_3-1-description",
+    "text": "[attribute=happy]해피 타입[/attribute] 1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_3-2-description",
+    "text": "[attribute=happy]해피 타입[/attribute] 2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_3-3-description",
+    "text": "[attribute=happy]해피 타입[/attribute] 3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_3-4-description",
+    "text": "[attribute=happy]해피 타입[/attribute] 4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-attribute-attribute_3-5-description",
+    "text": "[attribute=happy]해피 타입[/attribute] 5명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-1-description",
+    "text": "Advent1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-2-description",
+    "text": "Advent2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-3-description",
+    "text": "Advent3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-4-description",
+    "text": "Advent4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-5-description",
+    "text": "Advent5명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-1-description",
+    "text": "GAMERS1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-2-description",
+    "text": "GAMERS2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-3-description",
+    "text": "GAMERS3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-4-description",
+    "text": "GAMERS4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-1-description",
+    "text": "0기생1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-2-description",
+    "text": "0기생2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-3-description",
+    "text": "0기생3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-4-description",
+    "text": "0기생4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-5-description",
+    "text": "0기생5명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-1-description",
+    "text": "1기생1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-2-description",
+    "text": "1기생2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-3-description",
+    "text": "1기생3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-4-description",
+    "text": "1기생4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-1-description",
+    "text": "2기생1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-2-description",
+    "text": "2기생2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-3-description",
+    "text": "2기생3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-4-description",
+    "text": "2기생4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-1-description",
+    "text": "3기생1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-2-description",
+    "text": "3기생2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-3-description",
+    "text": "3기생3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-4-description",
+    "text": "3기생4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-1-description",
+    "text": "4기생1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-2-description",
+    "text": "4기생2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-3-description",
+    "text": "4기생3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-4-description",
+    "text": "4기생4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-1-description",
+    "text": "5기생1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-2-description",
+    "text": "5기생2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-3-description",
+    "text": "5기생3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-4-description",
+    "text": "5기생4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-1-description",
+    "text": "holoX1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-2-description",
+    "text": "holoX2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-3-description",
+    "text": "holoX3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-4-description",
+    "text": "holoX4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-1-description",
+    "text": "hololive ID1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-2-description",
+    "text": "hololive ID2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-3-description",
+    "text": "hololive ID3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-4-description",
+    "text": "hololive ID4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-5-description",
+    "text": "hololive ID5명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-description",
+    "text": "hololive ID0명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-1-description",
+    "text": "ID 1기생1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2-description",
+    "text": "ID 1기생2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-3-description",
+    "text": "ID 1기생3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-1-description",
+    "text": "ID 2기생1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-2-description",
+    "text": "ID 2기생2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-3-description",
+    "text": "ID 2기생3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-1-description",
+    "text": "ID 3기생1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2-description",
+    "text": "ID 3기생2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-3-description",
+    "text": "ID 3기생3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-1-description",
+    "text": "Myth1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-2-description",
+    "text": "Myth2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-3-description",
+    "text": "Myth3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-4-description",
+    "text": "Myth4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-1-description",
+    "text": "Promise1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-2-description",
+    "text": "Promise2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-3-description",
+    "text": "Promise3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-4-description",
+    "text": "Promise4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-1-description",
+    "text": "ReGLOSS1명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-2-description",
+    "text": "ReGLOSS2명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-3-description",
+    "text": "ReGLOSS3명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-4-description",
+    "text": "ReGLOSS4명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-5-description",
+    "text": "ReGLOSS5명의"
+  },
+  {
+    "id": "la-generated-live_skill_effect_target-self-description",
+    "text": "자신의"
+  }
+]

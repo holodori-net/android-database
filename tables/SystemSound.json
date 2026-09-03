@@ -1,0 +1,2109 @@
+[
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_LIVE_TIMING_HIGH",
+      "number": 100
+    },
+    "sound_asset_id": "se_rhythm_sys_pkg-timing-high"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_LIVE_TIMING_LOW",
+      "number": 101
+    },
+    "sound_asset_id": "se_rhythm_sys_pkg-timing-low"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_COMMON_TIPS",
+      "number": 102
+    },
+    "sound_asset_id": "se_sys_cmn_pkg-tips"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_COMMON_SLIDER",
+      "number": 103
+    },
+    "sound_asset_id": "se_sys_cmn_pkg-slider"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_COMMON_ITEM",
+      "number": 104
+    },
+    "sound_asset_id": "se_sys_cmn_pkg-get-item"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_CHARACTER_LEVEL_UP",
+      "number": 105
+    },
+    "sound_asset_id": "se_sys_character_pkg-level-up"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_CHARACTER_LEVEL_LIMIT_BREAK",
+      "number": 106
+    },
+    "sound_asset_id": "se_sys_character_pkg-limit-break"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_CHARACTER_UPGRADE_POTENTIAL",
+      "number": 107
+    },
+    "sound_asset_id": "se_sys_character_pkg-potential"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_CHARACTER_SKILL_TREE_RELEASE",
+      "number": 108
+    },
+    "sound_asset_id": "se_sys_character_pkg-tree-release"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_CHARACTER_SKILL_TREE_CONNECT",
+      "number": 109
+    },
+    "sound_asset_id": "se_sys_character_pkg-connect"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_UI_SHUTTER",
+      "number": 110
+    },
+    "sound_asset_id": "se_sys_ui_pkg-shutter"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_COMMON_TAP",
+      "number": 111
+    },
+    "sound_asset_id": "se_sys_cmn_pkg-tap"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_COMMON_BACK",
+      "number": 112
+    },
+    "sound_asset_id": "se_sys_cmn_pkg-back"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_CHOISE_FRAME",
+      "number": 113
+    },
+    "sound_asset_id": "se_sys_anim_999_043_choise_frame"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_AREA_TRANSITION",
+      "number": 114
+    },
+    "sound_asset_id": "se_sys_anim_999_042_area_transition"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_COMMON_TITLE_TAP",
+      "number": 115
+    },
+    "sound_asset_id": "se_sys_cmn_pkg-title"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_COMMON_BIG_TAP",
+      "number": 116
+    },
+    "sound_asset_id": "se_sys_cmn_pkg-tap-big"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_COMMON_MIDDLE_TAP",
+      "number": 117
+    },
+    "sound_asset_id": "se_sys_cmn_pkg-tap-middle"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_FRIEND_KEYBOARD",
+      "number": 118
+    },
+    "sound_asset_id": "se_sys_friend_1700_4_keyboard"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_ROOM_TRANSITION_IN",
+      "number": 119
+    },
+    "sound_asset_id": "se_sys_anim_999_4_transition_room_pkg-in"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_ROOM_TRANSITION_OUT",
+      "number": 120
+    },
+    "sound_asset_id": "se_sys_anim_999_4_transition_room_pkg-out"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_SHORT_TRANSITION_IN",
+      "number": 121
+    },
+    "sound_asset_id": "se_sys_anim_999_4_transition_short_pkg-in"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_SHORT_TRANSITION_OUT",
+      "number": 122
+    },
+    "sound_asset_id": "se_sys_anim_999_4_transition_short_pkg-out"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_HOLO_DIALOG_CLOSE",
+      "number": 123
+    },
+    "sound_asset_id": "se_sys_anim_999_033_holo_dialog_pkg-tr-002"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_CHARACTER_DIALOG_CLOSE",
+      "number": 124
+    },
+    "sound_asset_id": "se_sys_anim_999_034_character_dialog_pkg-tr-002"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_HALF_DIALOG_CLOSE",
+      "number": 125
+    },
+    "sound_asset_id": "se_sys_anim_999_036_half_dialog_pkg-tr-002"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_BAND_DIALOG_CLOSE",
+      "number": 126
+    },
+    "sound_asset_id": "se_sys_anim_999_037_band_dialog_pkg-tr-002"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_LOADING_CHARACTER",
+      "number": 127
+    },
+    "sound_asset_id": "se_sys_cmn_pkg-tips"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_MENU",
+      "number": 128
+    },
+    "sound_asset_id": "se_sys_anim_200_2_park_menu"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LOGIN_BONUS_GET",
+      "number": 129
+    },
+    "sound_asset_id": "se_sys_cmn_pkg-login_bonus"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_STAMP",
+      "number": 130
+    },
+    "sound_asset_id": "se_sys_anim_200_5_park_stamp"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_LIST_SCROLL",
+      "number": 131
+    },
+    "sound_asset_id": "se_sys_anim_400_1_rhythm_music_select"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_START",
+      "number": 133
+    },
+    "sound_asset_id": "se_sys_anim_410_6_rhythm_start"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_ACTIVE_SKILL",
+      "number": 134
+    },
+    "sound_asset_id": "se_sys_anim_410_9_rhythm_skill_active"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_CHARACTER_SKILL",
+      "number": 135
+    },
+    "sound_asset_id": "se_sys_anim_410_9_rhythm_skill_character"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_SPECIAL_SKILL",
+      "number": 136
+    },
+    "sound_asset_id": "se_sys_anim_410_10_rhythm_skill_special"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_SKILL_TREE_TOP",
+      "number": 137
+    },
+    "sound_asset_id": "se_sys_anim_710_6_skilltree_top"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_SKILL_TREE_NORMAL_NODE",
+      "number": 138
+    },
+    "sound_asset_id": "se_sys_anim_710_9_skilltree_square_normal"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_SKILL_TREE_CONNECTION_NODE",
+      "number": 139
+    },
+    "sound_asset_id": "se_sys_anim_710_10_skilltree_square_connect"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_MEMBERSHIP_SCROLL",
+      "number": 140
+    },
+    "sound_asset_id": "se_sys_anim_720_1_membership_pkg-scroll"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_GACHA_TAB",
+      "number": 141
+    },
+    "sound_asset_id": "se_sys_anim_1500_gacha_tab"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_STORY_TOP",
+      "number": 142
+    },
+    "sound_asset_id": "se_sys_anim_1600_1_story_top"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_HOLO_DIALOG_OPEN",
+      "number": 143
+    },
+    "sound_asset_id": "se_sys_anim_999_033_holo_dialog_pkg-tr-001"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_CHARACTER_DIALOG_OPEN",
+      "number": 144
+    },
+    "sound_asset_id": "se_sys_anim_999_034_character_dialog_pkg-tr-001"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_HALF_DIALOG_OPEN",
+      "number": 145
+    },
+    "sound_asset_id": "se_sys_anim_999_036_half_dialog_pkg-tr-001"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_BAND_DIALOG_OPEN",
+      "number": 146
+    },
+    "sound_asset_id": "se_sys_anim_999_037_band_dialog_pkg-tr-001"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_TOAST",
+      "number": 147
+    },
+    "sound_asset_id": "se_sys_anim_999_015_toast"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_GET",
+      "number": 148
+    },
+    "sound_asset_id": "se_sys_anim_999_017_get"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_SCORE",
+      "number": 149
+    },
+    "sound_asset_id": "se_sys_anim_999_022_score"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_GOODWILL",
+      "number": 151
+    },
+    "sound_asset_id": "se_sys_anim_999_026_goodwill"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_CHARACTER_SHOP_LOTTERY",
+      "number": 156
+    },
+    "sound_asset_id": "se_sys_anim_200_park_character_item_shop_pkg-lottery"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_CHARACTER_SHOP_CHOICE_SCREEN",
+      "number": 157
+    },
+    "sound_asset_id": "se_sys_cmn_pkg-tap"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_CHARACTER_SHOP_CHOICE",
+      "number": 158
+    },
+    "sound_asset_id": "se_sys_anim_200_park_character_item_shop_pkg-screen-choice"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_CHARACTER_SHOP_GET_SCREEN",
+      "number": 159
+    },
+    "sound_asset_id": "se_sys_anim_200_park_character_item_shop_pkg-screen-get"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_PRINT_BOOTH_SHUTTER",
+      "number": 160
+    },
+    "sound_asset_id": "se_sys_ui_pkg-shutter"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_PRINT_BOOTH_CHOICE",
+      "number": 161
+    },
+    "sound_asset_id": "se_sys_anim_200_park_printbooth_pkg-choice"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_PRINT_BOOTH_DECORATION",
+      "number": 162
+    },
+    "sound_asset_id": "se_sys_anim_200_park_printbooth_pkg-decoration"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_PRINT_BOOTH_SAVE",
+      "number": 163
+    },
+    "sound_asset_id": "se_sys_anim_200_park_printbooth_pkg-save"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_STORY_EPISODE_CLEAR",
+      "number": 166
+    },
+    "sound_asset_id": "se_sys_anim_200_park_episode_pkg-clear"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_QUEST_START",
+      "number": 167
+    },
+    "sound_asset_id": "se_sys_anim_200_park_quest_pkg-start"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_QUEST_CLEAR",
+      "number": 168
+    },
+    "sound_asset_id": "se_sys_anim_200_park_quest_pkg-clear"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_MINI_GAME_MULTI_CHOICE",
+      "number": 171
+    },
+    "sound_asset_id": "se_sys_cmn_pkg-tap-middle"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_WORK_TOP",
+      "number": 172
+    },
+    "sound_asset_id": "se_sys_anim_900_holowork_pkg-top"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_WORK_START",
+      "number": 175
+    },
+    "sound_asset_id": "se_sys_anim_900_holowork_pkg-start"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_POSTER_BOOTH_GET",
+      "number": 177
+    },
+    "sound_asset_id": "se_sys_anim_1300_memoryboard"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_CHARACTER_SD_COSTUME_SCROLL",
+      "number": 178
+    },
+    "sound_asset_id": "se_sys_anim_700_8_character_costume_scroll"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_CHARACTER_COSTUME_CHANGE_MOTION_DIZZY",
+      "number": 179
+    },
+    "sound_asset_id": "se_sys_character_costume_pkg-motion-dizzy"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_SKILL_TREE_NODE_SELECT",
+      "number": 180
+    },
+    "sound_asset_id": "se_sys_anim_710_9_skilltree_node_pkg-select"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_SKILL_TREE_NODE_RELEASE",
+      "number": 181
+    },
+    "sound_asset_id": "se_sys_anim_710_9_skilltree_node_pkg-open"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_SKILL_TREE_NODE_RESET",
+      "number": 182
+    },
+    "sound_asset_id": "se_sys_anim_710_9_skilltree_node_pkg-reset"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_SKILL_TREE_CONNECTION_NODE_SET",
+      "number": 183
+    },
+    "sound_asset_id": "se_sys_anim_710_10_skilltree_connection_node_pkg-set"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_SKILL_TREE_CONNECTION_NODE_DECISION",
+      "number": 184
+    },
+    "sound_asset_id": "se_sys_anim_710_10_skilltree_connection_node_pkg-decision"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_MEMBERSHIP_SWIPE",
+      "number": 185
+    },
+    "sound_asset_id": "se_sys_anim_720_1_membership_pkg-swipe"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_MEMBERSHIP_PORTAL",
+      "number": 186
+    },
+    "sound_asset_id": "se_sys_anim_720_1_membership_pkg-portal"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_MEMBERSHIP_CHARACTER",
+      "number": 187
+    },
+    "sound_asset_id": "se_sys_anim_720_1_membership_pkg-character"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_TUTORIAL_INITIAL_CHARACTER_CHOICE_BUBBLE_POP",
+      "number": 188
+    },
+    "sound_asset_id": "se_sys_anim_3000_2_tutorial_bubble_pkg-pop"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_TUTORIAL_INITIAL_CHARACTER_CHOICE_BUBBLE_DECISION",
+      "number": 189
+    },
+    "sound_asset_id": "se_sys_anim_3000_2_tutorial_bubble_pkg-decision"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_CHARACTER_COSTUME_CHANGE_MOTION",
+      "number": 190
+    },
+    "sound_asset_id": "se_sys_anim_700_8_character_costume_change"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_RESULT_CARD_LEVEL_UP",
+      "number": 191
+    },
+    "sound_asset_id": "se_sys_anim_400_10_rhythm_result_pkg-level-up"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_MOUSE_OVER",
+      "number": 192
+    },
+    "sound_asset_id": "se_sys_cmn_pkg-mouse_over"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_TAKE_PHOTO_ZOOM",
+      "number": 193
+    },
+    "sound_asset_id": "se_sys_anim_200_23_park_photograph_pkg-zoom"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_TAKE_PHOTO_OPERATION",
+      "number": 194
+    },
+    "sound_asset_id": "se_sys_anim_200_23_park_photograph_pkg-operation"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_LOTTERY_SCRATCH_DISPLAY",
+      "number": 195
+    },
+    "sound_asset_id": "se_sys_anim_200_park_scratch_pkg-display"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_LOTTERY_SCRATCH_SHARPEN",
+      "number": 196
+    },
+    "sound_asset_id": "se_sys_anim_200_park_scratch_pkg-sharpen"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_WORK_MEMBER_CHOICE_1",
+      "number": 197
+    },
+    "sound_asset_id": "se_sys_anim_900_holowork_pkg-member-choice-01"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_WORK_MEMBER_CHOICE_2",
+      "number": 198
+    },
+    "sound_asset_id": "se_sys_anim_900_holowork_pkg-member-choice-02"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_WORK_MEMBER_CHOICE_3",
+      "number": 199
+    },
+    "sound_asset_id": "se_sys_anim_900_holowork_pkg-member-choice-03"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_WORK_MEMBER_CHOICE_4",
+      "number": 200
+    },
+    "sound_asset_id": "se_sys_anim_900_holowork_pkg-member-choice-04"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_WORK_MEMBER_CHOICE_5",
+      "number": 201
+    },
+    "sound_asset_id": "se_sys_anim_900_holowork_pkg-member-choice-05"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_MINI_GAME_MULTI_RESULT_RANKING",
+      "number": 202
+    },
+    "sound_asset_id": "se_sys_anim_500_minigame_mulch_result_ranking"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_MINI_GAME_MULTI_RESULT_REWARD_ITEM",
+      "number": 203
+    },
+    "sound_asset_id": "se_sys_anim_500_minigame_mulch_result_reward-item"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_MINI_GAME_MULTI_RESULT_REWARD_COIN",
+      "number": 204
+    },
+    "sound_asset_id": "se_sys_anim_500_minigame_mulch_result_reward-coin"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_CARD_POTENTIAL_UPGRADE_DONE",
+      "number": 205
+    },
+    "sound_asset_id": "se_sys_anim_800_cardpotential_upgrade_done"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_WORK_RESULT_NORMAL",
+      "number": 206
+    },
+    "sound_asset_id": "se_sys_anim_900_holowork_result_normal"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_WORK_RESULT_ALL",
+      "number": 207
+    },
+    "sound_asset_id": "se_sys_anim_900_holowork_result_all"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_STORY_CHOICE",
+      "number": 208
+    },
+    "sound_asset_id": "se_sys_anim_1600_story_choice"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PROFILE_PARK_RANK_UP",
+      "number": 209
+    },
+    "sound_asset_id": "se_sys_anim_1800_profile_park-rankup"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_FEATURE_RELEASE",
+      "number": 210
+    },
+    "sound_asset_id": "se_sys_anim_999_common_function_release"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_CHAPTER_TITLE",
+      "number": 211
+    },
+    "sound_asset_id": "se_sys_anim_200_park_chapter_title"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_QUEST_AREA_CLEAR",
+      "number": 212
+    },
+    "sound_asset_id": "se_sys_anim_300_quest_area-clear"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_ACHIEVEMENT_CHARACTER_RANK_UP",
+      "number": 213
+    },
+    "sound_asset_id": "se_sys_anim_1000_achievement_talent-rankup"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_MAP_TRANSITION_OPEN",
+      "number": 214
+    },
+    "sound_asset_id": "se_sys_anim_1500_7_map_transition_open"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_MAP_TRANSITION_CLOSE",
+      "number": 215
+    },
+    "sound_asset_id": "se_sys_anim_1500_7_map_transition_close"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_FACILITY_BUILD_COMPLETE",
+      "number": 216
+    },
+    "sound_asset_id": "se_sys_anim_200_park_facility_repair_completed"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_FACILITY_LEVEL_UP_COMPLETE",
+      "number": 217
+    },
+    "sound_asset_id": "se_sys_anim_1500_22_levelup_complete"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_FEVER",
+      "number": 218
+    },
+    "sound_asset_id": "se_sys_anim_400_35_live_fever"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_MUSIC_SHOP_RELEASE",
+      "number": 219
+    },
+    "sound_asset_id": "se_sys_anim_470_1_songs_shop_release"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_CHARACTER_DETAIL",
+      "number": 220
+    },
+    "sound_asset_id": "se_sys_anim_800_3_member_detail"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_PRINT_BOOTH_CHOICE_SCREEN",
+      "number": 221
+    },
+    "sound_asset_id": "se_sys_anim_200_park_printbooth_pkg-display"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_CARD_LEVEL_UP_COMPLETE",
+      "number": 224
+    },
+    "sound_asset_id": "se_sys_anim_800_member_levelup-complete"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_CARD_LEVEL_LIMIT_BREAK_COMPLETE",
+      "number": 225
+    },
+    "sound_asset_id": "se_sys_anim_800_member_limitbreak-complete"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_MULTI_END",
+      "number": 226
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_end"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_MULTI_RESULT_1",
+      "number": 227
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_result-01"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_MULTI_RESULT_2",
+      "number": 228
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_result-02"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_MULTI_RESULT_SCORE_BACK",
+      "number": 229
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_result-score-back"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_MULTI_PORTAL",
+      "number": 230
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_portal"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_MULTI_MEMBER_IN",
+      "number": 231
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_member_in"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_MULTI_PLAY_MUSIC_DISPLAY",
+      "number": 232
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_play_music_display"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_MULTI_MEMBER_OUT",
+      "number": 233
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_member_out"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_MULTI_MEMBER_MUSIC_DECISION",
+      "number": 234
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_member_music_decision"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_MULTI_MUSIC_DECISION_DIRECTION",
+      "number": 235
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_music_decision_direction"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_MULTI_MEMBER_DECISION",
+      "number": 236
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_member_decision"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_BEFORE_STARTING_UI_1",
+      "number": 237
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_before_stating_ui-01"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_BEFORE_STARTING_UI_2",
+      "number": 238
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_before_stating_ui-02"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_MULTI_MATCHING_COUNTDOWN",
+      "number": 239
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_matching_countdown"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_RESULT_SCORE_REWARD_GET",
+      "number": 240
+    },
+    "sound_asset_id": "se_sys_anim_400_live_result_score_reward_get"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_RESULT_BAR_UP",
+      "number": 241
+    },
+    "sound_asset_id": "se_sys_anim_400_live_result_bar_up"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_OPTION_TRANSITION_START",
+      "number": 242
+    },
+    "sound_asset_id": "se_sys_anim_400_live_option_transition_start"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_OPTION_TRANSITION_FINISH",
+      "number": 243
+    },
+    "sound_asset_id": "se_sys_anim_400_live_option_transition_finish"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_HIGHEST_SCORE_RATING_DIALOG",
+      "number": 244
+    },
+    "sound_asset_id": "se_sys_anim_400_live_highest_score_rating_dialog"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_HIGHEST_SCORE_RATING_RANK_UP",
+      "number": 245
+    },
+    "sound_asset_id": "se_sys_anim_400_live_highest_score_rating_rank_up"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_CHARACTER_GET",
+      "number": 246
+    },
+    "sound_asset_id": "se_sys_anim_200_park_character_release"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_GACHA_GET_RARITY_3",
+      "number": 247
+    },
+    "sound_asset_id": "se_sys_anim_1500_gacha_get_rrelity-03"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_GACHA_GET_RARITY_4",
+      "number": 248
+    },
+    "sound_asset_id": "se_sys_anim_1500_gacha_get_rrelity-04"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_GACHA_GET_VOICE_TEXT",
+      "number": 249
+    },
+    "sound_asset_id": "se_sys_anim_1500_gacha_get_serif"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_GACHA_GET_RARITY_5",
+      "number": 250
+    },
+    "sound_asset_id": "se_sys_anim_1500_gacha_get_rrelity-05"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_GACHA_SPECIAL_DIRECTION_RARITY_5",
+      "number": 251
+    },
+    "sound_asset_id": "se_sys_anim_1500_gacha_get_rrelity-05-special"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_ACHIEVEMENT_OPEN",
+      "number": 252
+    },
+    "sound_asset_id": "se_sys_anim_1000_achevement_open"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_ACHIEVEMENT_CATEGORY_CHOICE",
+      "number": 253
+    },
+    "sound_asset_id": "se_sys_anim_1000_achevement_category_choice"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_ACHIEVEMENT_CONDITION_LIST",
+      "number": 254
+    },
+    "sound_asset_id": "se_sys_anim_1000_achevement_cnditions"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_SKILL_TREE_LOCK_NODE_RELEASE",
+      "number": 255
+    },
+    "sound_asset_id": "se_sys_anim_710_9_skilltree_locknode"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_FACILITY_BUILD_START",
+      "number": 256
+    },
+    "sound_asset_id": "se_sys_anim_1500_22_build_start"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_EVENT_NOTICE",
+      "number": 257
+    },
+    "sound_asset_id": "se_sys_anim_6000_event_notice"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_RANK_UP_REWARD_SCROLL",
+      "number": 258
+    },
+    "sound_asset_id": "se_sys_anim_9000_cmn_rankup_scroll"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_EVENT_PORTAL_PAGE_TRANSITION",
+      "number": 259
+    },
+    "sound_asset_id": "se_sys_anim_6000_event_portal_move_page"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_EVENT_PORTAL_SCREEN_OPEN",
+      "number": 260
+    },
+    "sound_asset_id": "se_sys_anim_6000_event_portal_open"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_ACHIEVEMENT_TOAST",
+      "number": 261
+    },
+    "sound_asset_id": "se_sys_anim_1000_achievement_toast"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_MULTI_RESULT_TRANSITION_IN",
+      "number": 262
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_result_transition"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_MULTI_TRANSITION_IN",
+      "number": 264
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_move_transition-in"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_MULTI_TRANSITION_OUT",
+      "number": 265
+    },
+    "sound_asset_id": "se_sys_anim_600_live_multi_move_transition-out"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_MINI_GAME_CLEAR",
+      "number": 266
+    },
+    "sound_asset_id": "se_sys_anim_500_minigame_clear"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_EVALUATION_TRANSITION_ALL_PERFECT",
+      "number": 267
+    },
+    "sound_asset_id": "se_sys_anim_400_evaluation_pkg-allperfect"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_EVALUATION_TRANSITION_FULL_COMBO",
+      "number": 268
+    },
+    "sound_asset_id": "se_sys_anim_400_evaluation_pkg-fullcombo"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_EVALUATION_TRANSITION_NORMAL",
+      "number": 269
+    },
+    "sound_asset_id": "se_sys_anim_400_evaluation_pkg-normal"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_LIVE_QUEST_SCREEN_OPEN",
+      "number": 270
+    },
+    "sound_asset_id": "se_sys_anim_999_030_binder_pkg-tr-001"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_LIVE_QUEST_SCREEN_CLOSE",
+      "number": 271
+    },
+    "sound_asset_id": "se_sys_anim_999_030_binder_pkg-tr-002"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_ALERT_DIALOG",
+      "number": 272
+    },
+    "sound_asset_id": "se_sys_anim_999_035_alert_dialog"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_TIME_PERIOD_CHANGE_TRANSITION_IN",
+      "number": 273
+    },
+    "sound_asset_id": "se_sys_anim_200_park_time_shift_transition-in"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_TIME_PERIOD_CHANGE_TRANSITION_OUT",
+      "number": 274
+    },
+    "sound_asset_id": "se_sys_anim_200_park_time_shift_transition-out"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_ADV_TRANSITION_IN",
+      "number": 275
+    },
+    "sound_asset_id": "se_sys_anim_200_park_adv_transition_in"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_ADV_TRANSITION_OUT",
+      "number": 276
+    },
+    "sound_asset_id": "se_sys_anim_200_park_adv_transition_out"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_OUT_GAME_TRANSITION",
+      "number": 277
+    },
+    "sound_asset_id": "se_sys_anim_999_4_transition_outgame"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_GACHA_CHEER_1",
+      "number": 278
+    },
+    "sound_asset_id": "se_sys_gacha_pkg-cheers-01"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_GACHA_CHEER_2",
+      "number": 279
+    },
+    "sound_asset_id": "se_sys_gacha_pkg-cheers-02"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_GACHA_BLACKOUT",
+      "number": 280
+    },
+    "sound_asset_id": "se_sys_gacha_pkg-blackout"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_GACHA_RESULT",
+      "number": 281
+    },
+    "sound_asset_id": "se_sys_gacha_pkg-result-open"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_GACHA_RESULT_CONVERT",
+      "number": 282
+    },
+    "sound_asset_id": "se_sys_gacha_pkg-result-convert"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_CHARACTER_COSTUME_CHANGE_MOTION_SMOKE",
+      "number": 283
+    },
+    "sound_asset_id": "se_sys_character_costume_pkg-motion-smoke"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_MUSIC_CREATIVE_CHART_PUBLISHED_INFO_DIALOGUE",
+      "number": 284
+    },
+    "sound_asset_id": "se_sys_anim_430_live_create_dialog_publish"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_MUSIC_CREATIVE_CHART_INFO_DIALOGUE",
+      "number": 285
+    },
+    "sound_asset_id": "se_sys_anim_430_live_create_dialog_info"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_ROPE_1",
+      "number": 10000
+    },
+    "sound_asset_id": "se_mg_001_pkg-rope1"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_ROPE_2",
+      "number": 10001
+    },
+    "sound_asset_id": "se_mg_001_pkg-rope2"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_JUMP",
+      "number": 10002
+    },
+    "sound_asset_id": "se_mg_001_pkg-jump"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_FOOT",
+      "number": 10003
+    },
+    "sound_asset_id": "se_mg_001_pkg-foot"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_OUT",
+      "number": 10004
+    },
+    "sound_asset_id": "se_mg_001_pkg-out"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_COUNT",
+      "number": 10005
+    },
+    "sound_asset_id": "se_mg_001_pkg-count"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_HINT",
+      "number": 10006
+    },
+    "sound_asset_id": "se_mg_001_pkg-hint"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_CHANGE",
+      "number": 10007
+    },
+    "sound_asset_id": "se_mg_001_pkg-change"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_RETURN",
+      "number": 10008
+    },
+    "sound_asset_id": "se_mg_001_pkg-return"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_FINISH",
+      "number": 10009
+    },
+    "sound_asset_id": "se_mg_001_pkg-finish"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_JUMP_2",
+      "number": 10010
+    },
+    "sound_asset_id": "se_mg_001_pkg-jump2"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_PHASE_1",
+      "number": 10011
+    },
+    "sound_asset_id": "se_mg_001_pkg-phase1"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_PHASE_2",
+      "number": 10012
+    },
+    "sound_asset_id": "se_mg_001_pkg-phase2"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_PHASE_3",
+      "number": 10013
+    },
+    "sound_asset_id": "se_mg_001_pkg-phase3"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_PHASE_4",
+      "number": 10014
+    },
+    "sound_asset_id": "se_mg_001_pkg-phase4"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_JUMP_50",
+      "number": 10015
+    },
+    "sound_asset_id": "se_mg_001_pkg-jump-50"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_JUMP_100",
+      "number": 10016
+    },
+    "sound_asset_id": "se_mg_001_pkg-jump-100"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_START",
+      "number": 10100
+    },
+    "sound_asset_id": "se_mg_002_pkg-start"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_ORDER",
+      "number": 10101
+    },
+    "sound_asset_id": "se_mg_002_pkg-order"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_RUMBLE",
+      "number": 10102
+    },
+    "sound_asset_id": "se_mg_002_pkg-rumble"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_SELECT",
+      "number": 10103
+    },
+    "sound_asset_id": "se_mg_002_pkg-select"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_WHOOSH",
+      "number": 10104
+    },
+    "sound_asset_id": "se_mg_002_pkg-whoosh"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_LANDING",
+      "number": 10105
+    },
+    "sound_asset_id": "se_mg_002_pkg-landing"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_SORT",
+      "number": 10106
+    },
+    "sound_asset_id": "se_mg_002_pkg-sort"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_MATCH",
+      "number": 10107
+    },
+    "sound_asset_id": "se_mg_002_pkg-match"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_SCORE_UP",
+      "number": 10108
+    },
+    "sound_asset_id": "se_mg_002_pkg-scoreup"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_COMBO",
+      "number": 10109
+    },
+    "sound_asset_id": "se_mg_002_pkg-combo"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_PENALTY",
+      "number": 10110
+    },
+    "sound_asset_id": "se_mg_002_pkg-penalty"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_SHUFFLE",
+      "number": 10111
+    },
+    "sound_asset_id": "se_mg_002_pkg-shuffle"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_COOKED",
+      "number": 10112
+    },
+    "sound_asset_id": "se_mg_002_pkg-cooked"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_FINISH",
+      "number": 10113
+    },
+    "sound_asset_id": "se_mg_002_pkg-finish"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_COLLECTION_COMPLETE",
+      "number": 10114
+    },
+    "sound_asset_id": "se_mg_002_pkg-complete"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COOKING_PUZZLE_ALERT_COUNTDOWN",
+      "number": 10115
+    },
+    "sound_asset_id": "se_mg_002_pkg-alert"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_DASH",
+      "number": 10201
+    },
+    "sound_asset_id": "se_mg_003_pkg-dash"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_FALL_SKY",
+      "number": 10202
+    },
+    "sound_asset_id": "se_mg_003_pkg-fall-sky"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_FALL_LIQUID",
+      "number": 10203
+    },
+    "sound_asset_id": "se_mg_003_pkg-fall-liquid"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_RESPAWN",
+      "number": 10204
+    },
+    "sound_asset_id": "se_mg_003_pkg-respawn"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_IMPACT_BIG",
+      "number": 10205
+    },
+    "sound_asset_id": "se_mg_003_pkg-impact-big"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_IMPACT_SMALL",
+      "number": 10206
+    },
+    "sound_asset_id": "se_mg_003_pkg-impact-small"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_IMPACT_PLAYER",
+      "number": 10207
+    },
+    "sound_asset_id": "se_mg_003_pkg-impact-player"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_FINAL_LAP",
+      "number": 10208
+    },
+    "sound_asset_id": "se_mg_003_pkg-finallap"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_GOAL",
+      "number": 10209
+    },
+    "sound_asset_id": "se_mg_003_pkg-goal"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_JUMP",
+      "number": 10210
+    },
+    "sound_asset_id": "se_mg_003_pkg-jump"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_TIMEUP",
+      "number": 10212
+    },
+    "sound_asset_id": "se_mg_003_pkg-timeup"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_FINISH",
+      "number": 10213
+    },
+    "sound_asset_id": "se_mg_003_pkg-finish"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_KAELA_TRAMPOLINE",
+      "number": 10214
+    },
+    "sound_asset_id": "se_mg_003_03008_pkg-trampoline"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_KAELA_BOILING",
+      "number": 10215
+    },
+    "sound_asset_id": "se_mg_003_pkg-fall-liquid"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_KAELA_PUNCHING",
+      "number": 10216
+    },
+    "sound_asset_id": "se_mg_003_03008_pkg-punching"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_KAELA_FALL_MAGMA",
+      "number": 10217
+    },
+    "sound_asset_id": "se_mg_003_03008_pkg-fall-magma"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_ROBOKO_BELT_CONVEYOR",
+      "number": 10218
+    },
+    "sound_asset_id": "se_mg_003_00002_pkg-belt-conveyor"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_ROBOKO_GEAR",
+      "number": 10219
+    },
+    "sound_asset_id": "se_mg_003_00002_pkg-gear"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_ROBOKO_ARM",
+      "number": 10220
+    },
+    "sound_asset_id": "se_mg_003_00002_pkg-arm"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_HAATO_BOILING",
+      "number": 10221
+    },
+    "sound_asset_id": "se_mg_003_00005_pkg-boiling"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_HAATO_SPLASH_BIG",
+      "number": 10222
+    },
+    "sound_asset_id": "se_mg_003_00005_pkg-splash-big"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_HAATO_SPLASH_SMALL",
+      "number": 10223
+    },
+    "sound_asset_id": "se_mg_003_00005_pkg-splash-small"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_HAATO_SINKING",
+      "number": 10224
+    },
+    "sound_asset_id": "se_mg_003_00005_pkg-sinking"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_MOONA_PENDULUM_BIG",
+      "number": 10225
+    },
+    "sound_asset_id": "se_mg_003_03002_pkg-pendulum-big"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_MOONA_PENDULUM_MIDDLE",
+      "number": 10226
+    },
+    "sound_asset_id": "se_mg_003_03002_pkg-pendulum-middle"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_MOONA_PENDULUM_SMALL",
+      "number": 10227
+    },
+    "sound_asset_id": "se_mg_003_03002_pkg-pendulum-small"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_OKAYU_ONIGIRYA",
+      "number": 10228
+    },
+    "sound_asset_id": "se_mg_003_00016_pkg-onigirya"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_OKAYU_SHUTTER",
+      "number": 10229
+    },
+    "sound_asset_id": "se_mg_003_00016_pkg-shutter"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_KORONE_KORONESUKI",
+      "number": 10230
+    },
+    "sound_asset_id": "se_mg_003_00017_pkg-koronesuki"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_KORONE_YUBI",
+      "number": 10231
+    },
+    "sound_asset_id": "se_mg_003_00017_pkg-yubi"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_KIARA_CHICKEN",
+      "number": 10232
+    },
+    "sound_asset_id": "se_mg_003_04002_pkg-chicken"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_PEKORA_NOUSAGI",
+      "number": 10233
+    },
+    "sound_asset_id": "se_mg_003_00019_pkg-nousagi"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_PEKORA_CARROT",
+      "number": 10234
+    },
+    "sound_asset_id": "se_mg_003_00019_pkg-carrot"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_SHIORI_BOOK",
+      "number": 10235
+    },
+    "sound_asset_id": "se_mg_003_04013_pkg-book"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_SHIORI_SCISSORS",
+      "number": 10236
+    },
+    "sound_asset_id": "se_mg_003_04013_pkg-scissors"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_NERISSA_NOTE",
+      "number": 10237
+    },
+    "sound_asset_id": "se_mg_003_04015_pkg-note"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CIRCUIT_NERISSA_CYLINDER",
+      "number": 10238
+    },
+    "sound_asset_id": "se_mg_003_04015_pkg-cylinder"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_PLAY_CARD",
+      "number": 10300
+    },
+    "sound_asset_id": "se_mg_004_pkg-playcard"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_DEAL",
+      "number": 10301
+    },
+    "sound_asset_id": "se_mg_004_pkg-deal"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_FLIP",
+      "number": 10302
+    },
+    "sound_asset_id": "se_mg_004_pkg-flip"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_COIN",
+      "number": 10303
+    },
+    "sound_asset_id": "se_mg_004_pkg-coin"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_TSUMO",
+      "number": 10304
+    },
+    "sound_asset_id": "se_mg_004_pkg-tsumo"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_RON",
+      "number": 10305
+    },
+    "sound_asset_id": "se_mg_004_pkg-ron"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_REACH",
+      "number": 10306
+    },
+    "sound_asset_id": "se_mg_004_pkg-riichi"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_SELECT",
+      "number": 10308
+    },
+    "sound_asset_id": "se_mg_004_pkg-select"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_DECISION",
+      "number": 10309
+    },
+    "sound_asset_id": "se_mg_004_pkg-decision"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_START",
+      "number": 10310
+    },
+    "sound_asset_id": "se_mg_004_pkg-start"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_CONDITION",
+      "number": 10311
+    },
+    "sound_asset_id": "se_mg_004_pkg-condition"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_ZOOM_IN",
+      "number": 10312
+    },
+    "sound_asset_id": "se_mg_004_pkg-zoomin"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_ZOOM_OUT",
+      "number": 10313
+    },
+    "sound_asset_id": "se_mg_004_pkg-zoomout"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_POKAJAN",
+      "number": 10314
+    },
+    "sound_asset_id": "se_mg_004_pkg-pokajan"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_SORTING",
+      "number": 10315
+    },
+    "sound_asset_id": "se_mg_004_pkg-sorting"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_RESULT",
+      "number": 10316
+    },
+    "sound_asset_id": "se_mg_004_pkg-result"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_END_DROP_OUT",
+      "number": 10317
+    },
+    "sound_asset_id": "se_mg_004_pkg-end-dropout"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_END_ACHIEVEMENT",
+      "number": 10318
+    },
+    "sound_asset_id": "se_mg_004_pkg-end-achievement"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_END_OUT_OF_CARD",
+      "number": 10319
+    },
+    "sound_asset_id": "se_mg_004_pkg-end-outofcard"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_MY_TURN",
+      "number": 10320
+    },
+    "sound_asset_id": "se_mg_004_pkg-myturn"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_CARD_EMPHASIS",
+      "number": 10321
+    },
+    "sound_asset_id": "se_mg_004_pkg-card-emphasis"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_COMBO_CARD_GAME_CARD_DIRECTION",
+      "number": 10322
+    },
+    "sound_asset_id": "se_mg_004_pkg-card-direction"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_HIGH_LOW_FLIP",
+      "number": 10400
+    },
+    "sound_asset_id": "se_mg_901_pkg-flip"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_HIGH_LOW_ROLE_BIG",
+      "number": 10401
+    },
+    "sound_asset_id": "se_mg_901_pkg-Jackpot"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_HIGH_LOW_ROLE_NORMAL",
+      "number": 10402
+    },
+    "sound_asset_id": "se_mg_901_pkg-clear"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_HIGH_LOW_DOUBLE_UP_SUCCESS",
+      "number": 10403
+    },
+    "sound_asset_id": "se_mg_901_pkg-success"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_HIGH_LOW_DOUBLE_UP_FAIL",
+      "number": 10404
+    },
+    "sound_asset_id": "se_mg_901_pkg-fail"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_HIGH_LOW_RESULT_WIN",
+      "number": 10405
+    },
+    "sound_asset_id": "se_mg_901_pkg-win"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_HIGH_LOW_START",
+      "number": 10406
+    },
+    "sound_asset_id": "se_high_low_start"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_HIGH_LOW_ROLE_NOTIFICATION",
+      "number": 10407
+    },
+    "sound_asset_id": "se_high_low_role_notification"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_HIGH_LOW_CARD_CHANGE",
+      "number": 10408
+    },
+    "sound_asset_id": "se_high_low_card_change"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_HIGH_LOW_CARD_CHOICE",
+      "number": 10409
+    },
+    "sound_asset_id": "se_high_low_card_choice"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_HIGH_LOW_DOUBLE_UP_CHANCE",
+      "number": 10410
+    },
+    "sound_asset_id": "se_high_low_double_up_chance"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_WIN_CONDITION",
+      "number": 10500
+    },
+    "sound_asset_id": "se_mg_005_pkg-condition"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_KEY_PICK",
+      "number": 10502
+    },
+    "sound_asset_id": "se_mg_005_pkg-key-pick"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_KEY_USE_1",
+      "number": 10503
+    },
+    "sound_asset_id": "se_mg_005_pkg-key-use-01"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_KEY_CONFISCATED",
+      "number": 10504
+    },
+    "sound_asset_id": "se_mg_005_pkg-key-dropped"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_FACILITY_RELEASE",
+      "number": 10505
+    },
+    "sound_asset_id": "se_mg_005_pkg-facility-open"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_OCCUPIED",
+      "number": 10506
+    },
+    "sound_asset_id": "se_mg_005_pkg-player-catch"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_OCCUPIED_SMOKE",
+      "number": 10507
+    },
+    "sound_asset_id": "se_mg_005_pkg-player-smoke"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_OCCUPIED_RESTRAINT",
+      "number": 10508
+    },
+    "sound_asset_id": "se_mg_005_pkg-player-restraint"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_RESCUE_COMPLETE",
+      "number": 10509
+    },
+    "sound_asset_id": "se_mg_005_pkg-player-rescue"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_PATROL_SKILL_RADAR_ACTIVATE",
+      "number": 10510
+    },
+    "sound_asset_id": "se_mg_005_pkg-skill-radar-activate"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_PATROL_SKILL_RADAR_ACTIVATING",
+      "number": 10511
+    },
+    "sound_asset_id": "se_mg_005_pkg-skill-radar-inaction"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_PATROL_SKILL_SPEED_UP_ACTIVATE",
+      "number": 10512
+    },
+    "sound_asset_id": "se_mg_005_pkg-skill-boost-activate"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_PATROL_SKILL_SPEED_UP_ACTIVATING",
+      "number": 10513
+    },
+    "sound_asset_id": "se_mg_005_pkg-skill-boost-inaction"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_PATROL_SKILL_STEALTH_ACTIVATE",
+      "number": 10514
+    },
+    "sound_asset_id": "se_mg_005_pkg-skill-stealth-activate"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_ANNOUNCE_ALERT",
+      "number": 10519
+    },
+    "sound_asset_id": "se_mg_005_pkg-announce"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_FINISH",
+      "number": 10520
+    },
+    "sound_asset_id": "se_mg_001_pkg-finish"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_HEART_BEAT",
+      "number": 10521
+    },
+    "sound_asset_id": "se_mg_005_pkg-heartbeat"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_ANIMATION_START",
+      "number": 10524
+    },
+    "sound_asset_id": "se_mg_005_pkg-anim-start"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_ANIMATION_MESSAGE_ON",
+      "number": 10525
+    },
+    "sound_asset_id": "se_mg_005_pkg-anim-message-on"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_COUNTDOWN",
+      "number": 10526
+    },
+    "sound_asset_id": "se_mg_005_pkg-countdown"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_RESCUE_LOOP",
+      "number": 10530
+    },
+    "sound_asset_id": "se_mg_005_pkg-player-rescue-middle"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_ANIMATION_MESSAGE_OFF",
+      "number": 10531
+    },
+    "sound_asset_id": "se_mg_005_pkg-anim-message-off"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_KEY_USE_2",
+      "number": 10532
+    },
+    "sound_asset_id": "se_mg_005_pkg-key-use-02"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_KEY_USE_3",
+      "number": 10533
+    },
+    "sound_asset_id": "se_mg_005_pkg-key-use-03"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_ANNOUNCE_INFO_MISCHIEF_TEAM",
+      "number": 10534
+    },
+    "sound_asset_id": "se_mg_005_pkg-announce-misthief"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_ANNOUNCE_INFO_PATROL_TEAM",
+      "number": 10535
+    },
+    "sound_asset_id": "se_mg_005_pkg-announce-patrol"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_CHASE_FINISH_COUNTDOWN",
+      "number": 10536
+    },
+    "sound_asset_id": "se_mg_005_pkg-countdown-end"
+  },
+  {
+    "type": {
+      "name": "SYSTEM_SOUND_TYPE_SE_MINI_GAME_COMMON_COUNTDOWN",
+      "number": 20000
+    },
+    "sound_asset_id": "se_mg_cmn_pkg-countdown"
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "id": "la-item-card-potential-upgrade-cmn-description",
+    "text": "Item yang digunakan untuk pemekaran Member ★5."
+  },
+  {
+    "id": "la-item-card-potential-upgrade-cmn-name",
+    "text": "Bloom Stone"
+  },
+  {
+    "id": "la-item-card_level_up-description",
+    "text": "Item yang digunakan untuk member naik level."
+  },
+  {
+    "id": "la-item-card_level_up-name",
+    "text": "Lesson Pt"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_1-1-description",
+    "text": "Item untuk Latihan Member."
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_1-1-name",
+    "text": "Manik Cute"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_1-2-description",
+    "text": "Item untuk Latihan Member."
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_1-2-name",
+    "text": "Kristal Cute"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_2-1-description",
+    "text": "Item untuk Latihan Member."
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_2-1-name",
+    "text": "Manik Pure"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_2-2-description",
+    "text": "Item untuk Latihan Member."
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_2-2-name",
+    "text": "Kristal Pure"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_3-1-description",
+    "text": "Item untuk Latihan Member."
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_3-1-name",
+    "text": "Manik Happy"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_3-2-description",
+    "text": "Item untuk Latihan Member."
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_3-2-name",
+    "text": "Kristal Happy"
+  },
+  {
+    "id": "la-item-card_limit_break-cmn-sr-description",
+    "text": "Item untuk Latihan Member."
+  },
+  {
+    "id": "la-item-card_limit_break-cmn-sr-name",
+    "text": "Hololium"
+  },
+  {
+    "id": "la-item-character_coin-chr-00001-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00001-name",
+    "text": "Medali Membership (Sora)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00002-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00002-name",
+    "text": "Medali Membership (Robocosan)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00004-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00004-name",
+    "text": "Medali Membership (Aki)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00005-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00005-name",
+    "text": "Medali Membership (Haato)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00006-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00006-name",
+    "text": "Medali Membership (Fubuki)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00007-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00007-name",
+    "text": "Medali Membership (Matsuri)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00010-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00010-name",
+    "text": "Medali Membership (Ayame)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00011-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00011-name",
+    "text": "Medali Membership (Choco)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00012-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00012-name",
+    "text": "Medali Membership (Subaru)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00013-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00013-name",
+    "text": "Medali Membership (AZKi)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00014-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00014-name",
+    "text": "Medali Membership (Mio)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00015-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00015-name",
+    "text": "Medali Membership (Miko)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00016-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00016-name",
+    "text": "Medali Membership (Okayu)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00017-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00017-name",
+    "text": "Medali Membership (Korone)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00018-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00018-name",
+    "text": "Medali Membership (Suisei)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00019-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00019-name",
+    "text": "Medali Membership (Pekora)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00021-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00021-name",
+    "text": "Medali Membership (Flare)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00022-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00022-name",
+    "text": "Medali Membership (Noel)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00023-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00023-name",
+    "text": "Medali Membership (Marine)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00026-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00026-name",
+    "text": "Medali Membership (Watame)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00027-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00027-name",
+    "text": "Medali Membership (Towa)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00028-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00028-name",
+    "text": "Medali Membership (Luna)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00030-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00030-name",
+    "text": "Medali Membership (Lamy)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00031-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00031-name",
+    "text": "Medali Membership (Nene)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00032-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00032-name",
+    "text": "Medali Membership (Botan)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00034-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00034-name",
+    "text": "Medali Membership (Polka)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00035-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00035-name",
+    "text": "Medali Membership (La+)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00036-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00036-name",
+    "text": "Medali Membership (Lui)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00037-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00037-name",
+    "text": "Medali Membership (Koyori)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00039-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-00039-name",
+    "text": "Medali Membership (Iroha)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03001-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-03001-name",
+    "text": "Medali Membership (Risu)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03002-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-03002-name",
+    "text": "Medali Membership (Moona)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03003-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-03003-name",
+    "text": "Medali Membership (Iofi)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03004-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-03004-name",
+    "text": "Medali Membership (Ollie)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03005-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-03005-name",
+    "text": "Medali Membership (Anya)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03006-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-03006-name",
+    "text": "Medali Membership (Reine)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03007-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-03007-name",
+    "text": "Medali Membership (Zeta)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03008-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-03008-name",
+    "text": "Medali Membership (Kaela)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03009-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-03009-name",
+    "text": "Medali Membership (Kobo)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04001-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-04001-name",
+    "text": "Medali Membership (Calliope)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04002-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-04002-name",
+    "text": "Medali Membership (Kiara)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04003-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-04003-name",
+    "text": "Medali Membership (Ina'nis)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04007-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-04007-name",
+    "text": "Medali Membership (IRyS)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04010-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-04010-name",
+    "text": "Medali Membership (Kronii)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04012-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-04012-name",
+    "text": "Medali Membership (Baelz)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04013-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-04013-name",
+    "text": "Medali Membership (Shiori)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04014-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-04014-name",
+    "text": "Medali Membership (Bijou)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04015-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-04015-name",
+    "text": "Medali Membership (Nerissa)"
+  },
+  {
+    "id": "la-item-character_coin-chr-06002-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-06002-name",
+    "text": "Medali Membership (Kanade)"
+  },
+  {
+    "id": "la-item-character_coin-chr-06003-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-06003-name",
+    "text": "Medali Membership (Ririka)"
+  },
+  {
+    "id": "la-item-character_coin-chr-06004-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-06004-name",
+    "text": "Medali Membership (Raden)"
+  },
+  {
+    "id": "la-item-character_coin-chr-06005-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-06005-name",
+    "text": "Medali Membership (Hajime)"
+  },
+  {
+    "id": "la-item-character_coin-chr-80001-description",
+    "text": "Medali yang dapat ditukarkan dengan item Membership."
+  },
+  {
+    "id": "la-item-character_coin-chr-80001-name",
+    "text": "Medali Membership (FUWAMOCO)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-description",
+    "text": "Lencana untuk penukaran item di tempat Penukaran Event.\nAkan dikonversi menjadi Hologold setelah periode selesai."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-name",
+    "text": "Lencana Event"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-002-chapter-01-description",
+    "text": "Lencana untuk penukaran item di tempat Penukaran Event.\nAkan dikonversi menjadi Hologold setelah periode selesai."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-002-chapter-01-name",
+    "text": "Lencana Event"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-description",
+    "text": "Lencana untuk penukaran item di tempat Penukaran Event.\nAkan dikonversi menjadi Hologold setelah periode selesai."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-name",
+    "text": "Lencana Event"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-all-description",
+    "text": "Lencana event dapat ditukar di tempat Penukaran Event (Semua).\nAkan dikonversi ke hologold setelah periode selesai."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-all-name",
+    "text": "Lencana Event (Semua)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-01-description",
+    "text": "Lencana event dapat ditukar di tempat Penukaran Event (Calliope).\nAkan dikonversi ke hologold setelah periode selesai."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-01-name",
+    "text": "Lencana Event (Calliope)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-02-description",
+    "text": "Lencana event dapat ditukar di tempat Penukaran Event (Ayame).\nAkan dikonversi ke hologold setelah periode selesai."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-02-name",
+    "text": "Lencana Event (Ayame)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-03-description",
+    "text": "Lencana event dapat ditukar di tempat Penukaran Event (Ollie).\nAkan dikonversi ke hologold setelah periode selesai."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-03-name",
+    "text": "Lencana Event (Ollie)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-04-description",
+    "text": "Lencana event dapat ditukar di tempat Penukaran Event (Luna).\nAkan dikonversi ke hologold setelah periode selesai."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-04-name",
+    "text": "Lencana Event (Luna)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-05-description",
+    "text": "Lencana event dapat ditukar di tempat Penukaran Event (Ina'nis).\nAkan dikonversi ke hologold setelah periode selesai."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-05-name",
+    "text": "Lencana Event (Ina'nis)"
+  },
+  {
+    "id": "la-item-exchange-holomedal-description",
+    "text": "Poin yang digunakan untuk peringkat event dan membuka cerita event."
+  },
+  {
+    "id": "la-item-exchange-holomedal-name",
+    "text": "Holomedal"
+  },
+  {
+    "id": "la-item-facility-area_a01-000-cmn-description",
+    "text": "Item yang digunakan untuk Pembangunan, Penguatan Fasilitas dan lainnya."
+  },
+  {
+    "id": "la-item-facility-area_a01-000-cmn-name",
+    "text": "Kayu"
+  },
+  {
+    "id": "la-item-facility-area_a01-001-1-description",
+    "text": "Item yang digunakan untuk Pembangunan, Penguatan Fasilitas dan lainnya."
+  },
+  {
+    "id": "la-item-facility-area_a01-001-1-name",
+    "text": "Paku"
+  },
+  {
+    "id": "la-item-facility-area_a01-001-2-description",
+    "text": "Item yang digunakan untuk Pembangunan, Penguatan Fasilitas dan lainnya."
+  },
+  {
+    "id": "la-item-facility-area_a01-001-2-name",
+    "text": "Cat"
+  },
+  {
+    "id": "la-item-facility-area_a01-002-1-description",
+    "text": "Item yang digunakan untuk Pembangunan, Penguatan Fasilitas dan lainnya."
+  },
+  {
+    "id": "la-item-facility-area_a01-002-1-name",
+    "text": "Batu"
+  },
+  {
+    "id": "la-item-facility-area_a01-002-2-description",
+    "text": "Item yang digunakan untuk Pembangunan, Penguatan Fasilitas dan lainnya."
+  },
+  {
+    "id": "la-item-facility-area_a01-002-2-name",
+    "text": "Kaca"
+  },
+  {
+    "id": "la-item-facility-area_a02-000-cmn-description",
+    "text": "Item untuk memperbaiki mesin permainan di Mega Sphere."
+  },
+  {
+    "id": "la-item-facility-area_a02-000-cmn-name",
+    "text": "Bahan Perbaikan"
+  },
+  {
+    "id": "la-item-facility-area_a02-001-1-description",
+    "text": "Item yang digunakan untuk Pembangunan, Penguatan Fasilitas dan lainnya."
+  },
+  {
+    "id": "la-item-facility-area_a02-001-1-name",
+    "text": "Baut"
+  },
+  {
+    "id": "la-item-facility-area_a02-002-1-description",
+    "text": "Item yang digunakan untuk Pembangunan, Penguatan Fasilitas dan lainnya."
+  },
+  {
+    "id": "la-item-facility-area_a02-002-1-name",
+    "text": "Chip IC"
+  },
+  {
+    "id": "la-item-gacha-cmn_sticker-01-description",
+    "text": "Stiker yang dapat ditukar dengan item di tempat Penukaran Holosticker."
+  },
+  {
+    "id": "la-item-gacha-cmn_sticker-01-name",
+    "text": "Holosticker"
+  },
+  {
+    "id": "la-item-gacha-sp_sticker-01-description",
+    "text": "Stiker yang dapat ditukar dengan item di tempat Penukaran Holosticker spesial."
+  },
+  {
+    "id": "la-item-gacha-sp_sticker-01-name",
+    "text": "Holosticker Spesial"
+  },
+  {
+    "id": "la-item-gacha_ticket-cmn-01-description",
+    "text": "Tiket untuk Gacha holodori."
+  },
+  {
+    "id": "la-item-gacha_ticket-cmn-01-name",
+    "text": "Tiket holodori Gacha"
+  },
+  {
+    "id": "la-item-gacha_ticket-r4-01-description",
+    "text": "Tiket Gacha dengan jaminan mendapatkan Member ★4 atau lebih."
+  },
+  {
+    "id": "la-item-gacha_ticket-r4-01-name",
+    "text": "Tiket Jaminan ★4 atau lebih"
+  },
+  {
+    "id": "la-item-gacha_ticket-r5-01-description",
+    "text": "Tiket yang digunakan untuk Gacha Jaminan ★5."
+  },
+  {
+    "id": "la-item-gacha_ticket-r5-01-name",
+    "text": "Tiket Garansi ★5"
+  },
+  {
+    "id": "la-item-gold-description",
+    "text": "Item untuk berbagai kegunaan."
+  },
+  {
+    "id": "la-item-gold-name",
+    "text": "Hologold"
+  },
+  {
+    "id": "la-item-live_auto_play-description",
+    "text": "Item untuk memainkan Game Ritme dengan fitur Auto."
+  },
+  {
+    "id": "la-item-live_auto_play-name",
+    "text": "Tiket Auto-play"
+  },
+  {
+    "id": "la-item-live_reward_up_stamina_recover-description",
+    "text": "Item yang dapat ditukar menjadi Live Boost."
+  },
+  {
+    "id": "la-item-live_reward_up_stamina_recover-name",
+    "text": "Minuman Boost Live"
+  },
+  {
+    "id": "la-item-mini-game-chase-coin-description",
+    "text": "Item yang dapat ditukarkan di Tempat Penukaran Koin Harmony Garden."
+  },
+  {
+    "id": "la-item-mini-game-chase-coin-name",
+    "text": "Koin Harmony Garden."
+  },
+  {
+    "id": "la-item-mini_game_bet_coin-description",
+    "text": "Item yang digunakan dalam mini-game Mega Sphere, Penukaran, dan lainnya."
+  },
+  {
+    "id": "la-item-mini_game_bet_coin-name",
+    "text": "Koin Mega Sphere"
+  },
+  {
+    "id": "la-item-mini_game_reward_up_stamina_recover-description",
+    "text": "Item yang dapat ditukar menjadi Tukar Mini Game Boost."
+  },
+  {
+    "id": "la-item-mini_game_reward_up_stamina_recover-name",
+    "text": "Jeli Boost Minigame"
+  },
+  {
+    "id": "la-item-music_release-description",
+    "text": "Item yang digunakan untuk menukarkan lagu."
+  },
+  {
+    "id": "la-item-music_release-name",
+    "text": "Disk Lagu"
+  },
+  {
+    "id": "la-item-park_character_quest-description",
+    "text": "Item yang memungkinkanmu memilih holomem dan memulai Misi Holomem."
+  },
+  {
+    "id": "la-item-park_character_quest-name",
+    "text": "Undangan holomem"
+  },
+  {
+    "id": "la-item-quest-area-a01-17-1-2-description",
+    "text": "Alat untuk anggota Advent membersihkan The Cell Returns. Berikan kepada anggota Advent agar mulai bersih-bersih."
+  },
+  {
+    "id": "la-item-quest-area-a01-17-1-2-name",
+    "text": "Alat Bersih-bersih"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-02-1-4-description",
+    "text": "Kardus berisi barang-barang holomem. Terdapat berbagai macam barang terutama barang pribadi. Antarkan barang-barang ini kepada holomem yang membutuhkan!"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-02-1-4-name",
+    "text": "Barang holomem"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-05-1-4-description",
+    "text": "Kardus berisi barang-barang holomem. Tidak hanya barang pribadi, terdapat juga barang untuk Live. Antarkan barang-barang ini kepada holomem yang membutuhkan!"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-05-1-4-name",
+    "text": "Barang holomem"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-08-1-4-description",
+    "text": "Kardus berisi barang-barang holomem. Terdapat barang Gen3 dan barang Gamers. Antarkan barang-barang ini kepada holomem yang membutuhkan!"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-08-1-4-name",
+    "text": "Barang holomem"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-11-1-4-description",
+    "text": "Minuman yang terlihat sangat enak dan tersedia di Tarafuku Journey. Ayo antarkan ke Tarafuku Journey sebelum stok habis!"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-11-1-4-name",
+    "text": "Minuman yang terlihat sangat enak"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-11-1-5-description",
+    "text": "Bahan makanan yang terlihat lezat dan tersedia di Tarafuku Journey. Ayo antarkan ke Tarafuku Journey sebelum stok habis!"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-11-1-5-name",
+    "text": "Bahan makanan yang terlihat lezat"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-12-1-3-description",
+    "text": "Bekal sederhana namun menarik hati yang dibuat oleh NePoLaBo. Mari nikmati ketika berpiknik saat cuaca bagus!"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-12-1-3-name",
+    "text": "Paket Lezat NePoLaBo"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-12-1-4-description",
+    "text": "Set camilan yang tersedia di h3ro Wheel. Mari nikmati ketika berpiknik saat cuaca bagus!"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-12-1-4-name",
+    "text": "Set camilan"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-13-1-4-description",
+    "text": "Perlengkapan penting untuk atraksi taman. Perlengkapan ini tidak dibutuhkan segera, namun akan kesulitan jika tidak ada. Ayo kirimkan ke setiap atraksi!"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-13-1-4-name",
+    "text": "Perlengkapan fasilitas"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-15-1-1-description",
+    "text": "Balon warna-warni yang tersedia di Lucu-Chu Mobile 15. Ayo berikan ke holomem dan tanyakan kesan-pesan mereka!"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-15-1-1-name",
+    "text": "Balon warna-warni"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-18-1-3-description",
+    "text": "Balon dekorasi untuk pesta perayaan milik Cho-Very-Ba Drepa Branch. Bawa pulang dan tambahkan sentuhan meriah pada pesta!"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-18-1-3-name",
+    "text": "Balon Pesta"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-18-1-4-description",
+    "text": "Dekorasi pesta perayaan Cho-Very-Ba Drepa Branch. Terdapat berbagai bentuk. Bawa pulang dan pajang untuk pesta!"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-18-1-4-name",
+    "text": "Dekorasi Pesta"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-10-description",
+    "text": "Item yang dapat ditukarkan dengan 10 Manik pilihan pemain."
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-10-name",
+    "text": "Paket Manik S"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-100-description",
+    "text": "Item yang dapat ditukarkan dengan 100 Manik pilihan pemain."
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-100-name",
+    "text": "Paket Manik M"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-300-description",
+    "text": "Item yang dapat ditukarkan dengan 300 Manik pilihan pemain."
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-300-name",
+    "text": "Paket Manik L"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-10-description",
+    "text": "Item yang dapat ditukarkan dengan 10 Kristal pilihan pemain."
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-10-name",
+    "text": "Toples Isi Kristal S"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-100-description",
+    "text": "Item yang dapat ditukarkan dengan 100 Kristal pilihan pemain."
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-100-name",
+    "text": "Toples Isi Kristal M"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-300-description",
+    "text": "Item yang dapat ditukarkan dengan 300 Kristal pilihan pemain."
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-300-name",
+    "text": "Toples Isi Kristal L"
+  },
+  {
+    "id": "la-item-selectable_reward_membership_medal",
+    "text": "Hadiah Perayaan Rilis"
+  },
+  {
+    "id": "la-item-selectable_reward_membership_medal-description",
+    "text": "Kotak yang memungkinkan pemain memilih dan mendapatkan medali Membership favorit."
+  },
+  {
+    "id": "la-item-skill_tree_allmember-1-description",
+    "text": "Item yang digunakan untuk membuka Node pada Holomem Board."
+  },
+  {
+    "id": "la-item-skill_tree_allmember-1-name",
+    "text": "Kubus Hijau"
+  },
+  {
+    "id": "la-item-skill_tree_allmember-2-description",
+    "text": "Item yang digunakan untuk membuka Node pada Holomem Board."
+  },
+  {
+    "id": "la-item-skill_tree_allmember-2-name",
+    "text": "Hexa Hijau"
+  },
+  {
+    "id": "la-item-skill_tree_card-1-description",
+    "text": "Item yang digunakan untuk membuka Node pada Holomem Board."
+  },
+  {
+    "id": "la-item-skill_tree_card-1-name",
+    "text": "Kubus Biru"
+  },
+  {
+    "id": "la-item-skill_tree_card-2-description",
+    "text": "Item yang digunakan untuk membuka Node pada Holomem Board."
+  },
+  {
+    "id": "la-item-skill_tree_card-2-name",
+    "text": "Hexa Biru"
+  },
+  {
+    "id": "la-item-skill_tree_content-1-description",
+    "text": "Item yang digunakan untuk membuka Node pada Holomem Board."
+  },
+  {
+    "id": "la-item-skill_tree_content-1-name",
+    "text": "Kubus Kuning"
+  },
+  {
+    "id": "la-item-skill_tree_content-2-description",
+    "text": "Item yang digunakan untuk membuka Node pada Holomem Board."
+  },
+  {
+    "id": "la-item-skill_tree_content-2-name",
+    "text": "Hexa Kuning"
+  },
+  {
+    "id": "la-item-skill_tree_leader-1-description",
+    "text": "Item yang digunakan untuk membuka Node pada Holomem Board."
+  },
+  {
+    "id": "la-item-skill_tree_leader-1-name",
+    "text": "Kubus Merah"
+  },
+  {
+    "id": "la-item-skill_tree_leader-2-description",
+    "text": "Item yang digunakan untuk membuka Node pada Holomem Board."
+  },
+  {
+    "id": "la-item-skill_tree_leader-2-name",
+    "text": "Hexa Merah"
+  }
+]

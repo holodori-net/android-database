@@ -1,0 +1,546 @@
+[
+  {
+    "id": "la-tips-achievement-title",
+    "text": "업적"
+  },
+  {
+    "id": "la-tips-card-upgrade-potential-title",
+    "text": "멤버 특훈"
+  },
+  {
+    "id": "la-tips-character-quest-title",
+    "text": "Holo멤버 퀘스트"
+  },
+  {
+    "id": "la-tips-character-set-title",
+    "text": "조작 holo멤버 변경"
+  },
+  {
+    "id": "la-tips-chase-quest-title",
+    "text": "어둠 속 추격"
+  },
+  {
+    "id": "la-tips-chase-title",
+    "text": "어둠 속 추격"
+  },
+  {
+    "id": "la-tips-circuit-title",
+    "text": "메가 서킷"
+  },
+  {
+    "id": "la-tips-combo-card-game-title",
+    "text": "포카장!"
+  },
+  {
+    "id": "la-tips-cooking-puzzle-title",
+    "text": "모아 쿠킹"
+  },
+  {
+    "id": "la-tips-creative-chart",
+    "text": "창작 악보"
+  },
+  {
+    "id": "la-tips-exchange-area01-title",
+    "text": "네포라보 마트"
+  },
+  {
+    "id": "la-tips-exchange-area02-training-item-title",
+    "text": "재료 변환소"
+  },
+  {
+    "id": "la-tips-exchange-coin-area02-title",
+    "text": "메가 스피어 코인 교환소"
+  },
+  {
+    "id": "la-tips-game-event_portal-title",
+    "text": "이벤트 포털"
+  },
+  {
+    "id": "la-tips-game_screen-achievement_top-title",
+    "text": "업적"
+  },
+  {
+    "id": "la-tips-game_screen-card_catalog-title",
+    "text": "멤버"
+  },
+  {
+    "id": "la-tips-game_screen-character_top-title",
+    "text": "holo멤버"
+  },
+  {
+    "id": "la-tips-game_screen-chase-title",
+    "text": "어둠 속 추격"
+  },
+  {
+    "id": "la-tips-game_screen-circuit-title",
+    "text": "메가 서킷"
+  },
+  {
+    "id": "la-tips-game_screen-combo-card-game-title",
+    "text": "포카장!"
+  },
+  {
+    "id": "la-tips-game_screen-cooking-puzzle-title",
+    "text": "모아 쿠킹"
+  },
+  {
+    "id": "la-tips-game_screen-creative-chart-title",
+    "text": "창작 악보"
+  },
+  {
+    "id": "la-tips-game_screen-friend_top-title",
+    "text": "친구"
+  },
+  {
+    "id": "la-tips-game_screen-high_score_rating-title",
+    "text": "Holo멤버 스코어 레이트"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-multi-title",
+    "text": "줄넘기"
+  },
+  {
+    "id": "la-tips-game_screen-jump-rope-top-title",
+    "text": "줄넘기"
+  },
+  {
+    "id": "la-tips-game_screen-live_deck_edit-title",
+    "text": "유닛 편성"
+  },
+  {
+    "id": "la-tips-game_screen-membership_top-title",
+    "text": "멤버십"
+  },
+  {
+    "id": "la-tips-game_screen-mission_pass_top-title",
+    "text": "미션 패스"
+  },
+  {
+    "id": "la-tips-game_screen-multi_mini_game_top-title",
+    "text": "멀티 미니 게임"
+  },
+  {
+    "id": "la-tips-game_screen-multi_rhythm_game_lobby-title",
+    "text": "다 함께 LIVE"
+  },
+  {
+    "id": "la-tips-game_screen-multi_rhythm_game_top-title",
+    "text": "다 함께 LIVE"
+  },
+  {
+    "id": "la-tips-game_screen-music_shop_selection-title",
+    "text": "악곡 상점"
+  },
+  {
+    "id": "la-tips-game_screen-park_change_playable-title",
+    "text": "holo멤버 변경"
+  },
+  {
+    "id": "la-tips-game_screen-park_high_low_top-title",
+    "text": "하이&로"
+  },
+  {
+    "id": "la-tips-game_screen-park_poster_booth-title",
+    "text": "메모리"
+  },
+  {
+    "id": "la-tips-game_screen-park_quest_info-title",
+    "text": "퀘스트"
+  },
+  {
+    "id": "la-tips-game_screen-score_ranking-title",
+    "text": "스코어 랭킹"
+  },
+  {
+    "id": "la-tips-game_screen-shop_top-title",
+    "text": "상점"
+  },
+  {
+    "id": "la-tips-game_screen-skill_tree-title",
+    "text": "Holo멤버 보드"
+  },
+  {
+    "id": "la-tips-game_screen-story_archive_top-title",
+    "text": "시어터"
+  },
+  {
+    "id": "la-tips-game_screen-user_profile_top-title",
+    "text": "프로필"
+  },
+  {
+    "id": "la-tips-game_screen-work_top-title",
+    "text": "Holo워크"
+  },
+  {
+    "id": "la-tips-hint-account_migration-title",
+    "text": "계정 연동"
+  },
+  {
+    "id": "la-tips-hint-card_detail_level_limit_break-title",
+    "text": "특훈"
+  },
+  {
+    "id": "la-tips-hint-card_detail_level_up-title",
+    "text": "레벨 업"
+  },
+  {
+    "id": "la-tips-hint-card_detail_live_skill-title",
+    "text": "스킬"
+  },
+  {
+    "id": "la-tips-hint-card_detail_skill_tree_connect_effect-title",
+    "text": "커넥트 효과"
+  },
+  {
+    "id": "la-tips-hint-character_level_exp-title",
+    "text": "Holo멤버 랭크"
+  },
+  {
+    "id": "la-tips-hint-live_card_leveling-title",
+    "text": "멤버를 육성하자!"
+  },
+  {
+    "id": "la-tips-hint-live_deck_evaluation_value_not_reached-title",
+    "text": "유닛 스코어를 올리자!"
+  },
+  {
+    "id": "la-tips-hint-live_leader_skill_not_activated-title",
+    "text": "의상 스킬을 발동시키자!"
+  },
+  {
+    "id": "la-tips-hint-live_live_deck_evaluation-title",
+    "text": "유닛 스코어"
+  },
+  {
+    "id": "la-tips-hint-live_multi_live_cooperation_auto_play_allow-title",
+    "text": "자동 플레이 허가"
+  },
+  {
+    "id": "la-tips-hint-live_option_brightness_setting-title",
+    "text": "밝기 설정"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_active_skill_display-title",
+    "text": "액티브 스킬 표시"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_background_display_illustration_setting-title",
+    "text": "표시 일러스트 설정"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_background_mode_setting-title",
+    "text": "배경 모드 설정"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_combo_continuation_display-title",
+    "text": "콤보 계속 표시"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_fast_slow_display-title",
+    "text": "SLOW 및 FAST 표시"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_fever_effect_setting-title",
+    "text": "FEVER 연출"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_fps_sync-title",
+    "text": "FPS 동기"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_key_beam-title",
+    "text": "키 빔"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_leader_skill_display-title",
+    "text": "리더의 Holo멤버 스킬 표시"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_measure_line_display-title",
+    "text": "소절 선 표시"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_rhythm_support-title",
+    "text": "리듬 서포트"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_screen_fps_setting-title",
+    "text": "FPS"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_screen_lock-title",
+    "text": "화면 고정"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_simultaneous_press_line-title",
+    "text": "동시 터치 라인"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_skill_effect_above_judgement_text-title",
+    "text": "판정 문자 위 스킬 효과"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_slideshow_switch_time-title",
+    "text": "슬라이드 쇼 전환 시간"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_special_skill_background_display-title",
+    "text": "SP 스킬 배경 표시"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_special_skill_effect_display-title",
+    "text": "SP 스킬 효과 표시"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_special_skill_illustration_display-title",
+    "text": "SP 스킬 일러스트&Live2D"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_tap_effect-title",
+    "text": "탭 이펙트"
+  },
+  {
+    "id": "la-tips-hint-live_option_detail_tap_vibration-title",
+    "text": "터치 시 진동"
+  },
+  {
+    "id": "la-tips-hint-live_option_key_config_lane-title",
+    "text": "환경 설정(레인)"
+  },
+  {
+    "id": "la-tips-hint-live_option_key_config_other-title",
+    "text": "환경 설정(기타)"
+  },
+  {
+    "id": "la-tips-hint-live_option_lane_bottom_cut-title",
+    "text": "레인 하단 컷"
+  },
+  {
+    "id": "la-tips-hint-live_option_lane_setting-title",
+    "text": "판정 라인 위치"
+  },
+  {
+    "id": "la-tips-hint-live_option_lane_top_cut-title",
+    "text": "레인 상단 컷"
+  },
+  {
+    "id": "la-tips-hint-live_option_mirror_chart-title",
+    "text": "미러 악보"
+  },
+  {
+    "id": "la-tips-hint-live_option_music_mv_setting-title",
+    "text": "MV 설정(데이터 저장)"
+  },
+  {
+    "id": "la-tips-hint-live_option_music_timing_adjustment-title",
+    "text": "악곡 타이밍 조정"
+  },
+  {
+    "id": "la-tips-hint-live_option_note_speed-title",
+    "text": "노트 속도"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_combo-title",
+    "text": "콤보 문자"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_header-title",
+    "text": "헤더 UI"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_judgement_text-title",
+    "text": "판정 문자"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_lane-title",
+    "text": "레인"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_normal_background_customize-title",
+    "text": "일반 배경 커스텀"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_note-title",
+    "text": "노트 스킨"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_tap_effect_type-title",
+    "text": "탭 이펙트 스킨"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_effect-title",
+    "text": "SE 음량"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_music-title",
+    "text": "악곡"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_skill_se-title",
+    "text": "스킬 SE"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_skill_voice-title",
+    "text": "스킬 보이스"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_tap-title",
+    "text": "터치음"
+  },
+  {
+    "id": "la-tips-hint-live_option_sound_voice_sound-title",
+    "text": "보이스 음량"
+  },
+  {
+    "id": "la-tips-hint-live_option_timing_adjustment-title",
+    "text": "판정 타이밍 조정"
+  },
+  {
+    "id": "la-tips-hint-live_reward_up_stamina-title",
+    "text": "라이브 부스트"
+  },
+  {
+    "id": "la-tips-hint-live_skill_tree_released-title",
+    "text": "Holo멤버 보드를 개방하자!"
+  },
+  {
+    "id": "la-tips-hint-marathon_mission-title",
+    "text": "스코어 챌린지 이벤트"
+  },
+  {
+    "id": "la-tips-hint-marathon_nomal",
+    "text": "포인트 랠리 이벤트"
+  },
+  {
+    "id": "la-tips-hint-marathon_relay-title",
+    "text": "스포트라이트 이벤트"
+  },
+  {
+    "id": "la-tips-hint-mini_game_reward_up_stamina-title",
+    "text": "미니 게임 부스트"
+  },
+  {
+    "id": "la-tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up-title",
+    "text": "멤버 강화 보너스"
+  },
+  {
+    "id": "la-tips-instant_tips-present-facerock-2-title",
+    "text": "0기생의 선물"
+  },
+  {
+    "id": "la-tips-instant_tips-present-prison-2-title",
+    "text": "Advent의 선물"
+  },
+  {
+    "id": "la-tips-instant_tips-random_reward-livehouse-2-title",
+    "text": "holo멤버의 비밀 트레저 업그레이드"
+  },
+  {
+    "id": "la-tips-jump-rope-title",
+    "text": "줄넘기"
+  },
+  {
+    "id": "la-tips-live-title",
+    "text": "유닛"
+  },
+  {
+    "id": "la-tips-lottery-area02-scratch-title",
+    "text": "챠마챠마MAX 복권"
+  },
+  {
+    "id": "la-tips-mission-pass-title",
+    "text": "미션 패스"
+  },
+  {
+    "id": "la-tips-multi-game-title",
+    "text": "멀티 플레이"
+  },
+  {
+    "id": "la-tips-multi-live-title",
+    "text": "다 함께 LIVE"
+  },
+  {
+    "id": "la-tips-multi-mini_game-title",
+    "text": "멀티 미니 게임"
+  },
+  {
+    "id": "la-tips-music_highest_score_ranking",
+    "text": "스코어 랭킹&Holo멤버 스코어 레이트"
+  },
+  {
+    "id": "la-tips-operation-title",
+    "text": "조작 방법"
+  },
+  {
+    "id": "la-tips-park-character-shop-area01-balloon-title",
+    "text": "풍선 상점"
+  },
+  {
+    "id": "la-tips-park-character-shop-area01-candy-title",
+    "text": "사탕 상점"
+  },
+  {
+    "id": "la-tips-park-character-shop-area01-pen-light-title",
+    "text": "응원봉 상점"
+  },
+  {
+    "id": "la-tips-park-character-shop-area02-hair-accessory-title",
+    "text": "실크 모자 상점"
+  },
+  {
+    "id": "la-tips-park-high-low-area02-title",
+    "text": "탐욕의 카드"
+  },
+  {
+    "id": "la-tips-park-lottery-area02-gachapon-title",
+    "text": "캡슐 콩"
+  },
+  {
+    "id": "la-tips-park-print-booth-area02-title",
+    "text": "메가프리"
+  },
+  {
+    "id": "la-tips-park-select-area02-title",
+    "text": "전환 레버"
+  },
+  {
+    "id": "la-tips-park-time-period-title",
+    "text": "시간 변경"
+  },
+  {
+    "id": "la-tips-poster-title",
+    "text": "메모리"
+  },
+  {
+    "id": "la-tips-present-title",
+    "text": "holo멤버의 선물"
+  },
+  {
+    "id": "la-tips-quest-daily-title",
+    "text": "데일리 퀘스트"
+  },
+  {
+    "id": "la-tips-random_symbol-title",
+    "text": "holo멤버의 비밀 트레저"
+  },
+  {
+    "id": "la-tips-retracable-gacha-title",
+    "text": "다시 뽑기"
+  },
+  {
+    "id": "la-tips-rhythm-game-title",
+    "text": "라이브"
+  },
+  {
+    "id": "la-tips-skill-tree-title",
+    "text": "Holo멤버 보드"
+  },
+  {
+    "id": "la-tips-story-title",
+    "text": "시어터"
+  },
+  {
+    "id": "la-tips-work-title",
+    "text": "Holo워크"
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "id": "la-resource_type_detail-appealtext",
+    "text": "-"
+  },
+  {
+    "id": "la-resource_type_detail-card-description",
+    "text": "ライブで編成可能なメンバーです。"
+  },
+  {
+    "id": "la-resource_type_detail-card-name",
+    "text": "メンバー"
+  },
+  {
+    "id": "la-resource_type_detail-character-description",
+    "text": "操作できるホロメンです。"
+  },
+  {
+    "id": "la-resource_type_detail-character-name",
+    "text": "ホロメン"
+  },
+  {
+    "id": "la-resource_type_detail-costume-description",
+    "text": "ホロメンが着用できる衣装です。"
+  },
+  {
+    "id": "la-resource_type_detail-costume-name",
+    "text": "ライブ衣装"
+  },
+  {
+    "id": "la-resource_type_detail-custom_palette_decoration-description",
+    "text": "カスタムプロフィールに設定できるデコレーションです。"
+  },
+  {
+    "id": "la-resource_type_detail-custom_palette_decoration-name",
+    "text": "カスタムパーツ"
+  },
+  {
+    "id": "la-resource_type_detail-emblem-description",
+    "text": "プロフィールに設定する称号です。"
+  },
+  {
+    "id": "la-resource_type_detail-emblem-name",
+    "text": "称号"
+  },
+  {
+    "id": "la-resource_type_detail-fan_mark-description",
+    "text": "メンバーシップに加入すると使用できるファンマークです。"
+  },
+  {
+    "id": "la-resource_type_detail-fan_mark-name",
+    "text": "ファンマーク"
+  },
+  {
+    "id": "la-resource_type_detail-gacha_point-description",
+    "text": "ガチャによって獲得できるポイントです。"
+  },
+  {
+    "id": "la-resource_type_detail-gacha_point-name",
+    "text": "ガチャPt"
+  },
+  {
+    "id": "la-resource_type_detail-item-description",
+    "text": "各種アイテムです。"
+  },
+  {
+    "id": "la-resource_type_detail-item-name",
+    "text": "アイテム"
+  },
+  {
+    "id": "la-resource_type_detail-live_skin-description",
+    "text": "ライブスキンの見た目を変更するスキンです。"
+  },
+  {
+    "id": "la-resource_type_detail-live_skin-name",
+    "text": "ライブスキン"
+  },
+  {
+    "id": "la-resource_type_detail-mission_pass_point-description",
+    "text": "ミッションパスを進行するためのPtです。"
+  },
+  {
+    "id": "la-resource_type_detail-mission_pass_point-name",
+    "text": "ミッションパスPt"
+  },
+  {
+    "id": "la-resource_type_detail-music-description",
+    "text": "ライブでプレイすることができる楽曲です。"
+  },
+  {
+    "id": "la-resource_type_detail-music-name",
+    "text": "楽曲"
+  },
+  {
+    "id": "la-resource_type_detail-park_accessory-description",
+    "text": "パークでホロメンが手に持てるアイテムです。"
+  },
+  {
+    "id": "la-resource_type_detail-park_accessory-name",
+    "text": "ホロメンアイテム"
+  },
+  {
+    "id": "la-resource_type_detail-park_emotion-description",
+    "text": "パークやミニゲームで使用できるエモートです。"
+  },
+  {
+    "id": "la-resource_type_detail-park_emotion-name",
+    "text": "パークエモート"
+  },
+  {
+    "id": "la-resource_type_detail-player_exp-description",
+    "text": "プレイヤーのレベルアップに必要なアイテムです。"
+  },
+  {
+    "id": "la-resource_type_detail-player_exp-name",
+    "text": "ドリームExp"
+  },
+  {
+    "id": "la-resource_type_detail-poster-description",
+    "text": "パークのメモリースタンドに設定できるメモリーです。"
+  },
+  {
+    "id": "la-resource_type_detail-poster-name",
+    "text": "メモリー"
+  },
+  {
+    "id": "la-resource_type_detail-premium_mission_pass-description",
+    "text": "ショップで購入できるミッションパスです。"
+  },
+  {
+    "id": "la-resource_type_detail-premium_mission_pass-name",
+    "text": "プレミアムミッションパス"
+  },
+  {
+    "id": "la-resource_type_detail-sd_costume-description",
+    "text": "パークやミニゲームで着用できる衣装です。"
+  },
+  {
+    "id": "la-resource_type_detail-sd_costume-name",
+    "text": "パーク衣装"
+  },
+  {
+    "id": "la-resource_type_detail-sd_costume_hair_accessory-description",
+    "text": "パークやミニゲームで着用できるヘアアクセサリです。"
+  },
+  {
+    "id": "la-resource_type_detail-sd_costume_hair_accessory-name",
+    "text": "ヘアアクセサリ"
+  },
+  {
+    "id": "la-resource_type_detail-set-description",
+    "text": "-"
+  },
+  {
+    "id": "la-resource_type_detail-set-name",
+    "text": "セット"
+  },
+  {
+    "id": "la-resource_type_detail-skill_tree_point-description",
+    "text": "ホロメンボードの解放に使用できます"
+  },
+  {
+    "id": "la-resource_type_detail-skill_tree_point-name",
+    "text": "ホロメンボードPt"
+  },
+  {
+    "id": "la-resource_type_detail-stamp-description",
+    "text": "マルチプレイ中などに使用できるスタンプです。"
+  },
+  {
+    "id": "la-resource_type_detail-stamp-name",
+    "text": "スタンプ"
+  },
+  {
+    "id": "la-resource_type_detail-stone_paid_only-description",
+    "text": "ガチャやアイテム購入などに使用できるアイテムです。"
+  },
+  {
+    "id": "la-resource_type_detail-stone_paid_only-name",
+    "text": "ブルーダイヤ"
+  },
+  {
+    "id": "la-resource_type_detail-stone_total-description",
+    "text": "ガチャやアイテム購入などに使用できるアイテムです。"
+  },
+  {
+    "id": "la-resource_type_detail-stone_total-name",
+    "text": "レッドダイヤ"
+  },
+  {
+    "id": "la-resource_type_detail-wallpaper-description",
+    "text": "メガスフィアのメガプリで使用可能なアイテムです。"
+  },
+  {
+    "id": "la-resource_type_detail-wallpaper-name",
+    "text": "背景壁紙"
+  }
+]

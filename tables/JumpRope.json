@@ -1,0 +1,198 @@
+[
+  {
+    "id": "jump_rope-challenge_easy_001",
+    "play_type": {
+      "name": "JUMP_ROPE_PLAY_TYPE_CHALLENGE_EASY",
+      "number": 10
+    },
+    "jump_rope_phase_gimmick_group_id": "jump_rope_phase_gimmick-jump_rope-challenge_easy_001",
+    "jump_rope_jump_count_reward_group_id": "jump_count_reward-jump_rope-challenge_easy_001",
+    "npc_count": 2,
+    "game_start_display_clear_condition_lang_id": "la-jump_rope-game_start_display_clear_condition_lang-survival",
+    "game_playing_display_clear_condition_lang_id": "la-jump_rope-game_playing_display_clear_condition_lang-survival",
+    "mode_select_display_clear_condition_lang_id": "la-jump_rope-mode_select_display_clear_condition_lang-survival",
+    "order": 1
+  },
+  {
+    "id": "jump_rope-challenge_normal_001",
+    "play_type": {
+      "name": "JUMP_ROPE_PLAY_TYPE_CHALLENGE_NORMAL",
+      "number": 11
+    },
+    "unlock_condition_group_id": "cd-jump_rope-unlock_normal",
+    "jump_rope_phase_gimmick_group_id": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+    "jump_rope_jump_count_reward_group_id": "jump_count_reward-jump_rope-challenge_normal_001",
+    "npc_count": 3,
+    "game_start_display_clear_condition_lang_id": "la-jump_rope-game_start_display_clear_condition_lang-survival",
+    "game_playing_display_clear_condition_lang_id": "la-jump_rope-game_playing_display_clear_condition_lang-survival",
+    "mode_select_display_clear_condition_lang_id": "la-jump_rope-mode_select_display_clear_condition_lang-survival",
+    "order": 2
+  },
+  {
+    "id": "jump_rope-multi_001",
+    "play_type": {
+      "name": "JUMP_ROPE_PLAY_TYPE_MULTI",
+      "number": 30
+    },
+    "jump_rope_phase_gimmick_group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "jump_rope_jump_count_reward_group_id": "jump_count_reward-jump_rope-multi_001",
+    "npc_count": 4,
+    "game_start_display_clear_condition_lang_id": "la-jump_rope-game_start_display_clear_condition_lang-score_attack",
+    "game_playing_display_clear_condition_lang_id": "la-jump_rope-game_playing_display_clear_condition_lang-score_attack",
+    "order": 9999,
+    "multi_mvp_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_auto_play"
+      }
+    ]
+  },
+  {
+    "id": "jump_rope-park_quest_multi_001",
+    "play_type": {
+      "name": "JUMP_ROPE_PLAY_TYPE_PARK_QUEST_MULTI",
+      "number": 50
+    },
+    "jump_rope_phase_gimmick_group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "jump_rope_jump_count_reward_group_id": "jump_count_reward-jump_rope-multi_001",
+    "npc_count": 4,
+    "game_start_display_clear_condition_lang_id": "la-jump_rope-game_start_display_clear_condition_lang-score_attack",
+    "game_playing_display_clear_condition_lang_id": "la-jump_rope-game_playing_display_clear_condition_lang-score_attack",
+    "order": 9999,
+    "multi_mvp_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_auto_play"
+      }
+    ]
+  },
+  {
+    "id": "jump_rope-quest_jump_rope-area-a01-02-1-1",
+    "play_type": {
+      "name": "JUMP_ROPE_PLAY_TYPE_PARK_QUEST_SINGLE",
+      "number": 40
+    },
+    "jump_rope_phase_gimmick_group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+    "npc_count": 2,
+    "game_start_display_clear_condition_lang_id": "la-jump_rope-game_start_display_clear_condition_lang-count",
+    "game_playing_display_clear_condition_lang_id": "la-jump_rope-game_playing_display_clear_condition_lang-count",
+    "order": 9999
+  },
+  {
+    "id": "jump_rope-quest_jump_rope-area-a01-05-1-1",
+    "play_type": {
+      "name": "JUMP_ROPE_PLAY_TYPE_PARK_QUEST_SINGLE",
+      "number": 40
+    },
+    "jump_rope_phase_gimmick_group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+    "npc_count": 2,
+    "game_start_display_clear_condition_lang_id": "la-jump_rope-game_start_display_clear_condition_lang-survival",
+    "game_playing_display_clear_condition_lang_id": "la-jump_rope-game_playing_display_clear_condition_lang-survival",
+    "order": 9999
+  },
+  {
+    "id": "jump_rope-quest_jump_rope-area-a01-06-1-3",
+    "play_type": {
+      "name": "JUMP_ROPE_PLAY_TYPE_PARK_QUEST_MULTI",
+      "number": 50
+    },
+    "jump_rope_phase_gimmick_group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "npc_count": 4,
+    "game_start_display_clear_condition_lang_id": "la-jump_rope-game_start_display_clear_condition_lang-score_attack",
+    "game_playing_display_clear_condition_lang_id": "la-jump_rope-game_playing_display_clear_condition_lang-score_attack",
+    "order": 9999
+  },
+  {
+    "id": "jump_rope-quest_jump_rope-area-a01-12-1-1",
+    "play_type": {
+      "name": "JUMP_ROPE_PLAY_TYPE_PARK_QUEST_SINGLE",
+      "number": 40
+    },
+    "jump_rope_phase_gimmick_group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+    "npc_count": 1,
+    "game_start_display_clear_condition_lang_id": "la-jump_rope-game_start_display_clear_condition_lang-count",
+    "game_playing_display_clear_condition_lang_id": "la-jump_rope-game_playing_display_clear_condition_lang-count",
+    "order": 9999
+  },
+  {
+    "id": "jump_rope-quest_jump_rope-daily",
+    "play_type": {
+      "name": "JUMP_ROPE_PLAY_TYPE_PARK_QUEST_SINGLE",
+      "number": 40
+    },
+    "jump_rope_phase_gimmick_group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+    "npc_count": 3,
+    "game_start_display_clear_condition_lang_id": "la-jump_rope-game_start_display_clear_condition_lang-survival",
+    "game_playing_display_clear_condition_lang_id": "la-jump_rope-game_playing_display_clear_condition_lang-survival",
+    "order": 9999
+  },
+  {
+    "id": "jump_rope-quest_jump_rope-main-w1-01-03-1-6",
+    "play_type": {
+      "name": "JUMP_ROPE_PLAY_TYPE_PARK_QUEST_SINGLE",
+      "number": 40
+    },
+    "jump_rope_phase_gimmick_group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-03-1-6",
+    "npc_count": 4,
+    "game_start_display_clear_condition_lang_id": "la-jump_rope-game_start_display_clear_condition_lang-count",
+    "game_playing_display_clear_condition_lang_id": "la-jump_rope-game_playing_display_clear_condition_lang-count",
+    "order": 9999
+  },
+  {
+    "id": "jump_rope-quest_jump_rope-main-w1-01-07-1-3",
+    "play_type": {
+      "name": "JUMP_ROPE_PLAY_TYPE_PARK_QUEST_MULTI",
+      "number": 50
+    },
+    "jump_rope_phase_gimmick_group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+    "npc_count": 4,
+    "game_start_display_clear_condition_lang_id": "la-jump_rope-game_start_display_clear_condition_lang-score_attack",
+    "game_playing_display_clear_condition_lang_id": "la-jump_rope-game_playing_display_clear_condition_lang-score_attack",
+    "order": 9999
+  },
+  {
+    "id": "jump_rope-quest_jump_rope-main-w1-01-09-1-5",
+    "play_type": {
+      "name": "JUMP_ROPE_PLAY_TYPE_PARK_QUEST_SINGLE",
+      "number": 40
+    },
+    "jump_rope_phase_gimmick_group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-09-1-5",
+    "npc_count": 3,
+    "game_start_display_clear_condition_lang_id": "la-jump_rope-game_start_display_clear_condition_lang-count",
+    "game_playing_display_clear_condition_lang_id": "la-jump_rope-game_playing_display_clear_condition_lang-count",
+    "order": 9999
+  },
+  {
+    "id": "jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+    "play_type": {
+      "name": "JUMP_ROPE_PLAY_TYPE_PARK_QUEST_SINGLE",
+      "number": 40
+    },
+    "jump_rope_phase_gimmick_group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+    "npc_count": 3,
+    "game_start_display_clear_condition_lang_id": "la-jump_rope-game_start_display_clear_condition_lang-survival",
+    "game_playing_display_clear_condition_lang_id": "la-jump_rope-game_playing_display_clear_condition_lang-survival",
+    "order": 9999
+  },
+  {
+    "id": "jump_rope-score_attack_001",
+    "play_type": {
+      "name": "JUMP_ROPE_PLAY_TYPE_SCORE_ATTACK",
+      "number": 20
+    },
+    "unlock_condition_group_id": "cd-jump_rope-unlock_score_attack",
+    "jump_rope_phase_gimmick_group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+    "jump_rope_jump_count_reward_group_id": "jump_count_reward-jump_rope-score_attack_001",
+    "npc_count": 4,
+    "game_start_display_clear_condition_lang_id": "la-jump_rope-game_start_display_clear_condition_lang-score_attack",
+    "game_playing_display_clear_condition_lang_id": "la-jump_rope-game_playing_display_clear_condition_lang-score_attack",
+    "mode_select_display_clear_condition_lang_id": "la-jump_rope-mode_select_display_clear_condition_lang-score_attack",
+    "order": 3
+  }
+]

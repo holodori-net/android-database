@@ -1,0 +1,4717 @@
+[
+  {
+    "id": "live_skin-background-default_01",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_BACKGROUND",
+      "number": 6
+    },
+    "name_lang_id": "la-live_skin_name_background-default_01",
+    "description_lang_id": "la-live_skin_description_background-default_01",
+    "asset_id1": "area-01",
+    "asset_id2": "default-01",
+    "thumbnail_asset_id": "img_live_skin_icon_area-a01",
+    "icon_asset_id": "img_live_skin_icon_area-a01",
+    "is_default": true,
+    "color1": "14408B",
+    "color3": "14408B",
+    "order": 1
+  },
+  {
+    "id": "live_skin-background-default_02",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_BACKGROUND",
+      "number": 6
+    },
+    "name_lang_id": "la-live_skin_name_background-default_02",
+    "description_lang_id": "la-live_skin_description_background-default_02",
+    "asset_id1": "area-02",
+    "asset_id2": "default-02",
+    "thumbnail_asset_id": "img_live_skin_icon_area-a02",
+    "icon_asset_id": "img_live_skin_icon_area-a02",
+    "color1": "173265",
+    "color3": "173265",
+    "order": 2
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00001",
+    "description_lang_id": "la-short_name-chr-00001",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00001-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00001",
+    "icon_asset_id": "img_chr_icon_normal_00001",
+    "color1": "6878FF",
+    "color2": "FD368A",
+    "color3": "6878FF",
+    "order": 201
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00002",
+    "description_lang_id": "la-short_name-chr-00002",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00002-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00002",
+    "icon_asset_id": "img_chr_icon_normal_00002",
+    "color1": "FF6187",
+    "color2": "FD91B7",
+    "color3": "FF6187",
+    "order": 202
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00004",
+    "description_lang_id": "la-short_name-chr-00004",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00004-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00004",
+    "icon_asset_id": "img_chr_icon_normal_00004",
+    "color1": "ABE64D",
+    "color2": "FF4991",
+    "color3": "ABE64D",
+    "order": 206
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00005",
+    "description_lang_id": "la-short_name-chr-00005",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00005-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00005",
+    "icon_asset_id": "img_chr_icon_normal_00005",
+    "color1": "E5395B",
+    "color2": "0046B3",
+    "color3": "E5395B",
+    "order": 207
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00006",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00006",
+    "description_lang_id": "la-short_name-chr-00006",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00006-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00006",
+    "icon_asset_id": "img_chr_icon_normal_00006",
+    "color1": "93D5F2",
+    "color2": "65637F",
+    "color3": "93D5F2",
+    "order": 208
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00007",
+    "description_lang_id": "la-short_name-chr-00007",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00007-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00007",
+    "icon_asset_id": "img_chr_icon_normal_00007",
+    "color1": "FFCB30",
+    "color2": "8DD600",
+    "color3": "FFCB30",
+    "order": 209
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00010",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00010",
+    "description_lang_id": "la-short_name-chr-00010",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00010-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00010",
+    "icon_asset_id": "img_chr_icon_normal_00010",
+    "color1": "DD305B",
+    "color2": "8A6F72",
+    "color3": "DD305B",
+    "order": 211
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00011",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00011",
+    "description_lang_id": "la-short_name-chr-00011",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00011-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00011",
+    "icon_asset_id": "img_chr_icon_normal_00011",
+    "color1": "FF5487",
+    "color2": "FF85BC",
+    "color3": "FF5487",
+    "order": 212
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00012",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00012",
+    "description_lang_id": "la-short_name-chr-00012",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00012-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00012",
+    "icon_asset_id": "img_chr_icon_normal_00012",
+    "color1": "E5CE00",
+    "color2": "5CD0DC",
+    "color3": "E5CE00",
+    "order": 213
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00013",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00013",
+    "description_lang_id": "la-short_name-chr-00013",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00013-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00013",
+    "icon_asset_id": "img_chr_icon_normal_00013",
+    "color1": "F081A3",
+    "color2": "634C59",
+    "color3": "F081A3",
+    "order": 203
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00014",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00014",
+    "description_lang_id": "la-short_name-chr-00014",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00014-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00014",
+    "icon_asset_id": "img_chr_icon_normal_00014",
+    "color1": "DB3131",
+    "color2": "575769",
+    "color3": "DB3131",
+    "order": 214
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00015",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00015",
+    "description_lang_id": "la-short_name-chr-00015",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00015-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00015",
+    "icon_asset_id": "img_chr_icon_normal_00015",
+    "color1": "FF909E",
+    "color2": "DD3654",
+    "color3": "FF909E",
+    "order": 204
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00016",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00016",
+    "description_lang_id": "la-short_name-chr-00016",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00016-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00016",
+    "icon_asset_id": "img_chr_icon_normal_00016",
+    "color1": "D866ED",
+    "color2": "9A70F3",
+    "color3": "D866ED",
+    "order": 215
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00017",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00017",
+    "description_lang_id": "la-short_name-chr-00017",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00017-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00017",
+    "icon_asset_id": "img_chr_icon_normal_00017",
+    "color1": "FFCD28",
+    "color2": "FF637C",
+    "color3": "FFCD28",
+    "order": 216
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00018",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00018",
+    "description_lang_id": "la-short_name-chr-00018",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00018-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00018",
+    "icon_asset_id": "img_chr_icon_normal_00018",
+    "color1": "75C0FF",
+    "color2": "2B2D80",
+    "color3": "75C0FF",
+    "order": 205
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00019",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00019",
+    "description_lang_id": "la-short_name-chr-00019",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00019-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00019",
+    "icon_asset_id": "img_chr_icon_normal_00019",
+    "color1": "57A9FF",
+    "color2": "97DAEF",
+    "color3": "57A9FF",
+    "order": 217
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00021",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00021",
+    "description_lang_id": "la-short_name-chr-00021",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00021-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00021",
+    "icon_asset_id": "img_chr_icon_normal_00021",
+    "color1": "FFAB2D",
+    "color2": "4AB0E9",
+    "color3": "FFAB2D",
+    "order": 218
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00022",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00022",
+    "description_lang_id": "la-short_name-chr-00022",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00022-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00022",
+    "icon_asset_id": "img_chr_icon_normal_00022",
+    "color1": "A5B5B7",
+    "color2": "4F6E8F",
+    "color3": "A5B5B7",
+    "order": 219
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00023",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00023",
+    "description_lang_id": "la-short_name-chr-00023",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00023-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00023",
+    "icon_asset_id": "img_chr_icon_normal_00023",
+    "color1": "C2153B",
+    "color2": "453748",
+    "color3": "C2153B",
+    "order": 220
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00026",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00026",
+    "description_lang_id": "la-short_name-chr-00026",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00026-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00026",
+    "icon_asset_id": "img_chr_icon_normal_00026",
+    "color1": "E2D065",
+    "color2": "FF8F96",
+    "color3": "E2D065",
+    "order": 222
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00027",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00027",
+    "description_lang_id": "la-short_name-chr-00027",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00027-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00027",
+    "icon_asset_id": "img_chr_icon_normal_00027",
+    "color1": "B77FFF",
+    "color2": "FC96DC",
+    "color3": "B77FFF",
+    "order": 223
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00028",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00028",
+    "description_lang_id": "la-short_name-chr-00028",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00028-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00028",
+    "icon_asset_id": "img_chr_icon_normal_00028",
+    "color1": "FF93D0",
+    "color2": "99C6FF",
+    "color3": "FF93D0",
+    "order": 224
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00030",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00030",
+    "description_lang_id": "la-short_name-chr-00030",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00030-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00030",
+    "icon_asset_id": "img_chr_icon_normal_00030",
+    "color1": "49AAFF",
+    "color2": "5CCEFF",
+    "color3": "49AAFF",
+    "order": 225
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00031",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00031",
+    "description_lang_id": "la-short_name-chr-00031",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00031-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00031",
+    "icon_asset_id": "img_chr_icon_normal_00031",
+    "color1": "FFC633",
+    "color2": "FF852D",
+    "color3": "FFC633",
+    "order": 226
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00032",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00032",
+    "description_lang_id": "la-short_name-chr-00032",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00032-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00032",
+    "icon_asset_id": "img_chr_icon_normal_00032",
+    "color1": "757575",
+    "color2": "91C1B1",
+    "color3": "757575",
+    "order": 227
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00034",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00034",
+    "description_lang_id": "la-short_name-chr-00034",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00034-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00034",
+    "icon_asset_id": "img_chr_icon_normal_00034",
+    "color1": "ED0043",
+    "color2": "0083EB",
+    "color3": "ED0043",
+    "order": 228
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00035",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00035",
+    "description_lang_id": "la-short_name-chr-00035",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00035-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00035",
+    "icon_asset_id": "img_chr_icon_normal_00035",
+    "color1": "9464D2",
+    "color2": "493A58",
+    "color3": "9464D2",
+    "order": 229
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00036",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00036",
+    "description_lang_id": "la-short_name-chr-00036",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00036-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00036",
+    "icon_asset_id": "img_chr_icon_normal_00036",
+    "color1": "831550",
+    "color2": "41282E",
+    "color3": "831550",
+    "order": 230
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00037",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00037",
+    "description_lang_id": "la-short_name-chr-00037",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00037-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00037",
+    "icon_asset_id": "img_chr_icon_normal_00037",
+    "color1": "FF95C8",
+    "color2": "52DFCE",
+    "color3": "FF95C8",
+    "order": 231
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_00039",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-00039",
+    "description_lang_id": "la-short_name-chr-00039",
+    "character_production_id": "prd-jp",
+    "asset_id1": "chr-001",
+    "asset_id2": "00039-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_00039",
+    "icon_asset_id": "img_chr_icon_normal_00039",
+    "color1": "5ECFC8",
+    "color2": "D5C293",
+    "color3": "5ECFC8",
+    "order": 233
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_03001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-03001",
+    "description_lang_id": "la-short_name-chr-03001",
+    "character_production_id": "prd-id",
+    "asset_id1": "chr-001",
+    "asset_id2": "03001-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_03001",
+    "icon_asset_id": "img_chr_icon_normal_03001",
+    "color1": "FFAAAA",
+    "color2": "9F7060",
+    "color3": "FFAAAA",
+    "order": 234
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_03002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-03002",
+    "description_lang_id": "la-short_name-chr-03002",
+    "character_production_id": "prd-id",
+    "asset_id1": "chr-001",
+    "asset_id2": "03002-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_03002",
+    "icon_asset_id": "img_chr_icon_normal_03002",
+    "color1": "AA83FF",
+    "color2": "FAD443",
+    "color3": "AA83FF",
+    "order": 235
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_03003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-03003",
+    "description_lang_id": "la-short_name-chr-03003",
+    "character_production_id": "prd-id",
+    "asset_id1": "chr-001",
+    "asset_id2": "03003-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_03003",
+    "icon_asset_id": "img_chr_icon_normal_03003",
+    "color1": "9CDF36",
+    "color2": "FDA2BB",
+    "color3": "9CDF36",
+    "order": 236
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_03004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-03004",
+    "description_lang_id": "la-short_name-chr-03004",
+    "character_production_id": "prd-id",
+    "asset_id1": "chr-001",
+    "asset_id2": "03004-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_03004",
+    "icon_asset_id": "img_chr_icon_normal_03004",
+    "color1": "C40041",
+    "color2": "394452",
+    "color3": "C40041",
+    "order": 237
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_03005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-03005",
+    "description_lang_id": "la-short_name-chr-03005",
+    "character_production_id": "prd-id",
+    "asset_id1": "chr-001",
+    "asset_id2": "03005-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_03005",
+    "icon_asset_id": "img_chr_icon_normal_03005",
+    "color1": "F3BF41",
+    "color2": "B3906F",
+    "color3": "F3BF41",
+    "order": 238
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_03006",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-03006",
+    "description_lang_id": "la-short_name-chr-03006",
+    "character_production_id": "prd-id",
+    "asset_id1": "chr-001",
+    "asset_id2": "03006-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_03006",
+    "icon_asset_id": "img_chr_icon_normal_03006",
+    "color1": "004DC2",
+    "color2": "5AC6B6",
+    "color3": "004DC2",
+    "order": 239
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_03007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-03007",
+    "description_lang_id": "la-short_name-chr-03007",
+    "character_production_id": "prd-id",
+    "asset_id1": "chr-001",
+    "asset_id2": "03007-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_03007",
+    "icon_asset_id": "img_chr_icon_normal_03007",
+    "color1": "9290A1",
+    "color2": "7E95ED",
+    "color3": "9290A1",
+    "order": 240
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_03008",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-03008",
+    "description_lang_id": "la-short_name-chr-03008",
+    "character_production_id": "prd-id",
+    "asset_id1": "chr-001",
+    "asset_id2": "03008-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_03008",
+    "icon_asset_id": "img_chr_icon_normal_03008",
+    "color1": "FC4045",
+    "color2": "54291A",
+    "color3": "FC4045",
+    "order": 241
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_03009",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-03009",
+    "description_lang_id": "la-short_name-chr-03009",
+    "character_production_id": "prd-id",
+    "asset_id1": "chr-001",
+    "asset_id2": "03009-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_03009",
+    "icon_asset_id": "img_chr_icon_normal_03009",
+    "color1": "50CFE1",
+    "color2": "63668E",
+    "color3": "50CFE1",
+    "order": 242
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_04001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-04001",
+    "description_lang_id": "la-short_name-chr-04001",
+    "character_production_id": "prd-en",
+    "asset_id1": "chr-001",
+    "asset_id2": "04001-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_04001",
+    "icon_asset_id": "img_chr_icon_normal_04001",
+    "color1": "E01C61",
+    "color2": "FF8EB8",
+    "color3": "E01C61",
+    "order": 243
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_04002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-04002",
+    "description_lang_id": "la-short_name-chr-04002",
+    "character_production_id": "prd-en",
+    "asset_id1": "chr-001",
+    "asset_id2": "04002-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_04002",
+    "icon_asset_id": "img_chr_icon_normal_04002",
+    "color1": "FF792E",
+    "color2": "38D2A8",
+    "color3": "FF792E",
+    "order": 244
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_04003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-04003",
+    "description_lang_id": "la-short_name-chr-04003",
+    "character_production_id": "prd-en",
+    "asset_id1": "chr-001",
+    "asset_id2": "04003-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_04003",
+    "icon_asset_id": "img_chr_icon_normal_04003",
+    "color1": "5D4E83",
+    "color2": "FF8D35",
+    "color3": "5D4E83",
+    "order": 245
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_04007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-04007",
+    "description_lang_id": "la-short_name-chr-04007",
+    "character_production_id": "prd-en",
+    "asset_id1": "chr-001",
+    "asset_id2": "04007-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_04007",
+    "icon_asset_id": "img_chr_icon_normal_04007",
+    "color1": "DF185D",
+    "color2": "60CED0",
+    "color3": "DF185D",
+    "order": 248
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_04010",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-04010",
+    "description_lang_id": "la-short_name-chr-04010",
+    "character_production_id": "prd-en",
+    "asset_id1": "chr-001",
+    "asset_id2": "04010-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_04010",
+    "icon_asset_id": "img_chr_icon_normal_04010",
+    "color1": "2221AA",
+    "color2": "DCB33E",
+    "color3": "2221AA",
+    "order": 250
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_04012",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-04012",
+    "description_lang_id": "la-short_name-chr-04012",
+    "character_production_id": "prd-en",
+    "asset_id1": "chr-001",
+    "asset_id2": "04012-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_04012",
+    "icon_asset_id": "img_chr_icon_normal_04012",
+    "color1": "EE2222",
+    "color2": "48D5C8",
+    "color3": "EE2222",
+    "order": 252
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_04013",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-04013",
+    "description_lang_id": "la-short_name-chr-04013",
+    "character_production_id": "prd-en",
+    "asset_id1": "chr-001",
+    "asset_id2": "04013-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_04013",
+    "icon_asset_id": "img_chr_icon_normal_04013",
+    "color1": "C288F7",
+    "color2": "44445D",
+    "color3": "C288F7",
+    "order": 253
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_04014",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-04014",
+    "description_lang_id": "la-short_name-chr-04014",
+    "character_production_id": "prd-en",
+    "asset_id1": "chr-001",
+    "asset_id2": "04014-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_04014",
+    "icon_asset_id": "img_chr_icon_normal_04014",
+    "color1": "8674FF",
+    "color2": "FFA7CA",
+    "color3": "8674FF",
+    "order": 254
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_04015",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-04015",
+    "description_lang_id": "la-short_name-chr-04015",
+    "character_production_id": "prd-en",
+    "asset_id1": "chr-001",
+    "asset_id2": "04015-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_04015",
+    "icon_asset_id": "img_chr_icon_normal_04015",
+    "color1": "3950EE",
+    "color2": "3F3D53",
+    "color3": "3950EE",
+    "order": 255
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_06002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-06002",
+    "description_lang_id": "la-short_name-chr-06002",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "chr-001",
+    "asset_id2": "06002-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_06002",
+    "icon_asset_id": "img_chr_icon_normal_06002",
+    "color1": "FFD380",
+    "color2": "FC8275",
+    "color3": "FFD380",
+    "order": 259
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_06003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-06003",
+    "description_lang_id": "la-short_name-chr-06003",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "chr-001",
+    "asset_id2": "06003-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_06003",
+    "icon_asset_id": "img_chr_icon_normal_06003",
+    "color1": "FF77A9",
+    "color2": "9D8DFF",
+    "color3": "FF77A9",
+    "order": 260
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_06004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-06004",
+    "description_lang_id": "la-short_name-chr-06004",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "chr-001",
+    "asset_id2": "06004-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_06004",
+    "icon_asset_id": "img_chr_icon_normal_06004",
+    "color1": "357B6C",
+    "color2": "D7845A",
+    "color3": "357B6C",
+    "order": 261
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_06005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-06005",
+    "description_lang_id": "la-short_name-chr-06005",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "chr-001",
+    "asset_id2": "06005-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_06005",
+    "icon_asset_id": "img_chr_icon_normal_06005",
+    "color1": "A4AAFF",
+    "color2": "DEC2A7",
+    "color3": "A4AAFF",
+    "order": 262
+  },
+  {
+    "id": "live_skin-chracter_effect-chr_80001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-short_name-chr-80001",
+    "description_lang_id": "la-short_name-chr-80001",
+    "character_production_id": "prd-en",
+    "asset_id1": "chr-001",
+    "asset_id2": "80001-01",
+    "thumbnail_asset_id": "img_chr_icon_normal_80001",
+    "icon_asset_id": "img_chr_icon_normal_80001",
+    "color1": "67B2FF",
+    "color2": "67B2FF",
+    "color3": "F7A6CA",
+    "order": 256
+  },
+  {
+    "id": "live_skin-chracter_effect-default-01",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-live_skin_name_chracter_effect-default-01",
+    "description_lang_id": "la-live_skin_description_chracter_effect-default-01",
+    "asset_id1": "tap-001",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "is_default": true,
+    "order": 1
+  },
+  {
+    "id": "live_skin-chracter_effect-default-02",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-live_skin_name_chracter_effect-default-02",
+    "description_lang_id": "la-live_skin_description_chracter_effect-default-02",
+    "asset_id1": "tap-002",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "is_default": true,
+    "order": 2
+  },
+  {
+    "id": "live_skin-chracter_effect-default-03",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-live_skin_name_chracter_effect-default-03",
+    "description_lang_id": "la-live_skin_description_chracter_effect-default-03",
+    "asset_id1": "tap-003",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "is_default": true,
+    "order": 3
+  },
+  {
+    "id": "live_skin-chracter_effect-default-04",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",
+      "number": 8
+    },
+    "name_lang_id": "la-live_skin_name_chracter_effect-default-04",
+    "description_lang_id": "la-live_skin_description_chracter_effect-default-04",
+    "asset_id1": "tap-004",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "is_default": true,
+    "order": 4
+  },
+  {
+    "id": "live_skin-header-chr_00001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00001",
+    "description_lang_id": "la-short_name-chr-00001",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00001",
+    "asset_id2": "00001",
+    "thumbnail_asset_id": "img_chr_icon_normal_00001",
+    "icon_asset_id": "img_chr_icon_normal_00001",
+    "color1": "6878FF",
+    "color2": "FD368A",
+    "color3": "6878FF",
+    "order": 201
+  },
+  {
+    "id": "live_skin-header-chr_00002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00002",
+    "description_lang_id": "la-short_name-chr-00002",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00002",
+    "asset_id2": "00002",
+    "thumbnail_asset_id": "img_chr_icon_normal_00002",
+    "icon_asset_id": "img_chr_icon_normal_00002",
+    "color1": "FF6187",
+    "color2": "FD91B7",
+    "color3": "FF6187",
+    "order": 202
+  },
+  {
+    "id": "live_skin-header-chr_00004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00004",
+    "description_lang_id": "la-short_name-chr-00004",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00004",
+    "asset_id2": "00004",
+    "thumbnail_asset_id": "img_chr_icon_normal_00004",
+    "icon_asset_id": "img_chr_icon_normal_00004",
+    "color1": "ABE64D",
+    "color2": "FF4991",
+    "color3": "ABE64D",
+    "order": 206
+  },
+  {
+    "id": "live_skin-header-chr_00005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00005",
+    "description_lang_id": "la-short_name-chr-00005",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00005",
+    "asset_id2": "00005",
+    "thumbnail_asset_id": "img_chr_icon_normal_00005",
+    "icon_asset_id": "img_chr_icon_normal_00005",
+    "color1": "E5395B",
+    "color2": "0046B3",
+    "color3": "E5395B",
+    "order": 207
+  },
+  {
+    "id": "live_skin-header-chr_00006",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00006",
+    "description_lang_id": "la-short_name-chr-00006",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00006",
+    "asset_id2": "00006",
+    "thumbnail_asset_id": "img_chr_icon_normal_00006",
+    "icon_asset_id": "img_chr_icon_normal_00006",
+    "color1": "93D5F2",
+    "color2": "65637F",
+    "color3": "93D5F2",
+    "order": 208
+  },
+  {
+    "id": "live_skin-header-chr_00007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00007",
+    "description_lang_id": "la-short_name-chr-00007",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00007",
+    "asset_id2": "00007",
+    "thumbnail_asset_id": "img_chr_icon_normal_00007",
+    "icon_asset_id": "img_chr_icon_normal_00007",
+    "color1": "FFCB30",
+    "color2": "8DD600",
+    "color3": "FFCB30",
+    "order": 209
+  },
+  {
+    "id": "live_skin-header-chr_00010",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00010",
+    "description_lang_id": "la-short_name-chr-00010",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00010",
+    "asset_id2": "00010",
+    "thumbnail_asset_id": "img_chr_icon_normal_00010",
+    "icon_asset_id": "img_chr_icon_normal_00010",
+    "color1": "DD305B",
+    "color2": "8A6F72",
+    "color3": "DD305B",
+    "order": 211
+  },
+  {
+    "id": "live_skin-header-chr_00011",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00011",
+    "description_lang_id": "la-short_name-chr-00011",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00011",
+    "asset_id2": "00011",
+    "thumbnail_asset_id": "img_chr_icon_normal_00011",
+    "icon_asset_id": "img_chr_icon_normal_00011",
+    "color1": "FF5487",
+    "color2": "FF85BC",
+    "color3": "FF5487",
+    "order": 212
+  },
+  {
+    "id": "live_skin-header-chr_00012",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00012",
+    "description_lang_id": "la-short_name-chr-00012",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00012",
+    "asset_id2": "00012",
+    "thumbnail_asset_id": "img_chr_icon_normal_00012",
+    "icon_asset_id": "img_chr_icon_normal_00012",
+    "color1": "E5CE00",
+    "color2": "5CD0DC",
+    "color3": "E5CE00",
+    "order": 213
+  },
+  {
+    "id": "live_skin-header-chr_00013",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00013",
+    "description_lang_id": "la-short_name-chr-00013",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00013",
+    "asset_id2": "00013",
+    "thumbnail_asset_id": "img_chr_icon_normal_00013",
+    "icon_asset_id": "img_chr_icon_normal_00013",
+    "color1": "F081A3",
+    "color2": "634C59",
+    "color3": "F081A3",
+    "order": 203
+  },
+  {
+    "id": "live_skin-header-chr_00014",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00014",
+    "description_lang_id": "la-short_name-chr-00014",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00014",
+    "asset_id2": "00014",
+    "thumbnail_asset_id": "img_chr_icon_normal_00014",
+    "icon_asset_id": "img_chr_icon_normal_00014",
+    "color1": "DB3131",
+    "color2": "575769",
+    "color3": "DB3131",
+    "order": 214
+  },
+  {
+    "id": "live_skin-header-chr_00015",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00015",
+    "description_lang_id": "la-short_name-chr-00015",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00015",
+    "asset_id2": "00015",
+    "thumbnail_asset_id": "img_chr_icon_normal_00015",
+    "icon_asset_id": "img_chr_icon_normal_00015",
+    "color1": "FF909E",
+    "color2": "DD3654",
+    "color3": "FF909E",
+    "order": 204
+  },
+  {
+    "id": "live_skin-header-chr_00016",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00016",
+    "description_lang_id": "la-short_name-chr-00016",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00016",
+    "asset_id2": "00016",
+    "thumbnail_asset_id": "img_chr_icon_normal_00016",
+    "icon_asset_id": "img_chr_icon_normal_00016",
+    "color1": "D866ED",
+    "color2": "9A70F3",
+    "color3": "D866ED",
+    "order": 215
+  },
+  {
+    "id": "live_skin-header-chr_00017",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00017",
+    "description_lang_id": "la-short_name-chr-00017",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00017",
+    "asset_id2": "00017",
+    "thumbnail_asset_id": "img_chr_icon_normal_00017",
+    "icon_asset_id": "img_chr_icon_normal_00017",
+    "color1": "FFCD28",
+    "color2": "FF637C",
+    "color3": "FFCD28",
+    "order": 216
+  },
+  {
+    "id": "live_skin-header-chr_00018",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00018",
+    "description_lang_id": "la-short_name-chr-00018",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00018",
+    "asset_id2": "00018",
+    "thumbnail_asset_id": "img_chr_icon_normal_00018",
+    "icon_asset_id": "img_chr_icon_normal_00018",
+    "color1": "75C0FF",
+    "color2": "2B2D80",
+    "color3": "75C0FF",
+    "order": 205
+  },
+  {
+    "id": "live_skin-header-chr_00019",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00019",
+    "description_lang_id": "la-short_name-chr-00019",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00019",
+    "asset_id2": "00019",
+    "thumbnail_asset_id": "img_chr_icon_normal_00019",
+    "icon_asset_id": "img_chr_icon_normal_00019",
+    "color1": "57A9FF",
+    "color2": "97DAEF",
+    "color3": "57A9FF",
+    "order": 217
+  },
+  {
+    "id": "live_skin-header-chr_00021",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00021",
+    "description_lang_id": "la-short_name-chr-00021",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00021",
+    "asset_id2": "00021",
+    "thumbnail_asset_id": "img_chr_icon_normal_00021",
+    "icon_asset_id": "img_chr_icon_normal_00021",
+    "color1": "FFAB2D",
+    "color2": "4AB0E9",
+    "color3": "FFAB2D",
+    "order": 218
+  },
+  {
+    "id": "live_skin-header-chr_00022",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00022",
+    "description_lang_id": "la-short_name-chr-00022",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00022",
+    "asset_id2": "00022",
+    "thumbnail_asset_id": "img_chr_icon_normal_00022",
+    "icon_asset_id": "img_chr_icon_normal_00022",
+    "color1": "A5B5B7",
+    "color2": "4F6E8F",
+    "color3": "A5B5B7",
+    "order": 219
+  },
+  {
+    "id": "live_skin-header-chr_00023",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00023",
+    "description_lang_id": "la-short_name-chr-00023",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00023",
+    "asset_id2": "00023",
+    "thumbnail_asset_id": "img_chr_icon_normal_00023",
+    "icon_asset_id": "img_chr_icon_normal_00023",
+    "color1": "C2153B",
+    "color2": "453748",
+    "color3": "C2153B",
+    "order": 220
+  },
+  {
+    "id": "live_skin-header-chr_00026",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00026",
+    "description_lang_id": "la-short_name-chr-00026",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00026",
+    "asset_id2": "00026",
+    "thumbnail_asset_id": "img_chr_icon_normal_00026",
+    "icon_asset_id": "img_chr_icon_normal_00026",
+    "color1": "E2D065",
+    "color2": "FF8F96",
+    "color3": "E2D065",
+    "order": 222
+  },
+  {
+    "id": "live_skin-header-chr_00027",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00027",
+    "description_lang_id": "la-short_name-chr-00027",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00027",
+    "asset_id2": "00027",
+    "thumbnail_asset_id": "img_chr_icon_normal_00027",
+    "icon_asset_id": "img_chr_icon_normal_00027",
+    "color1": "B77FFF",
+    "color2": "FC96DC",
+    "color3": "B77FFF",
+    "order": 223
+  },
+  {
+    "id": "live_skin-header-chr_00028",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00028",
+    "description_lang_id": "la-short_name-chr-00028",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00028",
+    "asset_id2": "00028",
+    "thumbnail_asset_id": "img_chr_icon_normal_00028",
+    "icon_asset_id": "img_chr_icon_normal_00028",
+    "color1": "FF93D0",
+    "color2": "99C6FF",
+    "color3": "FF93D0",
+    "order": 224
+  },
+  {
+    "id": "live_skin-header-chr_00030",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00030",
+    "description_lang_id": "la-short_name-chr-00030",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00030",
+    "asset_id2": "00030",
+    "thumbnail_asset_id": "img_chr_icon_normal_00030",
+    "icon_asset_id": "img_chr_icon_normal_00030",
+    "color1": "49AAFF",
+    "color2": "5CCEFF",
+    "color3": "49AAFF",
+    "order": 225
+  },
+  {
+    "id": "live_skin-header-chr_00031",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00031",
+    "description_lang_id": "la-short_name-chr-00031",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00031",
+    "asset_id2": "00031",
+    "thumbnail_asset_id": "img_chr_icon_normal_00031",
+    "icon_asset_id": "img_chr_icon_normal_00031",
+    "color1": "FFC633",
+    "color2": "FF852D",
+    "color3": "FFC633",
+    "order": 226
+  },
+  {
+    "id": "live_skin-header-chr_00032",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00032",
+    "description_lang_id": "la-short_name-chr-00032",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00032",
+    "asset_id2": "00032",
+    "thumbnail_asset_id": "img_chr_icon_normal_00032",
+    "icon_asset_id": "img_chr_icon_normal_00032",
+    "color1": "757575",
+    "color2": "91C1B1",
+    "color3": "757575",
+    "order": 227
+  },
+  {
+    "id": "live_skin-header-chr_00034",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00034",
+    "description_lang_id": "la-short_name-chr-00034",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00034",
+    "asset_id2": "00034",
+    "thumbnail_asset_id": "img_chr_icon_normal_00034",
+    "icon_asset_id": "img_chr_icon_normal_00034",
+    "color1": "ED0043",
+    "color2": "0083EB",
+    "color3": "ED0043",
+    "order": 228
+  },
+  {
+    "id": "live_skin-header-chr_00035",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00035",
+    "description_lang_id": "la-short_name-chr-00035",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00035",
+    "asset_id2": "00035",
+    "thumbnail_asset_id": "img_chr_icon_normal_00035",
+    "icon_asset_id": "img_chr_icon_normal_00035",
+    "color1": "9464D2",
+    "color2": "493A58",
+    "color3": "9464D2",
+    "order": 229
+  },
+  {
+    "id": "live_skin-header-chr_00036",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00036",
+    "description_lang_id": "la-short_name-chr-00036",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00036",
+    "asset_id2": "00036",
+    "thumbnail_asset_id": "img_chr_icon_normal_00036",
+    "icon_asset_id": "img_chr_icon_normal_00036",
+    "color1": "831550",
+    "color2": "41282E",
+    "color3": "831550",
+    "order": 230
+  },
+  {
+    "id": "live_skin-header-chr_00037",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00037",
+    "description_lang_id": "la-short_name-chr-00037",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00037",
+    "asset_id2": "00037",
+    "thumbnail_asset_id": "img_chr_icon_normal_00037",
+    "icon_asset_id": "img_chr_icon_normal_00037",
+    "color1": "FF95C8",
+    "color2": "52DFCE",
+    "color3": "FF95C8",
+    "order": 231
+  },
+  {
+    "id": "live_skin-header-chr_00039",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-00039",
+    "description_lang_id": "la-short_name-chr-00039",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00039",
+    "asset_id2": "00039",
+    "thumbnail_asset_id": "img_chr_icon_normal_00039",
+    "icon_asset_id": "img_chr_icon_normal_00039",
+    "color1": "5ECFC8",
+    "color2": "D5C293",
+    "color3": "5ECFC8",
+    "order": 233
+  },
+  {
+    "id": "live_skin-header-chr_03001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-03001",
+    "description_lang_id": "la-short_name-chr-03001",
+    "character_production_id": "prd-id",
+    "asset_id1": "03001",
+    "asset_id2": "03001",
+    "thumbnail_asset_id": "img_chr_icon_normal_03001",
+    "icon_asset_id": "img_chr_icon_normal_03001",
+    "color1": "FFAAAA",
+    "color2": "9F7060",
+    "color3": "FFAAAA",
+    "order": 234
+  },
+  {
+    "id": "live_skin-header-chr_03002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-03002",
+    "description_lang_id": "la-short_name-chr-03002",
+    "character_production_id": "prd-id",
+    "asset_id1": "03002",
+    "asset_id2": "03002",
+    "thumbnail_asset_id": "img_chr_icon_normal_03002",
+    "icon_asset_id": "img_chr_icon_normal_03002",
+    "color1": "AA83FF",
+    "color2": "FAD443",
+    "color3": "AA83FF",
+    "order": 235
+  },
+  {
+    "id": "live_skin-header-chr_03003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-03003",
+    "description_lang_id": "la-short_name-chr-03003",
+    "character_production_id": "prd-id",
+    "asset_id1": "03003",
+    "asset_id2": "03003",
+    "thumbnail_asset_id": "img_chr_icon_normal_03003",
+    "icon_asset_id": "img_chr_icon_normal_03003",
+    "color1": "9CDF36",
+    "color2": "FDA2BB",
+    "color3": "9CDF36",
+    "order": 236
+  },
+  {
+    "id": "live_skin-header-chr_03004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-03004",
+    "description_lang_id": "la-short_name-chr-03004",
+    "character_production_id": "prd-id",
+    "asset_id1": "03004",
+    "asset_id2": "03004",
+    "thumbnail_asset_id": "img_chr_icon_normal_03004",
+    "icon_asset_id": "img_chr_icon_normal_03004",
+    "color1": "C40041",
+    "color2": "394452",
+    "color3": "C40041",
+    "order": 237
+  },
+  {
+    "id": "live_skin-header-chr_03005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-03005",
+    "description_lang_id": "la-short_name-chr-03005",
+    "character_production_id": "prd-id",
+    "asset_id1": "03005",
+    "asset_id2": "03005",
+    "thumbnail_asset_id": "img_chr_icon_normal_03005",
+    "icon_asset_id": "img_chr_icon_normal_03005",
+    "color1": "F3BF41",
+    "color2": "B3906F",
+    "color3": "F3BF41",
+    "order": 238
+  },
+  {
+    "id": "live_skin-header-chr_03006",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-03006",
+    "description_lang_id": "la-short_name-chr-03006",
+    "character_production_id": "prd-id",
+    "asset_id1": "03006",
+    "asset_id2": "03006",
+    "thumbnail_asset_id": "img_chr_icon_normal_03006",
+    "icon_asset_id": "img_chr_icon_normal_03006",
+    "color1": "004DC2",
+    "color2": "5AC6B6",
+    "color3": "004DC2",
+    "order": 239
+  },
+  {
+    "id": "live_skin-header-chr_03007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-03007",
+    "description_lang_id": "la-short_name-chr-03007",
+    "character_production_id": "prd-id",
+    "asset_id1": "03007",
+    "asset_id2": "03007",
+    "thumbnail_asset_id": "img_chr_icon_normal_03007",
+    "icon_asset_id": "img_chr_icon_normal_03007",
+    "color1": "9290A1",
+    "color2": "7E95ED",
+    "color3": "9290A1",
+    "order": 240
+  },
+  {
+    "id": "live_skin-header-chr_03008",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-03008",
+    "description_lang_id": "la-short_name-chr-03008",
+    "character_production_id": "prd-id",
+    "asset_id1": "03008",
+    "asset_id2": "03008",
+    "thumbnail_asset_id": "img_chr_icon_normal_03008",
+    "icon_asset_id": "img_chr_icon_normal_03008",
+    "color1": "FC4045",
+    "color2": "54291A",
+    "color3": "FC4045",
+    "order": 241
+  },
+  {
+    "id": "live_skin-header-chr_03009",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-03009",
+    "description_lang_id": "la-short_name-chr-03009",
+    "character_production_id": "prd-id",
+    "asset_id1": "03009",
+    "asset_id2": "03009",
+    "thumbnail_asset_id": "img_chr_icon_normal_03009",
+    "icon_asset_id": "img_chr_icon_normal_03009",
+    "color1": "50CFE1",
+    "color2": "63668E",
+    "color3": "50CFE1",
+    "order": 242
+  },
+  {
+    "id": "live_skin-header-chr_04001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-04001",
+    "description_lang_id": "la-short_name-chr-04001",
+    "character_production_id": "prd-en",
+    "asset_id1": "04001",
+    "asset_id2": "04001",
+    "thumbnail_asset_id": "img_chr_icon_normal_04001",
+    "icon_asset_id": "img_chr_icon_normal_04001",
+    "color1": "E01C61",
+    "color2": "FF8EB8",
+    "color3": "E01C61",
+    "order": 243
+  },
+  {
+    "id": "live_skin-header-chr_04002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-04002",
+    "description_lang_id": "la-short_name-chr-04002",
+    "character_production_id": "prd-en",
+    "asset_id1": "04002",
+    "asset_id2": "04002",
+    "thumbnail_asset_id": "img_chr_icon_normal_04002",
+    "icon_asset_id": "img_chr_icon_normal_04002",
+    "color1": "FF792E",
+    "color2": "38D2A8",
+    "color3": "FF792E",
+    "order": 244
+  },
+  {
+    "id": "live_skin-header-chr_04003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-04003",
+    "description_lang_id": "la-short_name-chr-04003",
+    "character_production_id": "prd-en",
+    "asset_id1": "04003",
+    "asset_id2": "04003",
+    "thumbnail_asset_id": "img_chr_icon_normal_04003",
+    "icon_asset_id": "img_chr_icon_normal_04003",
+    "color1": "5D4E83",
+    "color2": "FF8D35",
+    "color3": "5D4E83",
+    "order": 245
+  },
+  {
+    "id": "live_skin-header-chr_04007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-04007",
+    "description_lang_id": "la-short_name-chr-04007",
+    "character_production_id": "prd-en",
+    "asset_id1": "04007",
+    "asset_id2": "04007",
+    "thumbnail_asset_id": "img_chr_icon_normal_04007",
+    "icon_asset_id": "img_chr_icon_normal_04007",
+    "color1": "DF185D",
+    "color2": "60CED0",
+    "color3": "DF185D",
+    "order": 248
+  },
+  {
+    "id": "live_skin-header-chr_04010",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-04010",
+    "description_lang_id": "la-short_name-chr-04010",
+    "character_production_id": "prd-en",
+    "asset_id1": "04010",
+    "asset_id2": "04010",
+    "thumbnail_asset_id": "img_chr_icon_normal_04010",
+    "icon_asset_id": "img_chr_icon_normal_04010",
+    "color1": "2221AA",
+    "color2": "DCB33E",
+    "color3": "2221AA",
+    "order": 250
+  },
+  {
+    "id": "live_skin-header-chr_04012",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-04012",
+    "description_lang_id": "la-short_name-chr-04012",
+    "character_production_id": "prd-en",
+    "asset_id1": "04012",
+    "asset_id2": "04012",
+    "thumbnail_asset_id": "img_chr_icon_normal_04012",
+    "icon_asset_id": "img_chr_icon_normal_04012",
+    "color1": "EE2222",
+    "color2": "48D5C8",
+    "color3": "EE2222",
+    "order": 252
+  },
+  {
+    "id": "live_skin-header-chr_04013",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-04013",
+    "description_lang_id": "la-short_name-chr-04013",
+    "character_production_id": "prd-en",
+    "asset_id1": "04013",
+    "asset_id2": "04013",
+    "thumbnail_asset_id": "img_chr_icon_normal_04013",
+    "icon_asset_id": "img_chr_icon_normal_04013",
+    "color1": "C288F7",
+    "color2": "44445D",
+    "color3": "C288F7",
+    "order": 253
+  },
+  {
+    "id": "live_skin-header-chr_04014",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-04014",
+    "description_lang_id": "la-short_name-chr-04014",
+    "character_production_id": "prd-en",
+    "asset_id1": "04014",
+    "asset_id2": "04014",
+    "thumbnail_asset_id": "img_chr_icon_normal_04014",
+    "icon_asset_id": "img_chr_icon_normal_04014",
+    "color1": "8674FF",
+    "color2": "FFA7CA",
+    "color3": "8674FF",
+    "order": 254
+  },
+  {
+    "id": "live_skin-header-chr_04015",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-04015",
+    "description_lang_id": "la-short_name-chr-04015",
+    "character_production_id": "prd-en",
+    "asset_id1": "04015",
+    "asset_id2": "04015",
+    "thumbnail_asset_id": "img_chr_icon_normal_04015",
+    "icon_asset_id": "img_chr_icon_normal_04015",
+    "color1": "3950EE",
+    "color2": "3F3D53",
+    "color3": "3950EE",
+    "order": 255
+  },
+  {
+    "id": "live_skin-header-chr_06002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-06002",
+    "description_lang_id": "la-short_name-chr-06002",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06002",
+    "asset_id2": "06002",
+    "thumbnail_asset_id": "img_chr_icon_normal_06002",
+    "icon_asset_id": "img_chr_icon_normal_06002",
+    "color1": "FFD380",
+    "color2": "FC8275",
+    "color3": "FFD380",
+    "order": 259
+  },
+  {
+    "id": "live_skin-header-chr_06003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-06003",
+    "description_lang_id": "la-short_name-chr-06003",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06003",
+    "asset_id2": "06003",
+    "thumbnail_asset_id": "img_chr_icon_normal_06003",
+    "icon_asset_id": "img_chr_icon_normal_06003",
+    "color1": "FF77A9",
+    "color2": "9D8DFF",
+    "color3": "FF77A9",
+    "order": 260
+  },
+  {
+    "id": "live_skin-header-chr_06004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-06004",
+    "description_lang_id": "la-short_name-chr-06004",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06004",
+    "asset_id2": "06004",
+    "thumbnail_asset_id": "img_chr_icon_normal_06004",
+    "icon_asset_id": "img_chr_icon_normal_06004",
+    "color1": "357B6C",
+    "color2": "D7845A",
+    "color3": "357B6C",
+    "order": 261
+  },
+  {
+    "id": "live_skin-header-chr_06005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-06005",
+    "description_lang_id": "la-short_name-chr-06005",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06005",
+    "asset_id2": "06005",
+    "thumbnail_asset_id": "img_chr_icon_normal_06005",
+    "icon_asset_id": "img_chr_icon_normal_06005",
+    "color1": "A4AAFF",
+    "color2": "DEC2A7",
+    "color3": "A4AAFF",
+    "order": 262
+  },
+  {
+    "id": "live_skin-header-chr_80001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-short_name-chr-80001",
+    "description_lang_id": "la-short_name-chr-80001",
+    "character_production_id": "prd-en",
+    "asset_id1": "80001",
+    "asset_id2": "80001",
+    "thumbnail_asset_id": "img_chr_icon_normal_80001",
+    "icon_asset_id": "img_chr_icon_normal_80001",
+    "color1": "67B2FF",
+    "color2": "67B2FF",
+    "color3": "F7A6CA",
+    "order": 256
+  },
+  {
+    "id": "live_skin-header-default_01",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_HEADER",
+      "number": 7
+    },
+    "name_lang_id": "la-live_skin_name_header-default_01",
+    "description_lang_id": "la-live_skin_description_header-default_01",
+    "asset_id1": "default-01",
+    "asset_id2": "default-01",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "is_default": true,
+    "color1": "28C3FF",
+    "color2": "5FDCF0",
+    "color3": "28C3FF",
+    "order": 1
+  },
+  {
+    "id": "live_skin-judge-chr_00001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00001",
+    "description_lang_id": "la-short_name-chr-00001",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00001",
+    "asset_id2": "00001",
+    "thumbnail_asset_id": "img_chr_icon_normal_00001",
+    "icon_asset_id": "img_chr_icon_normal_00001",
+    "order": 201
+  },
+  {
+    "id": "live_skin-judge-chr_00002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00002",
+    "description_lang_id": "la-short_name-chr-00002",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00002",
+    "asset_id2": "00002",
+    "thumbnail_asset_id": "img_chr_icon_normal_00002",
+    "icon_asset_id": "img_chr_icon_normal_00002",
+    "order": 202
+  },
+  {
+    "id": "live_skin-judge-chr_00004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00004",
+    "description_lang_id": "la-short_name-chr-00004",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00004",
+    "asset_id2": "00004",
+    "thumbnail_asset_id": "img_chr_icon_normal_00004",
+    "icon_asset_id": "img_chr_icon_normal_00004",
+    "order": 206
+  },
+  {
+    "id": "live_skin-judge-chr_00005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00005",
+    "description_lang_id": "la-short_name-chr-00005",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00005",
+    "asset_id2": "00005",
+    "thumbnail_asset_id": "img_chr_icon_normal_00005",
+    "icon_asset_id": "img_chr_icon_normal_00005",
+    "order": 207
+  },
+  {
+    "id": "live_skin-judge-chr_00006",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00006",
+    "description_lang_id": "la-short_name-chr-00006",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00006",
+    "asset_id2": "00006",
+    "thumbnail_asset_id": "img_chr_icon_normal_00006",
+    "icon_asset_id": "img_chr_icon_normal_00006",
+    "order": 208
+  },
+  {
+    "id": "live_skin-judge-chr_00007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00007",
+    "description_lang_id": "la-short_name-chr-00007",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00007",
+    "asset_id2": "00007",
+    "thumbnail_asset_id": "img_chr_icon_normal_00007",
+    "icon_asset_id": "img_chr_icon_normal_00007",
+    "order": 209
+  },
+  {
+    "id": "live_skin-judge-chr_00010",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00010",
+    "description_lang_id": "la-short_name-chr-00010",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00010",
+    "asset_id2": "00010",
+    "thumbnail_asset_id": "img_chr_icon_normal_00010",
+    "icon_asset_id": "img_chr_icon_normal_00010",
+    "order": 211
+  },
+  {
+    "id": "live_skin-judge-chr_00011",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00011",
+    "description_lang_id": "la-short_name-chr-00011",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00011",
+    "asset_id2": "00011",
+    "thumbnail_asset_id": "img_chr_icon_normal_00011",
+    "icon_asset_id": "img_chr_icon_normal_00011",
+    "order": 212
+  },
+  {
+    "id": "live_skin-judge-chr_00012",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00012",
+    "description_lang_id": "la-short_name-chr-00012",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00012",
+    "asset_id2": "00012",
+    "thumbnail_asset_id": "img_chr_icon_normal_00012",
+    "icon_asset_id": "img_chr_icon_normal_00012",
+    "order": 213
+  },
+  {
+    "id": "live_skin-judge-chr_00013",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00013",
+    "description_lang_id": "la-short_name-chr-00013",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00013",
+    "asset_id2": "00013",
+    "thumbnail_asset_id": "img_chr_icon_normal_00013",
+    "icon_asset_id": "img_chr_icon_normal_00013",
+    "order": 203
+  },
+  {
+    "id": "live_skin-judge-chr_00014",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00014",
+    "description_lang_id": "la-short_name-chr-00014",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00014",
+    "asset_id2": "00014",
+    "thumbnail_asset_id": "img_chr_icon_normal_00014",
+    "icon_asset_id": "img_chr_icon_normal_00014",
+    "order": 214
+  },
+  {
+    "id": "live_skin-judge-chr_00015",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00015",
+    "description_lang_id": "la-short_name-chr-00015",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00015",
+    "asset_id2": "00015",
+    "thumbnail_asset_id": "img_chr_icon_normal_00015",
+    "icon_asset_id": "img_chr_icon_normal_00015",
+    "order": 204
+  },
+  {
+    "id": "live_skin-judge-chr_00016",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00016",
+    "description_lang_id": "la-short_name-chr-00016",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00016",
+    "asset_id2": "00016",
+    "thumbnail_asset_id": "img_chr_icon_normal_00016",
+    "icon_asset_id": "img_chr_icon_normal_00016",
+    "order": 215
+  },
+  {
+    "id": "live_skin-judge-chr_00017",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00017",
+    "description_lang_id": "la-short_name-chr-00017",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00017",
+    "asset_id2": "00017",
+    "thumbnail_asset_id": "img_chr_icon_normal_00017",
+    "icon_asset_id": "img_chr_icon_normal_00017",
+    "order": 216
+  },
+  {
+    "id": "live_skin-judge-chr_00018",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00018",
+    "description_lang_id": "la-short_name-chr-00018",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00018",
+    "asset_id2": "00018",
+    "thumbnail_asset_id": "img_chr_icon_normal_00018",
+    "icon_asset_id": "img_chr_icon_normal_00018",
+    "order": 205
+  },
+  {
+    "id": "live_skin-judge-chr_00019",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00019",
+    "description_lang_id": "la-short_name-chr-00019",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00019",
+    "asset_id2": "00019",
+    "thumbnail_asset_id": "img_chr_icon_normal_00019",
+    "icon_asset_id": "img_chr_icon_normal_00019",
+    "order": 217
+  },
+  {
+    "id": "live_skin-judge-chr_00021",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00021",
+    "description_lang_id": "la-short_name-chr-00021",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00021",
+    "asset_id2": "00021",
+    "thumbnail_asset_id": "img_chr_icon_normal_00021",
+    "icon_asset_id": "img_chr_icon_normal_00021",
+    "order": 218
+  },
+  {
+    "id": "live_skin-judge-chr_00022",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00022",
+    "description_lang_id": "la-short_name-chr-00022",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00022",
+    "asset_id2": "00022",
+    "thumbnail_asset_id": "img_chr_icon_normal_00022",
+    "icon_asset_id": "img_chr_icon_normal_00022",
+    "order": 219
+  },
+  {
+    "id": "live_skin-judge-chr_00023",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00023",
+    "description_lang_id": "la-short_name-chr-00023",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00023",
+    "asset_id2": "00023",
+    "thumbnail_asset_id": "img_chr_icon_normal_00023",
+    "icon_asset_id": "img_chr_icon_normal_00023",
+    "order": 220
+  },
+  {
+    "id": "live_skin-judge-chr_00026",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00026",
+    "description_lang_id": "la-short_name-chr-00026",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00026",
+    "asset_id2": "00026",
+    "thumbnail_asset_id": "img_chr_icon_normal_00026",
+    "icon_asset_id": "img_chr_icon_normal_00026",
+    "order": 222
+  },
+  {
+    "id": "live_skin-judge-chr_00027",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00027",
+    "description_lang_id": "la-short_name-chr-00027",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00027",
+    "asset_id2": "00027",
+    "thumbnail_asset_id": "img_chr_icon_normal_00027",
+    "icon_asset_id": "img_chr_icon_normal_00027",
+    "order": 223
+  },
+  {
+    "id": "live_skin-judge-chr_00028",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00028",
+    "description_lang_id": "la-short_name-chr-00028",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00028",
+    "asset_id2": "00028",
+    "thumbnail_asset_id": "img_chr_icon_normal_00028",
+    "icon_asset_id": "img_chr_icon_normal_00028",
+    "order": 224
+  },
+  {
+    "id": "live_skin-judge-chr_00030",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00030",
+    "description_lang_id": "la-short_name-chr-00030",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00030",
+    "asset_id2": "00030",
+    "thumbnail_asset_id": "img_chr_icon_normal_00030",
+    "icon_asset_id": "img_chr_icon_normal_00030",
+    "order": 225
+  },
+  {
+    "id": "live_skin-judge-chr_00031",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00031",
+    "description_lang_id": "la-short_name-chr-00031",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00031",
+    "asset_id2": "00031",
+    "thumbnail_asset_id": "img_chr_icon_normal_00031",
+    "icon_asset_id": "img_chr_icon_normal_00031",
+    "order": 226
+  },
+  {
+    "id": "live_skin-judge-chr_00032",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00032",
+    "description_lang_id": "la-short_name-chr-00032",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00032",
+    "asset_id2": "00032",
+    "thumbnail_asset_id": "img_chr_icon_normal_00032",
+    "icon_asset_id": "img_chr_icon_normal_00032",
+    "order": 227
+  },
+  {
+    "id": "live_skin-judge-chr_00034",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00034",
+    "description_lang_id": "la-short_name-chr-00034",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00034",
+    "asset_id2": "00034",
+    "thumbnail_asset_id": "img_chr_icon_normal_00034",
+    "icon_asset_id": "img_chr_icon_normal_00034",
+    "order": 228
+  },
+  {
+    "id": "live_skin-judge-chr_00035",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00035",
+    "description_lang_id": "la-short_name-chr-00035",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00035",
+    "asset_id2": "00035",
+    "thumbnail_asset_id": "img_chr_icon_normal_00035",
+    "icon_asset_id": "img_chr_icon_normal_00035",
+    "order": 229
+  },
+  {
+    "id": "live_skin-judge-chr_00036",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00036",
+    "description_lang_id": "la-short_name-chr-00036",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00036",
+    "asset_id2": "00036",
+    "thumbnail_asset_id": "img_chr_icon_normal_00036",
+    "icon_asset_id": "img_chr_icon_normal_00036",
+    "order": 230
+  },
+  {
+    "id": "live_skin-judge-chr_00037",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00037",
+    "description_lang_id": "la-short_name-chr-00037",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00037",
+    "asset_id2": "00037",
+    "thumbnail_asset_id": "img_chr_icon_normal_00037",
+    "icon_asset_id": "img_chr_icon_normal_00037",
+    "order": 231
+  },
+  {
+    "id": "live_skin-judge-chr_00039",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-00039",
+    "description_lang_id": "la-short_name-chr-00039",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00039",
+    "asset_id2": "00039",
+    "thumbnail_asset_id": "img_chr_icon_normal_00039",
+    "icon_asset_id": "img_chr_icon_normal_00039",
+    "order": 233
+  },
+  {
+    "id": "live_skin-judge-chr_03001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-03001",
+    "description_lang_id": "la-short_name-chr-03001",
+    "character_production_id": "prd-id",
+    "asset_id1": "03001",
+    "asset_id2": "03001",
+    "thumbnail_asset_id": "img_chr_icon_normal_03001",
+    "icon_asset_id": "img_chr_icon_normal_03001",
+    "order": 234
+  },
+  {
+    "id": "live_skin-judge-chr_03002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-03002",
+    "description_lang_id": "la-short_name-chr-03002",
+    "character_production_id": "prd-id",
+    "asset_id1": "03002",
+    "asset_id2": "03002",
+    "thumbnail_asset_id": "img_chr_icon_normal_03002",
+    "icon_asset_id": "img_chr_icon_normal_03002",
+    "order": 235
+  },
+  {
+    "id": "live_skin-judge-chr_03003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-03003",
+    "description_lang_id": "la-short_name-chr-03003",
+    "character_production_id": "prd-id",
+    "asset_id1": "03003",
+    "asset_id2": "03003",
+    "thumbnail_asset_id": "img_chr_icon_normal_03003",
+    "icon_asset_id": "img_chr_icon_normal_03003",
+    "order": 236
+  },
+  {
+    "id": "live_skin-judge-chr_03004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-03004",
+    "description_lang_id": "la-short_name-chr-03004",
+    "character_production_id": "prd-id",
+    "asset_id1": "03004",
+    "asset_id2": "03004",
+    "thumbnail_asset_id": "img_chr_icon_normal_03004",
+    "icon_asset_id": "img_chr_icon_normal_03004",
+    "order": 237
+  },
+  {
+    "id": "live_skin-judge-chr_03005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-03005",
+    "description_lang_id": "la-short_name-chr-03005",
+    "character_production_id": "prd-id",
+    "asset_id1": "03005",
+    "asset_id2": "03005",
+    "thumbnail_asset_id": "img_chr_icon_normal_03005",
+    "icon_asset_id": "img_chr_icon_normal_03005",
+    "order": 238
+  },
+  {
+    "id": "live_skin-judge-chr_03006",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-03006",
+    "description_lang_id": "la-short_name-chr-03006",
+    "character_production_id": "prd-id",
+    "asset_id1": "03006",
+    "asset_id2": "03006",
+    "thumbnail_asset_id": "img_chr_icon_normal_03006",
+    "icon_asset_id": "img_chr_icon_normal_03006",
+    "order": 239
+  },
+  {
+    "id": "live_skin-judge-chr_03007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-03007",
+    "description_lang_id": "la-short_name-chr-03007",
+    "character_production_id": "prd-id",
+    "asset_id1": "03007",
+    "asset_id2": "03007",
+    "thumbnail_asset_id": "img_chr_icon_normal_03007",
+    "icon_asset_id": "img_chr_icon_normal_03007",
+    "order": 240
+  },
+  {
+    "id": "live_skin-judge-chr_03008",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-03008",
+    "description_lang_id": "la-short_name-chr-03008",
+    "character_production_id": "prd-id",
+    "asset_id1": "03008",
+    "asset_id2": "03008",
+    "thumbnail_asset_id": "img_chr_icon_normal_03008",
+    "icon_asset_id": "img_chr_icon_normal_03008",
+    "order": 241
+  },
+  {
+    "id": "live_skin-judge-chr_03009",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-03009",
+    "description_lang_id": "la-short_name-chr-03009",
+    "character_production_id": "prd-id",
+    "asset_id1": "03009",
+    "asset_id2": "03009",
+    "thumbnail_asset_id": "img_chr_icon_normal_03009",
+    "icon_asset_id": "img_chr_icon_normal_03009",
+    "order": 242
+  },
+  {
+    "id": "live_skin-judge-chr_04001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-04001",
+    "description_lang_id": "la-short_name-chr-04001",
+    "character_production_id": "prd-en",
+    "asset_id1": "04001",
+    "asset_id2": "04001",
+    "thumbnail_asset_id": "img_chr_icon_normal_04001",
+    "icon_asset_id": "img_chr_icon_normal_04001",
+    "order": 243
+  },
+  {
+    "id": "live_skin-judge-chr_04002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-04002",
+    "description_lang_id": "la-short_name-chr-04002",
+    "character_production_id": "prd-en",
+    "asset_id1": "04002",
+    "asset_id2": "04002",
+    "thumbnail_asset_id": "img_chr_icon_normal_04002",
+    "icon_asset_id": "img_chr_icon_normal_04002",
+    "order": 244
+  },
+  {
+    "id": "live_skin-judge-chr_04003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-04003",
+    "description_lang_id": "la-short_name-chr-04003",
+    "character_production_id": "prd-en",
+    "asset_id1": "04003",
+    "asset_id2": "04003",
+    "thumbnail_asset_id": "img_chr_icon_normal_04003",
+    "icon_asset_id": "img_chr_icon_normal_04003",
+    "order": 245
+  },
+  {
+    "id": "live_skin-judge-chr_04007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-04007",
+    "description_lang_id": "la-short_name-chr-04007",
+    "character_production_id": "prd-en",
+    "asset_id1": "04007",
+    "asset_id2": "04007",
+    "thumbnail_asset_id": "img_chr_icon_normal_04007",
+    "icon_asset_id": "img_chr_icon_normal_04007",
+    "order": 248
+  },
+  {
+    "id": "live_skin-judge-chr_04010",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-04010",
+    "description_lang_id": "la-short_name-chr-04010",
+    "character_production_id": "prd-en",
+    "asset_id1": "04010",
+    "asset_id2": "04010",
+    "thumbnail_asset_id": "img_chr_icon_normal_04010",
+    "icon_asset_id": "img_chr_icon_normal_04010",
+    "order": 250
+  },
+  {
+    "id": "live_skin-judge-chr_04012",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-04012",
+    "description_lang_id": "la-short_name-chr-04012",
+    "character_production_id": "prd-en",
+    "asset_id1": "04012",
+    "asset_id2": "04012",
+    "thumbnail_asset_id": "img_chr_icon_normal_04012",
+    "icon_asset_id": "img_chr_icon_normal_04012",
+    "order": 252
+  },
+  {
+    "id": "live_skin-judge-chr_04013",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-04013",
+    "description_lang_id": "la-short_name-chr-04013",
+    "character_production_id": "prd-en",
+    "asset_id1": "04013",
+    "asset_id2": "04013",
+    "thumbnail_asset_id": "img_chr_icon_normal_04013",
+    "icon_asset_id": "img_chr_icon_normal_04013",
+    "order": 253
+  },
+  {
+    "id": "live_skin-judge-chr_04014",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-04014",
+    "description_lang_id": "la-short_name-chr-04014",
+    "character_production_id": "prd-en",
+    "asset_id1": "04014",
+    "asset_id2": "04014",
+    "thumbnail_asset_id": "img_chr_icon_normal_04014",
+    "icon_asset_id": "img_chr_icon_normal_04014",
+    "order": 254
+  },
+  {
+    "id": "live_skin-judge-chr_04015",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-04015",
+    "description_lang_id": "la-short_name-chr-04015",
+    "character_production_id": "prd-en",
+    "asset_id1": "04015",
+    "asset_id2": "04015",
+    "thumbnail_asset_id": "img_chr_icon_normal_04015",
+    "icon_asset_id": "img_chr_icon_normal_04015",
+    "order": 255
+  },
+  {
+    "id": "live_skin-judge-chr_06002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-06002",
+    "description_lang_id": "la-short_name-chr-06002",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06002",
+    "asset_id2": "06002",
+    "thumbnail_asset_id": "img_chr_icon_normal_06002",
+    "icon_asset_id": "img_chr_icon_normal_06002",
+    "order": 259
+  },
+  {
+    "id": "live_skin-judge-chr_06003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-06003",
+    "description_lang_id": "la-short_name-chr-06003",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06003",
+    "asset_id2": "06003",
+    "thumbnail_asset_id": "img_chr_icon_normal_06003",
+    "icon_asset_id": "img_chr_icon_normal_06003",
+    "order": 260
+  },
+  {
+    "id": "live_skin-judge-chr_06004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-06004",
+    "description_lang_id": "la-short_name-chr-06004",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06004",
+    "asset_id2": "06004",
+    "thumbnail_asset_id": "img_chr_icon_normal_06004",
+    "icon_asset_id": "img_chr_icon_normal_06004",
+    "order": 261
+  },
+  {
+    "id": "live_skin-judge-chr_06005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-06005",
+    "description_lang_id": "la-short_name-chr-06005",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06005",
+    "asset_id2": "06005",
+    "thumbnail_asset_id": "img_chr_icon_normal_06005",
+    "icon_asset_id": "img_chr_icon_normal_06005",
+    "order": 262
+  },
+  {
+    "id": "live_skin-judge-chr_80001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-short_name-chr-80001",
+    "description_lang_id": "la-short_name-chr-80001",
+    "character_production_id": "prd-en",
+    "asset_id1": "80001",
+    "asset_id2": "80001",
+    "thumbnail_asset_id": "img_chr_icon_normal_80001",
+    "icon_asset_id": "img_chr_icon_normal_80001",
+    "order": 256
+  },
+  {
+    "id": "live_skin-judge-default_01",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_JUDGEMENT_TEXT",
+      "number": 3
+    },
+    "name_lang_id": "la-live_skin_name_judge-default_01",
+    "description_lang_id": "la-live_skin_description_judge-default_01",
+    "asset_id1": "default-01",
+    "asset_id2": "default-01",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "is_default": true,
+    "order": 1
+  },
+  {
+    "id": "live_skin-lane-chr_00001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00001",
+    "description_lang_id": "la-short_name-chr-00001",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00001",
+    "asset_id2": "00001",
+    "thumbnail_asset_id": "img_chr_icon_normal_00001",
+    "icon_asset_id": "img_chr_icon_normal_00001",
+    "color1": "6878FF",
+    "color2": "FD368A",
+    "color3": "6878FF",
+    "order": 201
+  },
+  {
+    "id": "live_skin-lane-chr_00002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00002",
+    "description_lang_id": "la-short_name-chr-00002",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00002",
+    "asset_id2": "00002",
+    "thumbnail_asset_id": "img_chr_icon_normal_00002",
+    "icon_asset_id": "img_chr_icon_normal_00002",
+    "color1": "FF6187",
+    "color2": "FD91B7",
+    "color3": "FF6187",
+    "order": 202
+  },
+  {
+    "id": "live_skin-lane-chr_00004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00004",
+    "description_lang_id": "la-short_name-chr-00004",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00004",
+    "asset_id2": "00004",
+    "thumbnail_asset_id": "img_chr_icon_normal_00004",
+    "icon_asset_id": "img_chr_icon_normal_00004",
+    "color1": "ABE64D",
+    "color2": "FF4991",
+    "color3": "ABE64D",
+    "order": 206
+  },
+  {
+    "id": "live_skin-lane-chr_00005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00005",
+    "description_lang_id": "la-short_name-chr-00005",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00005",
+    "asset_id2": "00005",
+    "thumbnail_asset_id": "img_chr_icon_normal_00005",
+    "icon_asset_id": "img_chr_icon_normal_00005",
+    "color1": "E5395B",
+    "color2": "0046B3",
+    "color3": "E5395B",
+    "order": 207
+  },
+  {
+    "id": "live_skin-lane-chr_00006",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00006",
+    "description_lang_id": "la-short_name-chr-00006",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00006",
+    "asset_id2": "00006",
+    "thumbnail_asset_id": "img_chr_icon_normal_00006",
+    "icon_asset_id": "img_chr_icon_normal_00006",
+    "color1": "93D5F2",
+    "color2": "65637F",
+    "color3": "93D5F2",
+    "order": 208
+  },
+  {
+    "id": "live_skin-lane-chr_00007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00007",
+    "description_lang_id": "la-short_name-chr-00007",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00007",
+    "asset_id2": "00007",
+    "thumbnail_asset_id": "img_chr_icon_normal_00007",
+    "icon_asset_id": "img_chr_icon_normal_00007",
+    "color1": "FFCB30",
+    "color2": "8DD600",
+    "color3": "FFCB30",
+    "order": 209
+  },
+  {
+    "id": "live_skin-lane-chr_00010",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00010",
+    "description_lang_id": "la-short_name-chr-00010",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00010",
+    "asset_id2": "00010",
+    "thumbnail_asset_id": "img_chr_icon_normal_00010",
+    "icon_asset_id": "img_chr_icon_normal_00010",
+    "color1": "DD305B",
+    "color2": "8A6F72",
+    "color3": "DD305B",
+    "order": 211
+  },
+  {
+    "id": "live_skin-lane-chr_00011",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00011",
+    "description_lang_id": "la-short_name-chr-00011",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00011",
+    "asset_id2": "00011",
+    "thumbnail_asset_id": "img_chr_icon_normal_00011",
+    "icon_asset_id": "img_chr_icon_normal_00011",
+    "color1": "FF5487",
+    "color2": "FF85BC",
+    "color3": "FF5487",
+    "order": 212
+  },
+  {
+    "id": "live_skin-lane-chr_00012",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00012",
+    "description_lang_id": "la-short_name-chr-00012",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00012",
+    "asset_id2": "00012",
+    "thumbnail_asset_id": "img_chr_icon_normal_00012",
+    "icon_asset_id": "img_chr_icon_normal_00012",
+    "color1": "E5CE00",
+    "color2": "5CD0DC",
+    "color3": "E5CE00",
+    "order": 213
+  },
+  {
+    "id": "live_skin-lane-chr_00013",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00013",
+    "description_lang_id": "la-short_name-chr-00013",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00013",
+    "asset_id2": "00013",
+    "thumbnail_asset_id": "img_chr_icon_normal_00013",
+    "icon_asset_id": "img_chr_icon_normal_00013",
+    "color1": "F081A3",
+    "color2": "634C59",
+    "color3": "F081A3",
+    "order": 203
+  },
+  {
+    "id": "live_skin-lane-chr_00014",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00014",
+    "description_lang_id": "la-short_name-chr-00014",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00014",
+    "asset_id2": "00014",
+    "thumbnail_asset_id": "img_chr_icon_normal_00014",
+    "icon_asset_id": "img_chr_icon_normal_00014",
+    "color1": "DB3131",
+    "color2": "575769",
+    "color3": "DB3131",
+    "order": 214
+  },
+  {
+    "id": "live_skin-lane-chr_00015",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00015",
+    "description_lang_id": "la-short_name-chr-00015",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00015",
+    "asset_id2": "00015",
+    "thumbnail_asset_id": "img_chr_icon_normal_00015",
+    "icon_asset_id": "img_chr_icon_normal_00015",
+    "color1": "FF909E",
+    "color2": "DD3654",
+    "color3": "FF909E",
+    "order": 204
+  },
+  {
+    "id": "live_skin-lane-chr_00016",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00016",
+    "description_lang_id": "la-short_name-chr-00016",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00016",
+    "asset_id2": "00016",
+    "thumbnail_asset_id": "img_chr_icon_normal_00016",
+    "icon_asset_id": "img_chr_icon_normal_00016",
+    "color1": "D866ED",
+    "color2": "9A70F3",
+    "color3": "D866ED",
+    "order": 215
+  },
+  {
+    "id": "live_skin-lane-chr_00017",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00017",
+    "description_lang_id": "la-short_name-chr-00017",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00017",
+    "asset_id2": "00017",
+    "thumbnail_asset_id": "img_chr_icon_normal_00017",
+    "icon_asset_id": "img_chr_icon_normal_00017",
+    "color1": "FFCD28",
+    "color2": "FF637C",
+    "color3": "FFCD28",
+    "order": 216
+  },
+  {
+    "id": "live_skin-lane-chr_00018",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00018",
+    "description_lang_id": "la-short_name-chr-00018",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00018",
+    "asset_id2": "00018",
+    "thumbnail_asset_id": "img_chr_icon_normal_00018",
+    "icon_asset_id": "img_chr_icon_normal_00018",
+    "color1": "75C0FF",
+    "color2": "2B2D80",
+    "color3": "75C0FF",
+    "order": 205
+  },
+  {
+    "id": "live_skin-lane-chr_00019",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00019",
+    "description_lang_id": "la-short_name-chr-00019",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00019",
+    "asset_id2": "00019",
+    "thumbnail_asset_id": "img_chr_icon_normal_00019",
+    "icon_asset_id": "img_chr_icon_normal_00019",
+    "color1": "57A9FF",
+    "color2": "97DAEF",
+    "color3": "57A9FF",
+    "order": 217
+  },
+  {
+    "id": "live_skin-lane-chr_00021",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00021",
+    "description_lang_id": "la-short_name-chr-00021",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00021",
+    "asset_id2": "00021",
+    "thumbnail_asset_id": "img_chr_icon_normal_00021",
+    "icon_asset_id": "img_chr_icon_normal_00021",
+    "color1": "FFAB2D",
+    "color2": "4AB0E9",
+    "color3": "FFAB2D",
+    "order": 218
+  },
+  {
+    "id": "live_skin-lane-chr_00022",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00022",
+    "description_lang_id": "la-short_name-chr-00022",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00022",
+    "asset_id2": "00022",
+    "thumbnail_asset_id": "img_chr_icon_normal_00022",
+    "icon_asset_id": "img_chr_icon_normal_00022",
+    "color1": "A5B5B7",
+    "color2": "4F6E8F",
+    "color3": "A5B5B7",
+    "order": 219
+  },
+  {
+    "id": "live_skin-lane-chr_00023",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00023",
+    "description_lang_id": "la-short_name-chr-00023",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00023",
+    "asset_id2": "00023",
+    "thumbnail_asset_id": "img_chr_icon_normal_00023",
+    "icon_asset_id": "img_chr_icon_normal_00023",
+    "color1": "C2153B",
+    "color2": "453748",
+    "color3": "C2153B",
+    "order": 220
+  },
+  {
+    "id": "live_skin-lane-chr_00026",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00026",
+    "description_lang_id": "la-short_name-chr-00026",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00026",
+    "asset_id2": "00026",
+    "thumbnail_asset_id": "img_chr_icon_normal_00026",
+    "icon_asset_id": "img_chr_icon_normal_00026",
+    "color1": "E2D065",
+    "color2": "FF8F96",
+    "color3": "E2D065",
+    "order": 222
+  },
+  {
+    "id": "live_skin-lane-chr_00027",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00027",
+    "description_lang_id": "la-short_name-chr-00027",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00027",
+    "asset_id2": "00027",
+    "thumbnail_asset_id": "img_chr_icon_normal_00027",
+    "icon_asset_id": "img_chr_icon_normal_00027",
+    "color1": "B77FFF",
+    "color2": "FC96DC",
+    "color3": "B77FFF",
+    "order": 223
+  },
+  {
+    "id": "live_skin-lane-chr_00028",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00028",
+    "description_lang_id": "la-short_name-chr-00028",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00028",
+    "asset_id2": "00028",
+    "thumbnail_asset_id": "img_chr_icon_normal_00028",
+    "icon_asset_id": "img_chr_icon_normal_00028",
+    "color1": "FF93D0",
+    "color2": "99C6FF",
+    "color3": "FF93D0",
+    "order": 224
+  },
+  {
+    "id": "live_skin-lane-chr_00030",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00030",
+    "description_lang_id": "la-short_name-chr-00030",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00030",
+    "asset_id2": "00030",
+    "thumbnail_asset_id": "img_chr_icon_normal_00030",
+    "icon_asset_id": "img_chr_icon_normal_00030",
+    "color1": "49AAFF",
+    "color2": "5CCEFF",
+    "color3": "49AAFF",
+    "order": 225
+  },
+  {
+    "id": "live_skin-lane-chr_00031",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00031",
+    "description_lang_id": "la-short_name-chr-00031",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00031",
+    "asset_id2": "00031",
+    "thumbnail_asset_id": "img_chr_icon_normal_00031",
+    "icon_asset_id": "img_chr_icon_normal_00031",
+    "color1": "FFC633",
+    "color2": "FF852D",
+    "color3": "FFC633",
+    "order": 226
+  },
+  {
+    "id": "live_skin-lane-chr_00032",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00032",
+    "description_lang_id": "la-short_name-chr-00032",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00032",
+    "asset_id2": "00032",
+    "thumbnail_asset_id": "img_chr_icon_normal_00032",
+    "icon_asset_id": "img_chr_icon_normal_00032",
+    "color1": "757575",
+    "color2": "91C1B1",
+    "color3": "757575",
+    "order": 227
+  },
+  {
+    "id": "live_skin-lane-chr_00034",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00034",
+    "description_lang_id": "la-short_name-chr-00034",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00034",
+    "asset_id2": "00034",
+    "thumbnail_asset_id": "img_chr_icon_normal_00034",
+    "icon_asset_id": "img_chr_icon_normal_00034",
+    "color1": "ED0043",
+    "color2": "0083EB",
+    "color3": "ED0043",
+    "order": 228
+  },
+  {
+    "id": "live_skin-lane-chr_00035",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00035",
+    "description_lang_id": "la-short_name-chr-00035",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00035",
+    "asset_id2": "00035",
+    "thumbnail_asset_id": "img_chr_icon_normal_00035",
+    "icon_asset_id": "img_chr_icon_normal_00035",
+    "color1": "9464D2",
+    "color2": "493A58",
+    "color3": "9464D2",
+    "order": 229
+  },
+  {
+    "id": "live_skin-lane-chr_00036",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00036",
+    "description_lang_id": "la-short_name-chr-00036",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00036",
+    "asset_id2": "00036",
+    "thumbnail_asset_id": "img_chr_icon_normal_00036",
+    "icon_asset_id": "img_chr_icon_normal_00036",
+    "color1": "831550",
+    "color2": "41282E",
+    "color3": "831550",
+    "order": 230
+  },
+  {
+    "id": "live_skin-lane-chr_00037",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00037",
+    "description_lang_id": "la-short_name-chr-00037",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00037",
+    "asset_id2": "00037",
+    "thumbnail_asset_id": "img_chr_icon_normal_00037",
+    "icon_asset_id": "img_chr_icon_normal_00037",
+    "color1": "FF95C8",
+    "color2": "52DFCE",
+    "color3": "FF95C8",
+    "order": 231
+  },
+  {
+    "id": "live_skin-lane-chr_00039",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-00039",
+    "description_lang_id": "la-short_name-chr-00039",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00039",
+    "asset_id2": "00039",
+    "thumbnail_asset_id": "img_chr_icon_normal_00039",
+    "icon_asset_id": "img_chr_icon_normal_00039",
+    "color1": "5ECFC8",
+    "color2": "D5C293",
+    "color3": "5ECFC8",
+    "order": 233
+  },
+  {
+    "id": "live_skin-lane-chr_03001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-03001",
+    "description_lang_id": "la-short_name-chr-03001",
+    "character_production_id": "prd-id",
+    "asset_id1": "03001",
+    "asset_id2": "03001",
+    "thumbnail_asset_id": "img_chr_icon_normal_03001",
+    "icon_asset_id": "img_chr_icon_normal_03001",
+    "color1": "FFAAAA",
+    "color2": "9F7060",
+    "color3": "FFAAAA",
+    "order": 234
+  },
+  {
+    "id": "live_skin-lane-chr_03002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-03002",
+    "description_lang_id": "la-short_name-chr-03002",
+    "character_production_id": "prd-id",
+    "asset_id1": "03002",
+    "asset_id2": "03002",
+    "thumbnail_asset_id": "img_chr_icon_normal_03002",
+    "icon_asset_id": "img_chr_icon_normal_03002",
+    "color1": "AA83FF",
+    "color2": "FAD443",
+    "color3": "AA83FF",
+    "order": 235
+  },
+  {
+    "id": "live_skin-lane-chr_03003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-03003",
+    "description_lang_id": "la-short_name-chr-03003",
+    "character_production_id": "prd-id",
+    "asset_id1": "03003",
+    "asset_id2": "03003",
+    "thumbnail_asset_id": "img_chr_icon_normal_03003",
+    "icon_asset_id": "img_chr_icon_normal_03003",
+    "color1": "9CDF36",
+    "color2": "FDA2BB",
+    "color3": "9CDF36",
+    "order": 236
+  },
+  {
+    "id": "live_skin-lane-chr_03004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-03004",
+    "description_lang_id": "la-short_name-chr-03004",
+    "character_production_id": "prd-id",
+    "asset_id1": "03004",
+    "asset_id2": "03004",
+    "thumbnail_asset_id": "img_chr_icon_normal_03004",
+    "icon_asset_id": "img_chr_icon_normal_03004",
+    "color1": "C40041",
+    "color2": "394452",
+    "color3": "C40041",
+    "order": 237
+  },
+  {
+    "id": "live_skin-lane-chr_03005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-03005",
+    "description_lang_id": "la-short_name-chr-03005",
+    "character_production_id": "prd-id",
+    "asset_id1": "03005",
+    "asset_id2": "03005",
+    "thumbnail_asset_id": "img_chr_icon_normal_03005",
+    "icon_asset_id": "img_chr_icon_normal_03005",
+    "color1": "F3BF41",
+    "color2": "B3906F",
+    "color3": "F3BF41",
+    "order": 238
+  },
+  {
+    "id": "live_skin-lane-chr_03006",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-03006",
+    "description_lang_id": "la-short_name-chr-03006",
+    "character_production_id": "prd-id",
+    "asset_id1": "03006",
+    "asset_id2": "03006",
+    "thumbnail_asset_id": "img_chr_icon_normal_03006",
+    "icon_asset_id": "img_chr_icon_normal_03006",
+    "color1": "004DC2",
+    "color2": "5AC6B6",
+    "color3": "004DC2",
+    "order": 239
+  },
+  {
+    "id": "live_skin-lane-chr_03007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-03007",
+    "description_lang_id": "la-short_name-chr-03007",
+    "character_production_id": "prd-id",
+    "asset_id1": "03007",
+    "asset_id2": "03007",
+    "thumbnail_asset_id": "img_chr_icon_normal_03007",
+    "icon_asset_id": "img_chr_icon_normal_03007",
+    "color1": "9290A1",
+    "color2": "7E95ED",
+    "color3": "9290A1",
+    "order": 240
+  },
+  {
+    "id": "live_skin-lane-chr_03008",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-03008",
+    "description_lang_id": "la-short_name-chr-03008",
+    "character_production_id": "prd-id",
+    "asset_id1": "03008",
+    "asset_id2": "03008",
+    "thumbnail_asset_id": "img_chr_icon_normal_03008",
+    "icon_asset_id": "img_chr_icon_normal_03008",
+    "color1": "FC4045",
+    "color2": "54291A",
+    "color3": "FC4045",
+    "order": 241
+  },
+  {
+    "id": "live_skin-lane-chr_03009",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-03009",
+    "description_lang_id": "la-short_name-chr-03009",
+    "character_production_id": "prd-id",
+    "asset_id1": "03009",
+    "asset_id2": "03009",
+    "thumbnail_asset_id": "img_chr_icon_normal_03009",
+    "icon_asset_id": "img_chr_icon_normal_03009",
+    "color1": "50CFE1",
+    "color2": "63668E",
+    "color3": "50CFE1",
+    "order": 242
+  },
+  {
+    "id": "live_skin-lane-chr_04001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-04001",
+    "description_lang_id": "la-short_name-chr-04001",
+    "character_production_id": "prd-en",
+    "asset_id1": "04001",
+    "asset_id2": "04001",
+    "thumbnail_asset_id": "img_chr_icon_normal_04001",
+    "icon_asset_id": "img_chr_icon_normal_04001",
+    "color1": "E01C61",
+    "color2": "FF8EB8",
+    "color3": "E01C61",
+    "order": 243
+  },
+  {
+    "id": "live_skin-lane-chr_04002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-04002",
+    "description_lang_id": "la-short_name-chr-04002",
+    "character_production_id": "prd-en",
+    "asset_id1": "04002",
+    "asset_id2": "04002",
+    "thumbnail_asset_id": "img_chr_icon_normal_04002",
+    "icon_asset_id": "img_chr_icon_normal_04002",
+    "color1": "FF792E",
+    "color2": "38D2A8",
+    "color3": "FF792E",
+    "order": 244
+  },
+  {
+    "id": "live_skin-lane-chr_04003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-04003",
+    "description_lang_id": "la-short_name-chr-04003",
+    "character_production_id": "prd-en",
+    "asset_id1": "04003",
+    "asset_id2": "04003",
+    "thumbnail_asset_id": "img_chr_icon_normal_04003",
+    "icon_asset_id": "img_chr_icon_normal_04003",
+    "color1": "5D4E83",
+    "color2": "FF8D35",
+    "color3": "5D4E83",
+    "order": 245
+  },
+  {
+    "id": "live_skin-lane-chr_04007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-04007",
+    "description_lang_id": "la-short_name-chr-04007",
+    "character_production_id": "prd-en",
+    "asset_id1": "04007",
+    "asset_id2": "04007",
+    "thumbnail_asset_id": "img_chr_icon_normal_04007",
+    "icon_asset_id": "img_chr_icon_normal_04007",
+    "color1": "DF185D",
+    "color2": "60CED0",
+    "color3": "DF185D",
+    "order": 248
+  },
+  {
+    "id": "live_skin-lane-chr_04010",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-04010",
+    "description_lang_id": "la-short_name-chr-04010",
+    "character_production_id": "prd-en",
+    "asset_id1": "04010",
+    "asset_id2": "04010",
+    "thumbnail_asset_id": "img_chr_icon_normal_04010",
+    "icon_asset_id": "img_chr_icon_normal_04010",
+    "color1": "2221AA",
+    "color2": "DCB33E",
+    "color3": "2221AA",
+    "order": 250
+  },
+  {
+    "id": "live_skin-lane-chr_04012",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-04012",
+    "description_lang_id": "la-short_name-chr-04012",
+    "character_production_id": "prd-en",
+    "asset_id1": "04012",
+    "asset_id2": "04012",
+    "thumbnail_asset_id": "img_chr_icon_normal_04012",
+    "icon_asset_id": "img_chr_icon_normal_04012",
+    "color1": "EE2222",
+    "color2": "48D5C8",
+    "color3": "EE2222",
+    "order": 252
+  },
+  {
+    "id": "live_skin-lane-chr_04013",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-04013",
+    "description_lang_id": "la-short_name-chr-04013",
+    "character_production_id": "prd-en",
+    "asset_id1": "04013",
+    "asset_id2": "04013",
+    "thumbnail_asset_id": "img_chr_icon_normal_04013",
+    "icon_asset_id": "img_chr_icon_normal_04013",
+    "color1": "C288F7",
+    "color2": "44445D",
+    "color3": "C288F7",
+    "order": 253
+  },
+  {
+    "id": "live_skin-lane-chr_04014",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-04014",
+    "description_lang_id": "la-short_name-chr-04014",
+    "character_production_id": "prd-en",
+    "asset_id1": "04014",
+    "asset_id2": "04014",
+    "thumbnail_asset_id": "img_chr_icon_normal_04014",
+    "icon_asset_id": "img_chr_icon_normal_04014",
+    "color1": "8674FF",
+    "color2": "FFA7CA",
+    "color3": "8674FF",
+    "order": 254
+  },
+  {
+    "id": "live_skin-lane-chr_04015",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-04015",
+    "description_lang_id": "la-short_name-chr-04015",
+    "character_production_id": "prd-en",
+    "asset_id1": "04015",
+    "asset_id2": "04015",
+    "thumbnail_asset_id": "img_chr_icon_normal_04015",
+    "icon_asset_id": "img_chr_icon_normal_04015",
+    "color1": "3950EE",
+    "color2": "3F3D53",
+    "color3": "3950EE",
+    "order": 255
+  },
+  {
+    "id": "live_skin-lane-chr_06002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-06002",
+    "description_lang_id": "la-short_name-chr-06002",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06002",
+    "asset_id2": "06002",
+    "thumbnail_asset_id": "img_chr_icon_normal_06002",
+    "icon_asset_id": "img_chr_icon_normal_06002",
+    "color1": "FFD380",
+    "color2": "FC8275",
+    "color3": "FFD380",
+    "order": 259
+  },
+  {
+    "id": "live_skin-lane-chr_06003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-06003",
+    "description_lang_id": "la-short_name-chr-06003",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06003",
+    "asset_id2": "06003",
+    "thumbnail_asset_id": "img_chr_icon_normal_06003",
+    "icon_asset_id": "img_chr_icon_normal_06003",
+    "color1": "FF77A9",
+    "color2": "9D8DFF",
+    "color3": "FF77A9",
+    "order": 260
+  },
+  {
+    "id": "live_skin-lane-chr_06004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-06004",
+    "description_lang_id": "la-short_name-chr-06004",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06004",
+    "asset_id2": "06004",
+    "thumbnail_asset_id": "img_chr_icon_normal_06004",
+    "icon_asset_id": "img_chr_icon_normal_06004",
+    "color1": "357B6C",
+    "color2": "D7845A",
+    "color3": "357B6C",
+    "order": 261
+  },
+  {
+    "id": "live_skin-lane-chr_06005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-06005",
+    "description_lang_id": "la-short_name-chr-06005",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06005",
+    "asset_id2": "06005",
+    "thumbnail_asset_id": "img_chr_icon_normal_06005",
+    "icon_asset_id": "img_chr_icon_normal_06005",
+    "color1": "A4AAFF",
+    "color2": "DEC2A7",
+    "color3": "A4AAFF",
+    "order": 262
+  },
+  {
+    "id": "live_skin-lane-chr_80001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-short_name-chr-80001",
+    "description_lang_id": "la-short_name-chr-80001",
+    "character_production_id": "prd-en",
+    "asset_id1": "80001",
+    "asset_id2": "80001",
+    "thumbnail_asset_id": "img_chr_icon_normal_80001",
+    "icon_asset_id": "img_chr_icon_normal_80001",
+    "color1": "67B2FF",
+    "color2": "67B2FF",
+    "color3": "F7A6CA",
+    "order": 256
+  },
+  {
+    "id": "live_skin-lane-default_01",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_LANE",
+      "number": 2
+    },
+    "name_lang_id": "la-live_skin_name_lane-default_01",
+    "description_lang_id": "la-live_skin_description_lane-default_01",
+    "asset_id1": "default-01",
+    "asset_id2": "default-01",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "is_default": true,
+    "color1": "28C3FF",
+    "color2": "5FDCF0",
+    "color3": "28C3FF",
+    "order": 1
+  },
+  {
+    "id": "live_skin-note-default_01",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_NOTE",
+      "number": 1
+    },
+    "name_lang_id": "la-live_skin_name_note-default_01",
+    "description_lang_id": "la-live_skin_description_note-default_01",
+    "asset_id1": "default-01",
+    "asset_id2": "default-01",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "is_default": true,
+    "order": 1
+  },
+  {
+    "id": "live_skin-note-default_02",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_NOTE",
+      "number": 1
+    },
+    "name_lang_id": "la-live_skin_name_note-default_02",
+    "description_lang_id": "la-live_skin_description_note-default_02",
+    "asset_id1": "default-02",
+    "asset_id2": "default-02",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "order": 2
+  },
+  {
+    "id": "live_skin-note-default_03",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_NOTE",
+      "number": 1
+    },
+    "name_lang_id": "la-live_skin_name_note-default_03",
+    "description_lang_id": "la-live_skin_description_note-default_03",
+    "asset_id1": "default-03",
+    "asset_id2": "default-03",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "order": 3
+  },
+  {
+    "id": "live_skin-number-chr_00001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00001",
+    "description_lang_id": "la-short_name-chr-00001",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00001",
+    "asset_id2": "00001",
+    "thumbnail_asset_id": "img_chr_icon_normal_00001",
+    "icon_asset_id": "img_chr_icon_normal_00001",
+    "order": 201
+  },
+  {
+    "id": "live_skin-number-chr_00002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00002",
+    "description_lang_id": "la-short_name-chr-00002",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00002",
+    "asset_id2": "00002",
+    "thumbnail_asset_id": "img_chr_icon_normal_00002",
+    "icon_asset_id": "img_chr_icon_normal_00002",
+    "order": 202
+  },
+  {
+    "id": "live_skin-number-chr_00004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00004",
+    "description_lang_id": "la-short_name-chr-00004",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00004",
+    "asset_id2": "00004",
+    "thumbnail_asset_id": "img_chr_icon_normal_00004",
+    "icon_asset_id": "img_chr_icon_normal_00004",
+    "order": 206
+  },
+  {
+    "id": "live_skin-number-chr_00005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00005",
+    "description_lang_id": "la-short_name-chr-00005",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00005",
+    "asset_id2": "00005",
+    "thumbnail_asset_id": "img_chr_icon_normal_00005",
+    "icon_asset_id": "img_chr_icon_normal_00005",
+    "order": 207
+  },
+  {
+    "id": "live_skin-number-chr_00006",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00006",
+    "description_lang_id": "la-short_name-chr-00006",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00006",
+    "asset_id2": "00006",
+    "thumbnail_asset_id": "img_chr_icon_normal_00006",
+    "icon_asset_id": "img_chr_icon_normal_00006",
+    "order": 208
+  },
+  {
+    "id": "live_skin-number-chr_00007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00007",
+    "description_lang_id": "la-short_name-chr-00007",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00007",
+    "asset_id2": "00007",
+    "thumbnail_asset_id": "img_chr_icon_normal_00007",
+    "icon_asset_id": "img_chr_icon_normal_00007",
+    "order": 209
+  },
+  {
+    "id": "live_skin-number-chr_00010",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00010",
+    "description_lang_id": "la-short_name-chr-00010",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00010",
+    "asset_id2": "00010",
+    "thumbnail_asset_id": "img_chr_icon_normal_00010",
+    "icon_asset_id": "img_chr_icon_normal_00010",
+    "order": 211
+  },
+  {
+    "id": "live_skin-number-chr_00011",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00011",
+    "description_lang_id": "la-short_name-chr-00011",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00011",
+    "asset_id2": "00011",
+    "thumbnail_asset_id": "img_chr_icon_normal_00011",
+    "icon_asset_id": "img_chr_icon_normal_00011",
+    "order": 212
+  },
+  {
+    "id": "live_skin-number-chr_00012",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00012",
+    "description_lang_id": "la-short_name-chr-00012",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00012",
+    "asset_id2": "00012",
+    "thumbnail_asset_id": "img_chr_icon_normal_00012",
+    "icon_asset_id": "img_chr_icon_normal_00012",
+    "order": 213
+  },
+  {
+    "id": "live_skin-number-chr_00013",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00013",
+    "description_lang_id": "la-short_name-chr-00013",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00013",
+    "asset_id2": "00013",
+    "thumbnail_asset_id": "img_chr_icon_normal_00013",
+    "icon_asset_id": "img_chr_icon_normal_00013",
+    "order": 203
+  },
+  {
+    "id": "live_skin-number-chr_00014",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00014",
+    "description_lang_id": "la-short_name-chr-00014",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00014",
+    "asset_id2": "00014",
+    "thumbnail_asset_id": "img_chr_icon_normal_00014",
+    "icon_asset_id": "img_chr_icon_normal_00014",
+    "order": 214
+  },
+  {
+    "id": "live_skin-number-chr_00015",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00015",
+    "description_lang_id": "la-short_name-chr-00015",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00015",
+    "asset_id2": "00015",
+    "thumbnail_asset_id": "img_chr_icon_normal_00015",
+    "icon_asset_id": "img_chr_icon_normal_00015",
+    "order": 204
+  },
+  {
+    "id": "live_skin-number-chr_00016",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00016",
+    "description_lang_id": "la-short_name-chr-00016",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00016",
+    "asset_id2": "00016",
+    "thumbnail_asset_id": "img_chr_icon_normal_00016",
+    "icon_asset_id": "img_chr_icon_normal_00016",
+    "order": 215
+  },
+  {
+    "id": "live_skin-number-chr_00017",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00017",
+    "description_lang_id": "la-short_name-chr-00017",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00017",
+    "asset_id2": "00017",
+    "thumbnail_asset_id": "img_chr_icon_normal_00017",
+    "icon_asset_id": "img_chr_icon_normal_00017",
+    "order": 216
+  },
+  {
+    "id": "live_skin-number-chr_00018",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00018",
+    "description_lang_id": "la-short_name-chr-00018",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00018",
+    "asset_id2": "00018",
+    "thumbnail_asset_id": "img_chr_icon_normal_00018",
+    "icon_asset_id": "img_chr_icon_normal_00018",
+    "order": 205
+  },
+  {
+    "id": "live_skin-number-chr_00019",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00019",
+    "description_lang_id": "la-short_name-chr-00019",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00019",
+    "asset_id2": "00019",
+    "thumbnail_asset_id": "img_chr_icon_normal_00019",
+    "icon_asset_id": "img_chr_icon_normal_00019",
+    "order": 217
+  },
+  {
+    "id": "live_skin-number-chr_00021",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00021",
+    "description_lang_id": "la-short_name-chr-00021",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00021",
+    "asset_id2": "00021",
+    "thumbnail_asset_id": "img_chr_icon_normal_00021",
+    "icon_asset_id": "img_chr_icon_normal_00021",
+    "order": 218
+  },
+  {
+    "id": "live_skin-number-chr_00022",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00022",
+    "description_lang_id": "la-short_name-chr-00022",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00022",
+    "asset_id2": "00022",
+    "thumbnail_asset_id": "img_chr_icon_normal_00022",
+    "icon_asset_id": "img_chr_icon_normal_00022",
+    "order": 219
+  },
+  {
+    "id": "live_skin-number-chr_00023",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00023",
+    "description_lang_id": "la-short_name-chr-00023",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00023",
+    "asset_id2": "00023",
+    "thumbnail_asset_id": "img_chr_icon_normal_00023",
+    "icon_asset_id": "img_chr_icon_normal_00023",
+    "order": 220
+  },
+  {
+    "id": "live_skin-number-chr_00026",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00026",
+    "description_lang_id": "la-short_name-chr-00026",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00026",
+    "asset_id2": "00026",
+    "thumbnail_asset_id": "img_chr_icon_normal_00026",
+    "icon_asset_id": "img_chr_icon_normal_00026",
+    "order": 222
+  },
+  {
+    "id": "live_skin-number-chr_00027",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00027",
+    "description_lang_id": "la-short_name-chr-00027",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00027",
+    "asset_id2": "00027",
+    "thumbnail_asset_id": "img_chr_icon_normal_00027",
+    "icon_asset_id": "img_chr_icon_normal_00027",
+    "order": 223
+  },
+  {
+    "id": "live_skin-number-chr_00028",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00028",
+    "description_lang_id": "la-short_name-chr-00028",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00028",
+    "asset_id2": "00028",
+    "thumbnail_asset_id": "img_chr_icon_normal_00028",
+    "icon_asset_id": "img_chr_icon_normal_00028",
+    "order": 224
+  },
+  {
+    "id": "live_skin-number-chr_00030",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00030",
+    "description_lang_id": "la-short_name-chr-00030",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00030",
+    "asset_id2": "00030",
+    "thumbnail_asset_id": "img_chr_icon_normal_00030",
+    "icon_asset_id": "img_chr_icon_normal_00030",
+    "order": 225
+  },
+  {
+    "id": "live_skin-number-chr_00031",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00031",
+    "description_lang_id": "la-short_name-chr-00031",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00031",
+    "asset_id2": "00031",
+    "thumbnail_asset_id": "img_chr_icon_normal_00031",
+    "icon_asset_id": "img_chr_icon_normal_00031",
+    "order": 226
+  },
+  {
+    "id": "live_skin-number-chr_00032",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00032",
+    "description_lang_id": "la-short_name-chr-00032",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00032",
+    "asset_id2": "00032",
+    "thumbnail_asset_id": "img_chr_icon_normal_00032",
+    "icon_asset_id": "img_chr_icon_normal_00032",
+    "order": 227
+  },
+  {
+    "id": "live_skin-number-chr_00034",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00034",
+    "description_lang_id": "la-short_name-chr-00034",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00034",
+    "asset_id2": "00034",
+    "thumbnail_asset_id": "img_chr_icon_normal_00034",
+    "icon_asset_id": "img_chr_icon_normal_00034",
+    "order": 228
+  },
+  {
+    "id": "live_skin-number-chr_00035",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00035",
+    "description_lang_id": "la-short_name-chr-00035",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00035",
+    "asset_id2": "00035",
+    "thumbnail_asset_id": "img_chr_icon_normal_00035",
+    "icon_asset_id": "img_chr_icon_normal_00035",
+    "order": 229
+  },
+  {
+    "id": "live_skin-number-chr_00036",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00036",
+    "description_lang_id": "la-short_name-chr-00036",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00036",
+    "asset_id2": "00036",
+    "thumbnail_asset_id": "img_chr_icon_normal_00036",
+    "icon_asset_id": "img_chr_icon_normal_00036",
+    "order": 230
+  },
+  {
+    "id": "live_skin-number-chr_00037",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00037",
+    "description_lang_id": "la-short_name-chr-00037",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00037",
+    "asset_id2": "00037",
+    "thumbnail_asset_id": "img_chr_icon_normal_00037",
+    "icon_asset_id": "img_chr_icon_normal_00037",
+    "order": 231
+  },
+  {
+    "id": "live_skin-number-chr_00039",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-00039",
+    "description_lang_id": "la-short_name-chr-00039",
+    "character_production_id": "prd-jp",
+    "asset_id1": "00039",
+    "asset_id2": "00039",
+    "thumbnail_asset_id": "img_chr_icon_normal_00039",
+    "icon_asset_id": "img_chr_icon_normal_00039",
+    "order": 233
+  },
+  {
+    "id": "live_skin-number-chr_03001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-03001",
+    "description_lang_id": "la-short_name-chr-03001",
+    "character_production_id": "prd-id",
+    "asset_id1": "03001",
+    "asset_id2": "03001",
+    "thumbnail_asset_id": "img_chr_icon_normal_03001",
+    "icon_asset_id": "img_chr_icon_normal_03001",
+    "order": 234
+  },
+  {
+    "id": "live_skin-number-chr_03002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-03002",
+    "description_lang_id": "la-short_name-chr-03002",
+    "character_production_id": "prd-id",
+    "asset_id1": "03002",
+    "asset_id2": "03002",
+    "thumbnail_asset_id": "img_chr_icon_normal_03002",
+    "icon_asset_id": "img_chr_icon_normal_03002",
+    "order": 235
+  },
+  {
+    "id": "live_skin-number-chr_03003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-03003",
+    "description_lang_id": "la-short_name-chr-03003",
+    "character_production_id": "prd-id",
+    "asset_id1": "03003",
+    "asset_id2": "03003",
+    "thumbnail_asset_id": "img_chr_icon_normal_03003",
+    "icon_asset_id": "img_chr_icon_normal_03003",
+    "order": 236
+  },
+  {
+    "id": "live_skin-number-chr_03004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-03004",
+    "description_lang_id": "la-short_name-chr-03004",
+    "character_production_id": "prd-id",
+    "asset_id1": "03004",
+    "asset_id2": "03004",
+    "thumbnail_asset_id": "img_chr_icon_normal_03004",
+    "icon_asset_id": "img_chr_icon_normal_03004",
+    "order": 237
+  },
+  {
+    "id": "live_skin-number-chr_03005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-03005",
+    "description_lang_id": "la-short_name-chr-03005",
+    "character_production_id": "prd-id",
+    "asset_id1": "03005",
+    "asset_id2": "03005",
+    "thumbnail_asset_id": "img_chr_icon_normal_03005",
+    "icon_asset_id": "img_chr_icon_normal_03005",
+    "order": 238
+  },
+  {
+    "id": "live_skin-number-chr_03006",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-03006",
+    "description_lang_id": "la-short_name-chr-03006",
+    "character_production_id": "prd-id",
+    "asset_id1": "03006",
+    "asset_id2": "03006",
+    "thumbnail_asset_id": "img_chr_icon_normal_03006",
+    "icon_asset_id": "img_chr_icon_normal_03006",
+    "order": 239
+  },
+  {
+    "id": "live_skin-number-chr_03007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-03007",
+    "description_lang_id": "la-short_name-chr-03007",
+    "character_production_id": "prd-id",
+    "asset_id1": "03007",
+    "asset_id2": "03007",
+    "thumbnail_asset_id": "img_chr_icon_normal_03007",
+    "icon_asset_id": "img_chr_icon_normal_03007",
+    "order": 240
+  },
+  {
+    "id": "live_skin-number-chr_03008",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-03008",
+    "description_lang_id": "la-short_name-chr-03008",
+    "character_production_id": "prd-id",
+    "asset_id1": "03008",
+    "asset_id2": "03008",
+    "thumbnail_asset_id": "img_chr_icon_normal_03008",
+    "icon_asset_id": "img_chr_icon_normal_03008",
+    "order": 241
+  },
+  {
+    "id": "live_skin-number-chr_03009",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-03009",
+    "description_lang_id": "la-short_name-chr-03009",
+    "character_production_id": "prd-id",
+    "asset_id1": "03009",
+    "asset_id2": "03009",
+    "thumbnail_asset_id": "img_chr_icon_normal_03009",
+    "icon_asset_id": "img_chr_icon_normal_03009",
+    "order": 242
+  },
+  {
+    "id": "live_skin-number-chr_04001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-04001",
+    "description_lang_id": "la-short_name-chr-04001",
+    "character_production_id": "prd-en",
+    "asset_id1": "04001",
+    "asset_id2": "04001",
+    "thumbnail_asset_id": "img_chr_icon_normal_04001",
+    "icon_asset_id": "img_chr_icon_normal_04001",
+    "order": 243
+  },
+  {
+    "id": "live_skin-number-chr_04002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-04002",
+    "description_lang_id": "la-short_name-chr-04002",
+    "character_production_id": "prd-en",
+    "asset_id1": "04002",
+    "asset_id2": "04002",
+    "thumbnail_asset_id": "img_chr_icon_normal_04002",
+    "icon_asset_id": "img_chr_icon_normal_04002",
+    "order": 244
+  },
+  {
+    "id": "live_skin-number-chr_04003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-04003",
+    "description_lang_id": "la-short_name-chr-04003",
+    "character_production_id": "prd-en",
+    "asset_id1": "04003",
+    "asset_id2": "04003",
+    "thumbnail_asset_id": "img_chr_icon_normal_04003",
+    "icon_asset_id": "img_chr_icon_normal_04003",
+    "order": 245
+  },
+  {
+    "id": "live_skin-number-chr_04007",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-04007",
+    "description_lang_id": "la-short_name-chr-04007",
+    "character_production_id": "prd-en",
+    "asset_id1": "04007",
+    "asset_id2": "04007",
+    "thumbnail_asset_id": "img_chr_icon_normal_04007",
+    "icon_asset_id": "img_chr_icon_normal_04007",
+    "order": 248
+  },
+  {
+    "id": "live_skin-number-chr_04010",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-04010",
+    "description_lang_id": "la-short_name-chr-04010",
+    "character_production_id": "prd-en",
+    "asset_id1": "04010",
+    "asset_id2": "04010",
+    "thumbnail_asset_id": "img_chr_icon_normal_04010",
+    "icon_asset_id": "img_chr_icon_normal_04010",
+    "order": 250
+  },
+  {
+    "id": "live_skin-number-chr_04012",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-04012",
+    "description_lang_id": "la-short_name-chr-04012",
+    "character_production_id": "prd-en",
+    "asset_id1": "04012",
+    "asset_id2": "04012",
+    "thumbnail_asset_id": "img_chr_icon_normal_04012",
+    "icon_asset_id": "img_chr_icon_normal_04012",
+    "order": 252
+  },
+  {
+    "id": "live_skin-number-chr_04013",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-04013",
+    "description_lang_id": "la-short_name-chr-04013",
+    "character_production_id": "prd-en",
+    "asset_id1": "04013",
+    "asset_id2": "04013",
+    "thumbnail_asset_id": "img_chr_icon_normal_04013",
+    "icon_asset_id": "img_chr_icon_normal_04013",
+    "order": 253
+  },
+  {
+    "id": "live_skin-number-chr_04014",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-04014",
+    "description_lang_id": "la-short_name-chr-04014",
+    "character_production_id": "prd-en",
+    "asset_id1": "04014",
+    "asset_id2": "04014",
+    "thumbnail_asset_id": "img_chr_icon_normal_04014",
+    "icon_asset_id": "img_chr_icon_normal_04014",
+    "order": 254
+  },
+  {
+    "id": "live_skin-number-chr_04015",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-04015",
+    "description_lang_id": "la-short_name-chr-04015",
+    "character_production_id": "prd-en",
+    "asset_id1": "04015",
+    "asset_id2": "04015",
+    "thumbnail_asset_id": "img_chr_icon_normal_04015",
+    "icon_asset_id": "img_chr_icon_normal_04015",
+    "order": 255
+  },
+  {
+    "id": "live_skin-number-chr_06002",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-06002",
+    "description_lang_id": "la-short_name-chr-06002",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06002",
+    "asset_id2": "06002",
+    "thumbnail_asset_id": "img_chr_icon_normal_06002",
+    "icon_asset_id": "img_chr_icon_normal_06002",
+    "order": 259
+  },
+  {
+    "id": "live_skin-number-chr_06003",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-06003",
+    "description_lang_id": "la-short_name-chr-06003",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06003",
+    "asset_id2": "06003",
+    "thumbnail_asset_id": "img_chr_icon_normal_06003",
+    "icon_asset_id": "img_chr_icon_normal_06003",
+    "order": 260
+  },
+  {
+    "id": "live_skin-number-chr_06004",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-06004",
+    "description_lang_id": "la-short_name-chr-06004",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06004",
+    "asset_id2": "06004",
+    "thumbnail_asset_id": "img_chr_icon_normal_06004",
+    "icon_asset_id": "img_chr_icon_normal_06004",
+    "order": 261
+  },
+  {
+    "id": "live_skin-number-chr_06005",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-06005",
+    "description_lang_id": "la-short_name-chr-06005",
+    "character_production_id": "prd-dev_is",
+    "asset_id1": "06005",
+    "asset_id2": "06005",
+    "thumbnail_asset_id": "img_chr_icon_normal_06005",
+    "icon_asset_id": "img_chr_icon_normal_06005",
+    "order": 262
+  },
+  {
+    "id": "live_skin-number-chr_80001",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-short_name-chr-80001",
+    "description_lang_id": "la-short_name-chr-80001",
+    "character_production_id": "prd-en",
+    "asset_id1": "80001",
+    "asset_id2": "80001",
+    "thumbnail_asset_id": "img_chr_icon_normal_80001",
+    "icon_asset_id": "img_chr_icon_normal_80001",
+    "order": 256
+  },
+  {
+    "id": "live_skin-number-default_01",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_COMBO_TEXT",
+      "number": 4
+    },
+    "name_lang_id": "la-live_skin_name_number-default_01",
+    "description_lang_id": "la-live_skin_description_number-default_01",
+    "asset_id1": "default-01",
+    "asset_id2": "default-01",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "is_default": true,
+    "order": 1
+  },
+  {
+    "id": "live_skin-tap-default_01",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_TAP_EFFECT",
+      "number": 5
+    },
+    "name_lang_id": "la-live_skin_name_tap-default_01",
+    "description_lang_id": "la-live_skin_description_tap-default_01",
+    "asset_id1": "tap-001",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "is_default": true,
+    "default_character_effect_live_skin_id": "live_skin-chracter_effect-default-01",
+    "color1": "14408B",
+    "color3": "14408B",
+    "order": 1
+  },
+  {
+    "id": "live_skin-tap-default_02",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_TAP_EFFECT",
+      "number": 5
+    },
+    "name_lang_id": "la-live_skin_name_tap-default_02",
+    "description_lang_id": "la-live_skin_description_tap-default_02",
+    "asset_id1": "tap-002",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "default_character_effect_live_skin_id": "live_skin-chracter_effect-default-02",
+    "color1": "14408B",
+    "color3": "14408B",
+    "order": 2
+  },
+  {
+    "id": "live_skin-tap-default_03",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_TAP_EFFECT",
+      "number": 5
+    },
+    "name_lang_id": "la-live_skin_name_tap-default_03",
+    "description_lang_id": "la-live_skin_description_tap-default_03",
+    "asset_id1": "tap-003",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "default_character_effect_live_skin_id": "live_skin-chracter_effect-default-03",
+    "color1": "14408B",
+    "color3": "14408B",
+    "order": 3
+  },
+  {
+    "id": "live_skin-tap-default_04",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_TAP_EFFECT",
+      "number": 5
+    },
+    "name_lang_id": "la-live_skin_name_tap-default_04",
+    "description_lang_id": "la-live_skin_description_tap-default_04",
+    "asset_id1": "tap-004",
+    "thumbnail_asset_id": "img_live_skin_icon_default-001",
+    "icon_asset_id": "img_live_skin_icon_default-001",
+    "default_character_effect_live_skin_id": "live_skin-chracter_effect-default-04",
+    "color1": "14408B",
+    "color3": "14408B",
+    "order": 4
+  }
+]

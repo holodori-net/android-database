@@ -1,0 +1,534 @@
+[
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_NORMAL",
+      "number": 1
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_MISS",
+      "number": 1
+    },
+    "acceptable_before_frame_count": 9,
+    "acceptable_after_frame_count": 9,
+    "life_reduction_quantity": 100
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_NORMAL",
+      "number": 1
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_BAD",
+      "number": 2
+    },
+    "acceptable_before_frame_count": 9,
+    "acceptable_after_frame_count": 8,
+    "life_reduction_quantity": 50
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_NORMAL",
+      "number": 1
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_GOOD",
+      "number": 3
+    },
+    "acceptable_before_frame_count": 8,
+    "acceptable_after_frame_count": 7,
+    "score_coefficient_permil_multiply": 500,
+    "pc_score_coefficient_permil_multiply": 500,
+    "fever_point": 600
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_NORMAL",
+      "number": 1
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_GREAT",
+      "number": 4
+    },
+    "acceptable_before_frame_count": 6,
+    "acceptable_after_frame_count": 5,
+    "score_coefficient_permil_multiply": 800,
+    "pc_score_coefficient_permil_multiply": 800,
+    "fever_point": 900
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_NORMAL",
+      "number": 1
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_PERFECT",
+      "number": 5
+    },
+    "acceptable_before_frame_count": 4,
+    "acceptable_after_frame_count": 3,
+    "score_coefficient_permil_multiply": 1000,
+    "pc_score_coefficient_permil_multiply": 1000,
+    "fever_point": 1000,
+    "music_creative_chart_difficulty_weight_permil": 550
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_NORMAL",
+      "number": 1
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_PERFECT_PLUS",
+      "number": 6
+    },
+    "acceptable_before_frame_count": 1.5,
+    "acceptable_after_frame_count": 1.5,
+    "score_coefficient_permil_multiply": 1000,
+    "pc_score_coefficient_permil_multiply": 1000,
+    "fever_point": 1000,
+    "music_creative_chart_difficulty_weight_permil": 550
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_NORMAL",
+      "number": 1
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_AUTO",
+      "number": 100
+    },
+    "score_coefficient_permil_multiply": 800,
+    "pc_score_coefficient_permil_multiply": 800,
+    "fever_point": 1000
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_FLICK",
+      "number": 2
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_MISS",
+      "number": 1
+    },
+    "acceptable_before_frame_count": 9,
+    "acceptable_after_frame_count": 9,
+    "life_reduction_quantity": 100
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_FLICK",
+      "number": 2
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_BAD",
+      "number": 2
+    },
+    "acceptable_before_frame_count": 9,
+    "acceptable_after_frame_count": 8,
+    "life_reduction_quantity": 50
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_FLICK",
+      "number": 2
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_PERFECT",
+      "number": 5
+    },
+    "acceptable_before_frame_count": 6,
+    "acceptable_after_frame_count": 5,
+    "score_coefficient_permil_multiply": 1050,
+    "pc_score_coefficient_permil_multiply": 1000,
+    "fever_point": 1000,
+    "music_creative_chart_difficulty_weight_permil": 820
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_FLICK",
+      "number": 2
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_PERFECT_PLUS",
+      "number": 6
+    },
+    "acceptable_before_frame_count": 1.5,
+    "acceptable_after_frame_count": 1.5,
+    "score_coefficient_permil_multiply": 1050,
+    "pc_score_coefficient_permil_multiply": 1000,
+    "fever_point": 1000,
+    "music_creative_chart_difficulty_weight_permil": 820
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_FLICK",
+      "number": 2
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_AUTO",
+      "number": 100
+    },
+    "score_coefficient_permil_multiply": 800,
+    "pc_score_coefficient_permil_multiply": 800,
+    "fever_point": 1000
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_START",
+      "number": 3
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_MISS",
+      "number": 1
+    },
+    "acceptable_before_frame_count": 9,
+    "acceptable_after_frame_count": 9,
+    "life_reduction_quantity": 100
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_START",
+      "number": 3
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_BAD",
+      "number": 2
+    },
+    "acceptable_before_frame_count": 9,
+    "acceptable_after_frame_count": 8,
+    "life_reduction_quantity": 50
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_START",
+      "number": 3
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_GOOD",
+      "number": 3
+    },
+    "acceptable_before_frame_count": 8,
+    "acceptable_after_frame_count": 7,
+    "score_coefficient_permil_multiply": 500,
+    "pc_score_coefficient_permil_multiply": 500,
+    "fever_point": 600
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_START",
+      "number": 3
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_GREAT",
+      "number": 4
+    },
+    "acceptable_before_frame_count": 6,
+    "acceptable_after_frame_count": 5,
+    "score_coefficient_permil_multiply": 800,
+    "pc_score_coefficient_permil_multiply": 800,
+    "fever_point": 900
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_START",
+      "number": 3
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_PERFECT",
+      "number": 5
+    },
+    "acceptable_before_frame_count": 4,
+    "acceptable_after_frame_count": 3,
+    "score_coefficient_permil_multiply": 1000,
+    "pc_score_coefficient_permil_multiply": 1000,
+    "fever_point": 1000,
+    "music_creative_chart_difficulty_weight_permil": 620
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_START",
+      "number": 3
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_PERFECT_PLUS",
+      "number": 6
+    },
+    "acceptable_before_frame_count": 1.5,
+    "acceptable_after_frame_count": 1.5,
+    "score_coefficient_permil_multiply": 1000,
+    "pc_score_coefficient_permil_multiply": 1000,
+    "fever_point": 1000,
+    "music_creative_chart_difficulty_weight_permil": 620
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_START",
+      "number": 3
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_AUTO",
+      "number": 100
+    },
+    "score_coefficient_permil_multiply": 800,
+    "pc_score_coefficient_permil_multiply": 800,
+    "fever_point": 1000
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_RELAY",
+      "number": 4
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_MISS",
+      "number": 1
+    },
+    "life_reduction_quantity": 20
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_RELAY",
+      "number": 4
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_PERFECT",
+      "number": 5
+    },
+    "score_coefficient_permil_multiply": 100,
+    "pc_score_coefficient_permil_multiply": 100,
+    "fever_point": 100,
+    "music_creative_chart_difficulty_weight_permil": 60
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_RELAY",
+      "number": 4
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_PERFECT_PLUS",
+      "number": 6
+    },
+    "acceptable_before_frame_count": 1.5,
+    "acceptable_after_frame_count": 1.5,
+    "score_coefficient_permil_multiply": 100,
+    "pc_score_coefficient_permil_multiply": 100,
+    "fever_point": 100,
+    "music_creative_chart_difficulty_weight_permil": 60
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_RELAY",
+      "number": 4
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_AUTO",
+      "number": 100
+    },
+    "score_coefficient_permil_multiply": 100,
+    "pc_score_coefficient_permil_multiply": 100,
+    "fever_point": 100
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_CONTINUATION",
+      "number": 5
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_MISS",
+      "number": 1
+    },
+    "life_reduction_quantity": 20
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_CONTINUATION",
+      "number": 5
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_PERFECT",
+      "number": 5
+    },
+    "score_coefficient_permil_multiply": 100,
+    "pc_score_coefficient_permil_multiply": 100,
+    "fever_point": 100,
+    "music_creative_chart_difficulty_weight_permil": 10
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_CONTINUATION",
+      "number": 5
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_PERFECT_PLUS",
+      "number": 6
+    },
+    "acceptable_before_frame_count": 1.5,
+    "acceptable_after_frame_count": 1.5,
+    "score_coefficient_permil_multiply": 100,
+    "pc_score_coefficient_permil_multiply": 100,
+    "fever_point": 100,
+    "music_creative_chart_difficulty_weight_permil": 10
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_CONTINUATION",
+      "number": 5
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_AUTO",
+      "number": 100
+    },
+    "score_coefficient_permil_multiply": 100,
+    "pc_score_coefficient_permil_multiply": 100,
+    "fever_point": 100
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_END",
+      "number": 6
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_MISS",
+      "number": 1
+    },
+    "life_reduction_quantity": 100
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_END",
+      "number": 6
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_PERFECT",
+      "number": 5
+    },
+    "score_coefficient_permil_multiply": 1000,
+    "pc_score_coefficient_permil_multiply": 1000,
+    "fever_point": 1000,
+    "music_creative_chart_difficulty_weight_permil": 220
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_END",
+      "number": 6
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_PERFECT_PLUS",
+      "number": 6
+    },
+    "acceptable_before_frame_count": 1.5,
+    "acceptable_after_frame_count": 1.5,
+    "score_coefficient_permil_multiply": 1000,
+    "pc_score_coefficient_permil_multiply": 1000,
+    "fever_point": 1000,
+    "music_creative_chart_difficulty_weight_permil": 220
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_END",
+      "number": 6
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_AUTO",
+      "number": 100
+    },
+    "score_coefficient_permil_multiply": 800,
+    "pc_score_coefficient_permil_multiply": 800,
+    "fever_point": 1000
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_FLICK_END",
+      "number": 7
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_MISS",
+      "number": 1
+    },
+    "acceptable_before_frame_count": 9,
+    "acceptable_after_frame_count": 9,
+    "life_reduction_quantity": 100
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_FLICK_END",
+      "number": 7
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_BAD",
+      "number": 2
+    },
+    "acceptable_before_frame_count": 9,
+    "acceptable_after_frame_count": 8,
+    "life_reduction_quantity": 50
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_FLICK_END",
+      "number": 7
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_PERFECT",
+      "number": 5
+    },
+    "acceptable_before_frame_count": 6,
+    "acceptable_after_frame_count": 5,
+    "score_coefficient_permil_multiply": 1000,
+    "pc_score_coefficient_permil_multiply": 1000,
+    "fever_point": 1000,
+    "music_creative_chart_difficulty_weight_permil": 880
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_FLICK_END",
+      "number": 7
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_PERFECT_PLUS",
+      "number": 6
+    },
+    "acceptable_before_frame_count": 1.5,
+    "acceptable_after_frame_count": 1.5,
+    "score_coefficient_permil_multiply": 1000,
+    "pc_score_coefficient_permil_multiply": 1000,
+    "fever_point": 1000,
+    "music_creative_chart_difficulty_weight_permil": 880
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_LONG_FLICK_END",
+      "number": 7
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_AUTO",
+      "number": 100
+    },
+    "score_coefficient_permil_multiply": 800,
+    "pc_score_coefficient_permil_multiply": 800,
+    "fever_point": 1000
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_DAMAGE",
+      "number": 9
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_MISS",
+      "number": 1
+    },
+    "acceptable_before_frame_count": 3,
+    "acceptable_after_frame_count": 1,
+    "life_reduction_quantity": 50
+  },
+  {
+    "note_type": {
+      "name": "LIVE_NOTE_TYPE_DAMAGE",
+      "number": 9
+    },
+    "judgement_type": {
+      "name": "LIVE_NOTE_JUDGEMENT_TYPE_AUTO",
+      "number": 100
+    },
+    "score_coefficient_permil_multiply": 800,
+    "pc_score_coefficient_permil_multiply": 800,
+    "fever_point": 500
+  }
+]

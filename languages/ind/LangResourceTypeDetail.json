@@ -1,0 +1,198 @@
+[
+  {
+    "id": "la-resource_type_detail-appealtext",
+    "text": "-"
+  },
+  {
+    "id": "la-resource_type_detail-card-description",
+    "text": "Member yang dapat digunakan dalam Live."
+  },
+  {
+    "id": "la-resource_type_detail-card-name",
+    "text": "Member"
+  },
+  {
+    "id": "la-resource_type_detail-character-description",
+    "text": "holomem yang dapat dikendalikan."
+  },
+  {
+    "id": "la-resource_type_detail-character-name",
+    "text": "holomem"
+  },
+  {
+    "id": "la-resource_type_detail-costume-description",
+    "text": "Outfit yang dapat dikenakan holomem."
+  },
+  {
+    "id": "la-resource_type_detail-costume-name",
+    "text": "Outfit Konser"
+  },
+  {
+    "id": "la-resource_type_detail-custom_palette_decoration-description",
+    "text": "Dekorasi yang dapat dipasang pada profil kustom."
+  },
+  {
+    "id": "la-resource_type_detail-custom_palette_decoration-name",
+    "text": "Item Kustom"
+  },
+  {
+    "id": "la-resource_type_detail-emblem-description",
+    "text": "Judul untuk profil."
+  },
+  {
+    "id": "la-resource_type_detail-emblem-name",
+    "text": "Lencana"
+  },
+  {
+    "id": "la-resource_type_detail-fan_mark-description",
+    "text": "Tanda penggemar yang dapat digunakan setelah bergabung dalam membership."
+  },
+  {
+    "id": "la-resource_type_detail-fan_mark-name",
+    "text": "Tanda Penggemar"
+  },
+  {
+    "id": "la-resource_type_detail-gacha_point-description",
+    "text": "Poin yang diperoleh dari Gacha."
+  },
+  {
+    "id": "la-resource_type_detail-gacha_point-name",
+    "text": "Gacha Pt"
+  },
+  {
+    "id": "la-resource_type_detail-item-description",
+    "text": "Berbagai Item."
+  },
+  {
+    "id": "la-resource_type_detail-item-name",
+    "text": "Item"
+  },
+  {
+    "id": "la-resource_type_detail-live_skin-description",
+    "text": "Skin untuk mengubah tampilan Live."
+  },
+  {
+    "id": "la-resource_type_detail-live_skin-name",
+    "text": "Tampilan Live"
+  },
+  {
+    "id": "la-resource_type_detail-mission_pass_point-description",
+    "text": "Poin untuk meningkatkan progres Mission Pass."
+  },
+  {
+    "id": "la-resource_type_detail-mission_pass_point-name",
+    "text": "Mission Pass Pt"
+  },
+  {
+    "id": "la-resource_type_detail-music-description",
+    "text": "Lagu yang dapat dimainkan di Live."
+  },
+  {
+    "id": "la-resource_type_detail-music-name",
+    "text": "Lagu"
+  },
+  {
+    "id": "la-resource_type_detail-park_accessory-description",
+    "text": "Item yang dapat dipegang holomem di taman."
+  },
+  {
+    "id": "la-resource_type_detail-park_accessory-name",
+    "text": "Item Holomem"
+  },
+  {
+    "id": "la-resource_type_detail-park_emotion-description",
+    "text": "Emotikon yang dapat digunakan di taman dan Mini-game."
+  },
+  {
+    "id": "la-resource_type_detail-park_emotion-name",
+    "text": "Emotikon Taman"
+  },
+  {
+    "id": "la-resource_type_detail-player_exp-description",
+    "text": "Item yang dibutuhkan untuk menaikkan level pemain."
+  },
+  {
+    "id": "la-resource_type_detail-player_exp-name",
+    "text": "Dream Exp"
+  },
+  {
+    "id": "la-resource_type_detail-poster-description",
+    "text": "Memori yang dapat dipasang di Memory Stand taman."
+  },
+  {
+    "id": "la-resource_type_detail-poster-name",
+    "text": "Memori"
+  },
+  {
+    "id": "la-resource_type_detail-premium_mission_pass-description",
+    "text": "Mission Pass yang dapat dibeli di Toko."
+  },
+  {
+    "id": "la-resource_type_detail-premium_mission_pass-name",
+    "text": "Mission Pass Premium"
+  },
+  {
+    "id": "la-resource_type_detail-sd_costume-description",
+    "text": "Outfit yang dapat dikenakan di taman dan Mini-game."
+  },
+  {
+    "id": "la-resource_type_detail-sd_costume-name",
+    "text": "Outfit Taman"
+  },
+  {
+    "id": "la-resource_type_detail-sd_costume_hair_accessory-description",
+    "text": "Aksesori rambut yang dapat dikenakan di taman dan Mini-game."
+  },
+  {
+    "id": "la-resource_type_detail-sd_costume_hair_accessory-name",
+    "text": "Aksesori Rambut"
+  },
+  {
+    "id": "la-resource_type_detail-set-description",
+    "text": "-"
+  },
+  {
+    "id": "la-resource_type_detail-set-name",
+    "text": "Set"
+  },
+  {
+    "id": "la-resource_type_detail-skill_tree_point-description",
+    "text": "Dapat digunakan untuk membuka Holomem Board."
+  },
+  {
+    "id": "la-resource_type_detail-skill_tree_point-name",
+    "text": "Papan Holomem Pt"
+  },
+  {
+    "id": "la-resource_type_detail-stamp-description",
+    "text": "Stiker yang dapat digunakan saat multiplayer dan lainnya."
+  },
+  {
+    "id": "la-resource_type_detail-stamp-name",
+    "text": "Stiker"
+  },
+  {
+    "id": "la-resource_type_detail-stone_paid_only-description",
+    "text": "Item yang dapat digunakan untuk Gacha, pembelian item dan lainnya."
+  },
+  {
+    "id": "la-resource_type_detail-stone_paid_only-name",
+    "text": "Diamond Biru"
+  },
+  {
+    "id": "la-resource_type_detail-stone_total-description",
+    "text": "Item yang dapat digunakan untuk Gacha, pembelian item dan lainnya."
+  },
+  {
+    "id": "la-resource_type_detail-stone_total-name",
+    "text": "Diamond Merah"
+  },
+  {
+    "id": "la-resource_type_detail-wallpaper-description",
+    "text": "Item yang dapat digunakan pada Mega Puri di Mega Sphere."
+  },
+  {
+    "id": "la-resource_type_detail-wallpaper-name",
+    "text": "Wallpaper Latar Belakang"
+  }
+]

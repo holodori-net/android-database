@@ -1,0 +1,9110 @@
+[
+  {
+    "id": "combo_card_game-deck_0001",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0002",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0003",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0004",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0005",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0006",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0007",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0008",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0009",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0010",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0011",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0012",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0013",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0014",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0015",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0016",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0017",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0018",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0019",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0020",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0021",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0022",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0023",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0024",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0025",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0026",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0027",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0028",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0029",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0030",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0031",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0032",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0033",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0034",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0035",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0036",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0037",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0038",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0039",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0040",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0041",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0042",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0043",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0044",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0045",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0046",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0047",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0048",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0049",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0050",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0051",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0052",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0053",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0054",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0055",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0056",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0057",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0058",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0059",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0060",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0061",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0062",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0063",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0064",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0065",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0066",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0067",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0068",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0069",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0070",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0071",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0072",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0073",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0074",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0075",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0076",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0077",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0078",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0079",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0080",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0081",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0082",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0083",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0084",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0085",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0086",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0087",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0088",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0089",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0090",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0091",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0092",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0093",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0094",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0095",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0096",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0097",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0098",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0099",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0100",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0101",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0102",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0103",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0104",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0105",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0106",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0107",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0108",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0109",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0110",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0111",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0112",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0113",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0114",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0115",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0116",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0117",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0118",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0119",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0120",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0121",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0122",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0123",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0124",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0125",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0126",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0127",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0128",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0129",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0130",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0131",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0132",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0133",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0134",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0135",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0136",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0137",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0138",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0139",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0140",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0141",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0142",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0143",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0144",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0145",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0146",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0147",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0148",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0149",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0150",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0151",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0152",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0153",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0154",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0155",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0156",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 35
+  },
+  {
+    "id": "combo_card_game-deck_0157",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0158",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0159",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0160",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0161",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0162",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0163",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0164",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0165",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0166",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0167",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0168",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0169",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0170",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0171",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0172",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0173",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0174",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0175",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0176",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0177",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0178",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0179",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0180",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0181",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0182",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0183",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0184",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0185",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0186",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0187",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0188",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0189",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0190",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0191",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0192",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0193",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0194",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0195",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0196",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0197",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0198",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0199",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0200",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0201",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0202",
+    "character_grouping_ids": [
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0203",
+    "character_grouping_ids": [
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0204",
+    "character_grouping_ids": [
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0205",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0206",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0207",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0208",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0209",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0210",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0211",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0212",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0213",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0214",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0215",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0216",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0217",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0218",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0219",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0220",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0221",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0222",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0223",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0224",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0225",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0226",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_4"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0227",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0228",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0229",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0230",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0231",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0232",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0233",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0234",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0235",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0236",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0237",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0238",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0239",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0240",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0241",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0242",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0243",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0244",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0245",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0246",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0247",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0248",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0249",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0250",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0251",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0252",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0253",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0254",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0255",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0256",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0257",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0258",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0259",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0260",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0261",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0262",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0263",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0264",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0265",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0266",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0267",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0268",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0269",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0270",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0271",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0272",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0273",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0274",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0275",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0276",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0277",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0278",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0279",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0280",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0281",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0282",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0283",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0284",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0285",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0286",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0287",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0288",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0289",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0290",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0291",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0292",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0293",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0294",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0295",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0296",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0297",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0298",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0299",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0300",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0301",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0302",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0303",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0304",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0305",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0306",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0307",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0308",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0309",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0310",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0311",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0312",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0313",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0314",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0315",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0316",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0317",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0318",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0319",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0320",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_4"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0321",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0322",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0323",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0324",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0325",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0326",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0327",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0328",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0329",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0330",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0331",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0332",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0333",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0334",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0335",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0336",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0337",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0338",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0339",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0340",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0341",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0342",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0343",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0344",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0345",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0346",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0347",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0348",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0349",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0350",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0351",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0352",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0353",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0354",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0355",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0356",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0357",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0358",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0359",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0360",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0361",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0362",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0363",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0364",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0365",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0366",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0367",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0368",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0369",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0370",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0371",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0372",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0373",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0374",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0375",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0376",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0377",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0378",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0379",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0380",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0381",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0382",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0383",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0384",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0385",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0386",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0387",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0388",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0389",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0390",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0391",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0392",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0393",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0394",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0395",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0396",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0397",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0398",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0399",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0400",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0401",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0402",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0403",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0404",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0405",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0406",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0407",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0408",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0409",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0410",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0411",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0412",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0413",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0414",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0415",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0416",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0417",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0418",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0419",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0420",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0421",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0422",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0423",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0424",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0425",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0426",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0427",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0428",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0429",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0430",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0431",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0432",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0433",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0434",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0435",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0436",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0437",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0438",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0439",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0440",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0441",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0442",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0443",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0444",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0445",
+    "character_grouping_ids": [
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0446",
+    "character_grouping_ids": [
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0447",
+    "character_grouping_ids": [
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0448",
+    "character_grouping_ids": [
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0449",
+    "character_grouping_ids": [
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0450",
+    "character_grouping_ids": [
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0451",
+    "character_grouping_ids": [
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0452",
+    "character_grouping_ids": [
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0453",
+    "character_grouping_ids": [
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0454",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0455",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0456",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0457",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0458",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0459",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0460",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0461",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0462",
+    "character_grouping_ids": [
+      "grp-indonesia-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 44
+  },
+  {
+    "id": "combo_card_game-deck_0463",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0464",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0465",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0466",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0467",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0468",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0469",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0470",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0471",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0472",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0473",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0474",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0475",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0476",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0477",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0478",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0479",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0480",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0481",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0482",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0483",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_3",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0484",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0485",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0486",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0487",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0488",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0489",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0490",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0491",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0492",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0493",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0494",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0495",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0496",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0497",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0498",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0499",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0500",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0501",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0502",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0503",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0504",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0505",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0506",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0507",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0508",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0509",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0510",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0511",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0512",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0513",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0514",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0515",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0516",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0517",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0518",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0519",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0520",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0521",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0522",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0523",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0524",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0525",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0526",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0527",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0528",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0529",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0530",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0531",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0532",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0533",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0534",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0535",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0536",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0537",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0538",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0539",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0540",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0541",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0542",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0543",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0544",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0545",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0546",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0547",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0548",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0549",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0550",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0551",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0552",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0553",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0554",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0555",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0556",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0557",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0558",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0559",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0560",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0561",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0562",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0563",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0564",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0565",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0566",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0567",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-advent"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0568",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-advent",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0569",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0570",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_4"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0571",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0572",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_4"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0573",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0574",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0575",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0576",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0577",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0578",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0579",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0580",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0581",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0582",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0583",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0584",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0585",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0586",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gamers",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0587",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0588",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0589",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0590",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0591",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0592",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0593",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0594",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0595",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0596",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0597",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0598",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gamers",
+      "grp-gen_5",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0599",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0600",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0601",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0602",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0603",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0604",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0605",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0606",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0607",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0608",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0609",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0610",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0611",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0612",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0613",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0614",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0615",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0616",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0617",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0618",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0619",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0620",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0621",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0622",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_1",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0623",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0624",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0625",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_2",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0626",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0627",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0628",
+    "character_grouping_ids": [
+      "grp-gamers",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0629",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0630",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_4"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0631",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0632",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_4"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0633",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0634",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0635",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0636",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0637",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0638",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0639",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0640",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0641",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0642",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0643",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0644",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0645",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0646",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0647",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_4"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0648",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0649",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0650",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0651",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0652",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0653",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0654",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0655",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0656",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0657",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0658",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0659",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0660",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0661",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0662",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-gen_5"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0663",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0664",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0665",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0666",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0667",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0668",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0669",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0670",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0671",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0672",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0673",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0674",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0675",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0676",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0677",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0678",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0679",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0680",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0681",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0682",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0683",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0684",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0685",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0686",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0687",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_1"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0688",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_2"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0689",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_3"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0690",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0691",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0692",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0693",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0694",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0695",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0696",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0697",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0698",
+    "character_grouping_ids": [
+      "grp-gen_0",
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0699",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0700",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0701",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0702",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0703",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0704",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0705",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0706",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0707",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0708",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0709",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0710",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_2",
+      "grp-gen_5",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0711",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0712",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0713",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0714",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0715",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0716",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0717",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0718",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0719",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0720",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0721",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0722",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0723",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0724",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0725",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0726",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0727",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0728",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0729",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0730",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0731",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0732",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0733",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0734",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_1",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0735",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0736",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0737",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_2",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0738",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0739",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0740",
+    "character_grouping_ids": [
+      "grp-gen_1",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0741",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0742",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0743",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0744",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0745",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0746",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0747",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0748",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_3",
+      "grp-gen_5",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0749",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0750",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0751",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0752",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0753",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0754",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0755",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0756",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0757",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0758",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0759",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0760",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0761",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0762",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0763",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0764",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_1",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0765",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0766",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0767",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_2",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0768",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0769",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0770",
+    "character_grouping_ids": [
+      "grp-gen_2",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0771",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-holox"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0772",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0773",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0774",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-gen_4",
+      "grp-gen_5",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0775",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0776",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0777",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0778",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0779",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0780",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0781",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0782",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0783",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0784",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0785",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0786",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_1",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0787",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0788",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0789",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_2",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0790",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0791",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0792",
+    "character_grouping_ids": [
+      "grp-gen_3",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0793",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0794",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0795",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0796",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0797",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0798",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0799",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0800",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0801",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0802",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0803",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0804",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_1",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0805",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0806",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0807",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_2",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0808",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0809",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0810",
+    "character_grouping_ids": [
+      "grp-gen_4",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0811",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0812",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0813",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_1",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0814",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0815",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0816",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_2",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0817",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-myth"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0818",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0819",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-holox",
+      "grp-indonesia-gen_3",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0820",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0821",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0822",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_1",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0823",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0824",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0825",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_2",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0826",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-promise"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0827",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-myth",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  },
+  {
+    "id": "combo_card_game-deck_0828",
+    "character_grouping_ids": [
+      "grp-gen_5",
+      "grp-indonesia-gen_3",
+      "grp-promise",
+      "grp-regloss"
+    ],
+    "ratio": 400,
+    "finish_card_quantity": 53
+  }
+]

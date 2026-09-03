@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "success": true,
+  "state": "completed",
+  "masterVersion": "ecafc5026910aa691822a154f926ed55d83bd6613c4f27ca0591692e2f4700e1",
+  "app": {
+    "versionName": "1.1.0",
+    "versionCode": 1787028384
+  },
+  "languages": [
+    "jpn",
+    "eng",
+    "ind",
+    "kor",
+    "cht",
+    "chs"
+  ],
+  "tools": {
+    "node": "v26.10.0",
+    "nodeImage": "holodori/fetch-database:checks"
+  },
+  "inputs": {
+    "sourceRevision": "8505d5f3062b9fd58f59798e0396df46395def26",
+    "contractRevision": "0c17056d580339b0bf21f5fd199d2843e17dcad4"
+  },
+  "source": {
+    "packs": 993,
+    "bytes": 106962944
+  },
+  "outputs": {
+    "packs": 993,
+    "tables": 993,
+    "rows": 440139
+  },
+  "elapsedMs": 49862
+}

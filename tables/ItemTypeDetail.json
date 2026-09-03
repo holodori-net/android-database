@@ -1,0 +1,173 @@
+[
+  {
+    "type": {
+      "name": "ITEM_TYPE_CARD_LEVEL_UP",
+      "number": 1
+    },
+    "color": "98E133",
+    "name_lang_id": "la-item_type_detail-card_level_up",
+    "icon_asset_id": "card"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_CARD_LEVEL_LIMIT_BREAK",
+      "number": 2
+    },
+    "color": "98E133",
+    "name_lang_id": "la-item_type_detail-card_level_limit_break",
+    "icon_asset_id": "card"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_CARD_POTENTIAL_UPGRADE",
+      "number": 3
+    },
+    "color": "98E133",
+    "name_lang_id": "la-item_type_detail-card_potential_upgrade",
+    "icon_asset_id": "card"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_SKILL_TREE",
+      "number": 4
+    },
+    "color": "98E133",
+    "name_lang_id": "la-item_type_detail-skill_tree",
+    "icon_asset_id": "card"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_GACHA_TICKET",
+      "number": 5
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-item_type_detail-gacha_ticket",
+    "icon_asset_id": "other"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_FACILITY",
+      "number": 6
+    },
+    "color": "FFB028",
+    "name_lang_id": "la-item_type_detail-facility",
+    "icon_asset_id": "facility"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_EXCHANGE",
+      "number": 7
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-item_type_detail-exchange",
+    "icon_asset_id": "other"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_PARK_CHARACTER_QUEST",
+      "number": 8
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-item_type_detail-park_character_quest",
+    "icon_asset_id": "other"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_LIVE_REWARD_UP_STAMINA_RECOVER",
+      "number": 9
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-item_type_detail-live_reward_up_stamina_recover",
+    "icon_asset_id": "other"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_LIVE_AUTO_PLAY",
+      "number": 10
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-item_type_detail-live_auto_play",
+    "icon_asset_id": "other"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_MINI_GAME_BET_COIN",
+      "number": 11
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-item_type_detail-mini_game_bet_coin",
+    "icon_asset_id": "other"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-item_type_detail-character_coin",
+    "icon_asset_id": "other"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_MUSIC_RELEASE",
+      "number": 13
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-item_type_detail-music_release",
+    "icon_asset_id": "other"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_GOLD",
+      "number": 15
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-item_type_detail-gold",
+    "icon_asset_id": "other"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_SELECTABLE_REWARD_BOX",
+      "number": 16
+    },
+    "color": "98E133",
+    "name_lang_id": "la-item_type_detail-selectable_reward_box",
+    "icon_asset_id": "other"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_MINI_GAME_REWARD_UP_STAMINA_RECOVER",
+      "number": 17
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-item_type_detail-mini_game_reward_up_stamina_recover",
+    "icon_asset_id": "other"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-item_type_detail-quest_delivery",
+    "icon_asset_id": "other"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_OTHER",
+      "number": 999
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-item_type_detail-other",
+    "icon_asset_id": "other"
+  },
+  {
+    "type": {
+      "name": "ITEM_TYPE_MARATHON_EVENT_BADGE",
+      "number": 1000
+    },
+    "color": "28C3FF",
+    "name_lang_id": "la-item_type_detail-marathon_event_badge",
+    "icon_asset_id": "other"
+  }
+]

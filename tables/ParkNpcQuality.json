@@ -1,0 +1,176 @@
+[
+  {
+    "os_type": {
+      "name": "OS_TYPE_IOS",
+      "number": 1
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_MAX",
+      "number": 1
+    },
+    "lazy_load_max_npc_count": 15
+  },
+  {
+    "os_type": {
+      "name": "OS_TYPE_IOS",
+      "number": 1
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_HIGH",
+      "number": 2
+    },
+    "max_npc_count": 32,
+    "lazy_load_max_npc_count": 15
+  },
+  {
+    "os_type": {
+      "name": "OS_TYPE_IOS",
+      "number": 1
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_MEDIUM",
+      "number": 3
+    },
+    "max_npc_count": 24,
+    "lazy_load_max_npc_count": 15
+  },
+  {
+    "os_type": {
+      "name": "OS_TYPE_IOS",
+      "number": 1
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_LOW",
+      "number": 4
+    },
+    "max_npc_count": 16,
+    "lazy_load_max_npc_count": 12
+  },
+  {
+    "os_type": {
+      "name": "OS_TYPE_IOS",
+      "number": 1
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_VERY_LOW",
+      "number": 5
+    },
+    "max_npc_count": 12,
+    "lazy_load_max_npc_count": 8
+  },
+  {
+    "os_type": {
+      "name": "OS_TYPE_ANDROID",
+      "number": 2
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_MAX",
+      "number": 1
+    },
+    "lazy_load_max_npc_count": 15
+  },
+  {
+    "os_type": {
+      "name": "OS_TYPE_ANDROID",
+      "number": 2
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_HIGH",
+      "number": 2
+    },
+    "max_npc_count": 32,
+    "lazy_load_max_npc_count": 15
+  },
+  {
+    "os_type": {
+      "name": "OS_TYPE_ANDROID",
+      "number": 2
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_MEDIUM",
+      "number": 3
+    },
+    "max_npc_count": 24,
+    "lazy_load_max_npc_count": 15
+  },
+  {
+    "os_type": {
+      "name": "OS_TYPE_ANDROID",
+      "number": 2
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_LOW",
+      "number": 4
+    },
+    "max_npc_count": 16,
+    "lazy_load_max_npc_count": 12
+  },
+  {
+    "os_type": {
+      "name": "OS_TYPE_ANDROID",
+      "number": 2
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_VERY_LOW",
+      "number": 5
+    },
+    "max_npc_count": 12,
+    "lazy_load_max_npc_count": 8
+  },
+  {
+    "os_type": {
+      "name": "OS_TYPE_WINDOWS",
+      "number": 3
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_MAX",
+      "number": 1
+    }
+  },
+  {
+    "os_type": {
+      "name": "OS_TYPE_WINDOWS",
+      "number": 3
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_HIGH",
+      "number": 2
+    }
+  },
+  {
+    "os_type": {
+      "name": "OS_TYPE_WINDOWS",
+      "number": 3
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_MEDIUM",
+      "number": 3
+    },
+    "max_npc_count": 32,
+    "lazy_load_max_npc_count": 23
+  },
+  {
+    "os_type": {
+      "name": "OS_TYPE_WINDOWS",
+      "number": 3
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_LOW",
+      "number": 4
+    },
+    "max_npc_count": 24,
+    "lazy_load_max_npc_count": 15
+  },
+  {
+    "os_type": {
+      "name": "OS_TYPE_WINDOWS",
+      "number": 3
+    },
+    "graphics_quality_type": {
+      "name": "GRAPHICS_QUALITY_TYPE_VERY_LOW",
+      "number": 5
+    },
+    "max_npc_count": 24,
+    "lazy_load_max_npc_count": 15
+  }
+]

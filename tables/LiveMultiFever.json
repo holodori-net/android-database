@@ -1,0 +1,17 @@
+[
+  {
+    "required_fever_point_ratio_permil": 700
+  },
+  {
+    "perfect_fever_point_sum_from": 10000,
+    "required_fever_point_ratio_permil": 800
+  },
+  {
+    "perfect_fever_point_sum_from": 20000,
+    "required_fever_point_ratio_permil": 850
+  },
+  {
+    "perfect_fever_point_sum_from": 50000,
+    "required_fever_point_ratio_permil": 900
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "park_high_low-001",
+    "name_lang_id": "la-park_high_low-001-name",
+    "consumption_resource_type": {
+      "name": "RESOURCE_TYPE_ITEM",
+      "number": 3
+    },
+    "consumption_resource_id": "item-mini_game_bet_coin",
+    "consumption_quantity": "50",
+    "max_reward_quantity": "10001",
+    "daily_max_reward_quantity": "20000",
+    "daily_max_reward_reached_park_talk_group_id": "park_talk-perm-a02-highandlow-limit",
+    "park_high_low_hand_group_id": "park_high_low_hand-001"
+  }
+]

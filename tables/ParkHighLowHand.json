@@ -1,0 +1,91 @@
+[
+  {
+    "group_id": "park_high_low_hand-001",
+    "type": {
+      "name": "PARK_HIGH_LOW_HAND_TYPE_ONE_PAIR",
+      "number": 1
+    },
+    "name_lang_id": "la-park_high_low_hand-001-one_pair"
+  },
+  {
+    "group_id": "park_high_low_hand-001",
+    "type": {
+      "name": "PARK_HIGH_LOW_HAND_TYPE_TWO_PAIR",
+      "number": 2
+    },
+    "name_lang_id": "la-park_high_low_hand-001-two_pair",
+    "reward_quantity_up_permil_multiply": "4000"
+  },
+  {
+    "group_id": "park_high_low_hand-001",
+    "type": {
+      "name": "PARK_HIGH_LOW_HAND_TYPE_THREE_CARD",
+      "number": 3
+    },
+    "name_lang_id": "la-park_high_low_hand-001-three_card",
+    "reward_quantity_up_permil_multiply": "4000"
+  },
+  {
+    "group_id": "park_high_low_hand-001",
+    "type": {
+      "name": "PARK_HIGH_LOW_HAND_TYPE_STRAIGHT",
+      "number": 4
+    },
+    "name_lang_id": "la-park_high_low_hand-001-straight",
+    "reward_quantity_up_permil_multiply": "8000"
+  },
+  {
+    "group_id": "park_high_low_hand-001",
+    "type": {
+      "name": "PARK_HIGH_LOW_HAND_TYPE_FLUSH",
+      "number": 5
+    },
+    "name_lang_id": "la-park_high_low_hand-001-flush",
+    "reward_quantity_up_permil_multiply": "14000"
+  },
+  {
+    "group_id": "park_high_low_hand-001",
+    "type": {
+      "name": "PARK_HIGH_LOW_HAND_TYPE_FULL_HOUSE",
+      "number": 6
+    },
+    "name_lang_id": "la-park_high_low_hand-001-full_house",
+    "reward_quantity_up_permil_multiply": "16000"
+  },
+  {
+    "group_id": "park_high_low_hand-001",
+    "type": {
+      "name": "PARK_HIGH_LOW_HAND_TYPE_FOUR_CARD",
+      "number": 7
+    },
+    "name_lang_id": "la-park_high_low_hand-001-four_card",
+    "reward_quantity_up_permil_multiply": "30000"
+  },
+  {
+    "group_id": "park_high_low_hand-001",
+    "type": {
+      "name": "PARK_HIGH_LOW_HAND_TYPE_STRAIGHT_FLUSH",
+      "number": 8
+    },
+    "name_lang_id": "la-park_high_low_hand-001-straight_flush",
+    "reward_quantity_up_permil_multiply": "60000"
+  },
+  {
+    "group_id": "park_high_low_hand-001",
+    "type": {
+      "name": "PARK_HIGH_LOW_HAND_TYPE_ROYAL_STRAIGHT_FLUSH",
+      "number": 9
+    },
+    "name_lang_id": "la-park_high_low_hand-001-royal_straight_flush",
+    "reward_quantity_up_permil_multiply": "200000"
+  },
+  {
+    "group_id": "park_high_low_hand-001",
+    "type": {
+      "name": "PARK_HIGH_LOW_HAND_TYPE_FIVE_CARD",
+      "number": 10
+    },
+    "name_lang_id": "la-park_high_low_hand-001-five_card",
+    "reward_quantity_up_permil_multiply": "140000"
+  }
+]

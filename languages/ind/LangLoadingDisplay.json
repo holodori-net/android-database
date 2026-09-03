@@ -1,0 +1,418 @@
+[
+  {
+    "id": "la-loading_display-tips-achievement-001-text",
+    "text": "Selesaikan pencapaian untuk memperoleh EXP dan gelar Holomem!"
+  },
+  {
+    "id": "la-loading_display-tips-achievement-001-title",
+    "text": "Achievs"
+  },
+  {
+    "id": "la-loading_display-tips-card-001-text",
+    "text": "Stat akan meningkat saat Level Up."
+  },
+  {
+    "id": "la-loading_display-tips-card-001-title",
+    "text": "Level Member"
+  },
+  {
+    "id": "la-loading_display-tips-card-002-text",
+    "text": "Lesson Pt didapat dari Holowork dan lainnya!"
+  },
+  {
+    "id": "la-loading_display-tips-card-002-title",
+    "text": "Lesson Pt"
+  },
+  {
+    "id": "la-loading_display-tips-card-003-text",
+    "text": "Dapatkan bonus dari membuka Node di dalam area!"
+  },
+  {
+    "id": "la-loading_display-tips-card-003-title",
+    "text": "Connect Nodes"
+  },
+  {
+    "id": "la-loading_display-tips-card-004-text",
+    "text": "Level maksimum akan meningkat melalui pelatihan khusus!"
+  },
+  {
+    "id": "la-loading_display-tips-card-004-title",
+    "text": "Latihan Member"
+  },
+  {
+    "id": "la-loading_display-tips-card-005-text",
+    "text": "Item untuk latihan didapat dari hadiah Live Clear dan lainnya!"
+  },
+  {
+    "id": "la-loading_display-tips-card-005-title",
+    "text": "Item untuk Latihan"
+  },
+  {
+    "id": "la-loading_display-tips-card-006-text",
+    "text": "Lakukan Bloom untuk memperkuat Skill dan Efek Connect"
+  },
+  {
+    "id": "la-loading_display-tips-card-006-title",
+    "text": "Member Mekar"
+  },
+  {
+    "id": "la-loading_display-tips-card-007-text",
+    "text": "Memperkuat Member bisa menaikkan Skor Unit!"
+  },
+  {
+    "id": "la-loading_display-tips-card-007-title",
+    "text": "Skor Unit"
+  },
+  {
+    "id": "la-loading_display-tips-card-008-text",
+    "text": "Ada 3 tipe Member!"
+  },
+  {
+    "id": "la-loading_display-tips-card-008-title",
+    "text": "Tipe Member"
+  },
+  {
+    "id": "la-loading_display-tips-card-009-text",
+    "text": "Efek skill aktif selama Live!"
+  },
+  {
+    "id": "la-loading_display-tips-card-009-title",
+    "text": "Skill Member"
+  },
+  {
+    "id": "la-loading_display-tips-character-001-text",
+    "text": "Menaikkan level bisa mendapatkan material Holomem Board!"
+  },
+  {
+    "id": "la-loading_display-tips-character-001-title",
+    "text": "Holomem Rank"
+  },
+  {
+    "id": "la-loading_display-tips-character-002-text",
+    "text": "Perkuat Unit dengan membuka Node"
+  },
+  {
+    "id": "la-loading_display-tips-character-002-title",
+    "text": "Board Holomem"
+  },
+  {
+    "id": "la-loading_display-tips-character-003-text",
+    "text": "Ganti outfit untuk mengubah Skill Outfit"
+  },
+  {
+    "id": "la-loading_display-tips-character-003-title",
+    "text": "Skill Outfit"
+  },
+  {
+    "id": "la-loading_display-tips-exchange-001-text",
+    "text": "Ketika item tidak cukup, cobalah ke NePoLaBo Mart!"
+  },
+  {
+    "id": "la-loading_display-tips-exchange-001-title",
+    "text": "Tukar Item"
+  },
+  {
+    "id": "la-loading_display-tips-exchange-coin-001-text",
+    "text": "Ubah dorongan Anda menjadi koin di Mega Sphere Coin Exchange!"
+  },
+  {
+    "id": "la-loading_display-tips-exchange-coin-001-title",
+    "text": "Meningkatkan Transformasi"
+  },
+  {
+    "id": "la-loading_display-tips-friend-001-text",
+    "text": "Tambah teman untuk dapat mengundang pemain ke dalam mode multiplayer."
+  },
+  {
+    "id": "la-loading_display-tips-friend-001-title",
+    "text": "Teman"
+  },
+  {
+    "id": "la-loading_display-tips-friend-002-text",
+    "text": "Permintaan pertemanan bisa dilakukan dari profil!"
+  },
+  {
+    "id": "la-loading_display-tips-friend-002-title",
+    "text": "Permintaan Pertemanan"
+  },
+  {
+    "id": "la-loading_display-tips-gacha-001-text",
+    "text": "Gacha Pt bisa ditukarkan dengan Member!"
+  },
+  {
+    "id": "la-loading_display-tips-gacha-001-title",
+    "text": "Gacha Pt"
+  },
+  {
+    "id": "la-loading_display-tips-live-001-text",
+    "text": "Ada 4 tingkat kesulitan"
+  },
+  {
+    "id": "la-loading_display-tips-live-001-title",
+    "text": "Tingkat Kesulitan Live"
+  },
+  {
+    "id": "la-loading_display-tips-live-002-text",
+    "text": "Hadiah Penyelesaian Live tersedia untuk setiap lagu!"
+  },
+  {
+    "id": "la-loading_display-tips-live-002-title",
+    "text": "Hadiah Penyelesaian Live"
+  },
+  {
+    "id": "la-loading_display-tips-live-003-text",
+    "text": "Lagu dari penukaran Disk Lagu, bisa dimainkan di Live!"
+  },
+  {
+    "id": "la-loading_display-tips-live-003-title",
+    "text": "Menambahkan musik live"
+  },
+  {
+    "id": "la-loading_display-tips-live-004-text",
+    "text": "Gunakan Tiket Auto untuk memainkan live secara otomatis."
+  },
+  {
+    "id": "la-loading_display-tips-live-004-title",
+    "text": "Auto Live"
+  },
+  {
+    "id": "la-loading_display-tips-live-005-text",
+    "text": "Anda dapat bermain dari \"MULTI\"!"
+  },
+  {
+    "id": "la-loading_display-tips-live-005-title",
+    "text": "Live Bersama"
+  },
+  {
+    "id": "la-loading_display-tips-live-006-text",
+    "text": "Hadiah meningkat dengan mengkonsumsi Boost!"
+  },
+  {
+    "id": "la-loading_display-tips-live-006-title",
+    "text": "Live Boost"
+  },
+  {
+    "id": "la-loading_display-tips-live-007-text",
+    "text": "Buat dan publikasikan Partitur Musik sesukamu, serta mainkan Partitur Musik buatan semua orang!"
+  },
+  {
+    "id": "la-loading_display-tips-live-007-title",
+    "text": "Buat Partitur"
+  },
+  {
+    "id": "la-loading_display-tips-mg-001-text",
+    "text": "Hadiah meningkat dengan mengkonsumsi Boost!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-001-title",
+    "text": "Minigame Boost"
+  },
+  {
+    "id": "la-loading_display-tips-mg-chase-001-text",
+    "text": "Menggunakan kunci secara berurutan akan mempercepat waktu penggunaannya!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-chase-001-title",
+    "text": "Petunjuk Shadowbound Chase  (Tim Jahil)"
+  },
+  {
+    "id": "la-loading_display-tips-mg-chase-002-text",
+    "text": "Coba aktifkan skill dengan timing yang tepat!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-chase-002-title",
+    "text": "Petunjuk Shadowbound Chase (Tim Patroli)"
+  },
+  {
+    "id": "la-loading_display-tips-mg-circuit-001-text",
+    "text": "Gunakan tombol lari untuk menghindari rintangan!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-circuit-001-title",
+    "text": "Tips Mega Circuit"
+  },
+  {
+    "id": "la-loading_display-tips-mg-combo-card-game-001-text",
+    "text": "Perhatikan bonus warna yang sama ketika menyusun kombinasi kartu!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-combo-card-game-001-title",
+    "text": "Tips Pokajan!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-cooking-puzzle-001-text",
+    "text": "Jika suatu bahan tersembunyi, coba tekan tombol acak!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-cooking-puzzle-001-title",
+    "text": "Tips Collect Cooking"
+  },
+  {
+    "id": "la-loading_display-tips-mg-high-low-001-text",
+    "text": "Manfaatkan Double Up dengan baik untuk mendapatkan banyak koin!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-high-low-001-title",
+    "text": "Tips Card of Greed"
+  },
+  {
+    "id": "la-loading_display-tips-mg-jump-rope-001-text",
+    "text": "Bila orang yang memutar tali berubah, kecepatan dan cara memutarnya pun akan berubah!"
+  },
+  {
+    "id": "la-loading_display-tips-mg-jump-rope-001-title",
+    "text": "Petunjuk Hoppin' Rope"
+  },
+  {
+    "id": "la-loading_display-tips-mission-001-text",
+    "text": "Tingkatkan Level Misi untuk mendapatkan hadiah"
+  },
+  {
+    "id": "la-loading_display-tips-mission-001-title",
+    "text": "Mission Pass"
+  },
+  {
+    "id": "la-loading_display-tips-park-001-text",
+    "text": "Dapatkan hadiah dengan menaikkan Rank"
+  },
+  {
+    "id": "la-loading_display-tips-park-001-title",
+    "text": "Dream Rank"
+  },
+  {
+    "id": "la-loading_display-tips-park-002-text",
+    "text": "Klaim hadiah harian di holo Home"
+  },
+  {
+    "id": "la-loading_display-tips-park-002-title",
+    "text": "Hadiah"
+  },
+  {
+    "id": "la-loading_display-tips-park-003-text",
+    "text": "Efek baru akan ditambahkan setelah Upgrade"
+  },
+  {
+    "id": "la-loading_display-tips-park-003-title",
+    "text": "Upgrade Fasilitas"
+  },
+  {
+    "id": "la-loading_display-tips-park-004-text",
+    "text": "Anda dapat mengambil foto dengan bebas di taman!"
+  },
+  {
+    "id": "la-loading_display-tips-park-004-title",
+    "text": "Mode Foto"
+  },
+  {
+    "id": "la-loading_display-tips-park-005-text",
+    "text": "Pilih fasilitas yang ingin Anda tuju dan tekan \"Pindah\" untuk langsung pindah ke sana!"
+  },
+  {
+    "id": "la-loading_display-tips-park-005-title",
+    "text": "Peta"
+  },
+  {
+    "id": "la-loading_display-tips-park-006-text",
+    "text": "Anda dapat mengubah waktu di Promise Tower!"
+  },
+  {
+    "id": "la-loading_display-tips-park-006-title",
+    "text": "Waktu"
+  },
+  {
+    "id": "la-loading_display-tips-park-007-text",
+    "text": "Gunakan untuk berkomunikasi saat bermain Multiplayer"
+  },
+  {
+    "id": "la-loading_display-tips-park-007-title",
+    "text": "Stiker"
+  },
+  {
+    "id": "la-loading_display-tips-park-008-text",
+    "text": "Kumpulkan Memori untuk menaikkan stat"
+  },
+  {
+    "id": "la-loading_display-tips-park-008-title",
+    "text": "Memori"
+  },
+  {
+    "id": "la-loading_display-tips-park-009-text",
+    "text": "Anda dapat menghidupkan kembali cerita tersebut di HOLO Cinemas!"
+  },
+  {
+    "id": "la-loading_display-tips-park-009-title",
+    "text": "Cerita"
+  },
+  {
+    "id": "la-loading_display-tips-park-010-text",
+    "text": "Ada di berbagai tempat dalam area, ayo coba cari!"
+  },
+  {
+    "id": "la-loading_display-tips-park-010-title",
+    "text": "Kotak Harta"
+  },
+  {
+    "id": "la-loading_display-tips-park-011-text",
+    "text": "Jumlah dalam area bisa dilihat dari Peta!"
+  },
+  {
+    "id": "la-loading_display-tips-park-011-title",
+    "text": "Jumlah Harta Karun"
+  },
+  {
+    "id": "la-loading_display-tips-profile-001-text",
+    "text": "Gelar yang didapat bisa dipasang di profil!"
+  },
+  {
+    "id": "la-loading_display-tips-profile-001-title",
+    "text": "Lencana"
+  },
+  {
+    "id": "la-loading_display-tips-quest-001-text",
+    "text": "Cerita bisa dilanjutkan dengan menyelesaikan Quest!"
+  },
+  {
+    "id": "la-loading_display-tips-quest-001-title",
+    "text": "Quest Utama"
+  },
+  {
+    "id": "la-loading_display-tips-quest-002-text",
+    "text": "Menyelesaikan Quest bisa membuka akses holomem!"
+  },
+  {
+    "id": "la-loading_display-tips-quest-002-title",
+    "text": "Misi Holomem"
+  },
+  {
+    "id": "la-loading_display-tips-quest-003-text",
+    "text": "Menyelesaikan Quest bisa mendapatkan berbagai hadiah!"
+  },
+  {
+    "id": "la-loading_display-tips-quest-003-title",
+    "text": "Misi Area"
+  },
+  {
+    "id": "la-loading_display-tips-quest-004-text",
+    "text": "Misi Harian diperbarui setiap hari!"
+  },
+  {
+    "id": "la-loading_display-tips-quest-004-title",
+    "text": "Misi Harian"
+  },
+  {
+    "id": "la-loading_display-tips-quest-005-text",
+    "text": "Ada 4 jenis Quest!"
+  },
+  {
+    "id": "la-loading_display-tips-quest-005-title",
+    "text": "Jenis Quest"
+  },
+  {
+    "id": "la-loading_display-tips-work-001-text",
+    "text": "Atur tim Anda dan berpartisipasilah dalam aktivitas untuk memperoleh hadiah!"
+  },
+  {
+    "id": "la-loading_display-tips-work-001-title",
+    "text": "Holowork"
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "id": "la-item-card-potential-upgrade-cmn-description",
+    "text": "★5メンバーの開花に使用するアイテム。"
+  },
+  {
+    "id": "la-item-card-potential-upgrade-cmn-name",
+    "text": "ブルームストーン"
+  },
+  {
+    "id": "la-item-card_level_up-description",
+    "text": "メンバーのレベルアップに使用するアイテム。"
+  },
+  {
+    "id": "la-item-card_level_up-name",
+    "text": "レッスンPt"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_1-1-description",
+    "text": "メンバーの特訓に使用するアイテム。"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_1-1-name",
+    "text": "キュートピース"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_1-2-description",
+    "text": "メンバーの特訓に使用するアイテム。"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_1-2-name",
+    "text": "キュートクリスタル"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_2-1-description",
+    "text": "メンバーの特訓に使用するアイテム。"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_2-1-name",
+    "text": "ピュアピース"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_2-2-description",
+    "text": "メンバーの特訓に使用するアイテム。"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_2-2-name",
+    "text": "ピュアクリスタル"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_3-1-description",
+    "text": "メンバーの特訓に使用するアイテム。"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_3-1-name",
+    "text": "ハッピーピース"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_3-2-description",
+    "text": "メンバーの特訓に使用するアイテム。"
+  },
+  {
+    "id": "la-item-card_limit_break-attribute_3-2-name",
+    "text": "ハッピークリスタル"
+  },
+  {
+    "id": "la-item-card_limit_break-cmn-sr-description",
+    "text": "メンバーの特訓に使用するアイテム。"
+  },
+  {
+    "id": "la-item-card_limit_break-cmn-sr-name",
+    "text": "ホロリウム"
+  },
+  {
+    "id": "la-item-character_coin-chr-00001-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00001-name",
+    "text": "メンシメダル(そら)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00002-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00002-name",
+    "text": "メンシメダル(ロボ子さん)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00004-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00004-name",
+    "text": "メンシメダル(アキ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00005-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00005-name",
+    "text": "メンシメダル(はあと)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00006-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00006-name",
+    "text": "メンシメダル(フブキ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00007-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00007-name",
+    "text": "メンシメダル(まつり)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00010-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00010-name",
+    "text": "メンシメダル(あやめ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00011-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00011-name",
+    "text": "メンシメダル(ちょこ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00012-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00012-name",
+    "text": "メンシメダル(スバル)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00013-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00013-name",
+    "text": "メンシメダル(AZKi)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00014-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00014-name",
+    "text": "メンシメダル(ミオ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00015-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00015-name",
+    "text": "メンシメダル(みこ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00016-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00016-name",
+    "text": "メンシメダル(おかゆ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00017-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00017-name",
+    "text": "メンシメダル(ころね)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00018-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00018-name",
+    "text": "メンシメダル(すいせい)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00019-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00019-name",
+    "text": "メンシメダル(ぺこら)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00021-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00021-name",
+    "text": "メンシメダル(フレア)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00022-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00022-name",
+    "text": "メンシメダル(ノエル)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00023-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00023-name",
+    "text": "メンシメダル(マリン)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00026-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00026-name",
+    "text": "メンシメダル(わため)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00027-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00027-name",
+    "text": "メンシメダル(トワ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00028-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00028-name",
+    "text": "メンシメダル(ルーナ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00030-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00030-name",
+    "text": "メンシメダル(ラミィ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00031-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00031-name",
+    "text": "メンシメダル(ねね)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00032-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00032-name",
+    "text": "メンシメダル(ぼたん)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00034-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00034-name",
+    "text": "メンシメダル(ポルカ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00035-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00035-name",
+    "text": "メンシメダル(ラプラス)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00036-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00036-name",
+    "text": "メンシメダル(ルイ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00037-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00037-name",
+    "text": "メンシメダル(こより)"
+  },
+  {
+    "id": "la-item-character_coin-chr-00039-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-00039-name",
+    "text": "メンシメダル(いろは)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03001-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-03001-name",
+    "text": "メンシメダル(リス)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03002-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-03002-name",
+    "text": "メンシメダル(ムーナ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03003-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-03003-name",
+    "text": "メンシメダル(イオフィ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03004-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-03004-name",
+    "text": "メンシメダル(オリー)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03005-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-03005-name",
+    "text": "メンシメダル(アーニャ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03006-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-03006-name",
+    "text": "メンシメダル(レイネ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03007-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-03007-name",
+    "text": "メンシメダル(ゼータ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03008-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-03008-name",
+    "text": "メンシメダル(カエラ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-03009-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-03009-name",
+    "text": "メンシメダル(こぼ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04001-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-04001-name",
+    "text": "メンシメダル(カリオペ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04002-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-04002-name",
+    "text": "メンシメダル(キアラ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04003-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-04003-name",
+    "text": "メンシメダル(伊那尓栖)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04007-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-04007-name",
+    "text": "メンシメダル(IRyS)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04010-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-04010-name",
+    "text": "メンシメダル(クロニー)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04012-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-04012-name",
+    "text": "メンシメダル(ベールズ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04013-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-04013-name",
+    "text": "メンシメダル(シオリ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04014-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-04014-name",
+    "text": "メンシメダル(ビジュー)"
+  },
+  {
+    "id": "la-item-character_coin-chr-04015-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-04015-name",
+    "text": "メンシメダル(ネリッサ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-06002-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-06002-name",
+    "text": "メンシメダル(奏)"
+  },
+  {
+    "id": "la-item-character_coin-chr-06003-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-06003-name",
+    "text": "メンシメダル(莉々華)"
+  },
+  {
+    "id": "la-item-character_coin-chr-06004-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-06004-name",
+    "text": "メンシメダル(らでん)"
+  },
+  {
+    "id": "la-item-character_coin-chr-06005-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-06005-name",
+    "text": "メンシメダル(はじめ)"
+  },
+  {
+    "id": "la-item-character_coin-chr-80001-description",
+    "text": "メンバーシップ内のアイテムと交換できるメダル。"
+  },
+  {
+    "id": "la-item-character_coin-chr-80001-name",
+    "text": "メンシメダル(FUWAMOCO)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-description",
+    "text": "イベント交換所のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-name",
+    "text": "イベントバッジ"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-002-chapter-01-description",
+    "text": "イベント交換所のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-002-chapter-01-name",
+    "text": "イベントバッジ"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-description",
+    "text": "イベント交換所のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-name",
+    "text": "イベントバッジ"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-all-description",
+    "text": "イベント交換所(共通)のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-all-name",
+    "text": "イベントバッジ(共通)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-01-description",
+    "text": "イベント交換所(カリオペ)のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-01-name",
+    "text": "イベントバッジ(カリオペ)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-02-description",
+    "text": "イベント交換所(あやめ)のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-02-name",
+    "text": "イベントバッジ(あやめ)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-03-description",
+    "text": "イベント交換所(オリー)のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-03-name",
+    "text": "イベントバッジ(オリー)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-04-description",
+    "text": "イベント交換所(ルーナ)のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-04-name",
+    "text": "イベントバッジ(ルーナ)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-05-description",
+    "text": "イベント交換所(伊那尓栖)のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-001-chapter-05-name",
+    "text": "イベントバッジ(伊那尓栖)"
+  },
+  {
+    "id": "la-item-exchange-holomedal-description",
+    "text": "パーク内のショップでアイテムと交換できるアイテム。"
+  },
+  {
+    "id": "la-item-exchange-holomedal-name",
+    "text": "ホロメダル"
+  },
+  {
+    "id": "la-item-facility-area_a01-000-cmn-description",
+    "text": "施設の建築や強化などに使用するアイテム"
+  },
+  {
+    "id": "la-item-facility-area_a01-000-cmn-name",
+    "text": "木材"
+  },
+  {
+    "id": "la-item-facility-area_a01-001-1-description",
+    "text": "施設の建築や強化などに使用するアイテム"
+  },
+  {
+    "id": "la-item-facility-area_a01-001-1-name",
+    "text": "釘"
+  },
+  {
+    "id": "la-item-facility-area_a01-001-2-description",
+    "text": "施設の建築や強化などに使用するアイテム"
+  },
+  {
+    "id": "la-item-facility-area_a01-001-2-name",
+    "text": "ペンキ"
+  },
+  {
+    "id": "la-item-facility-area_a01-002-1-description",
+    "text": "施設の建築や強化などに使用するアイテム"
+  },
+  {
+    "id": "la-item-facility-area_a01-002-1-name",
+    "text": "石材"
+  },
+  {
+    "id": "la-item-facility-area_a01-002-2-description",
+    "text": "施設の建築や強化などに使用するアイテム"
+  },
+  {
+    "id": "la-item-facility-area_a01-002-2-name",
+    "text": "ガラス"
+  },
+  {
+    "id": "la-item-facility-area_a02-000-cmn-description",
+    "text": "メガスフィアにある筐体の修理に使用するアイテム。"
+  },
+  {
+    "id": "la-item-facility-area_a02-000-cmn-name",
+    "text": "修理素材"
+  },
+  {
+    "id": "la-item-facility-area_a02-001-1-description",
+    "text": "施設の建築や強化などに使用するアイテム"
+  },
+  {
+    "id": "la-item-facility-area_a02-001-1-name",
+    "text": "ねじ"
+  },
+  {
+    "id": "la-item-facility-area_a02-002-1-description",
+    "text": "施設の建築や強化などに使用するアイテム"
+  },
+  {
+    "id": "la-item-facility-area_a02-002-1-name",
+    "text": "ICチップ"
+  },
+  {
+    "id": "la-item-gacha-cmn_sticker-01-description",
+    "text": "ホロステッカー交換所でアイテムと交換できるステッカー。"
+  },
+  {
+    "id": "la-item-gacha-cmn_sticker-01-name",
+    "text": "ホロステッカー"
+  },
+  {
+    "id": "la-item-gacha-sp_sticker-01-description",
+    "text": "特別ホロステッカー交換所でアイテムと交換できるステッカー。"
+  },
+  {
+    "id": "la-item-gacha-sp_sticker-01-name",
+    "text": "特別ホロステッカー"
+  },
+  {
+    "id": "la-item-gacha_ticket-cmn-01-description",
+    "text": "ホロドリガチャを引くことができるチケット。"
+  },
+  {
+    "id": "la-item-gacha_ticket-cmn-01-name",
+    "text": "ホロドリガチャ\nチケット"
+  },
+  {
+    "id": "la-item-gacha_ticket-r4-01-description",
+    "text": "★4以上確定ガチャを引くことができるチケット。"
+  },
+  {
+    "id": "la-item-gacha_ticket-r4-01-name",
+    "text": "★4以上確定\nガチャチケット"
+  },
+  {
+    "id": "la-item-gacha_ticket-r5-01-description",
+    "text": "★5確定チケットガチャを引くことができるチケット。"
+  },
+  {
+    "id": "la-item-gacha_ticket-r5-01-name",
+    "text": "★5確定ガチャチケット"
+  },
+  {
+    "id": "la-item-gold-description",
+    "text": "さまざまな用途に使用するアイテム。"
+  },
+  {
+    "id": "la-item-gold-name",
+    "text": "ホロゴールド"
+  },
+  {
+    "id": "la-item-live_auto_play-description",
+    "text": "ライブをオートでプレイできるアイテム。"
+  },
+  {
+    "id": "la-item-live_auto_play-name",
+    "text": "オートチケット"
+  },
+  {
+    "id": "la-item-live_reward_up_stamina_recover-description",
+    "text": "ライブブーストに変換することができるアイテム。"
+  },
+  {
+    "id": "la-item-live_reward_up_stamina_recover-name",
+    "text": "ライブブーストドリンク"
+  },
+  {
+    "id": "la-item-mini-game-chase-coin-description",
+    "text": "ハーモニーガーデンコイン交換所で商品と交換できるアイテム。"
+  },
+  {
+    "id": "la-item-mini-game-chase-coin-name",
+    "text": "ハーモニーガーデンコイン"
+  },
+  {
+    "id": "la-item-mini_game_bet_coin-description",
+    "text": "メガスフィアのミニゲームや交換所などで使用するアイテム。"
+  },
+  {
+    "id": "la-item-mini_game_bet_coin-name",
+    "text": "メガスフィアコイン"
+  },
+  {
+    "id": "la-item-mini_game_reward_up_stamina_recover-description",
+    "text": "ミニゲームブーストに変換することができるアイテム。"
+  },
+  {
+    "id": "la-item-mini_game_reward_up_stamina_recover-name",
+    "text": "ミニゲームブースト\nゼリー"
+  },
+  {
+    "id": "la-item-music_release-description",
+    "text": "楽曲の交換に使用するアイテム。"
+  },
+  {
+    "id": "la-item-music_release-name",
+    "text": "ミュージックディスク"
+  },
+  {
+    "id": "la-item-park_character_quest-description",
+    "text": "ホロメンを選択してホロメンクエストを発生させることができるアイテム。"
+  },
+  {
+    "id": "la-item-park_character_quest-name",
+    "text": "ホロメン招待状"
+  },
+  {
+    "id": "la-item-quest-area-a01-17-1-2-description",
+    "text": "AdventのメンバーがThe Cell リターンズを掃除するための用具。Adventのメンバーに渡して掃除を始めよう。"
+  },
+  {
+    "id": "la-item-quest-area-a01-17-1-2-name",
+    "text": "掃除用具"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-02-1-4-description",
+    "text": "ホロメンの荷物が入った段ボール。私物を中心にいろいろなものが入っている。必要な人に届けてあげよう。"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-02-1-4-name",
+    "text": "ホロメンの荷物"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-05-1-4-description",
+    "text": "ホロメンの荷物が入った段ボール。私物だけではなくライブに必要なものも入っている。必要な人に届けてあげよう。"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-05-1-4-name",
+    "text": "ホロメンの荷物"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-08-1-4-description",
+    "text": "ホロメンの荷物が入った段ボール。3期生の荷物とゲーマーズの荷物がある。必要な人に届けてあげよう。"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-08-1-4-name",
+    "text": "ホロメンの荷物"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-11-1-4-description",
+    "text": "たらふくジャーニーで提供する、ものすごく美味しそうなドリンク。在庫がなくなる前にたらふくジャーニーへ届けよう。"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-11-1-4-name",
+    "text": "美味しそうなドリンク"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-11-1-5-description",
+    "text": "たらふくジャーニーで提供する、ものすごく美味しそうな食材たち。在庫がなくなる前にたらふくジャーニーへ届けよう。"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-11-1-5-name",
+    "text": "美味しそうな食材"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-12-1-3-description",
+    "text": "ねぽらぼ特製の、シンプルながら遊び心の効いたお弁当。天気がいいのでピクニックで食べよう。"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-12-1-3-name",
+    "text": "ねぽらぼパクパク弁当"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-12-1-4-description",
+    "text": "h3roビークルで調達したお菓子の詰め合わせ。天気がいいのでピクニックで食べよう。"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-12-1-4-name",
+    "text": "お菓子の詰め合わせ"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-13-1-4-description",
+    "text": "パークの施設に必要な備品たち。今すぐ必要ではないが、無いと困るものばかり。それぞれの施設に届けてあげよう。"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-13-1-4-name",
+    "text": "施設の備品"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-15-1-1-description",
+    "text": "ルチュ・チュ・モビル15で取り扱っている色とりどりのバルーン。ホロメンたちに届けて感想を聞いてみよう。"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-15-1-1-name",
+    "text": "カラフルなバルーン"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-18-1-3-description",
+    "text": "ちょべりばドリパ出張所、完成パーティーの飾り付け用バルーン。持ち帰ってパーティーに華を添えよう。"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-18-1-3-name",
+    "text": "パーティー用バルーン"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-18-1-4-description",
+    "text": "ちょべりばドリパ出張所、完成パーティーの飾り。いろんな形のものがある。持ち帰って飾りつけよう。"
+  },
+  {
+    "id": "la-item-quest-main-w1-01-18-1-4-name",
+    "text": "パーティーの飾り"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-10-description",
+    "text": "好きなピース10個と交換できるアイテム。"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-10-name",
+    "text": "ピースボックス S"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-100-description",
+    "text": "好きなピース100個と交換できるアイテム。"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-100-name",
+    "text": "ピースボックス M"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-300-description",
+    "text": "好きなピース300個と交換できるアイテム。"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_1-300-name",
+    "text": "ピースボックス L"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-10-description",
+    "text": "好きなクリスタル10個と交換できるアイテム。"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-10-name",
+    "text": "クリスタルボックス S"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-100-description",
+    "text": "好きなクリスタル100個と交換できるアイテム。"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-100-name",
+    "text": "クリスタルボックス M"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-300-description",
+    "text": "好きなクリスタル300個と交換できるアイテム。"
+  },
+  {
+    "id": "la-item-selectable_reward_box-item-card_limit_break-attribute_2-300-name",
+    "text": "クリスタルボックス L"
+  },
+  {
+    "id": "la-item-selectable_reward_membership_medal",
+    "text": "リリース記念プレゼント"
+  },
+  {
+    "id": "la-item-selectable_reward_membership_medal-description",
+    "text": "好きなメンシメダルを選択して獲得できるボックス。"
+  },
+  {
+    "id": "la-item-skill_tree_allmember-1-description",
+    "text": "ホロメンボードのマスの解放に使用するアイテム。"
+  },
+  {
+    "id": "la-item-skill_tree_allmember-1-name",
+    "text": "グリーンキューブ"
+  },
+  {
+    "id": "la-item-skill_tree_allmember-2-description",
+    "text": "ホロメンボードのマスの解放に使用するアイテム。"
+  },
+  {
+    "id": "la-item-skill_tree_allmember-2-name",
+    "text": "グリーンコアキューブ"
+  },
+  {
+    "id": "la-item-skill_tree_card-1-description",
+    "text": "ホロメンボードのマスの解放に使用するアイテム。"
+  },
+  {
+    "id": "la-item-skill_tree_card-1-name",
+    "text": "ブルーキューブ"
+  },
+  {
+    "id": "la-item-skill_tree_card-2-description",
+    "text": "ホロメンボードのマスの解放に使用するアイテム。"
+  },
+  {
+    "id": "la-item-skill_tree_card-2-name",
+    "text": "ブルーコアキューブ"
+  },
+  {
+    "id": "la-item-skill_tree_content-1-description",
+    "text": "ホロメンボードのマスの解放に使用するアイテム。"
+  },
+  {
+    "id": "la-item-skill_tree_content-1-name",
+    "text": "イエローキューブ"
+  },
+  {
+    "id": "la-item-skill_tree_content-2-description",
+    "text": "ホロメンボードのマスの解放に使用するアイテム。"
+  },
+  {
+    "id": "la-item-skill_tree_content-2-name",
+    "text": "イエローコアキューブ"
+  },
+  {
+    "id": "la-item-skill_tree_leader-1-description",
+    "text": "ホロメンボードのマスの解放に使用するアイテム。"
+  },
+  {
+    "id": "la-item-skill_tree_leader-1-name",
+    "text": "レッドキューブ"
+  },
+  {
+    "id": "la-item-skill_tree_leader-2-description",
+    "text": "ホロメンボードのマスの解放に使用するアイテム。"
+  },
+  {
+    "id": "la-item-skill_tree_leader-2-name",
+    "text": "レッドコアキューブ"
+  }
+]

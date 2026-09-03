@@ -1,0 +1,135 @@
+[
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_CARD_LEVEL_UP",
+      "number": 1
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_CARD_LEVEL_LIMIT_BREAK",
+      "number": 2
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_CARD_POTENTIAL_UPGRADE",
+      "number": 3
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_SKILL_TREE",
+      "number": 4
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_GACHA_TICKET",
+      "number": 5
+    },
+    "limit": "99999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_FACILITY",
+      "number": 6
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_EXCHANGE",
+      "number": 7
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_PARK_CHARACTER_QUEST",
+      "number": 8
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_LIVE_REWARD_UP_STAMINA_RECOVER",
+      "number": 9
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_LIVE_AUTO_PLAY",
+      "number": 10
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_MINI_GAME_BET_COIN",
+      "number": 11
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_CHARACTER_COIN",
+      "number": 12
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_MUSIC_RELEASE",
+      "number": 13
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_GOLD",
+      "number": 15
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_SELECTABLE_REWARD_BOX",
+      "number": 16
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_MINI_GAME_REWARD_UP_STAMINA_RECOVER",
+      "number": 17
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_OTHER",
+      "number": 999
+    },
+    "limit": "999999999"
+  },
+  {
+    "item_type": {
+      "name": "ITEM_TYPE_MARATHON_EVENT_BADGE",
+      "number": 1000
+    },
+    "limit": "999999999"
+  }
+]

@@ -1070,6 +1070,29 @@
     ]
   },
   {
+    "id": "item-event_badge-marathon_event-normal-004-chapter-01",
+    "name_lang_id": "la-item-event_badge-marathon_event-normal-004-chapter-01-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-normal-004-chapter-01-description",
+    "type": {
+      "name": "ITEM_TYPE_MARATHON_EVENT_BADGE",
+      "number": 1000
+    },
+    "common_limit_time": "1790161199000",
+    "asset_id": "event-badge-03",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-normal-004-chapter-01",
+    "order": 9002,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
     "id": "item-event_badge-marathon_event-relay-001-all",
     "name_lang_id": "la-item-event_badge-marathon_event-relay-001-all-name",
     "description_lang_id": "la-item-event_badge-marathon_event-relay-001-all-description",

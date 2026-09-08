@@ -497,7 +497,7 @@
   },
   {
     "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-description",
-    "text": "Lencana untuk penukaran item di tempat Penukaran Event.\nAkan dikonversi menjadi Hologold setelah periode selesai."
+    "text": "Lencana dapat ditukar dengan item di tempat Penukaran Event.\nAkan dikonversi menjadi Hologold setelah periode selesai."
   },
   {
     "id": "la-item-event_badge-marathon_event-normal-001-chapter-01-name",
@@ -517,6 +517,14 @@
   },
   {
     "id": "la-item-event_badge-marathon_event-normal-003-chapter-01-name",
+    "text": "Lencana Event"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-004-chapter-01-description",
+    "text": "Lencana dapat ditukar dengan item di tempat Penukaran Event.\nAkan dikonversi menjadi Hologold setelah periode selesai."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-004-chapter-01-name",
     "text": "Lencana Event"
   },
   {
@@ -709,7 +717,7 @@
   },
   {
     "id": "la-item-mini-game-chase-coin-name",
-    "text": "Koin Harmony Garden."
+    "text": "Koin Harmony Garden"
   },
   {
     "id": "la-item-mini_game_bet_coin-description",

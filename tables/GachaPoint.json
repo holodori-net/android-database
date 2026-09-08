@@ -40,5 +40,12 @@
     "icon_asset_id": "gacha-point-common-001",
     "exchange_booth_group_id": "exchange_booth_group-gacha-pickup-260829",
     "order": 1
+  },
+  {
+    "id": "gacha_point-pickup-260908",
+    "name_lang_id": "la-gacha_point-pickup-260908",
+    "icon_asset_id": "gacha-point-common-001",
+    "exchange_booth_group_id": "exchange_booth_group-gacha-pickup-260908",
+    "order": 1
   }
 ]

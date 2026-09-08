@@ -48,6 +48,10 @@
     "text": "【Putri Pantai Manja Luna】Skill SP"
   },
   {
+    "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
+    "text": "【Rehat Si Bos Andal Lui】Skill SP"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
     "text": "【Selam Seru Musim Panas Ollie】Skill SP"
   },
@@ -58,6 +62,14 @@
   {
     "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself",
     "text": "【Jejak Memori Ombak Ina'nis】Skill SP"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
+    "text": "【Desir Musim Panas Fuwawa】Skill SP"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself",
+    "text": "【Semilir Musim Panas Mococo】Skill SP"
   },
   {
     "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_myself",
@@ -824,6 +836,22 @@
     "text": "【Eksekutif Ulung Lui】 Skill SP"
   },
   {
+    "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_00036-to-04016",
+    "text": "【Rehat Si Bos Andal Lui】Lui&Fuwawa"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_00036-to-04017",
+    "text": "【Rehat Si Bos Andal Lui】Lui&Mococo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_04016-to-00036",
+    "text": "【Rehat Si Bos Andal Lui】Fuwawa&Lui"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_04017-to-00036",
+    "text": "【Rehat Si Bos Andal Lui】Mococo&Lui"
+  },
+  {
     "id": "la-name_live_dial_voice_card_00037-5-uniq-0030-00_00037-to-00035",
     "text": "【Penjerat Hati Asisten Koyori】Koyori&La+"
   },
@@ -1212,6 +1240,22 @@
     "text": "【Pesta Donat Empuk Fuwawa】 Skill SP"
   },
   {
+    "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_00036-to-04016",
+    "text": "【Desir Musim Panas Fuwawa】Lui&Fuwawa"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_04016-to-00036",
+    "text": "【Desir Musim Panas Fuwawa】Fuwawa&Lui"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_04016-to-04017",
+    "text": "【Desir Musim Panas Fuwawa】Fuwawa&Mococo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_04017-to-04016",
+    "text": "【Desir Musim Panas Fuwawa】Mococo&Fuwawa"
+  },
+  {
     "id": "la-name_live_dial_voice_card_04017-5-uniq-0056-00_04017-to-04013",
     "text": "【Pesta Donat Santai Mococo】Mococo&Shiori"
   },
@@ -1230,6 +1274,22 @@
   {
     "id": "la-name_live_dial_voice_card_04017-5-uniq-0056-00_myself",
     "text": "【Pesta Donat Santai Mococo】 Skill SP"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_00036-to-04017",
+    "text": "【Semilir Musim Panas Mococo】Lui&Mococo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_04016-to-04017",
+    "text": "【Semilir Musim Panas Mococo】Fuwawa&Mococo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_04017-to-00036",
+    "text": "【Semilir Musim Panas Mococo】Mococo&Lui"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_04017-to-04016",
+    "text": "【Semilir Musim Panas Mococo】Mococo&Fuwawa"
   },
   {
     "id": "la-name_live_dial_voice_card_06002-5-uniq-0058-00_06002-to-06003",

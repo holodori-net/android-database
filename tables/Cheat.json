@@ -492,6 +492,21 @@
       "name": "CHEAT_PARAMETER_TYPE_SINGLE_JUMP_ROPE_SCORE_TAMPERING_ELAPSED_TIME_COEFFICIENT_PERMIL_MULTIPLY",
       "number": 100000
     },
+    "threshold": "2000"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_SINGLE_JUMP_ROPE_SCORE_TAMPERING",
+      "number": 1000
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_RED",
+      "number": 2
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_SINGLE_JUMP_ROPE_SCORE_TAMPERING_ELAPSED_TIME_COEFFICIENT_PERMIL_MULTIPLY",
+      "number": 100000
+    },
     "threshold": "3000"
   },
   {
@@ -717,7 +732,7 @@
       "name": "CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_ABNORMAL_MOVE_SPEED_DURATION_MILLISECONDS",
       "number": 105000
     },
-    "threshold": "3000"
+    "threshold": "4000"
   },
   {
     "type": {
@@ -732,7 +747,7 @@
       "name": "CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_SPEED_UP_SKILL_DURATION_GRACE_MILLISECONDS",
       "number": 105001
     },
-    "threshold": "3000"
+    "threshold": "4000"
   },
   {
     "type": {
@@ -762,7 +777,7 @@
       "name": "CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_ABNORMAL_MOVE_SPEED_DURATION_MILLISECONDS",
       "number": 105000
     },
-    "threshold": "20000"
+    "threshold": "10000"
   },
   {
     "type": {
@@ -837,7 +852,7 @@
       "name": "CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_MISCHIEF_TEAM_SELF_SCORE",
       "number": 105003
     },
-    "threshold": "10000"
+    "threshold": "7000"
   },
   {
     "type": {
@@ -852,7 +867,7 @@
       "name": "CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_PATROL_TEAM_SELF_SCORE",
       "number": 105004
     },
-    "threshold": "10000"
+    "threshold": "7000"
   },
   {
     "type": {

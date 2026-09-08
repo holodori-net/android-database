@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "success": true,
   "state": "completed",
-  "masterVersion": "ecafc5026910aa691822a154f926ed55d83bd6613c4f27ca0591692e2f4700e1",
+  "masterVersion": "e50116c3c75a4da07b27936baa10bdc1eabd71955406848104f2a0e0241ac508",
   "app": {
     "versionName": "1.1.0",
     "versionCode": 1787028384
@@ -25,12 +25,12 @@
   },
   "source": {
     "packs": 993,
-    "bytes": 106962944
+    "bytes": 107540480
   },
   "outputs": {
     "packs": 993,
     "tables": 993,
-    "rows": 440139
+    "rows": 441996
   },
-  "elapsedMs": 49862
+  "elapsedMs": 50184
 }

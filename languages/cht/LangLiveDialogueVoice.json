@@ -48,6 +48,10 @@
     "text": "【悠哉公主的撒嬌海灘 璐娜】SP技能"
   },
   {
+    "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
+    "text": "【享受療癒海浪聲的幹練幹部 琉依】SP技能"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
     "text": "【常夏的Crazy Dive Ollie】SP技能"
   },
@@ -58,6 +62,14 @@
   {
     "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself",
     "text": "【循著記憶中的海潮聲 Ina'nis】SP技能"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
+    "text": "【Fuwawa的Flowing Summer Fuwawa】SP技能"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself",
+    "text": "【Mococo的Breezy Summer Mococo】SP技能"
   },
   {
     "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_myself",
@@ -824,6 +836,22 @@
     "text": "【支撐組織的超強幹練幹部 琉依】 SP技能"
   },
   {
+    "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_00036-to-04016",
+    "text": "【享受療癒海浪聲的幹練幹部 琉依】琉依&Fuwawa"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_00036-to-04017",
+    "text": "【享受療癒海浪聲的幹練幹部 琉依】琉依&Mococo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_04016-to-00036",
+    "text": "【享受療癒海浪聲的幹練幹部 琉依】Fuwawa&琉依"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00036-5-uniq-0078-00_04017-to-00036",
+    "text": "【享受療癒海浪聲的幹練幹部 琉依】Mococo&琉依"
+  },
+  {
     "id": "la-name_live_dial_voice_card_00037-5-uniq-0030-00_00037-to-00035",
     "text": "【緊緊抓住助手君內心的LIVE 小夜璃】小夜璃&拉普拉斯"
   },
@@ -1212,6 +1240,22 @@
     "text": "【蓬鬆甜甜圈派對♪ Fuwawa】 SP技能"
   },
   {
+    "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_00036-to-04016",
+    "text": "【Fuwawa的Flowing Summer Fuwawa】琉依&Fuwawa"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_04016-to-00036",
+    "text": "【Fuwawa的Flowing Summer Fuwawa】Fuwawa&琉依"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_04016-to-04017",
+    "text": "【Fuwawa的Flowing Summer Fuwawa】Fuwawa&Mococo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04016-5-uniq-0079-00_04017-to-04016",
+    "text": "【Fuwawa的Flowing Summer Fuwawa】Mococo&Fuwawa"
+  },
+  {
     "id": "la-name_live_dial_voice_card_04017-5-uniq-0056-00_04017-to-04013",
     "text": "【悠閒愜意的甜甜圈派對♪ Mococo】Mococo&Shiori"
   },
@@ -1230,6 +1274,22 @@
   {
     "id": "la-name_live_dial_voice_card_04017-5-uniq-0056-00_myself",
     "text": "【悠閒愜意的甜甜圈派對♪ Mococo】 SP技能"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_00036-to-04017",
+    "text": "【Mococo的Breezy Summer Mococo】琉依&Mococo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_04016-to-04017",
+    "text": "【Mococo的Breezy Summer Mococo】Fuwawa&Mococo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_04017-to-00036",
+    "text": "【Mococo的Breezy Summer Mococo】Mococo&琉依"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04017-5-uniq-0080-00_04017-to-04016",
+    "text": "【Mococo的Breezy Summer Mococo】Mococo&Fuwawa"
   },
   {
     "id": "la-name_live_dial_voice_card_06002-5-uniq-0058-00_06002-to-06003",

@@ -820,6 +820,21 @@
     "live_dialogue_voice_id": "live_dial_voice_card_00039-5-uniq-0032-00_00039-to-00036"
   },
   {
+    "card_id": "card-00036-5-uniq-0078-00",
+    "leader_character_id": "chr-00036",
+    "live_dialogue_voice_id": "live_dial_voice_card_00036-5-uniq-0078-00_myself"
+  },
+  {
+    "card_id": "card-00036-5-uniq-0078-00",
+    "leader_character_id": "chr-04016",
+    "live_dialogue_voice_id": "live_dial_voice_card_00036-5-uniq-0078-00_04016-to-00036"
+  },
+  {
+    "card_id": "card-00036-5-uniq-0078-00",
+    "leader_character_id": "chr-04017",
+    "live_dialogue_voice_id": "live_dial_voice_card_00036-5-uniq-0078-00_04017-to-00036"
+  },
+  {
     "card_id": "card-00037-5-uniq-0030-00",
     "leader_character_id": "chr-00035",
     "live_dialogue_voice_id": "live_dial_voice_card_00035-5-uniq-0028-00_00035-to-00037"
@@ -1260,6 +1275,21 @@
     "live_dialogue_voice_id": "live_dial_voice_card_04017-5-uniq-0056-00_04017-to-04016"
   },
   {
+    "card_id": "card-04016-5-uniq-0079-00",
+    "leader_character_id": "chr-00036",
+    "live_dialogue_voice_id": "live_dial_voice_card_04016-5-uniq-0079-00_00036-to-04016"
+  },
+  {
+    "card_id": "card-04016-5-uniq-0079-00",
+    "leader_character_id": "chr-04016",
+    "live_dialogue_voice_id": "live_dial_voice_card_04016-5-uniq-0079-00_myself"
+  },
+  {
+    "card_id": "card-04016-5-uniq-0079-00",
+    "leader_character_id": "chr-04017",
+    "live_dialogue_voice_id": "live_dial_voice_card_04016-5-uniq-0079-00_04017-to-04016"
+  },
+  {
     "card_id": "card-04017-5-uniq-0056-00",
     "leader_character_id": "chr-04013",
     "live_dialogue_voice_id": "live_dial_voice_card_04013-5-uniq-0052-00_04013-to-04017"
@@ -1283,6 +1313,21 @@
     "card_id": "card-04017-5-uniq-0056-00",
     "leader_character_id": "chr-04017",
     "live_dialogue_voice_id": "live_dial_voice_card_04017-5-uniq-0056-00_myself"
+  },
+  {
+    "card_id": "card-04017-5-uniq-0080-00",
+    "leader_character_id": "chr-00036",
+    "live_dialogue_voice_id": "live_dial_voice_card_04017-5-uniq-0080-00_00036-to-04017"
+  },
+  {
+    "card_id": "card-04017-5-uniq-0080-00",
+    "leader_character_id": "chr-04016",
+    "live_dialogue_voice_id": "live_dial_voice_card_04017-5-uniq-0080-00_04016-to-04017"
+  },
+  {
+    "card_id": "card-04017-5-uniq-0080-00",
+    "leader_character_id": "chr-04017",
+    "live_dialogue_voice_id": "live_dial_voice_card_04017-5-uniq-0080-00_myself"
   },
   {
     "card_id": "card-06002-5-uniq-0058-00",

@@ -165,6 +165,17 @@
     "order": 26070005
   },
   {
+    "id": "sdcos-00004-uniq-0081-00",
+    "character_id": "chr-00004",
+    "name_lang_id": "la-sdcos-00004-uniq-0081-00",
+    "hair_asset_id": "uniq-0081-00",
+    "accessory_hair_asset_id": "00004-base-0000-00",
+    "body_asset_id": "uniq-0081-00",
+    "base_thumbnail_asset_id": "default-001",
+    "base_thumbnail_color": "ABE64D",
+    "order": 26093001
+  },
+  {
     "id": "sdcos-00005-cmmn-0000-00",
     "character_id": "chr-00005",
     "name_lang_id": "la-sdcos-00005-cmmn-0000-00",
@@ -1638,6 +1649,17 @@
     "order": 26070005
   },
   {
+    "id": "sdcos-00035-uniq-0082-00",
+    "character_id": "chr-00035",
+    "name_lang_id": "la-sdcos-00035-uniq-0082-00",
+    "hair_asset_id": "uniq-0082-00",
+    "accessory_hair_asset_id": "00035-base-0000-00",
+    "body_asset_id": "uniq-0082-00",
+    "base_thumbnail_asset_id": "default-001",
+    "base_thumbnail_color": "9464D2",
+    "order": 26093001
+  },
+  {
     "id": "sdcos-00036-cmmn-0000-00",
     "character_id": "chr-00036",
     "name_lang_id": "la-sdcos-00036-cmmn-0000-00",
@@ -2108,6 +2130,17 @@
     "base_thumbnail_asset_id": "default-001",
     "base_thumbnail_color": "F3BF41",
     "order": 26070005
+  },
+  {
+    "id": "sdcos-03005-uniq-0084-00",
+    "character_id": "chr-03005",
+    "name_lang_id": "la-sdcos-03005-uniq-0084-00",
+    "hair_asset_id": "uniq-0084-00",
+    "accessory_hair_asset_id": "03005-base-0000-00",
+    "body_asset_id": "uniq-0084-00",
+    "base_thumbnail_asset_id": "default-001",
+    "base_thumbnail_color": "F3BF41",
+    "order": 26093001
   },
   {
     "id": "sdcos-03006-cmmn-0000-00",
@@ -2775,6 +2808,17 @@
     "base_thumbnail_asset_id": "default-001",
     "base_thumbnail_color": "C288F7",
     "order": 26070005
+  },
+  {
+    "id": "sdcos-04013-uniq-0083-00",
+    "character_id": "chr-04013",
+    "name_lang_id": "la-sdcos-04013-uniq-0083-00",
+    "hair_asset_id": "uniq-0083-00",
+    "accessory_hair_asset_id": "04013-base-0000-00",
+    "body_asset_id": "uniq-0083-00",
+    "base_thumbnail_asset_id": "default-001",
+    "base_thumbnail_color": "C288F7",
+    "order": 26093001
   },
   {
     "id": "sdcos-04014-cmmn-0000-00",

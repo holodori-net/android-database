@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "success": true,
   "state": "completed",
-  "masterVersion": "77f2004e9d1a46fccd0d39b88b5175ddd8b48d25108060751c7864e29474d1d3",
+  "masterVersion": "927a8489062cfb8aaee197689930a4c4e9c622e9ebbf8b80577bdbe5f065dcf9",
   "app": {
-    "versionName": "1.1.0",
-    "versionCode": 1787028384
+    "versionName": "1.1.1",
+    "versionCode": 1788354987
   },
   "languages": [
     "jpn",
@@ -21,16 +21,16 @@
   },
   "inputs": {
     "sourceRevision": "8505d5f3062b9fd58f59798e0396df46395def26",
-    "contractRevision": "0c17056d580339b0bf21f5fd199d2843e17dcad4"
+    "contractRevision": "49231bbe810de6b4960e07050e54cf25bb4fb6fd"
   },
   "source": {
     "packs": 993,
-    "bytes": 107544576
+    "bytes": 108552192
   },
   "outputs": {
     "packs": 993,
     "tables": 993,
-    "rows": 441998
+    "rows": 445351
   },
-  "elapsedMs": 58252
+  "elapsedMs": 53924
 }

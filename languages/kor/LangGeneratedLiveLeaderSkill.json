@@ -36,6 +36,10 @@
     "text": "전원의 센스가 120% UP "
   },
   {
+    "id": "la-generated-live_leader_skill-card-00004-5-uniq-0081-00-description",
+    "text": "1기생(이)가 2명 이상이면 전원의 테크닉이 135% UP "
+  },
+  {
     "id": "la-generated-live_leader_skill-card-00005-3-nrml-0006-00-description",
     "text": "전원의 전체 파라미터가 15% UP "
   },
@@ -372,6 +376,10 @@
     "text": "holoX(이)가 2명 이상이면 전원의 전체 파라미터가 50% UP "
   },
   {
+    "id": "la-generated-live_leader_skill-card-00035-5-uniq-0082-00-description",
+    "text": "[attribute=cute]큐트 타입[/attribute] 2명 이상이면 전원의 퍼포먼스가 80% UP [attribute=cute]큐트 타입[/attribute] 2명 이상이면 전원의 스코어 서포트 효과 25%"
+  },
+  {
     "id": "la-generated-live_leader_skill-card-00036-3-nrml-0029-00-description",
     "text": "전원의 전체 파라미터가 15% UP "
   },
@@ -474,6 +482,10 @@
   {
     "id": "la-generated-live_leader_skill-card-03005-5-uniq-0037-00-description",
     "text": "ID 2기생(이)가 2명 이상이면 전원의 전체 파라미터가 50% UP "
+  },
+  {
+    "id": "la-generated-live_leader_skill-card-03005-5-uniq-0084-00-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 2명 이상이면 전원의 퍼포먼스가 130% UP "
   },
   {
     "id": "la-generated-live_leader_skill-card-03006-3-nrml-0038-00-description",
@@ -614,6 +626,10 @@
   {
     "id": "la-generated-live_leader_skill-card-04013-5-uniq-0052-00-description",
     "text": "전원의 퍼포먼스가 120% UP "
+  },
+  {
+    "id": "la-generated-live_leader_skill-card-04013-5-uniq-0083-00-description",
+    "text": "[attribute=cute]큐트 타입[/attribute] 2명 이상이면 전원의 전체 파라미터가 30% UP [attribute=cute]큐트 타입[/attribute] 2명 이상이면 전원의 스코어 서포트 효과 25%"
   },
   {
     "id": "la-generated-live_leader_skill-card-04014-3-nrml-0053-00-description",

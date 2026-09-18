@@ -154,6 +154,13 @@
     ]
   },
   {
+    "id": "story-character_story_chr-00004_002",
+    "asset_ids": [
+      "adv_event_2609_02_00004-01",
+      "adv_event_2609_02_00004-02"
+    ]
+  },
+  {
     "id": "story-character_story_chr-00005_001",
     "asset_ids": [
       "adv_chr_00005_01_01-01",
@@ -367,6 +374,13 @@
     ]
   },
   {
+    "id": "story-character_story_chr-00035_002",
+    "asset_ids": [
+      "adv_event_2609_02_00035-01",
+      "adv_event_2609_02_00035-02"
+    ]
+  },
+  {
     "id": "story-character_story_chr-00036_001",
     "asset_ids": [
       "adv_chr_00036_01_01-01",
@@ -438,6 +452,13 @@
       "adv_chr_03005_01_01-01",
       "adv_chr_03005_01_01-02",
       "adv_chr_03005_01_01-03"
+    ]
+  },
+  {
+    "id": "story-character_story_chr-03005_002",
+    "asset_ids": [
+      "adv_event_2609_02_03005-01",
+      "adv_event_2609_02_03005-02"
     ]
   },
   {
@@ -540,6 +561,13 @@
       "adv_chr_04013_01_01-01",
       "adv_chr_04013_01_01-02",
       "adv_chr_04013_01_01-03"
+    ]
+  },
+  {
+    "id": "story-character_story_chr-04013_002",
+    "asset_ids": [
+      "adv_event_2609_02_04013-01",
+      "adv_event_2609_02_04013-02"
     ]
   },
   {
@@ -1137,6 +1165,54 @@
     "id": "story-marathon_event-relay-001-chapter-05-02",
     "asset_ids": [
       "adv_event_2608_02_04003-02"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-002-chapter-01-01",
+    "asset_ids": [
+      "adv_event_2609_02_00004-01"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-002-chapter-01-02",
+    "asset_ids": [
+      "adv_event_2609_02_00004-02"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-002-chapter-02-01",
+    "asset_ids": [
+      "adv_event_2609_02_04013-01"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-002-chapter-02-02",
+    "asset_ids": [
+      "adv_event_2609_02_04013-02"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-002-chapter-03-01",
+    "asset_ids": [
+      "adv_event_2609_02_00035-01"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-002-chapter-03-02",
+    "asset_ids": [
+      "adv_event_2609_02_00035-02"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-002-chapter-04-01",
+    "asset_ids": [
+      "adv_event_2609_02_03005-01"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-002-chapter-04-02",
+    "asset_ids": [
+      "adv_event_2609_02_03005-02"
     ]
   },
   {

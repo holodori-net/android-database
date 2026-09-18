@@ -70,6 +70,31 @@
     "live_dialogue_voice_id": "live_dial_voice_card_00004-5-uniq-0005-00_00004-to-00007"
   },
   {
+    "costume_id": "cos-00004-uniq-0081-00",
+    "card_character_id": "chr-00002",
+    "live_dialogue_voice_id": "live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00002"
+  },
+  {
+    "costume_id": "cos-00004-uniq-0081-00",
+    "card_character_id": "chr-00004",
+    "live_dialogue_voice_id": "live_dial_voice_card_00004-5-uniq-0081-00_myself"
+  },
+  {
+    "costume_id": "cos-00004-uniq-0081-00",
+    "card_character_id": "chr-00011",
+    "live_dialogue_voice_id": "live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00011"
+  },
+  {
+    "costume_id": "cos-00004-uniq-0081-00",
+    "card_character_id": "chr-00012",
+    "live_dialogue_voice_id": "live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00012"
+  },
+  {
+    "costume_id": "cos-00004-uniq-0081-00",
+    "card_character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00030"
+  },
+  {
     "costume_id": "cos-00005-uniq-0006-00",
     "card_character_id": "chr-00004",
     "live_dialogue_voice_id": "live_dial_voice_card_00005-5-uniq-0006-00_00005-to-00004"
@@ -800,6 +825,31 @@
     "live_dialogue_voice_id": "live_dial_voice_card_00035-5-uniq-0028-00_00035-to-00039"
   },
   {
+    "costume_id": "cos-00035-uniq-0082-00",
+    "card_character_id": "chr-00013",
+    "live_dialogue_voice_id": "live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00013"
+  },
+  {
+    "costume_id": "cos-00035-uniq-0082-00",
+    "card_character_id": "chr-00027",
+    "live_dialogue_voice_id": "live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00027"
+  },
+  {
+    "costume_id": "cos-00035-uniq-0082-00",
+    "card_character_id": "chr-00035",
+    "live_dialogue_voice_id": "live_dial_voice_card_00035-5-uniq-0082-00_myself"
+  },
+  {
+    "costume_id": "cos-00035-uniq-0082-00",
+    "card_character_id": "chr-00039",
+    "live_dialogue_voice_id": "live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00039"
+  },
+  {
+    "costume_id": "cos-00035-uniq-0082-00",
+    "card_character_id": "chr-06002",
+    "live_dialogue_voice_id": "live_dial_voice_card_00035-5-uniq-0082-00_00035-to-06002"
+  },
+  {
     "costume_id": "cos-00036-uniq-0029-00",
     "card_character_id": "chr-00035",
     "live_dialogue_voice_id": "live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00035"
@@ -973,6 +1023,31 @@
     "costume_id": "cos-03005-uniq-0037-00",
     "card_character_id": "chr-03006",
     "live_dialogue_voice_id": "live_dial_voice_card_03005-5-uniq-0037-00_03005-to-03006"
+  },
+  {
+    "costume_id": "cos-03005-uniq-0084-00",
+    "card_character_id": "chr-00021",
+    "live_dialogue_voice_id": "live_dial_voice_card_03005-5-uniq-0084-00_03005-to-00021"
+  },
+  {
+    "costume_id": "cos-03005-uniq-0084-00",
+    "card_character_id": "chr-00026",
+    "live_dialogue_voice_id": "live_dial_voice_card_03005-5-uniq-0084-00_03005-to-00026"
+  },
+  {
+    "costume_id": "cos-03005-uniq-0084-00",
+    "card_character_id": "chr-03005",
+    "live_dialogue_voice_id": "live_dial_voice_card_03005-5-uniq-0084-00_myself"
+  },
+  {
+    "costume_id": "cos-03005-uniq-0084-00",
+    "card_character_id": "chr-04003",
+    "live_dialogue_voice_id": "live_dial_voice_card_03005-5-uniq-0084-00_03005-to-04003"
+  },
+  {
+    "costume_id": "cos-03005-uniq-0084-00",
+    "card_character_id": "chr-04007",
+    "live_dialogue_voice_id": "live_dial_voice_card_03005-5-uniq-0084-00_03005-to-04007"
   },
   {
     "costume_id": "cos-03006-uniq-0038-00",
@@ -1198,6 +1273,31 @@
     "costume_id": "cos-04013-uniq-0052-00",
     "card_character_id": "chr-04017",
     "live_dialogue_voice_id": "live_dial_voice_card_04013-5-uniq-0052-00_04013-to-04017"
+  },
+  {
+    "costume_id": "cos-04013-uniq-0083-00",
+    "card_character_id": "chr-03005",
+    "live_dialogue_voice_id": "live_dial_voice_card_04013-5-uniq-0083-00_04013-to-03005"
+  },
+  {
+    "costume_id": "cos-04013-uniq-0083-00",
+    "card_character_id": "chr-03007",
+    "live_dialogue_voice_id": "live_dial_voice_card_04013-5-uniq-0083-00_04013-to-03007"
+  },
+  {
+    "costume_id": "cos-04013-uniq-0083-00",
+    "card_character_id": "chr-04001",
+    "live_dialogue_voice_id": "live_dial_voice_card_04013-5-uniq-0083-00_04013-to-04001"
+  },
+  {
+    "costume_id": "cos-04013-uniq-0083-00",
+    "card_character_id": "chr-04013",
+    "live_dialogue_voice_id": "live_dial_voice_card_04013-5-uniq-0083-00_myself"
+  },
+  {
+    "costume_id": "cos-04013-uniq-0083-00",
+    "card_character_id": "chr-04015",
+    "live_dialogue_voice_id": "live_dial_voice_card_04013-5-uniq-0083-00_04013-to-04015"
   },
   {
     "costume_id": "cos-04014-uniq-0053-00",

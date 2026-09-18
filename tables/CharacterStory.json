@@ -27,6 +27,14 @@
     "asset_id": "chr-00004"
   },
   {
+    "character_id": "chr-00004",
+    "number": 2,
+    "title_lang_id": "la-character_story-chr-00004-002",
+    "story_id": "story-character_story_chr-00004_002",
+    "archive_view_condition_group_id": "cd-event_archive-time-marathon_event-relay-002",
+    "asset_id": "chr-00004"
+  },
+  {
     "character_id": "chr-00005",
     "number": 1,
     "title_lang_id": "la-character_story-chr-00005-001",
@@ -259,6 +267,14 @@
     "asset_id": "chr-00035"
   },
   {
+    "character_id": "chr-00035",
+    "number": 2,
+    "title_lang_id": "la-character_story-chr-00035-002",
+    "story_id": "story-character_story_chr-00035_002",
+    "archive_view_condition_group_id": "cd-event_archive-time-marathon_event-relay-002",
+    "asset_id": "chr-00035"
+  },
+  {
     "character_id": "chr-00036",
     "number": 1,
     "title_lang_id": "la-character_story-chr-00036-001",
@@ -336,6 +352,14 @@
     "story_id": "story-character_story_chr-03005_001",
     "archive_view_condition_group_id": "cd-read_story-character_story_chr-03005",
     "unlock_condition_group_id": "cd-read_story-character_story_chr-03005",
+    "asset_id": "chr-03005"
+  },
+  {
+    "character_id": "chr-03005",
+    "number": 2,
+    "title_lang_id": "la-character_story-chr-03005-002",
+    "story_id": "story-character_story_chr-03005_002",
+    "archive_view_condition_group_id": "cd-event_archive-time-marathon_event-relay-002",
     "asset_id": "chr-03005"
   },
   {
@@ -451,6 +475,14 @@
     "story_id": "story-character_story_chr-04013_001",
     "archive_view_condition_group_id": "cd-read_story-character_story_chr-04013",
     "unlock_condition_group_id": "cd-read_story-character_story_chr-04013",
+    "asset_id": "chr-04013"
+  },
+  {
+    "character_id": "chr-04013",
+    "number": 2,
+    "title_lang_id": "la-character_story-chr-04013-002",
+    "story_id": "story-character_story_chr-04013_002",
+    "archive_view_condition_group_id": "cd-event_archive-time-marathon_event-relay-002",
     "asset_id": "chr-04013"
   },
   {

@@ -1,5 +1,9 @@
 [
   {
+    "id": "la-name_cv-live_dial_chr-00004_00004-5-uniq-0081-00_myself",
+    "text": "【陽だまりのミスティカルスイング アキ】SPスキル"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-00006_00006-5-uniq-0074-00_myself",
     "text": "【渚で魅せるtwinkle フブキ】SPスキル"
   },
@@ -48,6 +52,10 @@
     "text": "【のんびり姫のおねだりビーチ ルーナ】SPスキル"
   },
   {
+    "id": "la-name_cv-live_dial_chr-00035_00035-5-uniq-0082-00_myself",
+    "text": "【総帥専用！シークレットプール ラプラス】SPスキル"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
     "text": "【波音に安らぐ、しごでき幹部 ルイ】SPスキル"
   },
@@ -56,12 +64,20 @@
     "text": "【常夏のCrazy Dive オリー】SPスキル"
   },
   {
+    "id": "la-name_cv-live_dial_chr-03005_03005-5-uniq-0084-00_myself",
+    "text": "【まったりサニーホリデイ アーニャ】SPスキル"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself",
     "text": "【ビーチに刺さるReaper's Spike カリオペ】SPスキル"
   },
   {
     "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself",
     "text": "【潮騒の記憶をたどって 伊那尓栖】SPスキル"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-04013_04013-5-uniq-0083-00_myself",
+    "text": "【知を潤すナイトプール シオリ】SPスキル"
   },
   {
     "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
@@ -130,6 +146,38 @@
   {
     "id": "la-name_live_dial_voice_card_00004-5-uniq-0005-00_myself",
     "text": "【艶帯びたハーフエルフ アキ】SPスキル"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00002-to-00004",
+    "text": "【陽だまりのミスティカルスイング アキ】ロボ子さん&アキ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00002",
+    "text": "【陽だまりのミスティカルスイング アキ】アキ&ロボ子さん"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00011",
+    "text": "【陽だまりのミスティカルスイング アキ】アキ&ちょこ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00012",
+    "text": "【陽だまりのミスティカルスイング アキ】アキ&スバル"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00030",
+    "text": "【陽だまりのミスティカルスイング アキ】アキ&ラミィ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00011-to-00004",
+    "text": "【陽だまりのミスティカルスイング アキ】ちょこ&アキ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00012-to-00004",
+    "text": "【陽だまりのミスティカルスイング アキ】スバル&アキ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00030-to-00004",
+    "text": "【陽だまりのミスティカルスイング アキ】ラミィ&アキ"
   },
   {
     "id": "la-name_live_dial_voice_card_00005-5-uniq-0006-00_00005-to-00004",
@@ -820,6 +868,38 @@
     "text": "【作戦開始！見せろ総帥の手腕 ラプラス】SPスキル"
   },
   {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00013-to-00035",
+    "text": "【総帥専用！シークレットプール ラプラス】AZKi&ラプラス"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00027-to-00035",
+    "text": "【総帥専用！シークレットプール ラプラス】トワ&ラプラス"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00013",
+    "text": "【総帥専用！シークレットプール ラプラス】ラプラス&AZKi"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00027",
+    "text": "【総帥専用！シークレットプール ラプラス】ラプラス&トワ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00039",
+    "text": "【総帥専用！シークレットプール ラプラス】ラプラス&いろは"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-06002",
+    "text": "【総帥専用！シークレットプール ラプラス】ラプラス&奏"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00039-to-00035",
+    "text": "【総帥専用！シークレットプール ラプラス】いろは&ラプラス"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_06002-to-00035",
+    "text": "【総帥専用！シークレットプール ラプラス】奏&ラプラス"
+  },
+  {
     "id": "la-name_live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00035",
     "text": "【組織支える超敏腕幹部 ルイ】ルイ&ラプラス"
   },
@@ -974,6 +1054,38 @@
   {
     "id": "la-name_live_dial_voice_card_03005-5-uniq-0037-00_myself",
     "text": "【ソファに沈んでまったりゲーム アーニャ】SPスキル"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_00021-to-03005",
+    "text": "【まったりサニーホリデイ アーニャ】フレア&アーニャ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_00026-to-03005",
+    "text": "【まったりサニーホリデイ アーニャ】わため&アーニャ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-00021",
+    "text": "【まったりサニーホリデイ アーニャ】アーニャ&フレア"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-00026",
+    "text": "【まったりサニーホリデイ アーニャ】アーニャ&わため"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-04003",
+    "text": "【まったりサニーホリデイ アーニャ】アーニャ&伊那尓栖"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-04007",
+    "text": "【まったりサニーホリデイ アーニャ】アーニャ&IRyS"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_04003-to-03005",
+    "text": "【まったりサニーホリデイ アーニャ】伊那尓栖&アーニャ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_04007-to-03005",
+    "text": "【まったりサニーホリデイ アーニャ】IRyS&アーニャ"
   },
   {
     "id": "la-name_live_dial_voice_card_03006-5-uniq-0038-00_03006-to-03004",
@@ -1178,6 +1290,38 @@
   {
     "id": "la-name_live_dial_voice_card_04013-5-uniq-0052-00_myself",
     "text": "【書庫ではぐくむ探求心 シオリ】SPスキル"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_03005-to-04013",
+    "text": "【知を潤すナイトプール シオリ】アーニャ&シオリ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_03007-to-04013",
+    "text": "【知を潤すナイトプール シオリ】ゼータ&シオリ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04001-to-04013",
+    "text": "【知を潤すナイトプール シオリ】カリオペ&シオリ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-03005",
+    "text": "【知を潤すナイトプール シオリ】シオリ&アーニャ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-03007",
+    "text": "【知を潤すナイトプール シオリ】シオリ&ゼータ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-04001",
+    "text": "【知を潤すナイトプール シオリ】シオリ&カリオペ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-04015",
+    "text": "【知を潤すナイトプール シオリ】シオリ&ネリッサ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04015-to-04013",
+    "text": "【知を潤すナイトプール シオリ】ネリッサ&シオリ"
   },
   {
     "id": "la-name_live_dial_voice_card_04014-5-uniq-0053-00_04014-to-04013",

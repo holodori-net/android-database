@@ -363,5 +363,29 @@
       "mot_general_chr_{0}_cos000_doya00_in_bdy00",
       "mot_general_chr_{0}_cos000_doya00_in_bdy00"
     ]
+  },
+  {
+    "id": "missionpass-261001",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
+    "progress_start_time": "1790539200000",
+    "start_time": "1790798400000",
+    "end_time": "1793476799000",
+    "mission_pass_level_group_id": "mission_pass_level-missionpass-261001",
+    "mission_pass_point_id": "mission_pass_point-missionpass-261001",
+    "level_up_required_point_quantity": 100,
+    "season_mission_group_id": "mission_grp-missionpass-261001-season",
+    "daily_mission_group_id": "mission_grp-missionpass-261001-daily",
+    "weekly_mission_group_id": "mission_grp-missionpass-261001-weekly",
+    "daily_mission_pass_point_receive_limit_quantity": 100,
+    "weekly_mission_pass_point_receive_limit_quantity": 500,
+    "premium_promotion_sd_costume_hair_accessory_ids": [
+      "sd_costume_hair_accessory_chr-00001-acc-001"
+    ],
+    "premium_promotion_sd_costume_ids": [
+      "sdcos-00001-nrml-0000-00"
+    ],
+    "premium_promotion_motion_asset_ids": [
+      "mot_general_chr_{0}_cos000_doya00_in_bdy00"
+    ]
   }
 ]

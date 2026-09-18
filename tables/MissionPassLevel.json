@@ -3308,5 +3308,1227 @@
         "quantity": "10000"
       }
     ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 1,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "20000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "60000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 2,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_1-1",
+        "quantity": "200"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_1-2",
+        "quantity": "200"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 3,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "10000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "30000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 4,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_2-1",
+        "quantity": "200"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_2-2",
+        "quantity": "200"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 5,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "20000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "60000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 6,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_3-1",
+        "quantity": "200"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_3-2",
+        "quantity": "200"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 7,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "10000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "30000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 8,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_1-1",
+        "quantity": "250"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_1-2",
+        "quantity": "250"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 9,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "20000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "60000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 10,
+    "is_feature": true,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_reward_up_stamina_recover",
+        "quantity": "6"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "1000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 11,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "10000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "30000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 12,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_2-1",
+        "quantity": "250"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_2-2",
+        "quantity": "250"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 13,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "20000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "60000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 14,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_3-1",
+        "quantity": "250"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_3-2",
+        "quantity": "250"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 15,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "20000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "60000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 16,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_leader-1",
+        "quantity": "50"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_leader-2",
+        "quantity": "50"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 17,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "50000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "150000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 18,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_card-1",
+        "quantity": "50"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_card-2",
+        "quantity": "50"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 19,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "20000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "60000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 20,
+    "is_feature": true,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "500"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "1000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 21,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "50000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "150000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 22,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_content-1",
+        "quantity": "50"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_content-2",
+        "quantity": "50"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 23,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "20000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "60000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 24,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_allmember-1",
+        "quantity": "50"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_allmember-2",
+        "quantity": "50"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 25,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "50000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "150000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 26,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_1-1",
+        "quantity": "350"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_1-2",
+        "quantity": "350"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 27,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "40000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "120000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 28,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_2-1",
+        "quantity": "350"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_2-2",
+        "quantity": "350"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 29,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "80000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "240000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 30,
+    "is_feature": true,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_reward_up_stamina_recover",
+        "quantity": "6"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "1000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 31,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "40000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "120000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 32,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_3-1",
+        "quantity": "350"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_3-2",
+        "quantity": "350"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 33,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "80000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "240000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 34,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_1-1",
+        "quantity": "500"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_1-2",
+        "quantity": "500"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 35,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "40000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "120000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 36,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_2-1",
+        "quantity": "500"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_2-2",
+        "quantity": "500"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 37,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "80000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "240000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 38,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_3-1",
+        "quantity": "500"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-attribute_3-2",
+        "quantity": "500"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 39,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "80000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "240000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 40,
+    "is_feature": true,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "500"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "1000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 41,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "110000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "330000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 42,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_leader-1",
+        "quantity": "75"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_leader-2",
+        "quantity": "75"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 43,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "80000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "240000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 44,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_card-1",
+        "quantity": "75"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_card-2",
+        "quantity": "75"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 45,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "110000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "330000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 46,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_content-1",
+        "quantity": "75"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_content-2",
+        "quantity": "75"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 47,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "80000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "240000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 48,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_allmember-1",
+        "quantity": "75"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_allmember-2",
+        "quantity": "75"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 49,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "110000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "330000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 50,
+    "is_feature": true,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-cmn-sr",
+        "quantity": "1"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "1000"
+      }
+    ]
+  },
+  {
+    "group_id": "mission_pass_level-missionpass-261001",
+    "level": 51,
+    "normal_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "3000"
+      }
+    ],
+    "premium_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_level_up",
+        "quantity": "10000"
+      }
+    ]
   }
 ]

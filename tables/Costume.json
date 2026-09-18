@@ -120,6 +120,20 @@
     "order": 26070003
   },
   {
+    "id": "cos-00004-uniq-0081-00",
+    "character_id": "chr-00004",
+    "name_lang_id": "la-cos-00004-uniq-0081-00",
+    "live_leader_skill_id": "live_leader_skill-card-00004-5-uniq-0081-00",
+    "asset_id": "00004-uniq-0081-00",
+    "expression_asset_id": "000",
+    "live_start_character_voice_id": "cv-live_cmn_chr-00004_00004-5-uniq-0081-00_start-card",
+    "rarity_type": {
+      "name": "COSTUME_RARITY_TYPE_RARITY_5",
+      "number": 5
+    },
+    "order": 26093001
+  },
+  {
     "id": "cos-00005-cmmn-0000-00",
     "character_id": "chr-00005",
     "name_lang_id": "la-cos-00005-cmmn-0000-00",
@@ -1272,6 +1286,20 @@
     "order": 26070003
   },
   {
+    "id": "cos-00035-uniq-0082-00",
+    "character_id": "chr-00035",
+    "name_lang_id": "la-cos-00035-uniq-0082-00",
+    "live_leader_skill_id": "live_leader_skill-card-00035-5-uniq-0082-00",
+    "asset_id": "00035-uniq-0082-00",
+    "expression_asset_id": "000",
+    "live_start_character_voice_id": "cv-live_cmn_chr-00035_00035-5-uniq-0082-00_start-card",
+    "rarity_type": {
+      "name": "COSTUME_RARITY_TYPE_RARITY_5",
+      "number": 5
+    },
+    "order": 26093001
+  },
+  {
     "id": "cos-00036-cmmn-0000-00",
     "character_id": "chr-00036",
     "name_lang_id": "la-cos-00036-cmmn-0000-00",
@@ -1630,6 +1658,20 @@
       "number": 5
     },
     "order": 26070003
+  },
+  {
+    "id": "cos-03005-uniq-0084-00",
+    "character_id": "chr-03005",
+    "name_lang_id": "la-cos-03005-uniq-0084-00",
+    "live_leader_skill_id": "live_leader_skill-card-03005-5-uniq-0084-00",
+    "asset_id": "03005-uniq-0084-00",
+    "expression_asset_id": "000",
+    "live_start_character_voice_id": "cv-live_cmn_chr-03005_03005-5-uniq-0084-00_start-card",
+    "rarity_type": {
+      "name": "COSTUME_RARITY_TYPE_RARITY_5",
+      "number": 5
+    },
+    "order": 26093001
   },
   {
     "id": "cos-03006-cmmn-0000-00",
@@ -2146,6 +2188,20 @@
       "number": 5
     },
     "order": 26070003
+  },
+  {
+    "id": "cos-04013-uniq-0083-00",
+    "character_id": "chr-04013",
+    "name_lang_id": "la-cos-04013-uniq-0083-00",
+    "live_leader_skill_id": "live_leader_skill-card-04013-5-uniq-0083-00",
+    "asset_id": "04013-uniq-0083-00",
+    "expression_asset_id": "000",
+    "live_start_character_voice_id": "cv-live_cmn_chr-04013_04013-5-uniq-0083-00_start-card",
+    "rarity_type": {
+      "name": "COSTUME_RARITY_TYPE_RARITY_5",
+      "number": 5
+    },
+    "order": 26093001
   },
   {
     "id": "cos-04014-cmmn-0000-00",

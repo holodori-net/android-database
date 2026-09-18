@@ -268,6 +268,16 @@
     "description_lang_id": "la-generated-live_special_skill_effect-life_recovery-400.1-description"
   },
   {
+    "group_id": "live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-250",
+    "number": 1,
+    "type": {
+      "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",
+      "number": 6
+    },
+    "value": "250",
+    "description_lang_id": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-250.1-description"
+  },
+  {
     "group_id": "live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-350",
     "number": 1,
     "type": {

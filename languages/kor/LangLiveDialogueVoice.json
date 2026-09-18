@@ -1,5 +1,9 @@
 [
   {
+    "id": "la-name_cv-live_dial_chr-00004_00004-5-uniq-0081-00_myself",
+    "text": "【양지의 미스티컬 스윙 아키】SP 스킬"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-00006_00006-5-uniq-0074-00_myself",
     "text": "【물가에서 매료하는 twinkle 후부키】SP 스킬"
   },
@@ -48,6 +52,10 @@
     "text": "【느긋한 공주의 응석 해변 루나】SP 스킬"
   },
   {
+    "id": "la-name_cv-live_dial_chr-00035_00035-5-uniq-0082-00_myself",
+    "text": "【총수 전용! 시크릿 풀 라플라스】SP 스킬"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
     "text": "【파도 소리에 편안해지는 유능한 간부 루이】SP 스킬"
   },
@@ -56,12 +64,20 @@
     "text": "【여름의 Crazy Dive 올리】SP 스킬"
   },
   {
+    "id": "la-name_cv-live_dial_chr-03005_03005-5-uniq-0084-00_myself",
+    "text": "【유유자적 써니 홀리데이 아냐】SP 스킬"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself",
     "text": "【해변에 꽂히는 Reaper's Spike 칼리오페】SP 스킬"
   },
   {
     "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself",
     "text": "【파도 소리의 기억을 더듬으며 이나니스】SP 스킬"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-04013_04013-5-uniq-0083-00_myself",
+    "text": "【지성을 풍요롭게 하는 나이트 풀 시오리】SP 스킬"
   },
   {
     "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
@@ -130,6 +146,38 @@
   {
     "id": "la-name_live_dial_voice_card_00004-5-uniq-0005-00_myself",
     "text": "【요염한 하프 엘프 아키】 SP 스킬"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00002-to-00004",
+    "text": "【양지의 미스티컬 스윙 아키】로보코 씨&아키"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00002",
+    "text": "【양지의 미스티컬 스윙 아키】아키&로보코 씨"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00011",
+    "text": "【양지의 미스티컬 스윙 아키】아키&초코"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00012",
+    "text": "【양지의 미스티컬 스윙 아키】아키&스바루"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00030",
+    "text": "【양지의 미스티컬 스윙 아키】아키&라미"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00011-to-00004",
+    "text": "【양지의 미스티컬 스윙 아키】초코&아키"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00012-to-00004",
+    "text": "【양지의 미스티컬 스윙 아키】스바루&아키"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00004-5-uniq-0081-00_00030-to-00004",
+    "text": "【양지의 미스티컬 스윙 아키】라미&아키"
   },
   {
     "id": "la-name_live_dial_voice_card_00005-5-uniq-0006-00_00005-to-00004",
@@ -820,6 +868,38 @@
     "text": "【작전 개시! 총수의 수완을 보여줘라 라플라스】 SP 스킬"
   },
   {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00013-to-00035",
+    "text": "【총수 전용! 시크릿 풀 라플라스】AZKi&라플라스"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00027-to-00035",
+    "text": "【총수 전용! 시크릿 풀 라플라스】토와&라플라스"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00013",
+    "text": "【총수 전용! 시크릿 풀 라플라스】라플라스&AZKi"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00027",
+    "text": "【총수 전용! 시크릿 풀 라플라스】라플라스&토와"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00039",
+    "text": "【총수 전용! 시크릿 풀 라플라스】라플라스&이로하"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-06002",
+    "text": "【총수 전용! 시크릿 풀 라플라스】라플라스&카나데"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_00039-to-00035",
+    "text": "【총수 전용! 시크릿 풀 라플라스】이로하&라플라스"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00035-5-uniq-0082-00_06002-to-00035",
+    "text": "【총수 전용! 시크릿 풀 라플라스】카나데&라플라스"
+  },
+  {
     "id": "la-name_live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00035",
     "text": "【조직을 지탱하는 초 엘리트 간부 루이】루이&라플라스"
   },
@@ -974,6 +1054,38 @@
   {
     "id": "la-name_live_dial_voice_card_03005-5-uniq-0037-00_myself",
     "text": "【소파에 파묻혀 느긋하게 게임 아냐】 SP 스킬"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_00021-to-03005",
+    "text": "【유유자적 써니 홀리데이 아냐】후레아&아냐"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_00026-to-03005",
+    "text": "【유유자적 써니 홀리데이 아냐】와타메&아냐"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-00021",
+    "text": "【유유자적 써니 홀리데이 아냐】아냐&후레아"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-00026",
+    "text": "【유유자적 써니 홀리데이 아냐】아냐&와타메"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-04003",
+    "text": "【유유자적 써니 홀리데이 아냐】아냐&이나니스"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-04007",
+    "text": "【유유자적 써니 홀리데이 아냐】아냐&IRyS"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_04003-to-03005",
+    "text": "【유유자적 써니 홀리데이 아냐】이나니스&아냐"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03005-5-uniq-0084-00_04007-to-03005",
+    "text": "【유유자적 써니 홀리데이 아냐】IRyS&아냐"
   },
   {
     "id": "la-name_live_dial_voice_card_03006-5-uniq-0038-00_03006-to-03004",
@@ -1178,6 +1290,38 @@
   {
     "id": "la-name_live_dial_voice_card_04013-5-uniq-0052-00_myself",
     "text": "【서고에서 키우는 탐구심 시오리】 SP 스킬"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_03005-to-04013",
+    "text": "【지성을 풍요롭게 하는 나이트 풀 시오리】아냐&시오리"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_03007-to-04013",
+    "text": "【지성을 풍요롭게 하는 나이트 풀 시오리】제타&시오리"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04001-to-04013",
+    "text": "【지성을 풍요롭게 하는 나이트 풀 시오리】칼리오페&시오리"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-03005",
+    "text": "【지성을 풍요롭게 하는 나이트 풀 시오리】시오리&아냐"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-03007",
+    "text": "【지성을 풍요롭게 하는 나이트 풀 시오리】시오리&제타"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-04001",
+    "text": "【지성을 풍요롭게 하는 나이트 풀 시오리】시오리&칼리오페"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-04015",
+    "text": "【지성을 풍요롭게 하는 나이트 풀 시오리】시오리&네리사"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04015-to-04013",
+    "text": "【지성을 풍요롭게 하는 나이트 풀 시오리】네리사&시오리"
   },
   {
     "id": "la-name_live_dial_voice_card_04014-5-uniq-0053-00_04014-to-04013",

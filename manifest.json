@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "masterVersion": "77f2004e9d1a46fccd0d39b88b5175ddd8b48d25108060751c7864e29474d1d3",
+  "masterVersion": "927a8489062cfb8aaee197689930a4c4e9c622e9ebbf8b80577bdbe5f065dcf9",
   "languages": [
     "jpn",
     "eng",
@@ -12,7 +12,7 @@
   "databases": {
     "packs": 993,
     "tables": 993,
-    "rows": 441998
+    "rows": 445351
   },
   "files": [
     {
@@ -109,7 +109,7 @@
       "packType": "Card",
       "table": "Card",
       "path": "tables/Card.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "CardLevel",
@@ -169,7 +169,7 @@
       "packType": "CharacterLiveDialogueVoice",
       "table": "CharacterLiveDialogueVoice",
       "path": "tables/CharacterLiveDialogueVoice.json",
-      "rows": 6272
+      "rows": 6336
     },
     {
       "packType": "CharacterMotion",
@@ -187,13 +187,13 @@
       "packType": "CharacterStory",
       "table": "CharacterStory",
       "path": "tables/CharacterStory.json",
-      "rows": 59
+      "rows": 63
     },
     {
       "packType": "CharacterVoice",
       "table": "CharacterVoice",
       "path": "tables/CharacterVoice.json",
-      "rows": 16478
+      "rows": 16582
     },
     {
       "packType": "CharacterVoiceCategory",
@@ -313,7 +313,7 @@
       "packType": "Condition",
       "table": "Condition",
       "path": "tables/Condition.json",
-      "rows": 2225
+      "rows": 2267
     },
     {
       "packType": "CookingPuzzle",
@@ -367,7 +367,7 @@
       "packType": "Costume",
       "table": "Costume",
       "path": "tables/Costume.json",
-      "rows": 189
+      "rows": 193
     },
     {
       "packType": "Country",
@@ -391,37 +391,37 @@
       "packType": "Emblem",
       "table": "Emblem",
       "path": "tables/Emblem.json",
-      "rows": 901
+      "rows": 949
     },
     {
       "packType": "EventStory",
       "table": "EventStory",
       "path": "tables/EventStory.json",
-      "rows": 22
+      "rows": 30
     },
     {
       "packType": "EventStoryChapter",
       "table": "EventStoryChapter",
       "path": "tables/EventStoryChapter.json",
-      "rows": 7
+      "rows": 11
     },
     {
       "packType": "ExchangeBooth",
       "table": "ExchangeBooth",
       "path": "tables/ExchangeBooth.json",
-      "rows": 288
+      "rows": 294
     },
     {
       "packType": "ExchangeBoothFixedItem",
       "table": "ExchangeBoothFixedItem",
       "path": "tables/ExchangeBoothFixedItem.json",
-      "rows": 993
+      "rows": 1044
     },
     {
       "packType": "ExchangeBoothGroup",
       "table": "ExchangeBoothGroup",
       "path": "tables/ExchangeBoothGroup.json",
-      "rows": 68
+      "rows": 70
     },
     {
       "packType": "Facility",
@@ -463,7 +463,7 @@
       "packType": "Gacha",
       "table": "Gacha",
       "path": "tables/Gacha.json",
-      "rows": 15
+      "rows": 17
     },
     {
       "packType": "GachaAnimationFake",
@@ -493,13 +493,13 @@
       "packType": "GachaButton",
       "table": "GachaButton",
       "path": "tables/GachaButton.json",
-      "rows": 33
+      "rows": 38
     },
     {
       "packType": "GachaPoint",
       "table": "GachaPoint",
       "path": "tables/GachaPoint.json",
-      "rows": 7
+      "rows": 8
     },
     {
       "packType": "GameTitle",
@@ -535,7 +535,7 @@
       "packType": "Item",
       "table": "Item",
       "path": "tables/Item.json",
-      "rows": 121
+      "rows": 126
     },
     {
       "packType": "ItemLimit",
@@ -883,37 +883,37 @@
       "packType": "LangCard_Chs",
       "table": "Lang",
       "path": "languages/chs/LangCard.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LangCard_Cht",
       "table": "Lang",
       "path": "languages/cht/LangCard.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LangCard_Eng",
       "table": "Lang",
       "path": "languages/eng/LangCard.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LangCard_Ind",
       "table": "Lang",
       "path": "languages/ind/LangCard.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LangCard_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangCard.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LangCard_Kor",
       "table": "Lang",
       "path": "languages/kor/LangCard.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LangCharacter_Chs",
@@ -1063,73 +1063,73 @@
       "packType": "LangCharacterStory_Chs",
       "table": "Lang",
       "path": "languages/chs/LangCharacterStory.json",
-      "rows": 59
+      "rows": 63
     },
     {
       "packType": "LangCharacterStory_Cht",
       "table": "Lang",
       "path": "languages/cht/LangCharacterStory.json",
-      "rows": 59
+      "rows": 63
     },
     {
       "packType": "LangCharacterStory_Eng",
       "table": "Lang",
       "path": "languages/eng/LangCharacterStory.json",
-      "rows": 59
+      "rows": 63
     },
     {
       "packType": "LangCharacterStory_Ind",
       "table": "Lang",
       "path": "languages/ind/LangCharacterStory.json",
-      "rows": 59
+      "rows": 63
     },
     {
       "packType": "LangCharacterStory_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangCharacterStory.json",
-      "rows": 59
+      "rows": 63
     },
     {
       "packType": "LangCharacterStory_Kor",
       "table": "Lang",
       "path": "languages/kor/LangCharacterStory.json",
-      "rows": 59
+      "rows": 63
     },
     {
       "packType": "LangCharacterVoice_Chs",
       "table": "Lang",
       "path": "languages/chs/LangCharacterVoice.json",
-      "rows": 26699
+      "rows": 26907
     },
     {
       "packType": "LangCharacterVoice_Cht",
       "table": "Lang",
       "path": "languages/cht/LangCharacterVoice.json",
-      "rows": 26699
+      "rows": 26907
     },
     {
       "packType": "LangCharacterVoice_Eng",
       "table": "Lang",
       "path": "languages/eng/LangCharacterVoice.json",
-      "rows": 26699
+      "rows": 26907
     },
     {
       "packType": "LangCharacterVoice_Ind",
       "table": "Lang",
       "path": "languages/ind/LangCharacterVoice.json",
-      "rows": 26699
+      "rows": 26907
     },
     {
       "packType": "LangCharacterVoice_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangCharacterVoice.json",
-      "rows": 26699
+      "rows": 26907
     },
     {
       "packType": "LangCharacterVoice_Kor",
       "table": "Lang",
       "path": "languages/kor/LangCharacterVoice.json",
-      "rows": 26699
+      "rows": 26907
     },
     {
       "packType": "LangCharacterVoiceCategory_Chs",
@@ -1531,37 +1531,37 @@
       "packType": "LangCostume_Chs",
       "table": "Lang",
       "path": "languages/chs/LangCostume.json",
-      "rows": 189
+      "rows": 193
     },
     {
       "packType": "LangCostume_Cht",
       "table": "Lang",
       "path": "languages/cht/LangCostume.json",
-      "rows": 189
+      "rows": 193
     },
     {
       "packType": "LangCostume_Eng",
       "table": "Lang",
       "path": "languages/eng/LangCostume.json",
-      "rows": 189
+      "rows": 193
     },
     {
       "packType": "LangCostume_Ind",
       "table": "Lang",
       "path": "languages/ind/LangCostume.json",
-      "rows": 189
+      "rows": 193
     },
     {
       "packType": "LangCostume_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangCostume.json",
-      "rows": 189
+      "rows": 193
     },
     {
       "packType": "LangCostume_Kor",
       "table": "Lang",
       "path": "languages/kor/LangCostume.json",
-      "rows": 189
+      "rows": 193
     },
     {
       "packType": "LangCountry_Chs",
@@ -1675,109 +1675,109 @@
       "packType": "LangEmblem_Chs",
       "table": "Lang",
       "path": "languages/chs/LangEmblem.json",
-      "rows": 901
+      "rows": 949
     },
     {
       "packType": "LangEmblem_Cht",
       "table": "Lang",
       "path": "languages/cht/LangEmblem.json",
-      "rows": 901
+      "rows": 949
     },
     {
       "packType": "LangEmblem_Eng",
       "table": "Lang",
       "path": "languages/eng/LangEmblem.json",
-      "rows": 901
+      "rows": 949
     },
     {
       "packType": "LangEmblem_Ind",
       "table": "Lang",
       "path": "languages/ind/LangEmblem.json",
-      "rows": 901
+      "rows": 949
     },
     {
       "packType": "LangEmblem_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangEmblem.json",
-      "rows": 901
+      "rows": 949
     },
     {
       "packType": "LangEmblem_Kor",
       "table": "Lang",
       "path": "languages/kor/LangEmblem.json",
-      "rows": 901
+      "rows": 949
     },
     {
       "packType": "LangEventStory_Chs",
       "table": "Lang",
       "path": "languages/chs/LangEventStory.json",
-      "rows": 22
+      "rows": 30
     },
     {
       "packType": "LangEventStory_Cht",
       "table": "Lang",
       "path": "languages/cht/LangEventStory.json",
-      "rows": 22
+      "rows": 30
     },
     {
       "packType": "LangEventStory_Eng",
       "table": "Lang",
       "path": "languages/eng/LangEventStory.json",
-      "rows": 22
+      "rows": 30
     },
     {
       "packType": "LangEventStory_Ind",
       "table": "Lang",
       "path": "languages/ind/LangEventStory.json",
-      "rows": 22
+      "rows": 30
     },
     {
       "packType": "LangEventStory_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangEventStory.json",
-      "rows": 22
+      "rows": 30
     },
     {
       "packType": "LangEventStory_Kor",
       "table": "Lang",
       "path": "languages/kor/LangEventStory.json",
-      "rows": 22
+      "rows": 30
     },
     {
       "packType": "LangEventStoryChapter_Chs",
       "table": "Lang",
       "path": "languages/chs/LangEventStoryChapter.json",
-      "rows": 7
+      "rows": 11
     },
     {
       "packType": "LangEventStoryChapter_Cht",
       "table": "Lang",
       "path": "languages/cht/LangEventStoryChapter.json",
-      "rows": 7
+      "rows": 11
     },
     {
       "packType": "LangEventStoryChapter_Eng",
       "table": "Lang",
       "path": "languages/eng/LangEventStoryChapter.json",
-      "rows": 7
+      "rows": 11
     },
     {
       "packType": "LangEventStoryChapter_Ind",
       "table": "Lang",
       "path": "languages/ind/LangEventStoryChapter.json",
-      "rows": 7
+      "rows": 11
     },
     {
       "packType": "LangEventStoryChapter_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangEventStoryChapter.json",
-      "rows": 7
+      "rows": 11
     },
     {
       "packType": "LangEventStoryChapter_Kor",
       "table": "Lang",
       "path": "languages/kor/LangEventStoryChapter.json",
-      "rows": 7
+      "rows": 11
     },
     {
       "packType": "LangFacility_Chs",
@@ -1963,217 +1963,217 @@
       "packType": "LangGachaPoint_Chs",
       "table": "Lang",
       "path": "languages/chs/LangGachaPoint.json",
-      "rows": 7
+      "rows": 8
     },
     {
       "packType": "LangGachaPoint_Cht",
       "table": "Lang",
       "path": "languages/cht/LangGachaPoint.json",
-      "rows": 7
+      "rows": 8
     },
     {
       "packType": "LangGachaPoint_Eng",
       "table": "Lang",
       "path": "languages/eng/LangGachaPoint.json",
-      "rows": 7
+      "rows": 8
     },
     {
       "packType": "LangGachaPoint_Ind",
       "table": "Lang",
       "path": "languages/ind/LangGachaPoint.json",
-      "rows": 7
+      "rows": 8
     },
     {
       "packType": "LangGachaPoint_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangGachaPoint.json",
-      "rows": 7
+      "rows": 8
     },
     {
       "packType": "LangGachaPoint_Kor",
       "table": "Lang",
       "path": "languages/kor/LangGachaPoint.json",
-      "rows": 7
+      "rows": 8
     },
     {
       "packType": "LangGeneratedLiveActiveSkillEffect_Chs",
       "table": "Lang",
       "path": "languages/chs/LangGeneratedLiveActiveSkillEffect.json",
-      "rows": 52
+      "rows": 53
     },
     {
       "packType": "LangGeneratedLiveActiveSkillEffect_Cht",
       "table": "Lang",
       "path": "languages/cht/LangGeneratedLiveActiveSkillEffect.json",
-      "rows": 52
+      "rows": 53
     },
     {
       "packType": "LangGeneratedLiveActiveSkillEffect_Eng",
       "table": "Lang",
       "path": "languages/eng/LangGeneratedLiveActiveSkillEffect.json",
-      "rows": 52
+      "rows": 53
     },
     {
       "packType": "LangGeneratedLiveActiveSkillEffect_Ind",
       "table": "Lang",
       "path": "languages/ind/LangGeneratedLiveActiveSkillEffect.json",
-      "rows": 52
+      "rows": 53
     },
     {
       "packType": "LangGeneratedLiveActiveSkillEffect_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangGeneratedLiveActiveSkillEffect.json",
-      "rows": 52
+      "rows": 53
     },
     {
       "packType": "LangGeneratedLiveActiveSkillEffect_Kor",
       "table": "Lang",
       "path": "languages/kor/LangGeneratedLiveActiveSkillEffect.json",
-      "rows": 52
+      "rows": 53
     },
     {
       "packType": "LangGeneratedLiveActiveSkillLevel_Chs",
       "table": "Lang",
       "path": "languages/chs/LangGeneratedLiveActiveSkillLevel.json",
-      "rows": 365
+      "rows": 373
     },
     {
       "packType": "LangGeneratedLiveActiveSkillLevel_Cht",
       "table": "Lang",
       "path": "languages/cht/LangGeneratedLiveActiveSkillLevel.json",
-      "rows": 365
+      "rows": 373
     },
     {
       "packType": "LangGeneratedLiveActiveSkillLevel_Eng",
       "table": "Lang",
       "path": "languages/eng/LangGeneratedLiveActiveSkillLevel.json",
-      "rows": 365
+      "rows": 373
     },
     {
       "packType": "LangGeneratedLiveActiveSkillLevel_Ind",
       "table": "Lang",
       "path": "languages/ind/LangGeneratedLiveActiveSkillLevel.json",
-      "rows": 365
+      "rows": 373
     },
     {
       "packType": "LangGeneratedLiveActiveSkillLevel_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangGeneratedLiveActiveSkillLevel.json",
-      "rows": 365
+      "rows": 373
     },
     {
       "packType": "LangGeneratedLiveActiveSkillLevel_Kor",
       "table": "Lang",
       "path": "languages/kor/LangGeneratedLiveActiveSkillLevel.json",
-      "rows": 365
+      "rows": 373
     },
     {
       "packType": "LangGeneratedLiveLeaderSkill_Chs",
       "table": "Lang",
       "path": "languages/chs/LangGeneratedLiveLeaderSkill.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LangGeneratedLiveLeaderSkill_Cht",
       "table": "Lang",
       "path": "languages/cht/LangGeneratedLiveLeaderSkill.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LangGeneratedLiveLeaderSkill_Eng",
       "table": "Lang",
       "path": "languages/eng/LangGeneratedLiveLeaderSkill.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LangGeneratedLiveLeaderSkill_Ind",
       "table": "Lang",
       "path": "languages/ind/LangGeneratedLiveLeaderSkill.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LangGeneratedLiveLeaderSkill_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangGeneratedLiveLeaderSkill.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LangGeneratedLiveLeaderSkill_Kor",
       "table": "Lang",
       "path": "languages/kor/LangGeneratedLiveLeaderSkill.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LangGeneratedLivePassiveSkillEffect_Chs",
       "table": "Lang",
       "path": "languages/chs/LangGeneratedLivePassiveSkillEffect.json",
-      "rows": 184
+      "rows": 186
     },
     {
       "packType": "LangGeneratedLivePassiveSkillEffect_Cht",
       "table": "Lang",
       "path": "languages/cht/LangGeneratedLivePassiveSkillEffect.json",
-      "rows": 184
+      "rows": 186
     },
     {
       "packType": "LangGeneratedLivePassiveSkillEffect_Eng",
       "table": "Lang",
       "path": "languages/eng/LangGeneratedLivePassiveSkillEffect.json",
-      "rows": 184
+      "rows": 186
     },
     {
       "packType": "LangGeneratedLivePassiveSkillEffect_Ind",
       "table": "Lang",
       "path": "languages/ind/LangGeneratedLivePassiveSkillEffect.json",
-      "rows": 184
+      "rows": 186
     },
     {
       "packType": "LangGeneratedLivePassiveSkillEffect_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangGeneratedLivePassiveSkillEffect.json",
-      "rows": 184
+      "rows": 186
     },
     {
       "packType": "LangGeneratedLivePassiveSkillEffect_Kor",
       "table": "Lang",
       "path": "languages/kor/LangGeneratedLivePassiveSkillEffect.json",
-      "rows": 184
+      "rows": 186
     },
     {
       "packType": "LangGeneratedLivePassiveSkillLevel_Chs",
       "table": "Lang",
       "path": "languages/chs/LangGeneratedLivePassiveSkillLevel.json",
-      "rows": 362
+      "rows": 370
     },
     {
       "packType": "LangGeneratedLivePassiveSkillLevel_Cht",
       "table": "Lang",
       "path": "languages/cht/LangGeneratedLivePassiveSkillLevel.json",
-      "rows": 362
+      "rows": 370
     },
     {
       "packType": "LangGeneratedLivePassiveSkillLevel_Eng",
       "table": "Lang",
       "path": "languages/eng/LangGeneratedLivePassiveSkillLevel.json",
-      "rows": 362
+      "rows": 370
     },
     {
       "packType": "LangGeneratedLivePassiveSkillLevel_Ind",
       "table": "Lang",
       "path": "languages/ind/LangGeneratedLivePassiveSkillLevel.json",
-      "rows": 362
+      "rows": 370
     },
     {
       "packType": "LangGeneratedLivePassiveSkillLevel_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangGeneratedLivePassiveSkillLevel.json",
-      "rows": 362
+      "rows": 370
     },
     {
       "packType": "LangGeneratedLivePassiveSkillLevel_Kor",
       "table": "Lang",
       "path": "languages/kor/LangGeneratedLivePassiveSkillLevel.json",
-      "rows": 362
+      "rows": 370
     },
     {
       "packType": "LangGeneratedLiveSkillEffectTarget_Chs",
@@ -2251,37 +2251,37 @@
       "packType": "LangGeneratedLiveSpecialSkillLevel_Chs",
       "table": "Lang",
       "path": "languages/chs/LangGeneratedLiveSpecialSkillLevel.json",
-      "rows": 362
+      "rows": 370
     },
     {
       "packType": "LangGeneratedLiveSpecialSkillLevel_Cht",
       "table": "Lang",
       "path": "languages/cht/LangGeneratedLiveSpecialSkillLevel.json",
-      "rows": 362
+      "rows": 370
     },
     {
       "packType": "LangGeneratedLiveSpecialSkillLevel_Eng",
       "table": "Lang",
       "path": "languages/eng/LangGeneratedLiveSpecialSkillLevel.json",
-      "rows": 362
+      "rows": 370
     },
     {
       "packType": "LangGeneratedLiveSpecialSkillLevel_Ind",
       "table": "Lang",
       "path": "languages/ind/LangGeneratedLiveSpecialSkillLevel.json",
-      "rows": 362
+      "rows": 370
     },
     {
       "packType": "LangGeneratedLiveSpecialSkillLevel_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangGeneratedLiveSpecialSkillLevel.json",
-      "rows": 362
+      "rows": 370
     },
     {
       "packType": "LangGeneratedLiveSpecialSkillLevel_Kor",
       "table": "Lang",
       "path": "languages/kor/LangGeneratedLiveSpecialSkillLevel.json",
-      "rows": 362
+      "rows": 370
     },
     {
       "packType": "LangGeneratedSkillTreeConnectEffect_Chs",
@@ -2575,37 +2575,37 @@
       "packType": "LangItem_Chs",
       "table": "Lang",
       "path": "languages/chs/LangItem.json",
-      "rows": 242
+      "rows": 252
     },
     {
       "packType": "LangItem_Cht",
       "table": "Lang",
       "path": "languages/cht/LangItem.json",
-      "rows": 242
+      "rows": 252
     },
     {
       "packType": "LangItem_Eng",
       "table": "Lang",
       "path": "languages/eng/LangItem.json",
-      "rows": 242
+      "rows": 252
     },
     {
       "packType": "LangItem_Ind",
       "table": "Lang",
       "path": "languages/ind/LangItem.json",
-      "rows": 242
+      "rows": 252
     },
     {
       "packType": "LangItem_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangItem.json",
-      "rows": 242
+      "rows": 252
     },
     {
       "packType": "LangItem_Kor",
       "table": "Lang",
       "path": "languages/kor/LangItem.json",
-      "rows": 242
+      "rows": 252
     },
     {
       "packType": "LangItemTypeDetail_Chs",
@@ -2791,37 +2791,37 @@
       "packType": "LangLiveDialogueVoice_Chs",
       "table": "Lang",
       "path": "languages/chs/LangLiveDialogueVoice.json",
-      "rows": 3317
+      "rows": 3353
     },
     {
       "packType": "LangLiveDialogueVoice_Cht",
       "table": "Lang",
       "path": "languages/cht/LangLiveDialogueVoice.json",
-      "rows": 3317
+      "rows": 3353
     },
     {
       "packType": "LangLiveDialogueVoice_Eng",
       "table": "Lang",
       "path": "languages/eng/LangLiveDialogueVoice.json",
-      "rows": 3317
+      "rows": 3353
     },
     {
       "packType": "LangLiveDialogueVoice_Ind",
       "table": "Lang",
       "path": "languages/ind/LangLiveDialogueVoice.json",
-      "rows": 3317
+      "rows": 3353
     },
     {
       "packType": "LangLiveDialogueVoice_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangLiveDialogueVoice.json",
-      "rows": 3317
+      "rows": 3353
     },
     {
       "packType": "LangLiveDialogueVoice_Kor",
       "table": "Lang",
       "path": "languages/kor/LangLiveDialogueVoice.json",
-      "rows": 3317
+      "rows": 3353
     },
     {
       "packType": "LangLiveLeaderSkill_Chs",
@@ -3439,109 +3439,109 @@
       "packType": "LangMission_Chs",
       "table": "Lang",
       "path": "languages/chs/LangMission.json",
-      "rows": 1655
+      "rows": 1666
     },
     {
       "packType": "LangMission_Cht",
       "table": "Lang",
       "path": "languages/cht/LangMission.json",
-      "rows": 1655
+      "rows": 1666
     },
     {
       "packType": "LangMission_Eng",
       "table": "Lang",
       "path": "languages/eng/LangMission.json",
-      "rows": 1655
+      "rows": 1666
     },
     {
       "packType": "LangMission_Ind",
       "table": "Lang",
       "path": "languages/ind/LangMission.json",
-      "rows": 1655
+      "rows": 1666
     },
     {
       "packType": "LangMission_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangMission.json",
-      "rows": 1655
+      "rows": 1666
     },
     {
       "packType": "LangMission_Kor",
       "table": "Lang",
       "path": "languages/kor/LangMission.json",
-      "rows": 1655
+      "rows": 1666
     },
     {
       "packType": "LangMissionGroup_Chs",
       "table": "Lang",
       "path": "languages/chs/LangMissionGroup.json",
-      "rows": 16
+      "rows": 24
     },
     {
       "packType": "LangMissionGroup_Cht",
       "table": "Lang",
       "path": "languages/cht/LangMissionGroup.json",
-      "rows": 16
+      "rows": 24
     },
     {
       "packType": "LangMissionGroup_Eng",
       "table": "Lang",
       "path": "languages/eng/LangMissionGroup.json",
-      "rows": 16
+      "rows": 24
     },
     {
       "packType": "LangMissionGroup_Ind",
       "table": "Lang",
       "path": "languages/ind/LangMissionGroup.json",
-      "rows": 16
+      "rows": 24
     },
     {
       "packType": "LangMissionGroup_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangMissionGroup.json",
-      "rows": 16
+      "rows": 24
     },
     {
       "packType": "LangMissionGroup_Kor",
       "table": "Lang",
       "path": "languages/kor/LangMissionGroup.json",
-      "rows": 16
+      "rows": 24
     },
     {
       "packType": "LangMusic_Chs",
       "table": "Lang",
       "path": "languages/chs/LangMusic.json",
-      "rows": 2046
+      "rows": 2086
     },
     {
       "packType": "LangMusic_Cht",
       "table": "Lang",
       "path": "languages/cht/LangMusic.json",
-      "rows": 2046
+      "rows": 2086
     },
     {
       "packType": "LangMusic_Eng",
       "table": "Lang",
       "path": "languages/eng/LangMusic.json",
-      "rows": 2046
+      "rows": 2086
     },
     {
       "packType": "LangMusic_Ind",
       "table": "Lang",
       "path": "languages/ind/LangMusic.json",
-      "rows": 2046
+      "rows": 2086
     },
     {
       "packType": "LangMusic_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangMusic.json",
-      "rows": 2046
+      "rows": 2086
     },
     {
       "packType": "LangMusic_Kor",
       "table": "Lang",
       "path": "languages/kor/LangMusic.json",
-      "rows": 2046
+      "rows": 2086
     },
     {
       "packType": "LangMusicCreativeChartTag_Chs",
@@ -3583,37 +3583,37 @@
       "packType": "LangMusicMv_Chs",
       "table": "Lang",
       "path": "languages/chs/LangMusicMv.json",
-      "rows": 149
+      "rows": 153
     },
     {
       "packType": "LangMusicMv_Cht",
       "table": "Lang",
       "path": "languages/cht/LangMusicMv.json",
-      "rows": 149
+      "rows": 153
     },
     {
       "packType": "LangMusicMv_Eng",
       "table": "Lang",
       "path": "languages/eng/LangMusicMv.json",
-      "rows": 149
+      "rows": 153
     },
     {
       "packType": "LangMusicMv_Ind",
       "table": "Lang",
       "path": "languages/ind/LangMusicMv.json",
-      "rows": 149
+      "rows": 153
     },
     {
       "packType": "LangMusicMv_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangMusicMv.json",
-      "rows": 149
+      "rows": 153
     },
     {
       "packType": "LangMusicMv_Kor",
       "table": "Lang",
       "path": "languages/kor/LangMusicMv.json",
-      "rows": 149
+      "rows": 153
     },
     {
       "packType": "LangMusicMvCategory_Chs",
@@ -4267,37 +4267,37 @@
       "packType": "LangPoster_Chs",
       "table": "Lang",
       "path": "languages/chs/LangPoster.json",
-      "rows": 30
+      "rows": 34
     },
     {
       "packType": "LangPoster_Cht",
       "table": "Lang",
       "path": "languages/cht/LangPoster.json",
-      "rows": 30
+      "rows": 34
     },
     {
       "packType": "LangPoster_Eng",
       "table": "Lang",
       "path": "languages/eng/LangPoster.json",
-      "rows": 30
+      "rows": 34
     },
     {
       "packType": "LangPoster_Ind",
       "table": "Lang",
       "path": "languages/ind/LangPoster.json",
-      "rows": 30
+      "rows": 34
     },
     {
       "packType": "LangPoster_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangPoster.json",
-      "rows": 30
+      "rows": 34
     },
     {
       "packType": "LangPoster_Kor",
       "table": "Lang",
       "path": "languages/kor/LangPoster.json",
-      "rows": 30
+      "rows": 34
     },
     {
       "packType": "LangPreferenceCapacityLimit_Chs",
@@ -4339,37 +4339,37 @@
       "packType": "LangResourceObtainmentRoute_Chs",
       "table": "Lang",
       "path": "languages/chs/LangResourceObtainmentRoute.json",
-      "rows": 37
+      "rows": 42
     },
     {
       "packType": "LangResourceObtainmentRoute_Cht",
       "table": "Lang",
       "path": "languages/cht/LangResourceObtainmentRoute.json",
-      "rows": 37
+      "rows": 42
     },
     {
       "packType": "LangResourceObtainmentRoute_Eng",
       "table": "Lang",
       "path": "languages/eng/LangResourceObtainmentRoute.json",
-      "rows": 37
+      "rows": 42
     },
     {
       "packType": "LangResourceObtainmentRoute_Ind",
       "table": "Lang",
       "path": "languages/ind/LangResourceObtainmentRoute.json",
-      "rows": 37
+      "rows": 42
     },
     {
       "packType": "LangResourceObtainmentRoute_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangResourceObtainmentRoute.json",
-      "rows": 37
+      "rows": 42
     },
     {
       "packType": "LangResourceObtainmentRoute_Kor",
       "table": "Lang",
       "path": "languages/kor/LangResourceObtainmentRoute.json",
-      "rows": 37
+      "rows": 42
     },
     {
       "packType": "LangResourceTypeDetail_Chs",
@@ -4447,37 +4447,37 @@
       "packType": "LangSdCostume_Chs",
       "table": "Lang",
       "path": "languages/chs/LangSdCostume.json",
-      "rows": 297
+      "rows": 301
     },
     {
       "packType": "LangSdCostume_Cht",
       "table": "Lang",
       "path": "languages/cht/LangSdCostume.json",
-      "rows": 297
+      "rows": 301
     },
     {
       "packType": "LangSdCostume_Eng",
       "table": "Lang",
       "path": "languages/eng/LangSdCostume.json",
-      "rows": 297
+      "rows": 301
     },
     {
       "packType": "LangSdCostume_Ind",
       "table": "Lang",
       "path": "languages/ind/LangSdCostume.json",
-      "rows": 297
+      "rows": 301
     },
     {
       "packType": "LangSdCostume_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangSdCostume.json",
-      "rows": 297
+      "rows": 301
     },
     {
       "packType": "LangSdCostume_Kor",
       "table": "Lang",
       "path": "languages/kor/LangSdCostume.json",
-      "rows": 297
+      "rows": 301
     },
     {
       "packType": "LangSdCostumeHairAccessory_Chs",
@@ -5059,19 +5059,19 @@
       "packType": "LiveActiveSkill",
       "table": "LiveActiveSkill",
       "path": "tables/LiveActiveSkill.json",
-      "rows": 183
+      "rows": 187
     },
     {
       "packType": "LiveActiveSkillEffect",
       "table": "LiveActiveSkillEffect",
       "path": "tables/LiveActiveSkillEffect.json",
-      "rows": 52
+      "rows": 53
     },
     {
       "packType": "LiveActiveSkillLevel",
       "table": "LiveActiveSkillLevel",
       "path": "tables/LiveActiveSkillLevel.json",
-      "rows": 365
+      "rows": 373
     },
     {
       "packType": "LiveCombo",
@@ -5107,19 +5107,19 @@
       "packType": "LiveDialogueVoice",
       "table": "LiveDialogueVoice",
       "path": "tables/LiveDialogueVoice.json",
-      "rows": 3317
+      "rows": 3353
     },
     {
       "packType": "LiveDialogueVoiceCharacter",
       "table": "LiveDialogueVoiceCharacter",
       "path": "tables/LiveDialogueVoiceCharacter.json",
-      "rows": 6453
+      "rows": 6521
     },
     {
       "packType": "LiveLeaderSkill",
       "table": "LiveLeaderSkill",
       "path": "tables/LiveLeaderSkill.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LiveMultiFever",
@@ -5167,19 +5167,19 @@
       "packType": "LivePassiveSkill",
       "table": "LivePassiveSkill",
       "path": "tables/LivePassiveSkill.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LivePassiveSkillEffect",
       "table": "LivePassiveSkillEffect",
       "path": "tables/LivePassiveSkillEffect.json",
-      "rows": 184
+      "rows": 186
     },
     {
       "packType": "LivePassiveSkillLevel",
       "table": "LivePassiveSkillLevel",
       "path": "tables/LivePassiveSkillLevel.json",
-      "rows": 362
+      "rows": 370
     },
     {
       "packType": "LiveRewardUpStaminaEffect",
@@ -5239,25 +5239,25 @@
       "packType": "LiveSpecialCardDialogue",
       "table": "LiveSpecialCardDialogue",
       "path": "tables/LiveSpecialCardDialogue.json",
-      "rows": 287
+      "rows": 307
     },
     {
       "packType": "LiveSpecialCostumeDialogue",
       "table": "LiveSpecialCostumeDialogue",
       "path": "tables/LiveSpecialCostumeDialogue.json",
-      "rows": 287
+      "rows": 307
     },
     {
       "packType": "LiveSpecialSkill",
       "table": "LiveSpecialSkill",
       "path": "tables/LiveSpecialSkill.json",
-      "rows": 181
+      "rows": 185
     },
     {
       "packType": "LiveSpecialSkillLevel",
       "table": "LiveSpecialSkillLevel",
       "path": "tables/LiveSpecialSkillLevel.json",
-      "rows": 362
+      "rows": 370
     },
     {
       "packType": "LoadingDisplay",
@@ -5347,37 +5347,37 @@
       "packType": "Mission",
       "table": "Mission",
       "path": "tables/Mission.json",
-      "rows": 1627
+      "rows": 1651
     },
     {
       "packType": "MissionGroup",
       "table": "MissionGroup",
       "path": "tables/MissionGroup.json",
-      "rows": 19
+      "rows": 27
     },
     {
       "packType": "MissionPass",
       "table": "MissionPass",
       "path": "tables/MissionPass.json",
-      "rows": 2
+      "rows": 3
     },
     {
       "packType": "MissionPassLevel",
       "table": "MissionPassLevel",
       "path": "tables/MissionPassLevel.json",
-      "rows": 102
+      "rows": 153
     },
     {
       "packType": "MissionPassPoint",
       "table": "MissionPassPoint",
       "path": "tables/MissionPassPoint.json",
-      "rows": 2
+      "rows": 3
     },
     {
       "packType": "MissionProgress",
       "table": "MissionProgress",
       "path": "tables/MissionProgress.json",
-      "rows": 11366
+      "rows": 11420
     },
     {
       "packType": "MissionTypeDefaultNavigation",
@@ -5389,7 +5389,7 @@
       "packType": "Music",
       "table": "Music",
       "path": "tables/Music.json",
-      "rows": 199
+      "rows": 203
     },
     {
       "packType": "MusicCreativeChartTag",
@@ -5401,13 +5401,13 @@
       "packType": "MusicDifficulty",
       "table": "MusicDifficulty",
       "path": "tables/MusicDifficulty.json",
-      "rows": 796
+      "rows": 812
     },
     {
       "packType": "MusicDifficultyChart",
       "table": "MusicDifficultyChart",
       "path": "tables/MusicDifficultyChart.json",
-      "rows": 796
+      "rows": 812
     },
     {
       "packType": "MusicDifficultyConfiguration",
@@ -5425,7 +5425,7 @@
       "packType": "MusicMv",
       "table": "MusicMv",
       "path": "tables/MusicMv.json",
-      "rows": 278
+      "rows": 286
     },
     {
       "packType": "MusicMvCategory",
@@ -5743,7 +5743,7 @@
       "packType": "Poster",
       "table": "Poster",
       "path": "tables/Poster.json",
-      "rows": 30
+      "rows": 34
     },
     {
       "packType": "PosterCollectEffect",
@@ -5761,7 +5761,7 @@
       "packType": "ResourceObtainmentRoute",
       "table": "ResourceObtainmentRoute",
       "path": "tables/ResourceObtainmentRoute.json",
-      "rows": 131
+      "rows": 136
     },
     {
       "packType": "ResourceTypeDetail",
@@ -5779,7 +5779,7 @@
       "packType": "SdCostume",
       "table": "SdCostume",
       "path": "tables/SdCostume.json",
-      "rows": 297
+      "rows": 301
     },
     {
       "packType": "SdCostumeHairAccessory",
@@ -5905,7 +5905,7 @@
       "packType": "Story",
       "table": "Story",
       "path": "tables/Story.json",
-      "rows": 141
+      "rows": 153
     },
     {
       "packType": "SystemSound",
@@ -5975,7 +5975,7 @@
     }
   ],
   "app": {
-    "versionName": "1.1.0",
-    "versionCode": 1787028384
+    "versionName": "1.1.1",
+    "versionCode": 1788354987
   }
 }

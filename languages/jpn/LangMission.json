@@ -6444,6 +6444,50 @@
     "text": "ホロワークを{0}回開始しよう"
   },
   {
+    "id": "la-mission-missionpass-261001-weekly-increment_card_level_limit_break_count-name",
+    "text": "メンバーを{0}回特訓しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-weekly-increment_drop_item_get_count-name",
+    "text": "隠しトレジャーを{0}個拾おう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+    "text": "ねぽらぼマートのホロゴールド交換で{0}回交換しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-weekly-increment_live_play_count-name",
+    "text": "ライブを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-weekly-increment_live_stamina_consumption-name",
+    "text": "ライブブーストを合計{0}消費しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-weekly-increment_mini_game_play_count-name",
+    "text": "ミニゲームを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-weekly-increment_mini_game_stamina_consumption-name",
+    "text": "ミニゲームでミニゲームブーストを合計{0}消費しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-weekly-increment_multi_live_play_count-name",
+    "text": "みんなでライブを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-weekly-increment_music_creative_chart_live_clear_count-name",
+    "text": "クリエイト譜面の楽曲を{0}回クリアしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-weekly-increment_skill_tree_release_count-name",
+    "text": "ホロメンボードを{0}個解放しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-weekly-increment_work_start_count-name",
+    "text": "ホロワークを{0}回開始しよう"
+  },
+  {
     "id": "la-mission-quest-area-a01-03-1-1-description",
     "text": "ホロメンを{0}人解放しよう"
   },

@@ -576,6 +576,46 @@
     "text": "이벤트 배지(이나니스)"
   },
   {
+    "id": "la-item-event_badge-marathon_event-relay-002-all-description",
+    "text": "이벤트 교환소(공통)의 아이템과 교환할 수 있는 배지.\n유효기간이 지나면 Holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-002-all-name",
+    "text": "이벤트 배지(공통)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-002-chapter-01-description",
+    "text": "이벤트 교환소(아키)의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 Holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-002-chapter-01-name",
+    "text": "이벤트 배지(아키)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-002-chapter-02-description",
+    "text": "이벤트 교환소(시오리)의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 Holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-002-chapter-02-name",
+    "text": "이벤트 배지(시오리)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-002-chapter-03-description",
+    "text": "이벤트 교환소(라플라스)의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 Holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-002-chapter-03-name",
+    "text": "이벤트 배지(라플라스)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-002-chapter-04-description",
+    "text": "이벤트 교환소(아냐)의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 Holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-002-chapter-04-name",
+    "text": "이벤트 배지(아냐)"
+  },
+  {
     "id": "la-item-exchange-holomedal-description",
     "text": "파크 내 상점에서 아이템과 교환할 수 있는 아이템."
   },

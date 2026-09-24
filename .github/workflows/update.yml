@@ -48,7 +48,7 @@ jobs:
       - name: Check out private database tool
         uses: actions/checkout@v7
         with:
-          repository: ${{ vars.DATABASE_SOURCE_REPOSITORY || 'holodori/fetch-database' }}
+          repository: ${{ vars.DATABASE_SOURCE_REPOSITORY || 'holodori-net/fetch-database' }}
           ref: ${{ inputs.source_ref || vars.DATABASE_SOURCE_REF || 'main' }}
           ssh-key: ${{ secrets.SOURCE_REPO_SSH_KEY }}
           persist-credentials: false
@@ -57,7 +57,7 @@ jobs:
       - name: Check out published Android contract
         uses: actions/checkout@v7
         with:
-          repository: ${{ vars.CONTRACT_REPOSITORY || 'holodori/android-protos' }}
+          repository: ${{ vars.CONTRACT_REPOSITORY || 'holodori-net/android-protos' }}
           ref: ${{ inputs.contract_ref || vars.CONTRACT_REF || 'main' }}
           persist-credentials: false
           path: contract

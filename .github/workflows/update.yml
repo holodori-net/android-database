@@ -93,6 +93,16 @@ jobs:
           EOF
           chmod 600 "$RUNNER_TEMP/proxy-ssh/config"
 
+      - name: Verify proxy SSH access
+        shell: bash
+        env:
+          SSH_DIRECTORY: ${{ runner.temp }}/proxy-ssh
+        run: |
+          if ! ssh -F "$SSH_DIRECTORY/config" -T proxy true; then
+            ssh-keygen -lf "$SSH_DIRECTORY/id_ed25519" || true
+            exit 1
+          fi
+
       - name: Fetch and publish database
         uses: ./source
         with:

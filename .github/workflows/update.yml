@@ -73,8 +73,12 @@ jobs:
           test -n "$PROXY_SSH_KEY"
           mkdir -p "$RUNNER_TEMP/proxy-ssh"
           chmod 700 "$RUNNER_TEMP/proxy-ssh"
-          printf '%s\n' "$PROXY_SSH_KEY" > "$RUNNER_TEMP/proxy-ssh/id_ed25519"
+          printf '%s\n' "$PROXY_SSH_KEY" | tr -d '\r' > "$RUNNER_TEMP/proxy-ssh/id_ed25519"
           chmod 600 "$RUNNER_TEMP/proxy-ssh/id_ed25519"
+          if ! ssh-keygen -y -P '' -f "$RUNNER_TEMP/proxy-ssh/id_ed25519" >/dev/null; then
+            echo '::error::PROXY_SSH_KEY must contain a readable OpenSSH private key'
+            exit 1
+          fi
           ssh-keyscan -T 10 -t ed25519 -H "$PROXY_HOST" > "$RUNNER_TEMP/proxy-ssh/known_hosts" 2>/dev/null
           test -s "$RUNNER_TEMP/proxy-ssh/known_hosts"
           ssh-keygen -F "$PROXY_HOST" -f "$RUNNER_TEMP/proxy-ssh/known_hosts" >/dev/null

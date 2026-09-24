@@ -75,8 +75,9 @@ jobs:
           chmod 700 "$RUNNER_TEMP/proxy-ssh"
           printf '%s\n' "$PROXY_SSH_KEY" > "$RUNNER_TEMP/proxy-ssh/id_ed25519"
           chmod 600 "$RUNNER_TEMP/proxy-ssh/id_ed25519"
-          ssh-keyscan -T 10 -H "$PROXY_HOST" > "$RUNNER_TEMP/proxy-ssh/known_hosts" 2>/dev/null
+          ssh-keyscan -T 10 -t ed25519 -H "$PROXY_HOST" > "$RUNNER_TEMP/proxy-ssh/known_hosts" 2>/dev/null
           test -s "$RUNNER_TEMP/proxy-ssh/known_hosts"
+          ssh-keygen -F "$PROXY_HOST" -f "$RUNNER_TEMP/proxy-ssh/known_hosts" >/dev/null
           chmod 644 "$RUNNER_TEMP/proxy-ssh/known_hosts"
           cat > "$RUNNER_TEMP/proxy-ssh/config" <<EOF
           Host proxy
@@ -98,7 +99,9 @@ jobs:
         env:
           SSH_DIRECTORY: ${{ runner.temp }}/proxy-ssh
         run: |
-          if ! ssh -F "$SSH_DIRECTORY/config" -T proxy true; then
+          sed "s|/ssh/|$SSH_DIRECTORY/|g" "$SSH_DIRECTORY/config" > "$SSH_DIRECTORY/runner-config"
+          chmod 600 "$SSH_DIRECTORY/runner-config"
+          if ! ssh -F "$SSH_DIRECTORY/runner-config" -T proxy true; then
             ssh-keygen -lf "$SSH_DIRECTORY/id_ed25519" || true
             exit 1
           fi

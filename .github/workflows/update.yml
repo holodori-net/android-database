@@ -24,6 +24,7 @@ on:
 
 permissions:
   contents: write
+  packages: read
 
 concurrency:
   group: database-publish
@@ -31,7 +32,7 @@ concurrency:
 
 jobs:
   update:
-    runs-on: tpe-holodori
+    runs-on: ubuntu-24.04
     timeout-minutes: 60
     steps:
       - name: Prepare publication tools
@@ -62,6 +63,36 @@ jobs:
           persist-credentials: false
           path: contract
 
+      - name: Prepare proxy SSH configuration
+        shell: bash
+        env:
+          PROXY_HOST: ${{ secrets.PROXY_HOST }}
+          PROXY_SSH_KEY: ${{ secrets.PROXY_SSH_KEY }}
+        run: |
+          test -n "$PROXY_HOST"
+          test -n "$PROXY_SSH_KEY"
+          mkdir -p "$RUNNER_TEMP/proxy-ssh"
+          chmod 700 "$RUNNER_TEMP/proxy-ssh"
+          printf '%s\n' "$PROXY_SSH_KEY" > "$RUNNER_TEMP/proxy-ssh/id_ed25519"
+          chmod 600 "$RUNNER_TEMP/proxy-ssh/id_ed25519"
+          ssh-keyscan -T 10 -H "$PROXY_HOST" > "$RUNNER_TEMP/proxy-ssh/known_hosts" 2>/dev/null
+          test -s "$RUNNER_TEMP/proxy-ssh/known_hosts"
+          chmod 644 "$RUNNER_TEMP/proxy-ssh/known_hosts"
+          cat > "$RUNNER_TEMP/proxy-ssh/config" <<EOF
+          Host proxy
+            HostName $PROXY_HOST
+            User actions-proxy
+            IdentityFile /ssh/id_ed25519
+            IdentitiesOnly yes
+            BatchMode yes
+            ConnectTimeout 10
+            ServerAliveInterval 30
+            ServerAliveCountMax 3
+            StrictHostKeyChecking yes
+            UserKnownHostsFile /ssh/known_hosts
+          EOF
+          chmod 600 "$RUNNER_TEMP/proxy-ssh/config"
+
       - name: Fetch and publish database
         uses: ./source
         with:
@@ -71,3 +102,10 @@ jobs:
           force: ${{ inputs.force && 'true' || 'false' }}
           node-image: ${{ inputs.node_image || 'node:current-slim' }}
           base-url: ${{ vars.DATABASE_BASE_URL || 'https://jp.game-hololive-dreams.com' }}
+          ssh-directory: ${{ runner.temp }}/proxy-ssh
+
+      - name: Remove proxy SSH configuration
+        if: always()
+        shell: bash
+        run: |
+          rm -rf "$RUNNER_TEMP/proxy-ssh"

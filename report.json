@@ -17,11 +17,11 @@
   ],
   "tools": {
     "node": "v26.10.0",
-    "nodeImage": "holodori/fetch-database:checks"
+    "nodeImage": "node:current-slim"
   },
   "inputs": {
-    "sourceRevision": "8505d5f3062b9fd58f59798e0396df46395def26",
-    "contractRevision": "49231bbe810de6b4960e07050e54cf25bb4fb6fd"
+    "sourceRevision": "956f4a86203e7e8276722166ba83a9020c5c3e42",
+    "contractRevision": "096ad9754bdf85fa16de85d32bb40f05dd08308f"
   },
   "source": {
     "packs": 993,
@@ -32,5 +32,5 @@
     "tables": 993,
     "rows": 445351
   },
-  "elapsedMs": 53924
+  "elapsedMs": 163134
 }

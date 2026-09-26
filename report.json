@@ -20,7 +20,7 @@
     "nodeImage": "node:current-slim"
   },
   "inputs": {
-    "sourceRevision": "956f4a86203e7e8276722166ba83a9020c5c3e42",
+    "sourceRevision": "6f28c6eb71ffa164045c80d12606411d4b628c02",
     "contractRevision": "82cd0d9f8bd2edece81f65e40c8282d97e4a8826"
   },
   "source": {
@@ -30,7 +30,23 @@
   "outputs": {
     "packs": 993,
     "tables": 993,
-    "rows": 445351
+    "rows": 445351,
+    "masterSqlite": {
+      "path": "master.sqlite",
+      "logicalTables": 373,
+      "rows": 445351,
+      "bytes": 84439040,
+      "sha256": "44634ba38f8486ea8e619e9043fe7a1edbc66bb03e1c0cc0914d9dd3512ee534",
+      "schema": {
+        "parentTables": 373,
+        "structuredJsonFields": 83,
+        "enumTables": 117,
+        "enforceableForeignKeys": 204,
+        "metadataOnlyForeignKeys": 346,
+        "unmarkedForeignKeyCandidates": 15,
+        "unknownEnumValues": 6
+      }
+    }
   },
-  "elapsedMs": 210514
+  "elapsedMs": 267079
 }

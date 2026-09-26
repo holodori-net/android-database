@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "masterVersion": "927a8489062cfb8aaee197689930a4c4e9c622e9ebbf8b80577bdbe5f065dcf9",
+  "masterVersion": "845cee36af22b657511ca406b5417cac7076a001208518c9601d6389a5046ddd",
   "languages": [
     "jpn",
     "eng",
@@ -12,7 +12,7 @@
   "databases": {
     "packs": 993,
     "tables": 993,
-    "rows": 445351
+    "rows": 445428
   },
   "files": [
     {
@@ -3511,37 +3511,37 @@
       "packType": "LangMusic_Chs",
       "table": "Lang",
       "path": "languages/chs/LangMusic.json",
-      "rows": 2086
+      "rows": 2096
     },
     {
       "packType": "LangMusic_Cht",
       "table": "Lang",
       "path": "languages/cht/LangMusic.json",
-      "rows": 2086
+      "rows": 2096
     },
     {
       "packType": "LangMusic_Eng",
       "table": "Lang",
       "path": "languages/eng/LangMusic.json",
-      "rows": 2086
+      "rows": 2096
     },
     {
       "packType": "LangMusic_Ind",
       "table": "Lang",
       "path": "languages/ind/LangMusic.json",
-      "rows": 2086
+      "rows": 2096
     },
     {
       "packType": "LangMusic_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangMusic.json",
-      "rows": 2086
+      "rows": 2096
     },
     {
       "packType": "LangMusic_Kor",
       "table": "Lang",
       "path": "languages/kor/LangMusic.json",
-      "rows": 2086
+      "rows": 2096
     },
     {
       "packType": "LangMusicCreativeChartTag_Chs",
@@ -3583,37 +3583,37 @@
       "packType": "LangMusicMv_Chs",
       "table": "Lang",
       "path": "languages/chs/LangMusicMv.json",
-      "rows": 153
+      "rows": 154
     },
     {
       "packType": "LangMusicMv_Cht",
       "table": "Lang",
       "path": "languages/cht/LangMusicMv.json",
-      "rows": 153
+      "rows": 154
     },
     {
       "packType": "LangMusicMv_Eng",
       "table": "Lang",
       "path": "languages/eng/LangMusicMv.json",
-      "rows": 153
+      "rows": 154
     },
     {
       "packType": "LangMusicMv_Ind",
       "table": "Lang",
       "path": "languages/ind/LangMusicMv.json",
-      "rows": 153
+      "rows": 154
     },
     {
       "packType": "LangMusicMv_Jpn",
       "table": "Lang",
       "path": "languages/jpn/LangMusicMv.json",
-      "rows": 153
+      "rows": 154
     },
     {
       "packType": "LangMusicMv_Kor",
       "table": "Lang",
       "path": "languages/kor/LangMusicMv.json",
-      "rows": 153
+      "rows": 154
     },
     {
       "packType": "LangMusicMvCategory_Chs",
@@ -5389,7 +5389,7 @@
       "packType": "Music",
       "table": "Music",
       "path": "tables/Music.json",
-      "rows": 203
+      "rows": 204
     },
     {
       "packType": "MusicCreativeChartTag",
@@ -5401,13 +5401,13 @@
       "packType": "MusicDifficulty",
       "table": "MusicDifficulty",
       "path": "tables/MusicDifficulty.json",
-      "rows": 812
+      "rows": 816
     },
     {
       "packType": "MusicDifficultyChart",
       "table": "MusicDifficultyChart",
       "path": "tables/MusicDifficultyChart.json",
-      "rows": 812
+      "rows": 816
     },
     {
       "packType": "MusicDifficultyConfiguration",
@@ -5425,7 +5425,7 @@
       "packType": "MusicMv",
       "table": "MusicMv",
       "path": "tables/MusicMv.json",
-      "rows": 286
+      "rows": 288
     },
     {
       "packType": "MusicMvCategory",

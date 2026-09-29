@@ -1093,20 +1093,5 @@
       "number": 201000
     },
     "threshold": "1100"
-  },
-  {
-    "type": {
-      "name": "CHEAT_TYPE_PARK_FISHING_CLEAR_TIME_TAMPERING",
-      "number": 10100
-    },
-    "severity_type": {
-      "name": "CHEAT_SEVERITY_TYPE_RED",
-      "number": 2
-    },
-    "parameter_type": {
-      "name": "CHEAT_PARAMETER_TYPE_PARK_FISHING_CLEAR_TIME_TAMPERING_COEFFICIENT_PERMIL_MULTIPLY",
-      "number": 201000
-    },
-    "threshold": "1500"
   }
 ]

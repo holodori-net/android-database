@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "masterVersion": "564bd8ea79922b11590b8980a16c657cc9ff90fd40483bc98846ed87a49b015f",
+  "masterVersion": "0ff7b6d58e8c75038763f73a31f2b300e3a09cf217b28aa3cb720d5220cd43b0",
   "languages": [
     "jpn",
     "eng",
@@ -12,7 +12,7 @@
   "databases": {
     "packs": 994,
     "tables": 994,
-    "rows": 513859
+    "rows": 513858
   },
   "files": [
     {
@@ -229,7 +229,7 @@
       "packType": "Cheat",
       "table": "Cheat",
       "path": "tables/Cheat.json",
-      "rows": 74
+      "rows": 73
     },
     {
       "packType": "Circuit",

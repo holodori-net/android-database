@@ -1093,6 +1093,29 @@
     ]
   },
   {
+    "id": "item-event_badge-marathon_event-normal-005-chapter-01",
+    "name_lang_id": "la-item-event_badge-marathon_event-normal-005-chapter-01-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-normal-005-chapter-01-description",
+    "type": {
+      "name": "ITEM_TYPE_MARATHON_EVENT_BADGE",
+      "number": 1000
+    },
+    "common_limit_time": "1791716399000",
+    "asset_id": "event-badge-03",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-normal-005-chapter-01",
+    "order": 9002,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
     "id": "item-event_badge-marathon_event-relay-001-all",
     "name_lang_id": "la-item-event_badge-marathon_event-relay-001-all-name",
     "description_lang_id": "la-item-event_badge-marathon_event-relay-001-all-description",
@@ -1508,6 +1531,57 @@
     "order": 1208
   },
   {
+    "id": "item-facility-area_a03-001-1",
+    "name_lang_id": "la-item-facility-area_a03-001-1-name",
+    "description_lang_id": "la-item-facility-area_a03-001-1-description",
+    "type": {
+      "name": "ITEM_TYPE_FACILITY",
+      "number": 6
+    },
+    "asset_id": "facility-area-a03-001-1",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-facility-area_a03-001-1",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_PARK",
+      "number": 2
+    },
+    "is_display_owned": true,
+    "order": 1028
+  },
+  {
+    "id": "item-facility-area_a03-002-1",
+    "name_lang_id": "la-item-facility-area_a03-002-1-name",
+    "description_lang_id": "la-item-facility-area_a03-002-1-description",
+    "type": {
+      "name": "ITEM_TYPE_FACILITY",
+      "number": 6
+    },
+    "asset_id": "facility-area-a03-002-1",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-facility-area_a03-002-1",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_PARK",
+      "number": 2
+    },
+    "is_display_owned": true,
+    "order": 1029
+  },
+  {
+    "id": "item-facility-area_a03-003-1",
+    "name_lang_id": "la-item-facility-area_a03-003-1-name",
+    "description_lang_id": "la-item-facility-area_a03-003-1-description",
+    "type": {
+      "name": "ITEM_TYPE_FACILITY",
+      "number": 6
+    },
+    "asset_id": "facility-area-a03-003-1",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-facility-area_a03-003-1",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_PARK",
+      "number": 2
+    },
+    "is_display_owned": true,
+    "order": 1030
+  },
+  {
     "id": "item-gacha-cmn_sticker-01",
     "name_lang_id": "la-item-gacha-cmn_sticker-01-name",
     "description_lang_id": "la-item-gacha-cmn_sticker-01-description",
@@ -1676,6 +1750,23 @@
     "order": 3004
   },
   {
+    "id": "item-mini_game_fishing_coin",
+    "name_lang_id": "la-item-mini_game_fishing_coin-name",
+    "description_lang_id": "la-item-mini_game_fishing_coin-description",
+    "type": {
+      "name": "ITEM_TYPE_OTHER",
+      "number": 999
+    },
+    "asset_id": "mini-game-fishing-coin",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-fishingcoin",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "is_display_owned": true,
+    "order": 22
+  },
+  {
     "id": "item-mini_game_reward_up_stamina_recover",
     "name_lang_id": "la-item-mini_game_reward_up_stamina_recover-name",
     "description_lang_id": "la-item-mini_game_reward_up_stamina_recover-description",
@@ -1742,6 +1833,38 @@
       "number": 999
     },
     "order": 11001
+  },
+  {
+    "id": "item-quest-area-a03-05-1-1",
+    "name_lang_id": "la-item-quest-area-a03-05-1-1-name",
+    "description_lang_id": "la-item-quest-area-a03-05-1-1-description",
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "asset_id": "park-quest-luggage",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 12001
+  },
+  {
+    "id": "item-quest-area-a03-12-1-1",
+    "name_lang_id": "la-item-quest-area-a03-12-1-1-name",
+    "description_lang_id": "la-item-quest-area-a03-12-1-1-description",
+    "type": {
+      "name": "ITEM_TYPE_QUEST_DELIVERY",
+      "number": 18
+    },
+    "asset_id": "park-quest-luggage",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-quest",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+      "number": 999
+    },
+    "order": 12002
   },
   {
     "id": "item-quest-main-w1-01-02-1-4",

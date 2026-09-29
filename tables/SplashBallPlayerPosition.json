@@ -1,1 +1,176 @@
-[]
+[
+  {
+    "group_id": "position_group-normal",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_YELLOW",
+      "number": 1
+    },
+    "number": 1,
+    "position_x": 86.5,
+    "position_z": -50
+  },
+  {
+    "group_id": "position_group-normal",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_YELLOW",
+      "number": 1
+    },
+    "number": 2,
+    "position_x": 100
+  },
+  {
+    "group_id": "position_group-normal",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_YELLOW",
+      "number": 1
+    },
+    "number": 3,
+    "position_x": 50,
+    "position_z": -86.5
+  },
+  {
+    "group_id": "position_group-normal",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_PINK",
+      "number": 2
+    },
+    "number": 1,
+    "position_x": -86.5,
+    "position_z": -50
+  },
+  {
+    "group_id": "position_group-normal",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_PINK",
+      "number": 2
+    },
+    "number": 2,
+    "position_x": -50,
+    "position_z": -86.5
+  },
+  {
+    "group_id": "position_group-normal",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_PINK",
+      "number": 2
+    },
+    "number": 3,
+    "position_x": -100
+  },
+  {
+    "group_id": "position_group-normal",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_BLUE",
+      "number": 3
+    },
+    "number": 1,
+    "position_z": 100
+  },
+  {
+    "group_id": "position_group-normal",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_BLUE",
+      "number": 3
+    },
+    "number": 2,
+    "position_x": -50,
+    "position_z": 86.5
+  },
+  {
+    "group_id": "position_group-normal",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_BLUE",
+      "number": 3
+    },
+    "number": 3,
+    "position_x": 50,
+    "position_z": 86.5
+  },
+  {
+    "group_id": "position_group-quest",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_YELLOW",
+      "number": 1
+    },
+    "number": 1,
+    "position_x": 86.5,
+    "position_z": -50
+  },
+  {
+    "group_id": "position_group-quest",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_YELLOW",
+      "number": 1
+    },
+    "number": 2,
+    "position_x": 100
+  },
+  {
+    "group_id": "position_group-quest",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_YELLOW",
+      "number": 1
+    },
+    "number": 3,
+    "position_x": 50,
+    "position_z": -86.5
+  },
+  {
+    "group_id": "position_group-quest",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_PINK",
+      "number": 2
+    },
+    "number": 1,
+    "position_x": -86.5,
+    "position_z": -50
+  },
+  {
+    "group_id": "position_group-quest",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_PINK",
+      "number": 2
+    },
+    "number": 2,
+    "position_x": -50,
+    "position_z": -86.5
+  },
+  {
+    "group_id": "position_group-quest",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_PINK",
+      "number": 2
+    },
+    "number": 3,
+    "position_x": -100
+  },
+  {
+    "group_id": "position_group-quest",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_BLUE",
+      "number": 3
+    },
+    "number": 1,
+    "position_z": 100
+  },
+  {
+    "group_id": "position_group-quest",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_BLUE",
+      "number": 3
+    },
+    "number": 2,
+    "position_x": -50,
+    "position_z": 86.5
+  },
+  {
+    "group_id": "position_group-quest",
+    "team_color": {
+      "name": "SPLASH_BALL_TEAM_COLOR_BLUE",
+      "number": 3
+    },
+    "number": 3,
+    "position_x": 50,
+    "position_z": 86.5
+  }
+]

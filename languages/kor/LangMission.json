@@ -1,5 +1,9 @@
 [
   {
+    "id": "la-increment_park_fishing_fish_caught_count",
+    "text": "물고기를 {0}마리 낚자"
+  },
+  {
     "id": "la-mission-achievement-chr-00001-absolute_card_get_unique_count-description",
     "text": "멤버를 {0}종류 획득"
   },
@@ -5568,6 +5572,46 @@
     "text": "악곡을 {0}곡 개방"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-description",
+    "text": "{0}종류의 물고기를 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0028-description",
+    "text": "잘나가성대를 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0029-description",
+    "text": "똑똑하쥐가오리를 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0030-description",
+    "text": "귀엽닭새우를 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0061-description",
+    "text": "눈꽃클리오네를 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0062-description",
+    "text": "섹시청초줄돔을 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0063-description",
+    "text": "무쥘서어를 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0094-description",
+    "text": "용오름쥐치를 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0095-description",
+    "text": "수리검날꽃게를 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0096-description",
+    "text": "광대 프로그피시를 낚자"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a01-area-description",
     "text": "하모니 가든의 구역 퀘스트를 {0}개 클리어"
   },
@@ -5584,6 +5628,10 @@
     "text": "메가 스피어의 메인 퀘스트를 {0}개 클리어"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a03-description",
+    "text": "소다팝 라군의 메인, 구역 퀘스트를 모두 클리어"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w1-01-24-description",
     "text": "하모니 가든의 메인 퀘스트 EP24를 클리어"
   },
@@ -5592,11 +5640,19 @@
     "text": "메가 스피어의 메인 퀘스트 EP12를 클리어"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w3-01-15-description",
+    "text": "소다팝 라군의 메인 퀘스트 EP15를 클리어"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a01-description",
     "text": "트레저를 {0}개 획득"
   },
   {
     "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a02-description",
+    "text": "트레저를 {0}개 획득"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a03-description",
     "text": "트레저를 {0}개 획득"
   },
   {
@@ -5840,6 +5896,10 @@
     "text": "줄넘기를 {0}회 플레이"
   },
   {
+    "id": "la-mission-achievement-common-increment_mini_game_play_count-splash_ball-description",
+    "text": "{0}회 플레이"
+  },
+  {
     "id": "la-mission-achievement-common-increment_multi_live_mvp_count-description",
     "text": "다 함께 라이브에서 {0}회 MVP 획득"
   },
@@ -5854,6 +5914,18 @@
   {
     "id": "la-mission-achievement-common-increment_music_creative_chart_live_clear_count-description",
     "text": "창작 악보를 {0}곡 클리어"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_park_fishing_fish_caught_count-description",
+    "text": "물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_park_fishing_fish_failed_count-description",
+    "text": "{0}회 물고기를 놓쳤다"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_park_fishing_fish_failed_count-name",
+    "text": "먹이 주기 달인"
   },
   {
     "id": "la-mission-achievement-common-increment_park_photo_take_count-description",
@@ -5880,12 +5952,196 @@
     "text": "Holo골드를 {0} 획득"
   },
   {
+    "id": "la-mission-achievement-common-increment_splash_ball_cold_lose_count-description",
+    "text": "우리 팀이 0점으로 패배"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_cold_lose_count-name",
+    "text": "언젠가… 스트라이커가…"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_defense_score-description",
+    "text": "수비 pt {0}점 획득"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_goal_count-bonus-description",
+    "text": "황금 공을 {0}회 넣기"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_goal_score-description",
+    "text": "골 pt {0}점 획득"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_win_count-description",
+    "text": "{0}회 승리"
+  },
+  {
     "id": "la-mission-achievement-common-increment_work_finish_count-5-description",
     "text": "Holo워크에서 평가 랭크 S를 {0}회 달성"
   },
   {
     "id": "la-mission-achievement-common-increment_work_finish_count-description",
     "text": "Holo워크를 {0}회 완료"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-arch_island_top-description",
+    "text": "아치형 섬에 있는 돌탑 아래에서 포즈 취하기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-arch_island_top-name",
+    "text": "자연의 애슬레틱"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beach_sand_muscle-description",
+    "text": "근육질 인어가 되기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beach_sand_muscle-name",
+    "text": "모래 위 육체미"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beach_sos-description",
+    "text": "모래에 적힌 「SOS」를 발견하기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beach_sos-name",
+    "text": "누군가의 낙서"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beacon_lighthouse-description",
+    "text": "보코보코 비콘으로 등대 문을 3회 노크하면 등대의 holo멤이 반응한다"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beacon_lighthouse-name",
+    "text": "등잔 밑이 어둡다"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-boatshop_experiment_failure-description",
+    "text": "코요랩 해양지부의 밸브에서 초록색 가스를 분사하기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-boatshop_experiment_failure-name",
+    "text": "실험 중…?"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_bench-description",
+    "text": "남동쪽 동굴 내 벤치에 앉기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_bench-name",
+    "text": "비밀 피서지"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_exit_pose-description",
+    "text": "서쪽 동굴 끝 절벽에서 포즈를 취하기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_exit_pose-name",
+    "text": "어둠을 빠져나가"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_waterfall-description",
+    "text": "북쪽 동굴에서 폭포 수행을 하기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_waterfall-name",
+    "text": "마음을 비우는 폭포 수행"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cliff_top-description",
+    "text": "동쪽 절벽의 정상에 오르기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cliff_top-name",
+    "text": "정상의 특권"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cottage_cliff_yoga-description",
+    "text": "북쪽 오두막 뒤에서 심호흡하기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cottage_cliff_yoga-name",
+    "text": "최북단에서 심호흡"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-fishblue_vacances-description",
+    "text": "피시 블루에서 의자에 앉기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-fishblue_vacances-name",
+    "text": "바캉스 만끽 중"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-glamping_bed-description",
+    "text": "포포포 해피 캠프의 침대로 다이빙"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-glamping_bed-name",
+    "text": "오늘은 영업 끝!"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-live_stage_backstage-description",
+    "text": "라이브 스테이지 뒤의 덱에 가기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-live_stage_backstage-name",
+    "text": "무대 뒤로 잠입!"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-observatory_deck_chair-description",
+    "text": "전망대 덱 체어에서 음료 마시기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-observatory_deck_chair-name",
+    "text": "우아한 한때"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-residential_knock-description",
+    "text": "서쪽 별장지에 있는 모든 문을 노크하기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-residential_knock-name",
+    "text": "누구 없나요"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-resortshop_water-description",
+    "text": "이치조 VIP 라운지의 풀장에 앉아서 물장구 치기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-resortshop_water-name",
+    "text": "수영 연습 중"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-snowdome_caress-description",
+    "text": "라미의 스노우돔에서 다이후쿠 쓰다듬기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-snowdome_caress-name",
+    "text": "추워 보여서"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-station_ship_cannon-description",
+    "text": "프린세스 마린호 부근에 대포가 떨어졌다"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-station_ship_cannon-name",
+    "text": "위기일발"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-waterfall_point-description",
+    "text": "동쪽 동굴에서 폭포를 바라보기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-waterfall_point-name",
+    "text": "보트에서 내린 곳에"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-watergun_rainbow-description",
+    "text": "우파오 헤븐의 부두에서 무지개를 보기"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-watergun_rainbow-name",
+    "text": "무지개 다리"
   },
   {
     "id": "la-mission-achievement-increment_park_mission_action_countbar_table_drink-description",
@@ -6116,6 +6372,42 @@
     "text": "다 함께 라이브를 {0}회 플레이하자"
   },
   {
+    "id": "la-mission-event_mission-area03-release-260929-absolute_park_fishing_fish_unique_count",
+    "text": "물고기를 {0}종류 낚자"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_drop_item_get_count-area_group-a03",
+    "text": "소다팝 라군에서 비밀 트레저를 {0}개 획득하자"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_mission_clear_count-mission_grp-area03-release-260929",
+    "text": "모든 미션을 완료하자"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_park_fishing_fish_caught_count",
+    "text": "물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_resource_get_count-item-item-mini_game_fishing_coin",
+    "text": "소다팝 코인을 {0}개 획득하자"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_defense_score",
+    "text": "스플래시 볼에서 수비 포인트를 {0}포인트 획득하자"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_goal_count",
+    "text": "스플래시 볼에서 {0}회 골을 넣자"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count",
+    "text": "스플래시 볼에서 {0}회 승리하자"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_work_finish_count",
+    "text": "holo워크를 {0}회 완료하자"
+  },
+  {
     "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
     "text": "어둠 속 추적에서 {0}회 열쇠를 사용하자"
   },
@@ -6154,6 +6446,26 @@
   {
     "id": "la-mission-event_mission-chase_celebration-260828-increment_work_finish_count",
     "text": "holo워크를 {0}회 완료하자"
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-absolute_card_level",
+    "text": "멤버 Lv {0}Lv에 도달하자"
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-absolute_live_clear_music_count",
+    "text": "{0}종류의 라이브를 클리어하자"
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-absolute_live_deck_evaluation_value",
+    "text": "유닛 스코어를 {0} 달성하자"
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-absolute_park_quest_clear_count-quest-main-w1-02-12",
+    "text": "메가 스피어의 메인 퀘스트 EP12를 클리어하자"
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-increment_mini_game_stamina_consumption",
+    "text": "미니 게임 부스트를 총 {0} 소비하자"
   },
   {
     "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
@@ -6216,6 +6528,10 @@
     "text": "-"
   },
   {
+    "id": "la-mission-hidden-shop_consumption_item-pack-area03_clear-260929-name",
+    "text": "-"
+  },
+  {
     "id": "la-mission-marathon_event-live_clear_count",
     "text": "이벤트 지정곡을 {0}회 클리어하자"
   },
@@ -6230,6 +6546,10 @@
   {
     "id": "la-mission-marathon_event-live_stamina_consumption",
     "text": "라이브 부스트를 총 {0} 소비하자"
+  },
+  {
+    "id": "la-mission-marathon_event-marathon_increment_resource_get_count",
+    "text": "이벤트 배지를 {0}개 획득하자"
   },
   {
     "id": "la-mission-marathon_event-marathon_live_play_count",
@@ -6444,6 +6764,54 @@
     "text": "Holo워크를 {0}회 개시하자"
   },
   {
+    "id": "la-mission-missionpass-261001-daily-increment_card_level_up_count-name",
+    "text": "멤버 Lv을 {0}회 강화하자"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_drop_item_get_count-name",
+    "text": "비밀 트레저를 {0}개 습득하자"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_live_play_count-name",
+    "text": "라이브를 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_mini_game_play_count-name",
+    "text": "미니 게임을 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_multi_live_play_count-name",
+    "text": "다 함께 라이브를 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_park_present_receive_count-name",
+    "text": "holo멤이 주는 선물을 {0}회 수령하자"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_park_quest_clear_count-daily-name",
+    "text": "데일리 퀘스트를 {0}회 클리어하자"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_work_start_count-name",
+    "text": "Holo워크를 {0}회 개시하자"
+  },
+  {
+    "id": "la-mission-missionpass-261001-season-absolute_park_fishing_fish_unique_count-name",
+    "text": "물고기를 {0}종류 낚자"
+  },
+  {
+    "id": "la-mission-missionpass-261001-season-absolute_park_quest_clear_count-quest-main-w1-03-15-name",
+    "text": "소다팝 라군의 메인 퀘스트 EP15를 클리어하자"
+  },
+  {
+    "id": "la-mission-missionpass-261001-season-increment_mini_game_play_count-splash_ball-name",
+    "text": "스플래시 볼을 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-missionpass-261001-season-increment_park_fishing_fish_caught_count-name",
+    "text": "물고기를 {0}마리 낚자"
+  },
+  {
     "id": "la-mission-missionpass-261001-weekly-increment_card_level_limit_break_count-name",
     "text": "멤버를 {0}회 특훈하자"
   },
@@ -6600,12 +6968,92 @@
     "text": "하이&로에서 메가 스피어 코인을 {0}개 획득하자"
   },
   {
+    "id": "la-mission-quest-area-a03-01-1-2-description",
+    "text": "★2 이상의 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-01-1-2-name",
+    "text": "★2 이상의 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-03-1-2-description",
+    "text": "소다팝 코인을 {0}개 획득하자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-03-1-2-name",
+    "text": "소다팝 코인을 {0}개 획득하자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-04-1-2-description",
+    "text": "{0}종류의 물고기를 낚자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-04-1-2-name",
+    "text": "{0}종류의 물고기를 낚자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-07-1-2-description",
+    "text": "Holo멤버 보드를 {0}개 개방하자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-07-1-2-name",
+    "text": "Holo멤버 보드를 {0}개 개방하자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-09-1-2-description",
+    "text": "★4 이상의 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-09-1-2-name",
+    "text": "★4 이상의 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-11-1-2-description",
+    "text": "★5 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-11-1-2-name",
+    "text": "★5 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-13-1-2-description",
+    "text": "심야에 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-13-1-2-name",
+    "text": "심야에 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-14-1-2-description",
+    "text": "{0}종류의 물고기를 낚자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-14-1-2-name",
+    "text": "{0}종류의 물고기를 낚자"
+  },
+  {
+    "id": "la-mission-quest-area-a03-16-1-2-description",
+    "text": "멤버를 {0}단계까지 특훈하기"
+  },
+  {
+    "id": "la-mission-quest-area-a03-16-1-2-name",
+    "text": "멤버를 {0}단계까지 특훈하기"
+  },
+  {
     "id": "la-mission-quest-daily-mini_game_bet_coin-description",
     "text": "메가 스피어 코인을 {0}개 획득하자"
   },
   {
     "id": "la-mission-quest-daily-mini_game_bet_coin-name",
     "text": "메가 스피어 코인을 {0}개 획득하자"
+  },
+  {
+    "id": "la-mission-quest-daily-mini_game_fishing_coin-description",
+    "text": "소다팝 코인을 {0}개 획득하자"
+  },
+  {
+    "id": "la-mission-quest-daily-mini_game_fishing_coin-name",
+    "text": "소다팝 코인을 {0}개 획득하자"
   },
   {
     "id": "la-mission-quest-main-w1-01-04-1-06-description",
@@ -6662,5 +7110,69 @@
   {
     "id": "la-mission-quest-main-w1-02-06-1-07-name",
     "text": "메가프리를 1회 촬영하자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-04-description",
+    "text": "물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-04-name",
+    "text": "물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-07-description",
+    "text": "베이의 잡동사니에서 {0}회 교환하자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-07-name",
+    "text": "베이의 잡동사니에서 {0}회 교환하자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-08-description",
+    "text": "피시 블루에서 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-08-name",
+    "text": "피시 블루에서 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-04-1-03-description",
+    "text": "이치조 VIP 라운지에서 {0}회 교환하자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-04-1-03-name",
+    "text": "이치조 VIP 라운지에서 {0}회 교환하자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-07-1-03-description",
+    "text": "라미의 스노우돔에서 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-07-1-03-name",
+    "text": "라미의 스노우돔에서 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-10-1-03-description",
+    "text": "물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-10-1-03-name",
+    "text": "물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-10-1-05-description",
+    "text": "★2 이상의 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-10-1-05-name",
+    "text": "★2 이상의 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-12-1-04-description",
+    "text": "보코보코 등대에서 물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-12-1-04-name",
+    "text": "보코보코 등대에서 물고기를 {0}마리 낚자"
   }
 ]

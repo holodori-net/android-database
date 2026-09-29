@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "la-splash_ball-game_playing_display_clear_condition-normal",
+    "text": "상대의 골에 공을 넣자! \\n{0}점에서 승리!"
+  },
+  {
+    "id": "la-splash_ball-game_playing_display_clear_condition-quest",
+    "text": "마지막까지 플레이로 클리어\\n{0}점으로 승리!"
+  },
+  {
+    "id": "la-splash_ball-game_start_display_clear_condition-normal",
+    "text": "상대의 골에 공을 넣자!"
+  },
+  {
+    "id": "la-splash_ball-game_start_display_clear_condition-quest",
+    "text": "상대의 골에 공을 넣자!"
+  }
+]

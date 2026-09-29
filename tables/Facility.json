@@ -414,12 +414,271 @@
     "order": 1
   },
   {
+    "id": "facility-a03-boat",
+    "name_lang_id": "la-empty",
+    "description_lang_id": "la-empty",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-boatshop",
+    "name_lang_id": "la-facility-a03-boatshop-name",
+    "description_lang_id": "la-facility-a03-boatshop-description",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-buoy",
+    "name_lang_id": "la-empty",
+    "description_lang_id": "la-empty",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-entrance",
+    "name_lang_id": "la-facility-a03-entrance-name",
+    "description_lang_id": "la-facility-a03-entrance-description",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-fishingpond1",
+    "name_lang_id": "la-facility-a03-fishingpond1-name",
+    "description_lang_id": "la-facility-a03-fishingpond1-description",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-fishingpond2",
+    "name_lang_id": "la-facility-a03-fishingpond2-name",
+    "description_lang_id": "la-facility-a03-fishingpond2-description",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-fishingpond3",
+    "name_lang_id": "la-facility-a03-fishingpond3-name",
+    "description_lang_id": "la-facility-a03-fishingpond3-description",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-fishingshop",
+    "name_lang_id": "la-facility-a03-fishingshop-name",
+    "description_lang_id": "la-facility-a03-fishingshop-description",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-glamping",
+    "name_lang_id": "la-facility-a03-glamping-name",
+    "description_lang_id": "la-facility-a03-glamping-description",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-islandlarge1",
+    "name_lang_id": "la-facility-a03-islandlarge1-name",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-islandlarge2",
+    "name_lang_id": "la-facility-a03-islandlarge2-name",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-islandmiddle1",
+    "name_lang_id": "la-facility-a03-islandmiddle1-name",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-islandmiddle2",
+    "name_lang_id": "la-facility-a03-islandmiddle2-name",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-islandmiddle3",
+    "name_lang_id": "la-facility-a03-islandmiddle3-name",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-islandsmall1",
+    "name_lang_id": "la-facility-a03-islandsmall1-name",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-islandsmall2",
+    "name_lang_id": "la-facility-a03-islandsmall2-name",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-islandsmall3",
+    "name_lang_id": "la-facility-a03-islandsmall3-name",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-islandsmall4",
+    "name_lang_id": "la-facility-a03-islandsmall4-name",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-livestage",
+    "name_lang_id": "la-facility-a03-livestage-name",
+    "description_lang_id": "la-facility-a03-livestage-description",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-pier",
+    "name_lang_id": "la-empty",
+    "description_lang_id": "la-empty",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-resortshop",
+    "name_lang_id": "la-facility-a03-resortshop-name",
+    "description_lang_id": "la-facility-a03-resortshop-description",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-seaarea1",
+    "name_lang_id": "la-facility-a03-name",
+    "description_lang_id": "la-empty",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-seaarea2",
+    "name_lang_id": "la-facility-a03-name",
+    "description_lang_id": "la-empty",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-seaarea3",
+    "name_lang_id": "la-facility-a03-name",
+    "description_lang_id": "la-empty",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-signboard1",
+    "name_lang_id": "la-empty",
+    "description_lang_id": "la-empty",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-signboard2",
+    "name_lang_id": "la-empty",
+    "description_lang_id": "la-empty",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-signboard3",
+    "name_lang_id": "la-empty",
+    "description_lang_id": "la-empty",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-signboard4",
+    "name_lang_id": "la-empty",
+    "description_lang_id": "la-empty",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-signboardlight",
+    "name_lang_id": "la-empty",
+    "description_lang_id": "la-empty",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-signboardlightsea",
+    "name_lang_id": "la-empty",
+    "description_lang_id": "la-empty",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-stadium",
+    "name_lang_id": "la-facility-a03-stadium-name",
+    "description_lang_id": "la-facility-a03-stadium-description",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-station",
+    "name_lang_id": "la-facility-a03-station-name",
+    "description_lang_id": "la-facility-a03-station-description",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-watergun",
+    "name_lang_id": "la-facility-a03-watergun-name",
+    "description_lang_id": "la-facility-a03-watergun-description",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-a03-whale",
+    "name_lang_id": "la-facility-a03-whale-name",
+    "description_lang_id": "la-facility-a03-whale-description",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-gimmick-fixed_sea-symbol-00",
+    "name_lang_id": "la-facility-gimmick-fixed_symbol-name",
+    "order": 1
+  },
+  {
+    "id": "facility-gimmick-fixed_sea-symbol-01",
+    "name_lang_id": "la-facility-gimmick-fixed_symbol-name",
+    "order": 1
+  },
+  {
     "id": "facility-gimmick-fixed_symbol",
     "name_lang_id": "la-facility-gimmick-fixed_symbol-name",
     "order": 1
   },
   {
+    "id": "facility-gimmick-fixed_symbol-01",
+    "name_lang_id": "la-facility-gimmick-fixed_symbol-name",
+    "order": 1
+  },
+  {
+    "id": "facility-gimmick-random_sea-symbol-00",
+    "name_lang_id": "la-facility-gimmick-random_symbol-name",
+    "order": 1
+  },
+  {
+    "id": "facility-gimmick-random_sea-symbol-01",
+    "name_lang_id": "la-facility-gimmick-random_symbol-name",
+    "order": 1
+  },
+  {
     "id": "facility-gimmick-random_symbol",
+    "name_lang_id": "la-facility-gimmick-random_symbol-name",
+    "order": 1
+  },
+  {
+    "id": "facility-gimmick-random_symbol-01",
     "name_lang_id": "la-facility-gimmick-random_symbol-name",
     "order": 1
   },
@@ -429,8 +688,27 @@
     "order": 1
   },
   {
+    "id": "facility-gimmick-spot-seaarea",
+    "name_lang_id": "la-empty",
+    "order": 1
+  },
+  {
     "id": "facility-gimmick-treasure",
     "name_lang_id": "la-facility-gimmick-treasure-name",
+    "order": 1
+  },
+  {
+    "id": "facility-gimmick-treasurepod-00-pod0",
+    "name_lang_id": "la-empty",
+    "description_lang_id": "la-empty",
+    "area_id": "area-a03",
+    "order": 1
+  },
+  {
+    "id": "facility-gimmick-treasurepod-01-pod0",
+    "name_lang_id": "la-empty",
+    "description_lang_id": "la-empty",
+    "area_id": "area-a03",
     "order": 1
   }
 ]

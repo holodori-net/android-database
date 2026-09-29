@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "la-splash_ball-game_playing_display_clear_condition-normal",
+    "text": "Cobalah untuk memasukkan bola ke gawang lawan! Menang dengan 0 poin!"
+  },
+  {
+    "id": "la-splash_ball-game_playing_display_clear_condition-quest",
+    "text": "Mainkan sampai akhir untuk menyelesaikan permainan! Kemenangan dengan 0 poin!"
+  },
+  {
+    "id": "la-splash_ball-game_start_display_clear_condition-normal",
+    "text": "Cobalah untuk memasukkan bola ke gawang lawan!"
+  },
+  {
+    "id": "la-splash_ball-game_start_display_clear_condition-quest",
+    "text": "Cobalah untuk memasukkan bola ke gawang lawan!"
+  }
+]

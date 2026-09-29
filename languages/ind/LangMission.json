@@ -1,5 +1,9 @@
 [
   {
+    "id": "la-increment_park_fishing_fish_caught_count",
+    "text": "Tangkap {0} ekor ikan"
+  },
+  {
     "id": "la-mission-achievement-chr-00001-absolute_card_get_unique_count-description",
     "text": "Dapatkan {0} jenis anggota"
   },
@@ -5568,6 +5572,46 @@
     "text": "Buka {0} lagu baru"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-description",
+    "text": "Tangkap {0} jenis ikan"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0028-description",
+    "text": "Tangkap Gurnheart"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0029-description",
+    "text": "Tangkap Mantakademik"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0030-description",
+    "text": "Tangkap Ririprawn"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0061-description",
+    "text": "Tangkap Snowsea Angel"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0062-description",
+    "text": "Tangkap Vixen Angelfish"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0063-description",
+    "text": "Tangkap Beaked Jitterbug"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0094-description",
+    "text": "Tangkap Downpour Jawfish"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0095-description",
+    "text": "Tangkap Angelrove Crab"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0096-description",
+    "text": "Tangkap Jester Frogfish"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a01-area-description",
     "text": "Selesaikan {0} misi area Harmony Garden"
   },
@@ -5584,6 +5628,10 @@
     "text": "Selesaikan {0} misi utama Mega Sphere"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a03-description",
+    "text": "Selesaikan semua Main Area Quest di Soda Pop Lagoon"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w1-01-24-description",
     "text": "Selesaikan misi utama Harmony Garden EP24"
   },
@@ -5592,12 +5640,20 @@
     "text": "Selesaikan misi utama Mega Sphere EP12"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w3-01-15-description",
+    "text": "Selesaikan Misi Utama Soda Pop Lagoon EP15."
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a01-description",
     "text": "Dapatkan {0} harta karun"
   },
   {
     "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a02-description",
     "text": "Dapatkan {0} harta karun"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a03-description",
+    "text": "Dapatkan {0} Kota Harta "
   },
   {
     "id": "la-mission-achievement-common-absolute_player_level-description",
@@ -5840,6 +5896,10 @@
     "text": "Main Hoppin' Rope {0} Kali."
   },
   {
+    "id": "la-mission-achievement-common-increment_mini_game_play_count-splash_ball-description",
+    "text": "Mainkan {0} kali"
+  },
+  {
     "id": "la-mission-achievement-common-increment_multi_live_mvp_count-description",
     "text": "Raih MVP {0} kali dari Live bersama"
   },
@@ -5854,6 +5914,18 @@
   {
     "id": "la-mission-achievement-common-increment_music_creative_chart_live_clear_count-description",
     "text": "Selesaikan {0} Partitur Musik"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_park_fishing_fish_caught_count-description",
+    "text": "Ayo tangkap {0} ekor ikan"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_park_fishing_fish_failed_count-description",
+    "text": "Ikan lolos sebanyak {0} kali"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_park_fishing_fish_failed_count-name",
+    "text": "Ahli Memberi Makan"
   },
   {
     "id": "la-mission-achievement-common-increment_park_photo_take_count-description",
@@ -5880,12 +5952,196 @@
     "text": "Dapatkan {0} Hologold"
   },
   {
+    "id": "la-mission-achievement-common-increment_splash_ball_cold_lose_count-description",
+    "text": "Tim kalah dengan 0 poin"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_cold_lose_count-name",
+    "text": "Suatu saat nanti... Jadi striker..."
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_defense_score-description",
+    "text": "Mendapatkan {0} Defense Pt"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_goal_count-bonus-description",
+    "text": "Masukkan bola emas sebanyak {0} kali"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_goal_score-description",
+    "text": "Mendapatkan {0} Goal Pt"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_win_count-description",
+    "text": "Menangkan {0} kali"
+  },
+  {
     "id": "la-mission-achievement-common-increment_work_finish_count-5-description",
     "text": "Raih peringkat S di Holowork sebanyak {0} kali"
   },
   {
     "id": "la-mission-achievement-common-increment_work_finish_count-description",
     "text": "Lakukan {0} Holowork"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-arch_island_top-description",
+    "text": "Berpose di bawah tumpukan batu yang ada di pulau yang melengkung"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-arch_island_top-name",
+    "text": "Atletik alami"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beach_sand_muscle-description",
+    "text": "Menjadi putri duyung yang berotot"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beach_sand_muscle-name",
+    "text": "Kecantikan fisik di atas pasir"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beach_sos-description",
+    "text": "Temukan \"SOS\" yang tertulis di pasir"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beach_sos-name",
+    "text": "Grafitti seseorang"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beacon_lighthouse-description",
+    "text": "Ketuk pintu mercusuar 3 kali di Bokoboko Beacon dan holomem di mercusuar akan bereaksi."
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beacon_lighthouse-name",
+    "text": "Gajah di pelupuk mata tak tampak"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-boatshop_experiment_failure-description",
+    "text": "Semburan gas hijau dari katup Koyo Lab Oceanic Branch."
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-boatshop_experiment_failure-name",
+    "text": "Sedang dalam eksperimen...?"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_bench-description",
+    "text": "Duduk di bangku di dalam gua yang ada di tenggara"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_bench-name",
+    "text": "Resor musim panas rahasia"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_exit_pose-description",
+    "text": "Berpose di tebing yang ada di balik gua barat"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_exit_pose-name",
+    "text": "Menembus kegelapan"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_waterfall-description",
+    "text": "Bermeditasi di air terjun yang ada di gua utara"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_waterfall-name",
+    "text": "Meditasi mengosongkan pikiran di air terjun"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cliff_top-description",
+    "text": "Naik hingga ke puncak tebing timur"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cliff_top-name",
+    "text": "Keistimewaan puncak"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cottage_cliff_yoga-description",
+    "text": "Tarik napas dalam-dalam di belakang pondok utara"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cottage_cliff_yoga-name",
+    "text": "Tarik napas dalam-dalam di titik paling utara"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-fishblue_vacances-description",
+    "text": "Duduk di kursi di Fish Blue"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-fishblue_vacances-name",
+    "text": "Sedang menikmati liburan"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-glamping_bed-description",
+    "text": "Terjun ke kasur di POPOPO Happy Camp"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-glamping_bed-name",
+    "text": "Hari ini toko tutup!"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-live_stage_backstage-description",
+    "text": "Pergi ke dek yang ada di belakang live stage"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-live_stage_backstage-name",
+    "text": "Intip intip behind the scene!"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-observatory_deck_chair-description",
+    "text": "Minum minuman di kursi dek yang ada di dek observasi"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-observatory_deck_chair-name",
+    "text": "Momen keanggunan"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-residential_knock-description",
+    "text": "Ketuk semua pintu yang ada di area villa barat"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-residential_knock-name",
+    "text": "Ada seseorang di sini?"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-resortshop_water-description",
+    "text": "Duduk di kolam renang Ichijou VIP Lounge dan menggerakkan kaki"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-resortshop_water-name",
+    "text": "Sedang berlatih berenang"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-snowdome_caress-description",
+    "text": "Mengelus Daifuku di Lamy's Snow Dome"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-snowdome_caress-name",
+    "text": "Terlihat dingin"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-station_ship_cannon-description",
+    "text": "Sebuah cannonball mendarat di dekat Princess Marine Ship"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-station_ship_cannon-name",
+    "text": "Hampir saja"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-waterfall_point-description",
+    "text": "Melihat air terjun dari gua timur"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-waterfall_point-name",
+    "text": "Lokasi turun dari boat"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-watergun_rainbow-description",
+    "text": "Melihat pelangi di dermaga Upao Heaven"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-watergun_rainbow-name",
+    "text": "Jembatan Pelangi"
   },
   {
     "id": "la-mission-achievement-increment_park_mission_action_countbar_table_drink-description",
@@ -6116,6 +6372,42 @@
     "text": "Mainkan Live bersama {0} kali"
   },
   {
+    "id": "la-mission-event_mission-area03-release-260929-absolute_park_fishing_fish_unique_count",
+    "text": "Tangkap {0} jenis ikan"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_drop_item_get_count-area_group-a03",
+    "text": "Temukan {0} Peti Harta tersembunyi di Soda Pop Lagoon"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_mission_clear_count-mission_grp-area03-release-260929",
+    "text": "Selesaikan semua misi"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_park_fishing_fish_caught_count",
+    "text": "Tangkap {0} ekor ikan"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_resource_get_count-item-item-mini_game_fishing_coin",
+    "text": "Dapatkan {0} Koin Soda Pop"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_defense_score",
+    "text": "Dapatkan {0} Poin Defensif di Splash Ball"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_goal_count",
+    "text": "Cetak gol {0} kali di Splash Ball"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count",
+    "text": "Menang {0} kali di Splash Ball"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_work_finish_count",
+    "text": "Selesaikan {0} holowork"
+  },
+  {
     "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
     "text": "Gunakan kunci {0} kali di Shadowbound Chase"
   },
@@ -6154,6 +6446,26 @@
   {
     "id": "la-mission-event_mission-chase_celebration-260828-increment_work_finish_count",
     "text": "Selesaikan {0} holowork"
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-absolute_card_level",
+    "text": "Ayo tingkatkan level member menjadi {0}"
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-absolute_live_clear_music_count",
+    "text": "Selesaikan {0} jenis Live"
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-absolute_live_deck_evaluation_value",
+    "text": "Ayo capai skor Unit menjadi {0}"
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-absolute_park_quest_clear_count-quest-main-w1-02-12",
+    "text": "Ayo selesaikan Quest Utama Mega Sphere EP12."
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-increment_mini_game_stamina_consumption",
+    "text": "Gunakan Total {0} Mini-game Boost"
   },
   {
     "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
@@ -6216,6 +6528,10 @@
     "text": "-"
   },
   {
+    "id": "la-mission-hidden-shop_consumption_item-pack-area03_clear-260929-name",
+    "text": "-"
+  },
+  {
     "id": "la-mission-marathon_event-live_clear_count",
     "text": "Selesaikan lagu event {0} kali"
   },
@@ -6230,6 +6546,10 @@
   {
     "id": "la-mission-marathon_event-live_stamina_consumption",
     "text": "Gunakan {0} Live Boost"
+  },
+  {
+    "id": "la-mission-marathon_event-marathon_increment_resource_get_count",
+    "text": "Ayo kumpulkan {0} lencana event"
   },
   {
     "id": "la-mission-marathon_event-marathon_live_play_count",
@@ -6444,6 +6764,54 @@
     "text": "Mulai Holowork {0} kali"
   },
   {
+    "id": "la-mission-missionpass-261001-daily-increment_card_level_up_count-name",
+    "text": "Tingkatkan level anggota {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_drop_item_get_count-name",
+    "text": "Ambil {0} Peti Harta"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_live_play_count-name",
+    "text": "Mainkan Live {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_mini_game_play_count-name",
+    "text": "Mainkan Mini Game {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_multi_live_play_count-name",
+    "text": "Mainkan Live bersama {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_park_present_receive_count-name",
+    "text": "Terima hadiah dari holomem sebanyak {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_park_quest_clear_count-daily-name",
+    "text": "Selesaikan {0} Misi Harian"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_work_start_count-name",
+    "text": "Mulai Holowork {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261001-season-absolute_park_fishing_fish_unique_count-name",
+    "text": "Tangkap {0} jenis ikan"
+  },
+  {
+    "id": "la-mission-missionpass-261001-season-absolute_park_quest_clear_count-quest-main-w1-03-15-name",
+    "text": "Ayo selesaikan Quest Utama Soda Pop Lagoon EP15"
+  },
+  {
+    "id": "la-mission-missionpass-261001-season-increment_mini_game_play_count-splash_ball-name",
+    "text": "Mainkan Splash Ball {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261001-season-increment_park_fishing_fish_caught_count-name",
+    "text": "Tangkap {0} ekor ikan"
+  },
+  {
     "id": "la-mission-missionpass-261001-weekly-increment_card_level_limit_break_count-name",
     "text": "Lakukan latihan khusus {0} kali"
   },
@@ -6477,7 +6845,7 @@
   },
   {
     "id": "la-mission-missionpass-261001-weekly-increment_music_creative_chart_live_clear_count-name",
-    "text": "Selesaikan {0} Partitur Musik Kustom."
+    "text": "Selesaikan {0} Partitur Musik Kustom"
   },
   {
     "id": "la-mission-missionpass-261001-weekly-increment_skill_tree_release_count-name",
@@ -6600,12 +6968,92 @@
     "text": "Dapatkan {0} Mega Sphere Coin dari High&Low"
   },
   {
+    "id": "la-mission-quest-area-a03-01-1-2-description",
+    "text": "Tangkap {0} ekor ikan ★2 atau lebih"
+  },
+  {
+    "id": "la-mission-quest-area-a03-01-1-2-name",
+    "text": "Tangkap {0} ekor ikan ★2 atau lebih"
+  },
+  {
+    "id": "la-mission-quest-area-a03-03-1-2-description",
+    "text": "Dapatkan {0} Soda Pop Koin "
+  },
+  {
+    "id": "la-mission-quest-area-a03-03-1-2-name",
+    "text": "Dapatkan {0} Soda Pop Koin "
+  },
+  {
+    "id": "la-mission-quest-area-a03-04-1-2-description",
+    "text": "Tangkap {0} jenis ikan"
+  },
+  {
+    "id": "la-mission-quest-area-a03-04-1-2-name",
+    "text": "Tangkap {0} jenis ikan"
+  },
+  {
+    "id": "la-mission-quest-area-a03-07-1-2-description",
+    "text": "Buka {0} petak holomem Board"
+  },
+  {
+    "id": "la-mission-quest-area-a03-07-1-2-name",
+    "text": "Buka {0} petak holomem Board"
+  },
+  {
+    "id": "la-mission-quest-area-a03-09-1-2-description",
+    "text": "Tangkap {0} ekor ikan ★4 atau lebih"
+  },
+  {
+    "id": "la-mission-quest-area-a03-09-1-2-name",
+    "text": "Tangkap {0} ekor ikan ★4 atau lebih"
+  },
+  {
+    "id": "la-mission-quest-area-a03-11-1-2-description",
+    "text": "Tangkap {0} ekor ikan ★5"
+  },
+  {
+    "id": "la-mission-quest-area-a03-11-1-2-name",
+    "text": "Tangkap {0} ekor ikan ★5"
+  },
+  {
+    "id": "la-mission-quest-area-a03-13-1-2-description",
+    "text": "Tangkap {0} ekor ikan pada tengah malam"
+  },
+  {
+    "id": "la-mission-quest-area-a03-13-1-2-name",
+    "text": "Tangkap {0} ekor ikan pada tengah malam"
+  },
+  {
+    "id": "la-mission-quest-area-a03-14-1-2-description",
+    "text": "Tangkap {0} jenis ikan"
+  },
+  {
+    "id": "la-mission-quest-area-a03-14-1-2-name",
+    "text": "Tangkap {0} jenis ikan"
+  },
+  {
+    "id": "la-mission-quest-area-a03-16-1-2-description",
+    "text": "Latih Member hingga Level {0}"
+  },
+  {
+    "id": "la-mission-quest-area-a03-16-1-2-name",
+    "text": "Latih Member hingga Level {0}"
+  },
+  {
     "id": "la-mission-quest-daily-mini_game_bet_coin-description",
     "text": "Dapatkan {0} Mega Sphere Coin"
   },
   {
     "id": "la-mission-quest-daily-mini_game_bet_coin-name",
     "text": "Dapatkan {0} Mega Sphere Coin"
+  },
+  {
+    "id": "la-mission-quest-daily-mini_game_fishing_coin-description",
+    "text": "Dapatkan {0} Soda Pop Koin "
+  },
+  {
+    "id": "la-mission-quest-daily-mini_game_fishing_coin-name",
+    "text": "Dapatkan {0} Soda Pop Koin "
   },
   {
     "id": "la-mission-quest-main-w1-01-04-1-06-description",
@@ -6662,5 +7110,69 @@
   {
     "id": "la-mission-quest-main-w1-02-06-1-07-name",
     "text": "Ambil foto di Mega Puri 1 kali"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-04-description",
+    "text": "Ayo tangkap {0} ekor ikan"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-04-name",
+    "text": "Ayo tangkap {0} ekor ikan"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-07-description",
+    "text": "Menukarkan {0} kali di Bae's Bits & Bobs"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-07-name",
+    "text": "Menukarkan {0} kali di Bae's Bits & Bobs"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-08-description",
+    "text": "Tangkap {0} ekor ikan di Fish Blue"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-08-name",
+    "text": "Tangkap {0} ekor ikan di Fish Blue"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-04-1-03-description",
+    "text": "Menukarkan {0} di Ichijou VIP Lounge"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-04-1-03-name",
+    "text": "Menukarkan {0} di Ichijou VIP Lounge"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-07-1-03-description",
+    "text": "Tangkap {0} ekor ikan di Lamy's Snow Dome"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-07-1-03-name",
+    "text": "Tangkap {0} ekor ikan di Lamy's Snow Dome"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-10-1-03-description",
+    "text": "Ayo tangkap {0} ekor ikan"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-10-1-03-name",
+    "text": "Ayo tangkap {0} ekor ikan"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-10-1-05-description",
+    "text": "Tangkap {0} ekor ikan ★2 atau lebih"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-10-1-05-name",
+    "text": "Tangkap {0} ekor ikan ★2 atau lebih"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-12-1-04-description",
+    "text": "Tangkap {0} ekor ikan di Bokoboko Beacon"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-12-1-04-name",
+    "text": "Tangkap {0} ekor ikan di Bokoboko Beacon"
   }
 ]

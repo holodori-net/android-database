@@ -1,1 +1,650 @@
-[]
+[
+  {
+    "id": "la-park_fishing_fish-0001-description",
+    "text": "『일곱 개의 별』이라는 별명을 가진 바다의 판타지 스타. 가녀린 모습에서는 상상할 수 없는 감칠맛 폭발이 양념구이 소스와 잘 어우러진다. 오늘 밤, 이 별을 낚아 올린 행운을 곱씹어보자!"
+  },
+  {
+    "id": "la-park_fishing_fish-0001-name",
+    "text": "정어리"
+  },
+  {
+    "id": "la-park_fishing_fish-0002-description",
+    "text": "크기가 달라지면 호칭도 달라지는, 출세욕 왕성한 앙큼한 녀석. 최대 크기의 대물 전갱이는 한 번 불에 익히면 향긋한 기름이 식욕을 직격! 당신의 입맛을 사로잡고 놓지 않을 것이다."
+  },
+  {
+    "id": "la-park_fishing_fish-0002-name",
+    "text": "전갱이"
+  },
+  {
+    "id": "la-park_fishing_fish-0003-description",
+    "text": "그 아름답고 가련한 모습 때문에 물가의 귀부인이라고도 불린다. 하지만 겉모습과 달리 날카로운 입질이 낚시꾼의 사냥 본능을 불러일으킨다. 튀김으로 만들면 바삭하고 부드러운 살이 입에서 사르르 녹아 별미다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0003-name",
+    "text": "보리멸"
+  },
+  {
+    "id": "la-park_fishing_fish-0004-description",
+    "text": "낚시꾼의 미끼를 깔끔하게 훔치는 바다 최고의 트릭스터. 하지만 간을 섞은 간장에 회를 찍어 먹으면 그 분노도 순식간에 날아갈 터! 미끼 도둑과 낚시꾼의 가차 없는 두뇌전이 벌어진다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0004-name",
+    "text": "쥐치"
+  },
+  {
+    "id": "la-park_fishing_fish-0005-description",
+    "text": "불룩한 겉모습은 그야말로 힐링계. 하지만 아마추어가 칼을 쥐면 그것이 마지막 만찬이 될지도 모른다! 숙련된 장인만이 다룰 수 있는, 금단의 맛."
+  },
+  {
+    "id": "la-park_fishing_fish-0005-name",
+    "text": "복어"
+  },
+  {
+    "id": "la-park_fishing_fish-0006-description",
+    "text": "조개껍데기를 분쇄할 정도의 충격파를 내뿜는 바다의 복서. 하지만 그 강한 팔에서 넘쳐나는 진한 감칠맛은 소금물에 삶았을 때 진가를 발휘! 달콤하고 싱싱한 식감이 미식가를 사로잡는 극상의 일품이다."
+  },
+  {
+    "id": "la-park_fishing_fish-0006-name",
+    "text": "갯가재"
+  },
+  {
+    "id": "la-park_fishing_fish-0007-description",
+    "text": "바다에 사는 별 모양 생물. 종류에 따라서는 귀한 안주로 사랑받고 있어, 아는 사람은 아는 최고의 진미다. 그 독특한 생김새를 극복한 미식가들만이 맛볼 수 있는 바다의 감칠맛이 있다."
+  },
+  {
+    "id": "la-park_fishing_fish-0007-name",
+    "text": "불가사리"
+  },
+  {
+    "id": "la-park_fishing_fish-0008-description",
+    "text": "바다를 뛰쳐나와 육지를 뛰어다니는 엔터테이너. 동그란 눈에 커다란 입을 가진 외모가 귀엽다. 참고로 아가미 호흡뿐만 아니라 피부 호흡도 할 수 있는 호흡 마스터다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0008-name",
+    "text": "말뚝망둥어"
+  },
+  {
+    "id": "la-park_fishing_fish-0009-description",
+    "text": "우아하게 춤추는 모습은 그야말로 수족관의 아이돌. 이름에 문어가 들어가지만 실제로는 진짜 해파리다. 폰즈 소스와 어우러지는 절묘한 식감을 연상시키지만, 이건 어디까지나 관상용!"
+  },
+  {
+    "id": "la-park_fishing_fish-0009-name",
+    "text": "문어해파리"
+  },
+  {
+    "id": "la-park_fishing_fish-0010-description",
+    "text": "암컷에서 수컷으로 아름답게 변모하는 수족관의 꽃. 낚시꾼의 미끼를 훔치는 솜씨는 일급품이지만, 조림과 튀김으로 만들면 고급스러운 단맛이 혀를 춤추게 한다. 낚으면 기쁜, 숨은 주인공이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0010-name",
+    "text": "놀래기"
+  },
+  {
+    "id": "la-park_fishing_fish-0011-description",
+    "text": "봄을 알리는 물고기라는 뜻의 『춘고어』라는 별명대로 계절을 몰고 오는 물고기. 양념장을 머금은 부드러운 살은 봄의 방문을 실감케 해 젓가락이 멈추지 않을 것이다. 심한 근시라는 간극도 귀엽다."
+  },
+  {
+    "id": "la-park_fishing_fish-0011-name",
+    "text": "볼락"
+  },
+  {
+    "id": "la-park_fishing_fish-0012-description",
+    "text": "산호 꽃밭을 하늘하늘 춤추는 모습은 그야말로 바다의 나비. 과거 지역에 따라서는 식용으로 친숙했지만, 현재는 관상어로서 부동의 지위를 구축하고 있다."
+  },
+  {
+    "id": "la-park_fishing_fish-0012-name",
+    "text": "나비고기"
+  },
+  {
+    "id": "la-park_fishing_fish-0013-description",
+    "text": "도미의 사촌쯤으로 여겨지기 쉽지만 도미과와는 다른 금눈돔과 물고기. 그 황금색 눈에 마음을 빼앗기기 전에 조림으로 만들어 한 잔. 통통한 살이 입속에서 사르르 녹는다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0013-name",
+    "text": "금눈돔"
+  },
+  {
+    "id": "la-park_fishing_fish-0014-description",
+    "text": "산호초를 물들이는 『붉은 안티아스』. 그 눈부신 색채는 수조라는 이름의 스테이지에서 진가를 발휘한다. 위장이 아니라 낚시꾼의 마음을 멋지게 채우는 남국의 아이돌이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0014-name",
+    "text": "디스파 안티아스"
+  },
+  {
+    "id": "la-park_fishing_fish-0015-description",
+    "text": "『바다의 보석』이라 불리지만, 정체는 자유자재로 변환하는 연체동물. 신비한 뿔과 알록달록한 몸은 마치 이세계의 캐릭터 같다! 먹을 수는 없지만 격렬한 소유욕을 부추긴다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0015-name",
+    "text": "바다민달팽이"
+  },
+  {
+    "id": "la-park_fishing_fish-0016-description",
+    "text": "바다 밑을 걸으며 부레를 울리는 모습은 그야말로 바다의 괴짜. 영주님이 사랑한 것으로도 유명하지만, 진가는 회에 있다! 씹을수록 넘쳐나는 감칠맛이 행복의 절정으로 데려다준다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0016-name",
+    "text": "성대"
+  },
+  {
+    "id": "la-park_fishing_fish-0017-description",
+    "text": "두말하면 잔소리인 물고기계의 카리스마 등장. 탱탱한 회의 식감, 도미 밥의 향긋한 냄새, 모두 다 주연급 맛이며 경사스러운 잔치를 빛내준다."
+  },
+  {
+    "id": "la-park_fishing_fish-0017-name",
+    "text": "도미"
+  },
+  {
+    "id": "la-park_fishing_fish-0018-description",
+    "text": "생김새가 아저씨같다…라는 안타까운 이유로 일본에서는 오지상이라는 이름이 붙여졌지만, 　「아저씨 무시하지 마」라는 듯 다양한 요리에서 감칠맛을 발휘하는 고급 생선. 편견을 일축하는 실력에 박수!"
+  },
+  {
+    "id": "la-park_fishing_fish-0018-name",
+    "text": "오점촉수"
+  },
+  {
+    "id": "la-park_fishing_fish-0019-description",
+    "text": "모래에서 얼굴을 빼꼼 내미는 사랑스러운 모습이 팬들의 마음을 사로잡고 놓아주지 않는다. 귀엽게 흔들흔들 춤추는 모습은 어떤 고급 생선보다 낚시꾼들의 마음을 충족시킨다."
+  },
+  {
+    "id": "la-park_fishing_fish-0019-name",
+    "text": "정원장어"
+  },
+  {
+    "id": "la-park_fishing_fish-0020-description",
+    "text": "천적을 혼란시키는 소용돌이 모양에서, 성장하면 줄무늬로 옷을 갈아입는 경이로운 패셔니스타. 보는 이의 미적 센스를 충족해주는 최고의 비주얼 담당이다."
+  },
+  {
+    "id": "la-park_fishing_fish-0020-name",
+    "text": "옹달샘돔"
+  },
+  {
+    "id": "la-park_fishing_fish-0022-description",
+    "text": "선명한 오렌지색과 검은색의 모양은 그야말로 불꽃 같다. 얼굴은 귀엽지만 혈기가 왕성한 성격이라 영역 다툼은 일상다반사. 불타는 듯한 광채에 보기만 해도 가슴이 뜨거워진다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0022-name",
+    "text": "플레임 엔젤피시"
+  },
+  {
+    "id": "la-park_fishing_fish-0023-description",
+    "text": "아종이라 불리던 거짓된 나날에 작별을 고하고 2017년에 신종으로 다시 태어났다! 관상용이라 얕보지 말지어다. 지역에 따라서는 튀김, 조림으로 다뤄지는 숨은 복병이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0023-name",
+    "text": "비녀자리돔"
+  },
+  {
+    "id": "la-park_fishing_fish-0024-description",
+    "text": "불로의 전설을 가진 바다의 장수왕. 마늘을 넣고 화끈하게 구우면, 진한 내장과 탱글탱글한 살이 먹는 이의 마음을 사로잡는다! 그 감칠맛은 만국 공통이다."
+  },
+  {
+    "id": "la-park_fishing_fish-0024-name",
+    "text": "바닷가재"
+  },
+  {
+    "id": "la-park_fishing_fish-0027-description",
+    "text": "깜찍한 생김새로 수족관에서 부동의 지위를 차지하는 인기 물고기. 일부 지역에서는 예부터 친숙한 식재료로, 보며 힐링하고 먹으며 놀라는, 두 번 즐기는 심해의 기적."
+  },
+  {
+    "id": "la-park_fishing_fish-0027-name",
+    "text": "개복치"
+  },
+  {
+    "id": "la-park_fishing_fish-0028-description",
+    "text": "언젠가는 낚고 싶은 꿈의 물고기. 바다 밑을 걷거나 가슴지느러미를 펼쳐 상대를 놀라게 하는 등, 마치 광대 같지만 커다란 지느러미로 날개 치듯 헤엄치는 모습은 정말 멋지다."
+  },
+  {
+    "id": "la-park_fishing_fish-0028-name",
+    "text": "잘나가성대"
+  },
+  {
+    "id": "la-park_fishing_fish-0029-description",
+    "text": "언젠가는 낚고 싶은 꿈의 물고기. 뇌가 대단히 발달해 『어류계의 두뇌』이자 완벽한 두뇌. 우아하게 이동하는 모습, 그 지성 넘치는 눈동자의 시선을 받는다면 누구나 말을 잃을 것이다."
+  },
+  {
+    "id": "la-park_fishing_fish-0029-name",
+    "text": "똑똑하쥐가오리"
+  },
+  {
+    "id": "la-park_fishing_fish-0030-description",
+    "text": "낚시꾼들의 꿈이며, 색이 선명하고 우아한 새우. 셀럽 느낌이 나는 자태이지만, 놀라면 몸을 둥글게 말고 뒤로 튀는 『이상한 동작』은 무심결에 웃음이 나온다."
+  },
+  {
+    "id": "la-park_fishing_fish-0030-name",
+    "text": "귀엽닭새우"
+  },
+  {
+    "id": "la-park_fishing_fish-0034-description",
+    "text": "과거에 장군 가문에서 인정했다는 고상한 이미지지만, 실은 가혹한 환경에서 목숨을 이어가는 서민적 물고기. 겨울에 황금색으로 바삭하게 튀기면 고급 요리도 부럽지 않은 별미가 된다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0034-name",
+    "text": "빙어"
+  },
+  {
+    "id": "la-park_fishing_fish-0035-description",
+    "text": "일본에선 『가을의 칼』이란 이름으로 불리는, 은색으로 빛나는 회유어. 처마 밑 화로 위에서 기름이 팡팡 터지는 소리는 가을의 방문을 알린다. 회는 살살 녹고, 구우면 향긋한 서민의 맛이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0035-name",
+    "text": "꽁치"
+  },
+  {
+    "id": "la-park_fishing_fish-0036-description",
+    "text": "봄을 알리는 물고기라는 뜻의 『춘고어』라는 이름으로도 유명한 바다의 메신저. 몸에 감도는 황금빛은 길조를 상징하며, 봄의 숨결이 느껴진다. 달달하게 조려 소바 위에 얹으면 긴 겨울을 극복한 기쁨이 솟구친다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0036-name",
+    "text": "청어"
+  },
+  {
+    "id": "la-park_fishing_fish-0037-description",
+    "text": "해안선의 푸른 기적, 하지만 알맹이는 음주를 재촉하는 대단한 실력파. 대표 메뉴인 간장절임으로도, 초된장을 곁들여도, 응축된 바다 향이 코를 스치며 위장을 사로잡는다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0037-name",
+    "text": "매오징어"
+  },
+  {
+    "id": "la-park_fishing_fish-0038-description",
+    "text": "집게를 흔들며 구애의 춤을 보여주는 바다의 엔터테이너. 빨갛게 삶아 먹어도 좋지만, 탕 요리도 포기하기 어렵다! 마무리로 제격인 게살죽까지, 국물에 녹아든 감칠맛을 한 방울도 남기지 말고 즐기자!"
+  },
+  {
+    "id": "la-park_fishing_fish-0038-name",
+    "text": "게"
+  },
+  {
+    "id": "la-park_fishing_fish-0039-description",
+    "text": "장수와 액땜의 상징인 럭키한 녀석. 칠리새우로 매운맛을 살려도 좋고, 튀김으로 바삭바삭하게 먹는 것도 좋다. 한 입 가득 먹고 운수대통해 보자!"
+  },
+  {
+    "id": "la-park_fishing_fish-0039-name",
+    "text": "새우"
+  },
+  {
+    "id": "la-park_fishing_fish-0040-description",
+    "text": "검은 가시 갑옷을 두르고, 해조류를 먹어치우기도 하는 바다의 대식가! 하지만 해조류로 살찌운 알맹이를 하얀 밥 위에 얹으면 바다 향과 함께 넘쳐나는 농후한 달콤함이 당신의 위장을 파괴한다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0040-name",
+    "text": "성게"
+  },
+  {
+    "id": "la-park_fishing_fish-0041-description",
+    "text": "징그러운 생김새와 맹독 가시는 무섭지만, 그 밑에는 새하얀 살을 숨기고 있는 고급 생선. 튀겨서 뼈까지 오독오독 씹어 먹으면 입속에서 바다의 풍미가 대폭발한다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0041-name",
+    "text": "쑤기미"
+  },
+  {
+    "id": "la-park_fishing_fish-0042-description",
+    "text": "모래 속에 숨어 사냥감을 일격에 해치우는 천생 사냥꾼. 헌터답게 단련된 탄탄한 몸을 얇게 저며 매콤한 간 무와 함께 먹으면 당신의 입맛도 저격 당할 것이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0042-name",
+    "text": "넙치"
+  },
+  {
+    "id": "la-park_fishing_fish-0043-description",
+    "text": "고요한 바다에서 모래 속에 숨어 기회를 엿본다. 그 인내심이 극상의 단단한 살을 키워낸다. 진한 감칠맛이 배어든 살은 젓가락을 멈추지 못하게 하는, 그야말로 조림의 왕이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0043-name",
+    "text": "가자미"
+  },
+  {
+    "id": "la-park_fishing_fish-0044-description",
+    "text": "얼어붙은 바다에서 빛나는, 살아 있는 크리스털. 무색 투명한 피를 흘리는 모습은 보는 이의 지적 호기심을 마구 뒤흔든다. 한 번 낚으면 틀림없이 그 신비함에 사로잡힐 것이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0044-name",
+    "text": "아이스피시"
+  },
+  {
+    "id": "la-park_fishing_fish-0045-description",
+    "text": "『꽃의 물고기』라는 귀여운 유래와는 정반대로, 갯바위에서 살찐 요놈들을 간 무로 요격하면 흰밥을 멈출 수 없다! 그야말로 북쪽의 실력자! 선술집의 단골 메뉴다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0045-name",
+    "text": "임연수어"
+  },
+  {
+    "id": "la-park_fishing_fish-0046-description",
+    "text": "겉모습은 예리한 일본도를 연상케 하고, 속은 기름이 잘 오른 하얀 살빛의 프린스! 노릇하게 구워도 좋지만, 양식 스타일로 버터 소테로 완성하면 당신의 혀를 단번에 사로잡는다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0046-name",
+    "text": "갈치"
+  },
+  {
+    "id": "la-park_fishing_fish-0047-description",
+    "text": "그저 조류에 몸을 맡기고 떠도는, 살아 있는 유리 공예. 수족관의 조명 빛을 투과하며 흔들거리는 아름다움은 당신의 마음을 깊이 힐링해 줄 것이다."
+  },
+  {
+    "id": "la-park_fishing_fish-0047-name",
+    "text": "물해파리"
+  },
+  {
+    "id": "la-park_fishing_fish-0048-description",
+    "text": "이름에 왕이 붙어 있지만, 일본에서는 『마스노스케』라는 사무라이 같은 이름으로도 불린다. 두껍게 썰어 버터와 함께 스테이크로 만들면 좔좔 흐르는 육즙이 틀림없이 당신의 혀를 단숨에 사로잡고 말 것이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0048-name",
+    "text": "왕연어"
+  },
+  {
+    "id": "la-park_fishing_fish-0049-description",
+    "text": "수수하고 몸집이 크지만 『심해의 기름통』이라 불릴 만큼 온몸이 기름진 뱃살로 가득하다! 한 조각 입에 넣으면 진하고 농후한 기름이 입속에서 대폭발을 일으킨다. 단, 과식은 주의해야 한다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0049-name",
+    "text": "큰은대구"
+  },
+  {
+    "id": "la-park_fishing_fish-0050-description",
+    "text": "직립한 채 흔들흔들 떠도는 모습은 수족관에서도 상위를 차지하는 인기 어종. 암컷이 만들어 위탁한 생명을 수컷이 키우고 사랑을 쏟는다. 오랜 세월 동안 바다의 육아남으로 활약 중!"
+  },
+  {
+    "id": "la-park_fishing_fish-0050-name",
+    "text": "해마"
+  },
+  {
+    "id": "la-park_fishing_fish-0051-description",
+    "text": "커다란 몸으로 시속 100킬로미터를 초과하기도 하는 속도광! 부딪치면 뼈도 못 추리겠지만, 머리부터 꼬리까지 남김없이 즐길 수 있는, 그야말로 미식의 정점이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0051-name",
+    "text": "참치"
+  },
+  {
+    "id": "la-park_fishing_fish-0052-description",
+    "text": "깊고 깊은 암흑에 사는 납작한 신비. 심해를 근거지로 삼고 있어 빛에 약하고 몸이 매우 섬세하다. 만약 기적적으로 만날 수 있다면 그 덧없는 아름다움을 눈에 새겨두자!"
+  },
+  {
+    "id": "la-park_fishing_fish-0052-name",
+    "text": "우무문어"
+  },
+  {
+    "id": "la-park_fishing_fish-0054-description",
+    "text": "5억 년의 시간을 넘어 심해에서 떠오른 살아 있는 화석. 유구한 시간을 뛰어넘은 그들에게 인간의 역사는 순식간에 불과하다는 것을 통감하게 된다."
+  },
+  {
+    "id": "la-park_fishing_fish-0054-name",
+    "text": "앵무조개"
+  },
+  {
+    "id": "la-park_fishing_fish-0055-description",
+    "text": "영역을 침범한다면 인간에게도 덤벼드는 바다의 갱. 포획도 조리도 까다로운 녀석이지만, 일단 튀겨버리면 미식 체험이 기다리고 있는 고급 생선이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0055-name",
+    "text": "곰치"
+  },
+  {
+    "id": "la-park_fishing_fish-0056-description",
+    "text": "그 이름에 걸맞게 신성함을 내뿜는 은색 띠. 최대 8미터나 되는 거대한 몸은 그야말로 도시 전설급의 아름다움! 심해의 정숙 속에서 나타나는 희귀 캐릭터를 발견해보자!"
+  },
+  {
+    "id": "la-park_fishing_fish-0056-name",
+    "text": "산갈치"
+  },
+  {
+    "id": "la-park_fishing_fish-0057-description",
+    "text": "칠흑 같은 해역에 떠오르는 18미터의 거대한 몸은 신화 그 자체. 하지만 수명은 겨우 3년으로 놀랄 만큼 허무하다. 운 좋게 발견한다면 「안녕!」 하고 다정하게 말을 걸어보자!"
+  },
+  {
+    "id": "la-park_fishing_fish-0057-name",
+    "text": "대왕오징어"
+  },
+  {
+    "id": "la-park_fishing_fish-0060-description",
+    "text": "이름은 물론이거니와 최대 7미터에 달하는 거대한 몸과 큰 입이 공포를 조장한다. 하지만 생태는 여전히 수수께끼의 베일에 싸여 있기에 만약 낚는다면 관계 기관에 연락할 것!"
+  },
+  {
+    "id": "la-park_fishing_fish-0060-name",
+    "text": "넓은주둥이상어"
+  },
+  {
+    "id": "la-park_fishing_fish-0061-description",
+    "text": "낚시꾼들에게 동경의 대상이며, 그 아름다운 모습은 그야말로 『얼음 요정』이지만 실은 활발하다. 멍하니 있는 상대에게는 촉수로 가차 없이 돌진하니 주의하자."
+  },
+  {
+    "id": "la-park_fishing_fish-0061-name",
+    "text": "눈꽃클리오네"
+  },
+  {
+    "id": "la-park_fishing_fish-0062-description",
+    "text": "언젠가는 낚아 보고 싶을 만큼 동경하는 물고기이며, 섹시한 입술과 귀여운 무늬가 특징적이다. 머리에 얹은 해적모 같은 부분은 탈착 여부를 두고 어부 사이에서 이따금 논쟁을 일으킨다."
+  },
+  {
+    "id": "la-park_fishing_fish-0062-name",
+    "text": "섹시청초줄돔"
+  },
+  {
+    "id": "la-park_fishing_fish-0063-description",
+    "text": "언젠가는 낚아 보고 싶을 만큼 동경하는 물고기. 쥐의 귀까지 달려 있지만 물고기이며 몸은 보리멸 같지만 보리멸의 친척조차도 아닌, 그야말로 『혼돈』을 구현하고 있다."
+  },
+  {
+    "id": "la-park_fishing_fish-0063-name",
+    "text": "무쥘서어"
+  },
+  {
+    "id": "la-park_fishing_fish-0067-description",
+    "text": "『늑대』라는 별명이 있다. 전갱이라고 얕보고 덤볐다가는 거세게 당기는 힘에 경악한다. 그런 명승부 끝에 획득한 승리의 맛은 참치 뱃살에도 필적하는 극상의 지방이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0067-name",
+    "text": "줄전갱이"
+  },
+  {
+    "id": "la-park_fishing_fish-0068-description",
+    "text": "부레를 버리고 속도에 특화된 고속 귀공자. 거친 파도로 단련한 육체는 교토의 흰 된장에 절여 구우면 그 진가를 발휘한다. 향긋한 냄새와 함께 당신도 힘이 증폭될 것이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0068-name",
+    "text": "삼치"
+  },
+  {
+    "id": "la-park_fishing_fish-0069-description",
+    "text": "출세어로서 거친 파도를 넘어 높은 곳에 올라야만 농어의 칭호를 얻을 수 있다. 회, 뫼니에르, 조림 등 뭐든 조리 가능한 럭키 피시다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0069-name",
+    "text": "농어"
+  },
+  {
+    "id": "la-park_fishing_fish-0070-description",
+    "text": "순식간에 시속 40킬로미터의 세계로……. 누두라는 기관으로 물을 분사하며 바닷속의 스피드 스타로 변신하는 오징어. 투명하고 아름다운 회에 사로잡힌 낚시꾼들과 오늘도 레이스를 펼친다."
+  },
+  {
+    "id": "la-park_fishing_fish-0070-name",
+    "text": "무늬오징어"
+  },
+  {
+    "id": "la-park_fishing_fish-0071-description",
+    "text": "남쪽 바다를 통솔하는 헌터. 맛있다고 평판이 자자하지만, 지역에 따라서는 독을 품은 개체도 있다. 이 위험함이야말로 용기 있는 자만이 다다를 수 있는 금단의 미식인 이유?!"
+  },
+  {
+    "id": "la-park_fishing_fish-0071-name",
+    "text": "긴코갈돔"
+  },
+  {
+    "id": "la-park_fishing_fish-0072-description",
+    "text": "천 개의 바늘이 꽂힌 갑옷을 두르고 적을 퇴치하는 전사. 하지만 그 바늘이 사실은 약 400개였다는 깜찍한 거짓말. 만약 발견한다면 괜한 지적은 하지 말고 있는 힘껏 응원해 주자!"
+  },
+  {
+    "id": "la-park_fishing_fish-0072-name",
+    "text": "가시복"
+  },
+  {
+    "id": "la-park_fishing_fish-0073-description",
+    "text": "아름답게 뻗은 뿔이 표식인 남국의 태피스트리. 운세를 끌어올리고 행운을 부르는 물고기로 불리며, 관상어로서 인기가 있다! 키운다면 희망이 넘쳐흐를 것이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0073-name",
+    "text": "깃대돔"
+  },
+  {
+    "id": "la-park_fishing_fish-0074-description",
+    "text": "우아하게 지느러미를 나부끼며 바다에 핀 꽃 같은 비주얼로 보는 이를 매료한다. 하지만 그 아름다운 지느러미에 독침을 숨기고 있어 가까이 다가가면 죽음의 포옹을 선물한다."
+  },
+  {
+    "id": "la-park_fishing_fish-0074-name",
+    "text": "점쏠배감펭"
+  },
+  {
+    "id": "la-park_fishing_fish-0075-description",
+    "text": "독특한 생김새 때문에 부채새우라 불리지만, 속살은 닭새우에 버금갈 정도의 고급 갑각류! 사치스럽게 회로 즐기거나 된장국에 넣어 먹으면 미식의 상식이 완전히 뒤집힌다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0075-name",
+    "text": "부채새우"
+  },
+  {
+    "id": "la-park_fishing_fish-0076-description",
+    "text": "이름처럼 검은색을 두르고 있을 것 같지만 흥분하면 하얗게 변하는 데다 꼬리지느러미의 핑크색도 포인트 색으로 기능한다! 그야말로 검은색이라는 이름 뒤에 감춰진, 자유자재로 변신하는 패셔니스타!"
+  },
+  {
+    "id": "la-park_fishing_fish-0076-name",
+    "text": "검은쥐치"
+  },
+  {
+    "id": "la-park_fishing_fish-0077-description",
+    "text": "심해에서 수면 위로 끌어올려졌을 때 눈이 튀어나온다고 하여, 일본에서는 『메누케』라는 이름으로도 불린다. 그 몸은 심해에서 사는 동안 숙성되어 고급 생선으로 취급된다. 잡지 못한다면 고급 요릿집에 뛰어들어 맛을 보자!"
+  },
+  {
+    "id": "la-park_fishing_fish-0077-name",
+    "text": "붉은돔"
+  },
+  {
+    "id": "la-park_fishing_fish-0078-description",
+    "text": "거세게 당기는 힘이 낚시꾼의 심장에 불을 지핀다. 각지에서 다른 이름으로 불려 조금 헷갈리지만, 맛은 틀림없는 최고급 품종! 회와 초밥 모두 위장에 감동을 준다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0078-name",
+    "text": "잿방어"
+  },
+  {
+    "id": "la-park_fishing_fish-0079-description",
+    "text": "짚불로 살짝 구운 뒤 생강이나 양하를 듬뿍 얹어 입에 넣으면 에도시대 사람들이 사랑했던 풍류가 눈에 보인다! 게다가 고단백, 저지방, 철분 풍부, 피로 회복 효과가 있으니 두툼하게 썰어 호쾌하게 즐기자!"
+  },
+  {
+    "id": "la-park_fishing_fish-0079-name",
+    "text": "가다랑어"
+  },
+  {
+    "id": "la-park_fishing_fish-0080-description",
+    "text": "혹독한 겨울 바다에서 잡아 올린 겨울 방어. 뜨끈한 육수에 살짝 데쳐 폰즈 소스에 찍어 먹는 방어 샤부샤부의 파괴력은 그야말로 압도적! 이 행운의 상징을 단숨에 먹어 치워서 운세를 팍팍 끌어올리자!"
+  },
+  {
+    "id": "la-park_fishing_fish-0080-name",
+    "text": "방어"
+  },
+  {
+    "id": "la-park_fishing_fish-0081-description",
+    "text": "긴 주둥이로 사냥감을 빨아들이는 모습은 트럼펫을 부는 재즈맨 같다. 위장술을 부리거나 대형 어류 뒤에 숨어 이동하는 등, 오늘도 재즈바를 방불케 하는 즉흥 연주를 즐기고 있다."
+  },
+  {
+    "id": "la-park_fishing_fish-0081-name",
+    "text": "트럼펫피시"
+  },
+  {
+    "id": "la-park_fishing_fish-0082-description",
+    "text": "어두운 암초 깊은 곳에 숨은 거대한 그림자. 유통량이 적어 환상의 고급 생선으로 불린다. 복어도 능가하는 그 흰살은 콜라겐이 가득하며, 전골요리는 물론 마무리 죽까지 미각의 상식을 송두리째 뒤흔든다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0082-name",
+    "text": "자바리"
+  },
+  {
+    "id": "la-park_fishing_fish-0083-description",
+    "text": "『심해의 청소부』라는 별명을 가진, 겉모습은 거대한 공벌레. 에너지 절약형 생활을 영위하기도 하는데, 약 5년 동안 단식했다는 기록이 있을 정도다. 발견한다면 그 득도한 모습에 경의를 표하자!"
+  },
+  {
+    "id": "la-park_fishing_fish-0083-name",
+    "text": "대왕구족충"
+  },
+  {
+    "id": "la-park_fishing_fish-0085-description",
+    "text": "대형 어류 곁에서 덕을 보는 데다 이름까지 상어 이름을 빌려 쓰는 전갱이목. 회로도 구이로도 지방이 오른 극상의 감칠맛이 넘친다며 일부 낚시꾼들에게 인기 있는 일품!"
+  },
+  {
+    "id": "la-park_fishing_fish-0085-name",
+    "text": "빨판상어"
+  },
+  {
+    "id": "la-park_fishing_fish-0086-description",
+    "text": "어류와 파충류로 나뉘며 어류의 일부는 식용 가능. 파충류도 일부 지역에서는 고급 약선 요리에 이용되지만, 독이 있기에 주의해야 한다! 그야말로 바닷속에 숨은 금단의 과실이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0086-name",
+    "text": "바다뱀"
+  },
+  {
+    "id": "la-park_fishing_fish-0088-description",
+    "text": "약 2미터의 거대한 몸으로 시속 50킬로미터를 자랑하는 바닷속의 로켓. 바닷속에서 만나면 인간에게도 냉철한 시선으로 경계하고, 심지어 독의 위험도 있으니… 이 녀석은 스릴 만점이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0088-name",
+    "text": "바라쿠다"
+  },
+  {
+    "id": "la-park_fishing_fish-0089-description",
+    "text": "거대한 망토를 나부끼며 넓은 바다를 자유롭게 춤추는 가오리. 일부 지역에서는 식용으로 쓰이기도 하고, 특히 양 날개의 지느러미를 선호하는데, 튀기면 닭고기와 비슷한 식감이라고 한다."
+  },
+  {
+    "id": "la-park_fishing_fish-0089-name",
+    "text": "대왕쥐가오리"
+  },
+  {
+    "id": "la-park_fishing_fish-0091-description",
+    "text": "매우 독특한 망치 모양 머리가 귀여워 보이지만, 실은 고성능이다. 바닷속에 숨은 고동, 미약한 전류도 감지한다. 또한 가라아게, 튀김, 어묵까지 식재료로서도 고성능이다!"
+  },
+  {
+    "id": "la-park_fishing_fish-0091-name",
+    "text": "귀상어"
+  },
+  {
+    "id": "la-park_fishing_fish-0093-description",
+    "text": "최대 길이 20미터에 달하는 세계 최대의 물고기. 개체마다 다른 유일무이한 얼룩무늬가 특징. 소형 어류 떼를 이끌고 유유히 헤엄치는 모습은 그야말로 『바다의 왕』이라는 호칭에 어울린다."
+  },
+  {
+    "id": "la-park_fishing_fish-0093-name",
+    "text": "고래상어"
+  },
+  {
+    "id": "la-park_fishing_fish-0094-description",
+    "text": "언젠가는 낚아 보고 싶은 꿈의 물고기. 배주름쥐치나 다름없지만 장난기는 그 이상이다. 애교 넘치게 장난을 치는, 미워할 수 없는 말썽꾸러기."
+  },
+  {
+    "id": "la-park_fishing_fish-0094-name",
+    "text": "용오름쥐치"
+  },
+  {
+    "id": "la-park_fishing_fish-0095-description",
+    "text": "일대 낚시꾼들에게 동경의 대상이며, 수리검 같은 마크를 가진 게. 특징은 악력 50킬로그램이 넘는 자랑스러운 집게이며, 집게를 꽉 쥔 모습에서 바다의 고릴라로 불리며 두려움의 대상이 되고 있다."
+  },
+  {
+    "id": "la-park_fishing_fish-0095-name",
+    "text": "수리검날꽃게"
+  },
+  {
+    "id": "la-park_fishing_fish-0096-description",
+    "text": "낚시꾼들이 동경하는 물고기. 피에로 모자처럼 화려한 머리가 특징적. 보통은 모래 바닥이나 돌로 위장해 숨어 있으며 이따금 『나 여기 있어~!』라며 갑자기 얼굴을 내밀어 다이버들을 흐뭇하게 한다."
+  },
+  {
+    "id": "la-park_fishing_fish-0096-name",
+    "text": "광대 프로그피시"
+  },
+  {
+    "id": "la-park_fishing_fish-item-facility-area_a03-002-1-description",
+    "text": "표류 금속"
+  },
+  {
+    "id": "la-park_fishing_fish-item-facility-area_a03-002-1-name",
+    "text": "표류 금속"
+  }
+]

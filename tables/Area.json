@@ -64,5 +64,13 @@
     "name_lang_id": "la-area-a02-lobby-name",
     "description_lang_id": "la-area-a02-lobby-description",
     "order": 2
+  },
+  {
+    "id": "area-a03",
+    "area_selector_id": "area-a03-selector",
+    "priority": 1,
+    "name_lang_id": "la-area_group-a03-name",
+    "description_lang_id": "la-area-a03-description",
+    "order": 5
   }
 ]

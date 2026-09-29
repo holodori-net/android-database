@@ -24,6 +24,18 @@
     "text": "メガコースター"
   },
   {
+    "id": "la-facility-a03-fishingshop-name",
+    "text": "ベーズ・ビッツアンドボブス"
+  },
+  {
+    "id": "la-facility-a03-resortshop-name",
+    "text": "一条VIPラウンジ"
+  },
+  {
+    "id": "la-facility-a03-station-name",
+    "text": "プリンセスマリン号"
+  },
+  {
     "id": "la-resource_obtainment_route-achievement",
     "text": "アチーブメント"
   },
@@ -52,6 +64,18 @@
     "text": "イベント"
   },
   {
+    "id": "la-resource_obtainment_route-fishingpond1",
+    "text": "フィッシュブルー\n（さかな釣り）"
+  },
+  {
+    "id": "la-resource_obtainment_route-fishingpond2",
+    "text": "ラミィズスノードーム\n（さかな釣り）"
+  },
+  {
+    "id": "la-resource_obtainment_route-fishingpond3",
+    "text": "ぼこぼこビーコン\n（さかな釣り）"
+  },
+  {
     "id": "la-resource_obtainment_route-gacha",
     "text": "ガチャ"
   },
@@ -73,6 +97,10 @@
   },
   {
     "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-004-chapter-01",
+    "text": "イベント"
+  },
+  {
+    "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-005-chapter-01",
     "text": "イベント"
   },
   {
@@ -162,6 +190,10 @@
   {
     "id": "la-resource_obtainment_route-shop",
     "text": "ショップ"
+  },
+  {
+    "id": "la-resource_obtainment_route-splash_ball",
+    "text": "スプラッシュスタジアム\n（スプラッシュボール）"
   },
   {
     "id": "la-resource_obtainment_route-treasure",

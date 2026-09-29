@@ -1,5 +1,9 @@
 [
   {
+    "id": "la-empty",
+    "text": "-"
+  },
+  {
     "id": "la-facility-a01-athletic-description",
     "text": "3期生の運動施設\n体を動かして楽しむことができる"
   },
@@ -82,5 +86,61 @@
   {
     "id": "la-facility-a02-station-lvup",
     "text": "高ランクのホロワーク発生率UP"
+  },
+  {
+    "id": "la-facility-a03-boat-description",
+    "text": "-"
+  },
+  {
+    "id": "la-facility-a03-boatshop-description",
+    "text": "こよりのボート改造施設\n目指すは愛艇を最速の姿に"
+  },
+  {
+    "id": "la-facility-a03-entrance-description",
+    "text": "海上に開かれた玄関口\n往来の絶えぬ、美しい海の都の顔"
+  },
+  {
+    "id": "la-facility-a03-fishingpond1-description",
+    "text": "一面が青に染まる穏やかな海域\n美しい水面は絶好の釣りスポット"
+  },
+  {
+    "id": "la-facility-a03-fishingpond2-description",
+    "text": "雪が彩るラミィの釣りスポット\n景色を楽しみつつ大物を釣ろう"
+  },
+  {
+    "id": "la-facility-a03-fishingpond3-description",
+    "text": "白波が際立つこぼの釣りスポット\n集まる強者を釣り上げよう"
+  },
+  {
+    "id": "la-facility-a03-fishingshop-description",
+    "text": "様々な餌を揃えるハコスの釣り具店\nコインが釣りの腕前を底上げする"
+  },
+  {
+    "id": "la-facility-a03-glamping-description",
+    "text": "知る人ぞ知るポルカのキャンプ場\nここで味わうBBQは至高の体験だ"
+  },
+  {
+    "id": "la-facility-a03-livestage-description",
+    "text": "潮風が心地いいライブステージ\n波音と共に歌が響き渡る"
+  },
+  {
+    "id": "la-facility-a03-resortshop-description",
+    "text": "釣り人を称える莉々華の交換所\n輝くコインが夢の逸品へと変わる"
+  },
+  {
+    "id": "la-facility-a03-stadium-description",
+    "text": "海面をフィールドに変える球技施設\n波を操り、勝利のゴールを目指せ"
+  },
+  {
+    "id": "la-facility-a03-station-description",
+    "text": "波打ち際に構えるマリンの休息所\n潮騒を聞きながら一休みできる"
+  },
+  {
+    "id": "la-facility-a03-watergun-description",
+    "text": "かなたのライブグッズ専門店\n人気の水鉄砲を手にライブへGO！"
+  },
+  {
+    "id": "la-facility-a03-whale-description",
+    "text": "海域を回遊する巨大クジラ\nその巨躯を望む絶好の撮影スポット"
   }
 ]

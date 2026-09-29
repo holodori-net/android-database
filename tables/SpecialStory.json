@@ -21,6 +21,19 @@
       "name": "STORY_ASSET_TYPE_MOVIE",
       "number": 2
     },
+    "order": 2
+  },
+  {
+    "id": "special_story-normal_area-a03-mv",
+    "title_lang_id": "la-special_story-normal_area-a03-mv",
+    "story_id": "story-special_normal_area-a03-mv",
+    "archive_view_condition_group_id": "cd-quest_clear-quest-main-w1-03-01",
+    "unlock_condition_group_id": "cd-quest_clear-quest-main-w1-03-01",
+    "asset_id": "special-003",
+    "asset_type": {
+      "name": "STORY_ASSET_TYPE_MOVIE",
+      "number": 2
+    },
     "order": 3
   }
 ]

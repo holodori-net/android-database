@@ -116,6 +116,42 @@
       "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
       "number": 1
     },
+    "product_id": "hololive.dreams.jp.con.200005",
+    "shop_charge_item_id": "shop_charge_item_consumable-stone-area03_celebration_01-260929"
+  },
+  {
+    "payment_method": {
+      "name": "PAYMENT_METHOD_APPLE_IAP",
+      "number": 1
+    },
+    "shop_charge_item_type": {
+      "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+      "number": 1
+    },
+    "product_id": "hololive.dreams.jp.con.200006",
+    "shop_charge_item_id": "shop_charge_item_consumable-stone-area03_celebration_02-260929"
+  },
+  {
+    "payment_method": {
+      "name": "PAYMENT_METHOD_APPLE_IAP",
+      "number": 1
+    },
+    "shop_charge_item_type": {
+      "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+      "number": 1
+    },
+    "product_id": "hololive.dreams.jp.con.200007",
+    "shop_charge_item_id": "shop_charge_item_consumable-stone-area03_celebration_03-260929"
+  },
+  {
+    "payment_method": {
+      "name": "PAYMENT_METHOD_APPLE_IAP",
+      "number": 1
+    },
+    "shop_charge_item_type": {
+      "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+      "number": 1
+    },
     "product_id": "hololive.dreams.jp.con.300001",
     "shop_charge_item_id": "shop_charge_item_consumable-mission_pass-01-0001"
   },
@@ -130,6 +166,18 @@
     },
     "product_id": "hololive.dreams.jp.con.300002",
     "shop_charge_item_id": "shop_charge_item_consumable-missionpass-260901"
+  },
+  {
+    "payment_method": {
+      "name": "PAYMENT_METHOD_APPLE_IAP",
+      "number": 1
+    },
+    "shop_charge_item_type": {
+      "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+      "number": 1
+    },
+    "product_id": "hololive.dreams.jp.con.300003",
+    "shop_charge_item_id": "shop_charge_item_consumable-missionpass-261001"
   },
   {
     "payment_method": {
@@ -896,6 +944,42 @@
       "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
       "number": 1
     },
+    "product_id": "hololive.dreams.jp.con.200005",
+    "shop_charge_item_id": "shop_charge_item_consumable-stone-area03_celebration_01-260929"
+  },
+  {
+    "payment_method": {
+      "name": "PAYMENT_METHOD_GOOGLE_IAP",
+      "number": 2
+    },
+    "shop_charge_item_type": {
+      "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+      "number": 1
+    },
+    "product_id": "hololive.dreams.jp.con.200006",
+    "shop_charge_item_id": "shop_charge_item_consumable-stone-area03_celebration_02-260929"
+  },
+  {
+    "payment_method": {
+      "name": "PAYMENT_METHOD_GOOGLE_IAP",
+      "number": 2
+    },
+    "shop_charge_item_type": {
+      "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+      "number": 1
+    },
+    "product_id": "hololive.dreams.jp.con.200007",
+    "shop_charge_item_id": "shop_charge_item_consumable-stone-area03_celebration_03-260929"
+  },
+  {
+    "payment_method": {
+      "name": "PAYMENT_METHOD_GOOGLE_IAP",
+      "number": 2
+    },
+    "shop_charge_item_type": {
+      "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+      "number": 1
+    },
     "product_id": "hololive.dreams.jp.con.300001",
     "shop_charge_item_id": "shop_charge_item_consumable-mission_pass-01-0001"
   },
@@ -910,6 +994,18 @@
     },
     "product_id": "hololive.dreams.jp.con.300002",
     "shop_charge_item_id": "shop_charge_item_consumable-missionpass-260901"
+  },
+  {
+    "payment_method": {
+      "name": "PAYMENT_METHOD_GOOGLE_IAP",
+      "number": 2
+    },
+    "shop_charge_item_type": {
+      "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+      "number": 1
+    },
+    "product_id": "hololive.dreams.jp.con.300003",
+    "shop_charge_item_id": "shop_charge_item_consumable-missionpass-261001"
   },
   {
     "payment_method": {
@@ -1676,6 +1772,42 @@
       "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
       "number": 1
     },
+    "product_id": "200005",
+    "shop_charge_item_id": "shop_charge_item_consumable-stone-area03_celebration_01-260929"
+  },
+  {
+    "payment_method": {
+      "name": "PAYMENT_METHOD_STEAM_MTX",
+      "number": 3
+    },
+    "shop_charge_item_type": {
+      "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+      "number": 1
+    },
+    "product_id": "200006",
+    "shop_charge_item_id": "shop_charge_item_consumable-stone-area03_celebration_02-260929"
+  },
+  {
+    "payment_method": {
+      "name": "PAYMENT_METHOD_STEAM_MTX",
+      "number": 3
+    },
+    "shop_charge_item_type": {
+      "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+      "number": 1
+    },
+    "product_id": "200007",
+    "shop_charge_item_id": "shop_charge_item_consumable-stone-area03_celebration_03-260929"
+  },
+  {
+    "payment_method": {
+      "name": "PAYMENT_METHOD_STEAM_MTX",
+      "number": 3
+    },
+    "shop_charge_item_type": {
+      "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+      "number": 1
+    },
     "product_id": "300001",
     "shop_charge_item_id": "shop_charge_item_consumable-mission_pass-01-0001"
   },
@@ -1690,5 +1822,17 @@
     },
     "product_id": "300002",
     "shop_charge_item_id": "shop_charge_item_consumable-missionpass-260901"
+  },
+  {
+    "payment_method": {
+      "name": "PAYMENT_METHOD_STEAM_MTX",
+      "number": 3
+    },
+    "shop_charge_item_type": {
+      "name": "SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+      "number": 1
+    },
+    "product_id": "300003",
+    "shop_charge_item_id": "shop_charge_item_consumable-missionpass-261001"
   }
 ]

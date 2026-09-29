@@ -1,5 +1,20 @@
 [
   {
-    "id": "1"
+    "id": "1",
+    "capture_bar_base_tap_inertia_permil": 8000,
+    "capture_bar_base_fall_acceleration_permil": 8000,
+    "capture_bar_base_fall_start_millisecond": 50,
+    "capture_bar_base_length": 35,
+    "capture_bar_min_length": 300,
+    "fish_icon_base_speed_permil": 10000,
+    "fish_icon_base_speed_change_millisecond": 5,
+    "fish_icon_base_direction_change_milliseconds": 250,
+    "progress_meter_base_increase_speed": 100,
+    "progress_meter_base_decrease_speed": 50,
+    "progress_meter_offtrack_decrease_permil": 180,
+    "progress_meter_max_length": 1000,
+    "progress_meter_offtrack_decrease_delay_millisecond": 15000,
+    "fish_shadow_rare_probability_permil_multiply": 300,
+    "fishing_rod_level_up_facility_id": "facility-a03-fishingshop"
   }
 ]

@@ -285,7 +285,7 @@
   },
   {
     "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-1-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description",
-    "text": "When playing All Songs, Grants a Score Bonus UP [value/10]%."
+    "text": "When playing Group Songs, Grants a Score Bonus UP [value/10]%."
   },
   {
     "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-10-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description",
@@ -305,7 +305,7 @@
   },
   {
     "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description",
-    "text": "When playing All Songs, Grants a Score Bonus UP [value/10]%."
+    "text": "When playing Group Songs, Grants a Score Bonus UP [value/10]%."
   },
   {
     "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description",
@@ -330,6 +330,10 @@
   {
     "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-jump_rope-description",
     "text": "Rewards obtained from Hoppin' Rope UP [value/10]%."
+  },
+  {
+    "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-splash_ball-description",
+    "text": "Rewards obtained from Splash Ball UP [value/10]%."
   },
   {
     "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-chase-description",

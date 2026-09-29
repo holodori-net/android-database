@@ -466,13 +466,78 @@
     "facility_id": "facility-a01-gate3",
     "priority": 1,
     "asset_id": "mdl_env_park_area-a01-facility-gate3-pre-01",
-    "view_condition_group_id": "cd-facility-a01-gate-pre"
+    "view_condition_group_id": "cd-facility-a01-gate-pre",
+    "warp_condition_group_id": "cd-facility-a01-gate-pre"
   },
   {
     "facility_id": "facility-a01-gate3",
     "priority": 2,
     "asset_id": "mdl_env_park_area-a01-facility-gate3-pre-01-night",
-    "view_condition_group_id": "cd-facility-a01-gate-pre-night"
+    "view_condition_group_id": "cd-facility-a01-gate-pre-night",
+    "warp_condition_group_id": "cd-facility-a01-gate-pre-night"
+  },
+  {
+    "facility_id": "facility-a01-gate3",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a01-facility-gate3-pre-01",
+    "view_condition_group_id": "cd-facility-a01-gate-pre",
+    "warp_condition_group_id": "cd-facility-a01-gate-pre"
+  },
+  {
+    "facility_id": "facility-a01-gate3",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a01-facility-gate3-pre-01-night",
+    "view_condition_group_id": "cd-facility-a01-gate-pre-night",
+    "warp_condition_group_id": "cd-facility-a01-gate-pre-night"
+  },
+  {
+    "facility_id": "facility-a01-gate3",
+    "priority": 40,
+    "asset_id": "mdl_env_park_area-a01-facility-gate3-01",
+    "view_condition_group_id": "cd-facility-a01-gate3_map_hidden",
+    "unlock_condition_group_id": "cd-quest_clear-quest-main-w1-03-01-1-2",
+    "warp_condition_group_id": "cd-quest_clear-quest-main-w1-03-01-1-2"
+  },
+  {
+    "facility_id": "facility-a01-gate3",
+    "priority": 50,
+    "asset_id": "mdl_env_park_area-a01-facility-gate3-01-night",
+    "view_condition_group_id": "cd-facility-a01-gate3-night_map_hidden",
+    "unlock_condition_group_id": "cd-quest_clear-quest-main-w1-03-01-1-2",
+    "warp_condition_group_id": "cd-quest_clear-quest-main-w1-03-01-1-2"
+  },
+  {
+    "facility_id": "facility-a01-gate3",
+    "priority": 60,
+    "asset_id": "mdl_env_park_area-a01-facility-gate3-01",
+    "icon_asset_ids": [
+      "gate"
+    ],
+    "map_image_asset_id": "area-a01-gate3-00",
+    "mini_icon_asset_id": "exit",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-01-1-2",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a01-gate3",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a01-gate3-00",
+    "warp_condition_group_id": "cd-quest_clear-quest-main-w1-03-01-1-2"
+  },
+  {
+    "facility_id": "facility-a01-gate3",
+    "priority": 70,
+    "asset_id": "mdl_env_park_area-a01-facility-gate3-01-night",
+    "icon_asset_ids": [
+      "gate"
+    ],
+    "map_image_asset_id": "area-a01-gate3-00",
+    "mini_icon_asset_id": "exit",
+    "view_condition_group_id": "cd-facility-a01-gate3-night",
+    "unlock_condition_group_id": "cd-quest_clear-quest-main-w1-03-01-1-2",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a01-gate3",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a01-gate3-00",
+    "warp_condition_group_id": "cd-quest_clear-quest-main-w1-03-01-1-2"
   },
   {
     "facility_id": "facility-a01-gate4",
@@ -1836,9 +1901,761 @@
     "map_prefab_asset_id": "area-a02-station-00"
   },
   {
+    "facility_id": "facility-a03-boatshop",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-boatshop-prg-01",
+    "view_condition_group_id": "cd-facility-a03-boatshop-prg-01",
+    "label_lang_id": "la-label-facility-a03-boatshop",
+    "warp_condition_group_id": "cd-facility-a03-boatshop-prg-01"
+  },
+  {
+    "facility_id": "facility-a03-boatshop",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-boatshop-01",
+    "icon_asset_ids": [
+      "boatshop"
+    ],
+    "map_image_asset_id": "area-a03-boatshop-00",
+    "mini_icon_asset_id": "boatshop",
+    "view_condition_group_id": "cd-facility-a03-boatshop",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-boatshop",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-boatshop-00",
+    "warp_condition_group_id": "cd-facility-a03-boatshop"
+  },
+  {
+    "facility_id": "facility-a03-boatshop",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a03-facility-boatshop-01-night",
+    "icon_asset_ids": [
+      "boatshop"
+    ],
+    "map_image_asset_id": "area-a03-boatshop-00",
+    "mini_icon_asset_id": "boatshop",
+    "view_condition_group_id": "cd-facility-a03-boatshop-night",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-boatshop",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-boatshop-00",
+    "warp_condition_group_id": "cd-facility-a03-boatshop-night"
+  },
+  {
+    "facility_id": "facility-a03-buoy",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-buoy-01",
+    "view_condition_group_id": "cd-facility-a03-buoy1",
+    "warp_condition_group_id": "cd-facility-a03-buoy1"
+  },
+  {
+    "facility_id": "facility-a03-buoy",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-buoy-01-night",
+    "view_condition_group_id": "cd-facility-a03-buoy1-night",
+    "warp_condition_group_id": "cd-facility-a03-buoy1-night"
+  },
+  {
+    "facility_id": "facility-a03-buoy",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a03-facility-buoy-02",
+    "view_condition_group_id": "cd-facility-a03-buoy2",
+    "warp_condition_group_id": "cd-facility-a03-buoy2"
+  },
+  {
+    "facility_id": "facility-a03-buoy",
+    "priority": 40,
+    "asset_id": "mdl_env_park_area-a03-facility-buoy-02-night",
+    "view_condition_group_id": "cd-facility-a03-buoy2-night",
+    "warp_condition_group_id": "cd-facility-a03-buoy2-night"
+  },
+  {
+    "facility_id": "facility-a03-buoy",
+    "priority": 50,
+    "view_condition_group_id": "cd-facility-a03-seaarea3",
+    "warp_condition_group_id": "cd-facility-a03-seaarea3"
+  },
+  {
+    "facility_id": "facility-a03-entrance",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-entrance-01",
+    "icon_asset_ids": [
+      "gate"
+    ],
+    "map_image_asset_id": "area-a03-entrance-00",
+    "is_warp_available": true,
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-entrance-00"
+  },
+  {
+    "facility_id": "facility-a03-entrance",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-entrance-01-night",
+    "icon_asset_ids": [
+      "gate"
+    ],
+    "map_image_asset_id": "area-a03-entrance-00",
+    "view_condition_group_id": "cd-park_period-night-area-03",
+    "is_warp_available": true,
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-entrance-00"
+  },
+  {
+    "facility_id": "facility-a03-fishingpond1",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-fishingpond1-prg-01",
+    "view_condition_group_id": "cd-facility-a03-fishingpond1-prg-01",
+    "label_lang_id": "la-label-facility-a03-fishingpond1",
+    "warp_condition_group_id": "cd-facility-a03-fishingpond1-prg-01"
+  },
+  {
+    "facility_id": "facility-a03-fishingpond1",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-fishingpond1-01",
+    "icon_asset_ids": [
+      "fishing"
+    ],
+    "map_image_asset_id": "area-a03-fishingpond1-00",
+    "mini_icon_asset_id": "fishing",
+    "view_condition_group_id": "cd-facility-a03-fishingpond1",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-fishingpond1",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-fishingpond1-00",
+    "warp_condition_group_id": "cd-facility-a03-fishingpond1"
+  },
+  {
+    "facility_id": "facility-a03-fishingpond1",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a03-facility-fishingpond1-01-night",
+    "icon_asset_ids": [
+      "fishing"
+    ],
+    "map_image_asset_id": "area-a03-fishingpond1-00",
+    "mini_icon_asset_id": "fishing",
+    "view_condition_group_id": "cd-facility-a03-fishingpond1-night",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-fishingpond1",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-fishingpond1-00",
+    "warp_condition_group_id": "cd-facility-a03-fishingpond1-night"
+  },
+  {
+    "facility_id": "facility-a03-fishingpond2",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-fishingpond2-prg-01",
+    "view_condition_group_id": "cd-facility-a03-fishingpond2-prg-01",
+    "label_lang_id": "la-label-facility-a03-fishingpond2",
+    "warp_condition_group_id": "cd-facility-a03-fishingpond2-prg-01"
+  },
+  {
+    "facility_id": "facility-a03-fishingpond2",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-fishingpond2-01",
+    "icon_asset_ids": [
+      "fishing"
+    ],
+    "map_image_asset_id": "area-a03-fishingpond2-00",
+    "mini_icon_asset_id": "fishing",
+    "view_condition_group_id": "cd-facility-a03-fishingpond2",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-fishingpond2",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-fishingpond2-00",
+    "warp_condition_group_id": "cd-facility-a03-fishingpond2"
+  },
+  {
+    "facility_id": "facility-a03-fishingpond2",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a03-facility-fishingpond2-01-night",
+    "icon_asset_ids": [
+      "fishing"
+    ],
+    "map_image_asset_id": "area-a03-fishingpond2-00",
+    "mini_icon_asset_id": "fishing",
+    "view_condition_group_id": "cd-facility-a03-fishingpond2-night",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-fishingpond2",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-fishingpond2-00",
+    "warp_condition_group_id": "cd-facility-a03-fishingpond2-night"
+  },
+  {
+    "facility_id": "facility-a03-fishingpond3",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-fishingpond3-prg-01",
+    "view_condition_group_id": "cd-facility-a03-fishingpond3-prg-01",
+    "label_lang_id": "la-label-facility-a03-fishingpond3",
+    "warp_condition_group_id": "cd-facility-a03-fishingpond3-prg-01"
+  },
+  {
+    "facility_id": "facility-a03-fishingpond3",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-fishingpond3-01",
+    "icon_asset_ids": [
+      "fishing"
+    ],
+    "map_image_asset_id": "area-a03-fishingpond3-00",
+    "mini_icon_asset_id": "fishing",
+    "view_condition_group_id": "cd-facility-a03-fishingpond3",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-fishingpond3",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-fishingpond3-00",
+    "warp_condition_group_id": "cd-facility-a03-fishingpond3"
+  },
+  {
+    "facility_id": "facility-a03-fishingpond3",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a03-facility-fishingpond3-01-night",
+    "icon_asset_ids": [
+      "fishing"
+    ],
+    "map_image_asset_id": "area-a03-fishingpond3-00",
+    "mini_icon_asset_id": "fishing",
+    "view_condition_group_id": "cd-facility-a03-fishingpond3-night",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-fishingpond3",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-fishingpond3-00",
+    "warp_condition_group_id": "cd-facility-a03-fishingpond3-night"
+  },
+  {
+    "facility_id": "facility-a03-fishingshop",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-fishingshop-prg-01",
+    "view_condition_group_id": "cd-facility-a03-fishingshop-prg-01",
+    "label_lang_id": "la-label-facility-a03-fishingshop",
+    "warp_condition_group_id": "cd-facility-a03-fishingshop-prg-01"
+  },
+  {
+    "facility_id": "facility-a03-fishingshop",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-fishingshop-01",
+    "icon_asset_ids": [
+      "fishingshop"
+    ],
+    "map_image_asset_id": "area-a03-fishingshop-00",
+    "mini_icon_asset_id": "fishingshop",
+    "view_condition_group_id": "cd-facility-a03-fishingshop",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-fishingshop",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-fishingshop-00",
+    "warp_condition_group_id": "cd-facility-a03-fishingshop"
+  },
+  {
+    "facility_id": "facility-a03-fishingshop",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a03-facility-fishingshop-01-night",
+    "icon_asset_ids": [
+      "fishingshop"
+    ],
+    "map_image_asset_id": "area-a03-fishingshop-00",
+    "mini_icon_asset_id": "fishingshop",
+    "view_condition_group_id": "cd-facility-a03-fishingshop-night",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-fishingshop",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-fishingshop-00",
+    "warp_condition_group_id": "cd-facility-a03-fishingshop-night"
+  },
+  {
+    "facility_id": "facility-a03-glamping",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-glamping-prg-01",
+    "view_condition_group_id": "cd-facility-a03-glamping-prg-01",
+    "label_lang_id": "la-label-facility-a03-glamping",
+    "warp_condition_group_id": "cd-facility-a03-glamping-prg-01"
+  },
+  {
+    "facility_id": "facility-a03-glamping",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-glamping-01",
+    "icon_asset_ids": [
+      "timeperiod"
+    ],
+    "map_image_asset_id": "area-a03-glamping-00",
+    "mini_icon_asset_id": "timeperiod",
+    "view_condition_group_id": "cd-facility-a03-glamping",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-glamping",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-glamping-00",
+    "warp_condition_group_id": "cd-facility-a03-glamping"
+  },
+  {
+    "facility_id": "facility-a03-glamping",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a03-facility-glamping-01-night",
+    "icon_asset_ids": [
+      "timeperiod"
+    ],
+    "map_image_asset_id": "area-a03-glamping-00",
+    "mini_icon_asset_id": "timeperiod",
+    "view_condition_group_id": "cd-facility-a03-glamping-night",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-glamping",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-glamping-00",
+    "warp_condition_group_id": "cd-facility-a03-glamping-night"
+  },
+  {
+    "facility_id": "facility-a03-islandlarge1",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-islandlarge1-01",
+    "unlock_condition_group_id": "cd-park-a03-seaarea3-open",
+    "warp_condition_group_id": "cd-park-a03-seaarea3-open"
+  },
+  {
+    "facility_id": "facility-a03-islandlarge2",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-islandlarge2-01",
+    "unlock_condition_group_id": "cd-park-a03-seaarea3-open",
+    "warp_condition_group_id": "cd-park-a03-seaarea3-open"
+  },
+  {
+    "facility_id": "facility-a03-islandmiddle1",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-islandmiddle1-01",
+    "unlock_condition_group_id": "cd-quest_clear-quest-main-w1-03-02-1",
+    "warp_condition_group_id": "cd-quest_clear-quest-main-w1-03-02-1"
+  },
+  {
+    "facility_id": "facility-a03-islandmiddle2",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-islandmiddle2-01",
+    "unlock_condition_group_id": "cd-park-a03-seaarea3-open",
+    "warp_condition_group_id": "cd-park-a03-seaarea3-open"
+  },
+  {
+    "facility_id": "facility-a03-islandmiddle3",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-islandmiddle3-01",
+    "unlock_condition_group_id": "cd-park-a03-seaarea3-open",
+    "warp_condition_group_id": "cd-park-a03-seaarea3-open"
+  },
+  {
+    "facility_id": "facility-a03-islandsmall1",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-islandsmall1-01",
+    "unlock_condition_group_id": "cd-quest_clear-quest-main-w1-03-02-1",
+    "warp_condition_group_id": "cd-quest_clear-quest-main-w1-03-02-1"
+  },
+  {
+    "facility_id": "facility-a03-islandsmall2",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-islandsmall2-01",
+    "unlock_condition_group_id": "cd-quest_clear-quest-main-w1-03-02-1",
+    "warp_condition_group_id": "cd-quest_clear-quest-main-w1-03-02-1"
+  },
+  {
+    "facility_id": "facility-a03-islandsmall3",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-islandsmall3-01",
+    "unlock_condition_group_id": "cd-park-a03-seaarea2-open",
+    "warp_condition_group_id": "cd-park-a03-seaarea2-open"
+  },
+  {
+    "facility_id": "facility-a03-islandsmall4",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-islandsmall4-01",
+    "unlock_condition_group_id": "cd-park-a03-seaarea2-open",
+    "warp_condition_group_id": "cd-park-a03-seaarea2-open"
+  },
+  {
+    "facility_id": "facility-a03-livestage",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-livestage-prg-01",
+    "view_condition_group_id": "cd-facility-a03-livestage-prg-01",
+    "label_lang_id": "la-label-facility-a03-livestage"
+  },
+  {
+    "facility_id": "facility-a03-livestage",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-livestage-01",
+    "icon_asset_ids": [
+      "live"
+    ],
+    "map_image_asset_id": "area-a03-livestage-00",
+    "mini_icon_asset_id": "live",
+    "view_condition_group_id": "cd-facility-a03-livestage",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-livestage",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-livestage-00"
+  },
+  {
+    "facility_id": "facility-a03-livestage",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a03-facility-livestage-01-night",
+    "icon_asset_ids": [
+      "live"
+    ],
+    "map_image_asset_id": "area-a03-livestage-00",
+    "mini_icon_asset_id": "live",
+    "view_condition_group_id": "cd-facility-a03-livestage-night",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-livestage",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-livestage-00"
+  },
+  {
+    "facility_id": "facility-a03-pier",
+    "priority": 10,
+    "unlock_condition_group_id": "cd-quest_clear-quest-main-w1-03-02-1",
+    "warp_condition_group_id": "cd-quest_clear-quest-main-w1-03-02-1"
+  },
+  {
+    "facility_id": "facility-a03-resortshop",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-resortshop-prg-01",
+    "view_condition_group_id": "cd-facility-a03-resortshop-prg-01",
+    "label_lang_id": "la-label-facility-a03-resortshop",
+    "warp_condition_group_id": "cd-facility-a03-resortshop-prg-01"
+  },
+  {
+    "facility_id": "facility-a03-resortshop",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-resortshop-01",
+    "icon_asset_ids": [
+      "exchange"
+    ],
+    "map_image_asset_id": "area-a03-resortshop-00",
+    "mini_icon_asset_id": "exchange",
+    "view_condition_group_id": "cd-facility-a03-resortshop",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-resortshop",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-resortshop-00",
+    "warp_condition_group_id": "cd-facility-a03-resortshop"
+  },
+  {
+    "facility_id": "facility-a03-resortshop",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a03-facility-resortshop-01-night",
+    "icon_asset_ids": [
+      "exchange"
+    ],
+    "map_image_asset_id": "area-a03-resortshop-00",
+    "mini_icon_asset_id": "exchange",
+    "view_condition_group_id": "cd-facility-a03-resortshop-night",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-resortshop",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-resortshop-00",
+    "warp_condition_group_id": "cd-facility-a03-resortshop-night"
+  },
+  {
+    "facility_id": "facility-a03-seaarea1",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-seaarea1-01",
+    "unlock_condition_group_id": "cd-quest_clear-quest-main-w1-03-02-1",
+    "warp_condition_group_id": "cd-quest_clear-quest-main-w1-03-02-1"
+  },
+  {
+    "facility_id": "facility-a03-seaarea2",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-seaarea2-00"
+  },
+  {
+    "facility_id": "facility-a03-seaarea2",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-seaarea2-00-night",
+    "view_condition_group_id": "cd-facility-a03-seaarea2-00-night",
+    "warp_condition_group_id": "cd-facility-a03-seaarea2-00-night"
+  },
+  {
+    "facility_id": "facility-a03-seaarea2",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a03-facility-seaarea2-01",
+    "view_condition_group_id": "cd-facility-a03-seaarea2-01",
+    "warp_condition_group_id": "cd-facility-a03-seaarea2-01"
+  },
+  {
+    "facility_id": "facility-a03-seaarea2",
+    "priority": 40,
+    "asset_id": "mdl_env_park_area-a03-facility-seaarea2-01-night",
+    "view_condition_group_id": "cd-facility-a03-seaarea2-01-night",
+    "warp_condition_group_id": "cd-facility-a03-seaarea2-01-night"
+  },
+  {
+    "facility_id": "facility-a03-seaarea3",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-seaarea3-00"
+  },
+  {
+    "facility_id": "facility-a03-seaarea3",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-seaarea3-00-night",
+    "view_condition_group_id": "cd-facility-a03-seaarea3-00-night",
+    "warp_condition_group_id": "cd-facility-a03-seaarea3-00-night"
+  },
+  {
+    "facility_id": "facility-a03-seaarea3",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a03-facility-seaarea3-01",
+    "view_condition_group_id": "cd-facility-a03-seaarea3-01",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-seaarea3-01",
+    "warp_condition_group_id": "cd-facility-a03-seaarea3-01"
+  },
+  {
+    "facility_id": "facility-a03-seaarea3",
+    "priority": 40,
+    "asset_id": "mdl_env_park_area-a03-facility-seaarea3-01-night",
+    "view_condition_group_id": "cd-facility-a03-seaarea3-01-night",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-seaarea3-01",
+    "warp_condition_group_id": "cd-facility-a03-seaarea3-01-night"
+  },
+  {
+    "facility_id": "facility-a03-signboard1",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-signboard1-01",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-signboard1-00"
+  },
+  {
+    "facility_id": "facility-a03-signboard2",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-signboard2-01",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-signboard2-00"
+  },
+  {
+    "facility_id": "facility-a03-signboard3",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-signboard3-01",
+    "view_condition_group_id": "cd-facility-a03-signboard3",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-signboard3-00",
+    "warp_condition_group_id": "cd-facility-a03-signboard3"
+  },
+  {
+    "facility_id": "facility-a03-signboard4",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-signboard4-01",
+    "view_condition_group_id": "cd-facility-a03-signboard4",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-signboard4-00",
+    "warp_condition_group_id": "cd-facility-a03-signboard4"
+  },
+  {
+    "facility_id": "facility-a03-signboardlight",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-signboardlight-01",
+    "view_condition_group_id": "cd-facility-a03-signboardlight",
+    "warp_condition_group_id": "cd-facility-a03-signboardlight"
+  },
+  {
+    "facility_id": "facility-a03-signboardlightsea",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-signboardlightsea-01",
+    "view_condition_group_id": "cd-facility-a03-signboardlightsea",
+    "warp_condition_group_id": "cd-facility-a03-signboardlightsea"
+  },
+  {
+    "facility_id": "facility-a03-stadium",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-stadium-prg-01",
+    "view_condition_group_id": "cd-facility-a03-stadium-prg-01",
+    "label_lang_id": "la-label-facility-a03-stadium"
+  },
+  {
+    "facility_id": "facility-a03-stadium",
+    "priority": 15,
+    "asset_id": "mdl_env_park_area-a03-facility-stadium-01",
+    "icon_asset_ids": [
+      "minigame"
+    ],
+    "map_image_asset_id": "area-a03-stadium-00",
+    "mini_icon_asset_id": "splashball",
+    "view_condition_group_id": "cd-facility-a03-stadium",
+    "unlock_condition_group_id": "cd-perm-a03-stadium",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-stadium",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-stadium-00",
+    "warp_condition_group_id": "cd-facility-a03-stadium"
+  },
+  {
+    "facility_id": "facility-a03-stadium",
+    "priority": 16,
+    "asset_id": "mdl_env_park_area-a03-facility-stadium-01-night",
+    "icon_asset_ids": [
+      "minigame"
+    ],
+    "map_image_asset_id": "area-a03-stadium-00",
+    "mini_icon_asset_id": "splashball",
+    "view_condition_group_id": "cd-facility-a03-stadium-night",
+    "unlock_condition_group_id": "cd-facility-a03-stadium-open-night",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-stadium",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-stadium-00",
+    "warp_condition_group_id": "cd-facility-a03-stadium-night"
+  },
+  {
+    "facility_id": "facility-a03-stadium",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-stadium-01",
+    "icon_asset_ids": [
+      "minigame"
+    ],
+    "map_image_asset_id": "area-a03-stadium-00",
+    "mini_icon_asset_id": "splashball",
+    "view_condition_group_id": "cd-perm-a03-stadium",
+    "unlock_condition_group_id": "cd-perm-a03-stadium",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-stadium",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-stadium-00",
+    "warp_condition_group_id": "cd-facility-a03-stadium"
+  },
+  {
+    "facility_id": "facility-a03-stadium",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a03-facility-stadium-01-night",
+    "icon_asset_ids": [
+      "minigame"
+    ],
+    "map_image_asset_id": "area-a03-stadium-00",
+    "mini_icon_asset_id": "splashball",
+    "view_condition_group_id": "cd-facility-a03-stadium-open-night",
+    "unlock_condition_group_id": "cd-facility-a03-stadium-open-night",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-stadium",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-stadium-00",
+    "warp_condition_group_id": "cd-facility-a03-stadium-night"
+  },
+  {
+    "facility_id": "facility-a03-station",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-station-prg-01",
+    "view_condition_group_id": "cd-facility-a03-station-prg-01",
+    "label_lang_id": "la-label-facility-a03-station",
+    "warp_condition_group_id": "cd-facility-a03-station-prg-01"
+  },
+  {
+    "facility_id": "facility-a03-station",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-station-01",
+    "icon_asset_ids": [
+      "work"
+    ],
+    "map_image_asset_id": "area-a03-station-00",
+    "mini_icon_asset_id": "work",
+    "view_condition_group_id": "cd-facility-a03-station",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-station",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-station-00",
+    "warp_condition_group_id": "cd-facility-a03-station"
+  },
+  {
+    "facility_id": "facility-a03-station",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a03-facility-station-01-night",
+    "icon_asset_ids": [
+      "work"
+    ],
+    "map_image_asset_id": "area-a03-station-00",
+    "mini_icon_asset_id": "work",
+    "view_condition_group_id": "cd-facility-a03-station-night",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-station",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-station-00",
+    "warp_condition_group_id": "cd-facility-a03-station-night"
+  },
+  {
+    "facility_id": "facility-a03-watergun",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-watergun-prg-01",
+    "view_condition_group_id": "cd-facility-a03-watergun-prg-01",
+    "label_lang_id": "la-label-facility-a03-watergun",
+    "warp_condition_group_id": "cd-facility-a03-watergun-prg-01"
+  },
+  {
+    "facility_id": "facility-a03-watergun",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-watergun-01",
+    "icon_asset_ids": [
+      "shop"
+    ],
+    "map_image_asset_id": "area-a03-watergun-00",
+    "mini_icon_asset_id": "charactershop",
+    "view_condition_group_id": "cd-facility-a03-watergun",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-watergun",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-watergun-00",
+    "warp_condition_group_id": "cd-facility-a03-watergun"
+  },
+  {
+    "facility_id": "facility-a03-watergun",
+    "priority": 30,
+    "asset_id": "mdl_env_park_area-a03-facility-watergun-01-night",
+    "icon_asset_ids": [
+      "shop"
+    ],
+    "map_image_asset_id": "area-a03-watergun-00",
+    "mini_icon_asset_id": "charactershop",
+    "view_condition_group_id": "cd-facility-a03-watergun-night",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-watergun",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-watergun-00",
+    "warp_condition_group_id": "cd-facility-a03-watergun-night"
+  },
+  {
+    "facility_id": "facility-a03-whale",
+    "priority": 10,
+    "asset_id": "mdl_env_park_area-a03-facility-whale-prg-01",
+    "label_lang_id": "la-label-facility-a03-whale"
+  },
+  {
+    "facility_id": "facility-a03-whale",
+    "priority": 20,
+    "asset_id": "mdl_env_park_area-a03-facility-whale-01",
+    "map_image_asset_id": "area-a03-whale-00",
+    "view_condition_group_id": "cd-facility-a03-whale",
+    "is_warp_available": true,
+    "label_lang_id": "la-label-facility-a03-whale",
+    "is_show_in_map": true,
+    "map_prefab_asset_id": "area-a03-whale-00",
+    "warp_condition_group_id": "cd-facility-a03-whale"
+  },
+  {
+    "facility_id": "facility-gimmick-fixed_sea-symbol-00",
+    "priority": 1,
+    "asset_id": "mdl_env_park_common-gimmick-fixed-sea-symbol-00"
+  },
+  {
+    "facility_id": "facility-gimmick-fixed_sea-symbol-01",
+    "priority": 1,
+    "asset_id": "mdl_env_park_common-gimmick-fixed-sea-symbol-01"
+  },
+  {
     "facility_id": "facility-gimmick-fixed_symbol",
     "priority": 1,
     "asset_id": "mdl_env_park_common-gimmick-fixed-symbol-00"
+  },
+  {
+    "facility_id": "facility-gimmick-fixed_symbol-01",
+    "priority": 1,
+    "asset_id": "mdl_env_park_common-gimmick-fixed-symbol-01"
+  },
+  {
+    "facility_id": "facility-gimmick-random_sea-symbol-00",
+    "priority": 1,
+    "asset_id": "mdl_env_park_common-gimmick-random-sea-symbol-00"
+  },
+  {
+    "facility_id": "facility-gimmick-random_sea-symbol-01",
+    "priority": 1,
+    "asset_id": "mdl_env_park_common-gimmick-random-sea-symbol-01"
   },
   {
     "facility_id": "facility-gimmick-random_symbol",
@@ -1846,13 +2663,33 @@
     "asset_id": "mdl_env_park_common-gimmick-random-symbol-00"
   },
   {
+    "facility_id": "facility-gimmick-random_symbol-01",
+    "priority": 1,
+    "asset_id": "mdl_env_park_common-gimmick-random-symbol-01"
+  },
+  {
     "facility_id": "facility-gimmick-spot",
     "priority": 1,
     "asset_id": "mdl_env_park_common-gimmick-spot-00"
   },
   {
+    "facility_id": "facility-gimmick-spot-seaarea",
+    "priority": 1,
+    "asset_id": "mdl_env_park_common-gimmick-spot-01"
+  },
+  {
     "facility_id": "facility-gimmick-treasure",
     "priority": 1,
     "asset_id": "mdl_env_park_common-gimmick-treasurepod-00_pod0"
+  },
+  {
+    "facility_id": "facility-gimmick-treasurepod-00-pod0",
+    "priority": 10,
+    "asset_id": "mdl_env_park_common-gimmick-treasurepod-00_pod0"
+  },
+  {
+    "facility_id": "facility-gimmick-treasurepod-01-pod0",
+    "priority": 10,
+    "asset_id": "mdl_env_park_common-gimmick-treasurepod-01_pod0"
   }
 ]

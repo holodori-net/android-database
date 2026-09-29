@@ -632,6 +632,14 @@
     "text": "Mengenai Shadowbound Chase"
   },
   {
+    "id": "la-help_category-help-game-8-text",
+    "text": "Splash Ball adalah mini-game atas air di mana 3 tim dengan 3 pemain mengemudikan boat dan memasukan bola ke gawang lawan.\nPermainan selesai jika ada tim yang mencapai target skor atau skor mejadi 0, atau waktu habis.\nHadiah diberikan berdasarkan peringkat tim dan hasil individu.\nHanya tersedia mode \"Multiplayer\", dan dapat dimainkan hingga 9 orang.\n\nDetail selengkapnya, silakan pilih [?] di layar utama Splash Ball untuk cek cara bermain."
+  },
+  {
+    "id": "la-help_category-help-game-8-title",
+    "text": "Tentang Splash Ball"
+  },
+  {
     "id": "la-help_category-help-item-1-text",
     "text": "Di menu Inventory, dapat memeriksa jumlah, kegunaan, serta cara mendapatkan berbagai Item yang dimiliki.\nUntuk Item yang memiliki masa berlaku, waktu kadaluwarsanya juga akan ditampilkan.\n※Item yang telah melewati masa berlaku akan hilang secara otomatis."
   },
@@ -662,6 +670,14 @@
   {
     "id": "la-help_category-help-option-2-title",
     "text": "Tentang Opsi Live"
+  },
+  {
+    "id": "la-help_category-help-option-3-text",
+    "text": "Jika game terasa berat saat dimainkan, menurunkan pengaturan kualitas dapat membantu mengurangi beban pada perangkat.\nNamun, jika pengaturan kualitas diturunkan ke standar atau lebih rendah, jumlah holomem yang muncul di taman dapat berkurang. Silakan coba pengaturan yang nyaman untuk dimainkan sesuai dengan kondisi game."
+  },
+  {
+    "id": "la-help_category-help-option-3-title",
+    "text": "Tentang pengaturan kualitas"
   },
   {
     "id": "la-help_category-help-park-1-text",
@@ -702,6 +718,22 @@
   {
     "id": "la-help_category-help-park-13-title",
     "text": "Tentang Peti Harta"
+  },
+  {
+    "id": "la-help_category-help-park-14-text",
+    "text": "Di Soda Pop Lagoon, pemain dapat bergerak di atas laut dengan menaiki boat.\nDekati boat untuk menaikinya.\nSelain itu, pemain dapat mendarat di lokasi yang tersedia dengan mendekati area tersebut."
+  },
+  {
+    "id": "la-help_category-help-park-14-title",
+    "text": "Tentang Boat"
+  },
+  {
+    "id": "la-help_category-help-park-15-text",
+    "text": "Mancing Ikan adalah Mini-game yang bisa dimainkan di spot pancing Soda Pop Lagoon.\nDapatkan \"Koin Soda Pop\" berdasarkan jenis dan ukuran ikan yang berhasil dipancing.\nGunakan Koin untuk ditukar dengan berbagai item di \"Ichijo VIP Lounge\".\n\n▼Cara Bermain\nSaat ikan memakan umpan, ketuk layar untuk mulai bermain.\nGunakan tombol \"Reel\" di layar untuk memancing ikan hingga berhasil.\n\n▽Kontrol Dasar\nTekan tombol Reel untuk menaikkan \"Bar Tangkap\" dan lepaskan untuk menurunkannya.\n\n▽Tips Menangkap Ikan\nPosisikan Bar Tangkap pada \"Ikan\" yang bergerak naik turun untuk mengisi \"Gauge ikan\".\n\n▽Berhasil dan Gagal\nPenuhkan Gauge Ikan untuk berhasil menangkap ikan.\nJika Gauge Ikan menjadi 0, ikan akan lepas dan kamu gagal.\n*Gerakan dan tingkat kesulitan akan berbeda untuk setiap jenis ikan.\n\n▼Spot Pancing\nBisa mulai memancing dari spot pancing yang ada di Soda Pop Lagoon.\nJenis ikan yang muncul akan bevariasi di setiap spot pancing.\n\n▼Alat Pancing\nGunakan Hologold untuk memperkuat alat pancing.\nPeningkatan alat pancing mempermudah dan melancarkan aktivitas memancing.\n\n▼Umpan\nUmpan pancing dapat ditukar di Bae's Bits & Bobs.\nSetiap jenis ikan mempunyai umpan kesukaan yang berbeda.\n*Umpan akan terpakai saat berhasil maupun gagal menangkap ikan.\n\n▼Ensiklopedia Ikan.\nInformasi ikan yang ditangkap akan dicatat di \"Ensiklopedia Ikan\".\nEnsiklopedia Ikan dapat dilihat dengan berbicara dengan \"holomem\" di fasilitas pemancingan.\nDapatkan hadiah pencapaian setiap kali mencapai jumlah koleksi tertentu di Ensiklopedia Ikan."
+  },
+  {
+    "id": "la-help_category-help-park-15-title",
+    "text": "Tentang Memancing Ikan"
   },
   {
     "id": "la-help_category-help-park-2-text",
@@ -905,7 +937,7 @@
   },
   {
     "id": "la-help_category-help-rhythm-2-text",
-    "text": "Unit terdiri dari satu holomem yang menjadi Leader dan 5 orang member.\nHingga 10 Formasi Unit dapat disimpan untuk setiap holomem.\n\nSkor Unit adalah parameter yang menjadi indikator saat mendapatkan skor di dalam Live.\nSemakin tinggi Skor Unit, semakin besar pula Skor yang bisa didapatkan.\nSkor Unit ditentukan dari Skill Outfit milik Leader, Parameter member, Skill, dan sebagainya."
+    "text": "Unit terdiri dari satu holomem yang menjadi Leader dan 5 orang member.\nHingga 10 Formasi Unit dapat disimpan untuk setiap holomem.\n\nSkor Unit adalah parameter yang menjadi indikator saat mendapatkan skor di dalam Live.\nSemakin tinggi Skor Unit, semakin besar pula Skor yang bisa didapatkan.\nSkor Unit ditentukan dari Skill Outfit milik Leader, Parameter member, Skill, dan sebagainya.\n\n※Skor Unit dihitung dengan mempertimbangkan apakah Skill Aktif diaktifkan secara merata. Oleh karena itu, tergantung pada komposisinya, nilainya dapat menurun jika membuka \"Peningkatan Frekuensi Aktivasi Skill\" di Board Holomem."
   },
   {
     "id": "la-help_category-help-rhythm-2-title",

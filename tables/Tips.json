@@ -380,6 +380,58 @@
     "order": 1
   },
   {
+    "id": "tips-game_screen-park-fishing-fish-list-area03",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-park-fishing-fish-list-area03",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_PARK_FISHING_FISH_BOOK",
+      "number": 914
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-park-fishing-rod-level",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-park-fishing-rod-level",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_PARK_FISHING_ROD_LEVEL_UP",
+      "number": 916
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-park-fishing-top-area03",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-park-fishing-top-area03",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_PARK_FISHING",
+      "number": 919
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-park-time-period-area03",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-park-time-period-area03",
+    "game_screen_type": {
+      "name": "GAME_SCREEN_TYPE_PARK_TIME_TRANSITION",
+      "number": 918
+    },
+    "order": 1
+  },
+  {
     "id": "tips-game_screen-park_change_playable",
     "type": {
       "name": "TIPS_TYPE_GAME_SCREEN",
@@ -468,6 +520,15 @@
       "name": "GAME_SCREEN_TYPE_SKILL_TREE",
       "number": 1500
     },
+    "order": 1
+  },
+  {
+    "id": "tips-game_screen-splash_ball",
+    "type": {
+      "name": "TIPS_TYPE_GAME_SCREEN",
+      "number": 2
+    },
+    "title_lang_id": "la-tips-game_screen-splash_ball",
     "order": 1
   },
   {
@@ -913,6 +974,19 @@
     "order": 1
   },
   {
+    "id": "tips-hint-live_option_detail_special_skill_timing_display",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_detail_special_skill_timing_display-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SPECIAL_SKILL_TIMING_DISPLAY",
+      "number": 422
+    },
+    "order": 1
+  },
+  {
     "id": "tips-hint-live_option_detail_tap_effect",
     "type": {
       "name": "TIPS_TYPE_HINT",
@@ -935,6 +1009,58 @@
     "hint_type": {
       "name": "TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_TAP_VIBRATION",
       "number": 401
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_judgement_display_setting",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_judgement_display_setting-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_JUDGEMENT_DISPLAY_SETTING",
+      "number": 109
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_judgement_display_type",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_judgement_display_type-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_JUDGEMENT_DISPLAY_TYPE",
+      "number": 112
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_judgement_position",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_judgement_position-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_JUDGEMENT_POSITION",
+      "number": 110
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_judgement_timing_position",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_judgement_timing_position-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_JUDGEMENT_TIMING_POSITION",
+      "number": 111
     },
     "order": 1
   },
@@ -991,6 +1117,19 @@
     "order": 1
   },
   {
+    "id": "tips-hint-live_option_lane_split",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_lane_split-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_LANE_DIVISION_COUNT",
+      "number": 117
+    },
+    "order": 1
+  },
+  {
     "id": "tips-hint-live_option_lane_top_cut",
     "type": {
       "name": "TIPS_TYPE_HINT",
@@ -1000,6 +1139,32 @@
     "hint_type": {
       "name": "TIPS_HINT_TYPE_LIVE_OPTION_LANE_TOP_CUT",
       "number": 107
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_lane_width_setting",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_lane_width_setting-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_LANE_WIDTH",
+      "number": 116
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_low_life_warning_effect",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_low_life_warning_effect-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_LOW_LIFE_WARNING_EFFECT",
+      "number": 113
     },
     "order": 1
   },
@@ -1043,6 +1208,19 @@
     "order": 1
   },
   {
+    "id": "tips-hint-live_option_note_height_pct_setting",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_note_height_pct_setting-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_NOTE_HEIGHT",
+      "number": 115
+    },
+    "order": 1
+  },
+  {
     "id": "tips-hint-live_option_note_speed",
     "type": {
       "name": "TIPS_TYPE_HINT",
@@ -1052,6 +1230,19 @@
     "hint_type": {
       "name": "TIPS_HINT_TYPE_LIVE_OPTION_NOTE_SPEED",
       "number": 100
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_note_width_pct_setting",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_note_width_pct_setting-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_NOTE_WIDTH",
+      "number": 114
     },
     "order": 1
   },
@@ -1130,6 +1321,19 @@
     "hint_type": {
       "name": "TIPS_HINT_TYPE_LIVE_OPTION_SKIN_NOTE",
       "number": 200
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-hint-live_option_skin_penlight",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-live_option_skin_penlight-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_LIVE_OPTION_SKIN_PENLIGHT",
+      "number": 207
     },
     "order": 1
   },
@@ -1446,6 +1650,24 @@
     "order": 1
   },
   {
+    "id": "tips-park-boat-area03",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-boat-area03",
+    "order": 1
+  },
+  {
+    "id": "tips-park-boat-level-area03",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-boat-level-area03",
+    "order": 1
+  },
+  {
     "id": "tips-park-character-shop-area01-balloon",
     "type": {
       "name": "TIPS_TYPE_TUTORIAL",
@@ -1479,6 +1701,64 @@
       "number": 1
     },
     "title_lang_id": "la-tips-park-character-shop-area02-hair-accessory-title",
+    "order": 1
+  },
+  {
+    "id": "tips-park-fishing-area03",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-fishing-area03",
+    "order": 1
+  },
+  {
+    "id": "tips-park-fishing-fish-list-area03",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-fishing-fish-list-area03",
+    "order": 1
+  },
+  {
+    "id": "tips-park-fishing-rod-level-area03",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-fishing-rod-level-area03",
+    "order": 1
+  },
+  {
+    "id": "tips-park-fishing-rod-level-up-area03",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-park-fishing-rod-level-up--area03-title",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_PARK_FISHING_ROD_LEVEL_UP",
+      "number": 3000
+    },
+    "order": 1
+  },
+  {
+    "id": "tips-park-fishing-top-area03",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-fishing-top-area03",
+    "order": 1
+  },
+  {
+    "id": "tips-park-fishingshop-area03",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-park-fishingshop-area03",
     "order": 1
   },
   {
@@ -1587,6 +1867,24 @@
       "number": 1
     },
     "title_lang_id": "la-tips-skill-tree-title",
+    "order": 1
+  },
+  {
+    "id": "tips-splash_ball",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-splash_ball",
+    "order": 1
+  },
+  {
+    "id": "tips-splash_ball-quest",
+    "type": {
+      "name": "TIPS_TYPE_TUTORIAL",
+      "number": 1
+    },
+    "title_lang_id": "la-tips-splash_ball-quest",
     "order": 1
   },
   {

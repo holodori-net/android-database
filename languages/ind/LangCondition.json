@@ -20,6 +20,30 @@
     "text": "Akan terbuka setelah menyelesaikan misi utama \"Melesat, Mega Circuit!\""
   },
   {
+    "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup",
+    "text": "Selesaikan Misi Utama\"Ayo Tingkatkan! Fishing Point.\" untuk membuka fitur ini."
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup-description",
+    "text": "Selesaikan Misi Utama\"Ayo Tingkatkan! Fishing Point.\" untuk membuka fitur ini."
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a03-resortshop-first_time_limited-next_lineup_view",
+    "text": "Direset setiap bulan dan dimulai sejak bulan November ke depan."
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup",
+    "text": "Dapat dibuka setelah menyelesaikan Main Utama\"Fasilitas Mewah di Atas Air\""
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup-description",
+    "text": "Dapat dibuka setelah menyelesaikan Main Utama\"Fasilitas Mewah di Atas Air\""
+  },
+  {
+    "id": "la-cd-exchange_booth_fixed_item_unlock-item-mini-game-chase-coin",
+    "text": "Syarat membuka: Misi Area \"Jamuan Gelap, Kejaran Berapi\" Selesai"
+  },
+  {
     "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
     "text": "Tukarkan semua objek dengan nama yang sama untuk membuka"
   },
@@ -70,6 +94,18 @@
   {
     "id": "la-cd-marathon_event",
     "text": "Dapat dibuka setelah menyelesaikan Misi Utama Part 1 Episode 4."
+  },
+  {
+    "id": "la-cd-park_fishing_rod-02",
+    "text": "Syarat membuka: Dapat dibuka setelah menyelesaikan Misi Utama Chapter 3 Episode 5."
+  },
+  {
+    "id": "la-cd-park_fishing_rod-03",
+    "text": "Syarat membuka: Memancing 20 jenis ikan yang berbeda."
+  },
+  {
+    "id": "la-cd-park_fishing_rod-04",
+    "text": "Syarat membuka: Memancing 50 jenis ikan yang berbeda."
   },
   {
     "id": "la-cd-perm-a01-chase",
@@ -326,5 +362,21 @@
   {
     "id": "la-quest-main-w1-02-09-unlock-description",
     "text": "Dengan menyelesaikan Misi Area dan Misi Holomem\nbisa meningkatkan Dream Rank."
+  },
+  {
+    "id": "la-unlock-player_level-30",
+    "text": "Fitur ini dapat dibuka pada Dream Rank 30"
+  },
+  {
+    "id": "la-unlock-player_level-34",
+    "text": "Fitur ini dapat dibuka pada Dream Rank 34"
+  },
+  {
+    "id": "la-unlock-player_level-35",
+    "text": "Fitur ini dapat dibuka pada Dream Rank 35"
+  },
+  {
+    "id": "la-unlock_description-quest_live_play",
+    "text": "Mainkan Misi dan Live"
   }
 ]

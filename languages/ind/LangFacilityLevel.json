@@ -1,5 +1,9 @@
 [
   {
+    "id": "la-empty",
+    "text": "-"
+  },
+  {
     "id": "la-facility-a01-athletic-description",
     "text": "Fasilitas olahraga buatan Gen 3.\nTempat untuk menggerakkan badan."
   },
@@ -82,5 +86,61 @@
   {
     "id": "la-facility-a02-station-lvup",
     "text": "Peluang Dapat Holowork Rank Tinggi Naik"
+  },
+  {
+    "id": "la-facility-a03-boat-description",
+    "text": "-"
+  },
+  {
+    "id": "la-facility-a03-boatshop-description",
+    "text": "Fasilitas Modifikasi Boat Koyori\nTargetku adalah membuat boat favoritku menjadi yang paling cepat."
+  },
+  {
+    "id": "la-facility-a03-entrance-description",
+    "text": "Pintu gerbang yang terbuka ke laut lepas, wajah kota tepi laut, di mana lalu lintas tidak pernah berhenti."
+  },
+  {
+    "id": "la-facility-a03-fishingpond1-description",
+    "text": "Laut tenang nan biru, permukaan air yang indah, pas untuk memancing."
+  },
+  {
+    "id": "la-facility-a03-fishingpond2-description",
+    "text": "Tempat memancing yang dihiasi salju milik Lamy, nikmati pemandangan sambil memancing ikan yang besar."
+  },
+  {
+    "id": "la-facility-a03-fishingpond3-description",
+    "text": "Tempat memancing milik Kobo dihiasi deburan ombak putih, pemancing yang tangguh berkumpul di sini."
+  },
+  {
+    "id": "la-facility-a03-fishingshop-description",
+    "text": "Toko alat pancing milik Hakos dengan umpan yang bermacam-macam, megunakan koin untuk meningkatkan kemampuan memancingmu."
+  },
+  {
+    "id": "la-facility-a03-glamping-description",
+    "text": "Tempat berkemah milik Polka yang hanya diketahui sedikit orang, nikmati pengalaman BBQ terbaik di sini."
+  },
+  {
+    "id": "la-facility-a03-livestage-description",
+    "text": "Panggung Live dengan angin laut yang sepoi-sepoi, Lagu-lagu yang bersahutan dengan suara ombak."
+  },
+  {
+    "id": "la-facility-a03-resortshop-description",
+    "text": "Toko Penukaran Ririka untuk menyemangati para pemancing koin yang berkiluan berubah menjadi item yang diimpikan."
+  },
+  {
+    "id": "la-facility-a03-stadium-description",
+    "text": "Fasilitas olahraga yang mengubah permukaan laut menjadi lapangan, kontrol ombak dan raih kemenangan."
+  },
+  {
+    "id": "la-facility-a03-station-description",
+    "text": "Tempat istirahat Marine terletak di tepi pantai tempat untuk bersantai sambil mendengarkan suara ombak."
+  },
+  {
+    "id": "la-facility-a03-watergun-description",
+    "text": "Toko Spesialis Barang Live milik Kanata, ambil pistol air dan pergi ke area Live!"
+  },
+  {
+    "id": "la-facility-a03-whale-description",
+    "text": "Paus besar yang bermigrasi melintasi samudra, spot foto terbaik untuk mengagumi raksasa laut ini."
   }
 ]

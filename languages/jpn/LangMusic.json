@@ -726,12 +726,35 @@
     "text": "tepe"
   },
   {
+    "id": "la-music_arranger-m0354",
+    "text": "中村歩、吉村隆行"
+  },
+  {
+    "id": "la-music_arranger-m0357",
+    "text": "かめりあ"
+  },
+  {
+    "id": "la-music_arranger-m0358"
+  },
+  {
     "id": "la-music_arranger-m0359",
     "text": "水野谷怜"
   },
   {
     "id": "la-music_arranger-m0363",
     "text": "椎乃味醂"
+  },
+  {
+    "id": "la-music_arranger-m0375",
+    "text": "Giga"
+  },
+  {
+    "id": "la-music_arranger-m0376",
+    "text": "TOKOTOKO"
+  },
+  {
+    "id": "la-music_arranger-m0413",
+    "text": "ナユタン星人"
   },
   {
     "id": "la-music_arranger-m0459",
@@ -748,6 +771,10 @@
   {
     "id": "la-music_arranger-m0527",
     "text": "ONIGAWARA"
+  },
+  {
+    "id": "la-music_arranger-m0548",
+    "text": "てにをは"
   },
   {
     "id": "la-music_arranger-m9999",
@@ -1480,12 +1507,35 @@
     "text": "てぺ"
   },
   {
+    "id": "la-music_arranger_ruby-m0354",
+    "text": "なかむらあゆむよしむらたかゆき"
+  },
+  {
+    "id": "la-music_arranger_ruby-m0357",
+    "text": "かめりあ"
+  },
+  {
+    "id": "la-music_arranger_ruby-m0358"
+  },
+  {
     "id": "la-music_arranger_ruby-m0359",
     "text": "みずのやれん"
   },
   {
     "id": "la-music_arranger_ruby-m0363",
     "text": "しいのみりん"
+  },
+  {
+    "id": "la-music_arranger_ruby-m0375",
+    "text": "ぎが"
+  },
+  {
+    "id": "la-music_arranger_ruby-m0376",
+    "text": "とことこ"
+  },
+  {
+    "id": "la-music_arranger_ruby-m0413",
+    "text": "なゆたんせいじん"
   },
   {
     "id": "la-music_arranger_ruby-m0459",
@@ -1502,6 +1552,10 @@
   {
     "id": "la-music_arranger_ruby-m0527",
     "text": "おにがわら"
+  },
+  {
+    "id": "la-music_arranger_ruby-m0548",
+    "text": "てにをは"
   },
   {
     "id": "la-music_arranger_ruby-m9999",
@@ -2296,12 +2350,36 @@
     "text": "DECO*27"
   },
   {
+    "id": "la-music_composer-m0354",
+    "text": "中村歩、吉村隆行"
+  },
+  {
+    "id": "la-music_composer-m0357",
+    "text": "かめりあ"
+  },
+  {
+    "id": "la-music_composer-m0358",
+    "text": "なとり"
+  },
+  {
     "id": "la-music_composer-m0359",
     "text": "水野谷怜"
   },
   {
     "id": "la-music_composer-m0363",
     "text": "椎乃味醂"
+  },
+  {
+    "id": "la-music_composer-m0375",
+    "text": "Giga"
+  },
+  {
+    "id": "la-music_composer-m0376",
+    "text": "TOKOTOKO"
+  },
+  {
+    "id": "la-music_composer-m0413",
+    "text": "ナユタン星人"
   },
   {
     "id": "la-music_composer-m0459",
@@ -2318,6 +2396,10 @@
   {
     "id": "la-music_composer-m0527",
     "text": "ONIGAWARA"
+  },
+  {
+    "id": "la-music_composer-m0548",
+    "text": "てにをは"
   },
   {
     "id": "la-music_composer-m9999",
@@ -3112,12 +3194,36 @@
     "text": "でこにーな"
   },
   {
+    "id": "la-music_composer_ruby-m0354",
+    "text": "なかむらあゆむよしむらたかゆき"
+  },
+  {
+    "id": "la-music_composer_ruby-m0357",
+    "text": "かめりあ"
+  },
+  {
+    "id": "la-music_composer_ruby-m0358",
+    "text": "なとり"
+  },
+  {
     "id": "la-music_composer_ruby-m0359",
     "text": "みずのやれん"
   },
   {
     "id": "la-music_composer_ruby-m0363",
     "text": "しいのみりん"
+  },
+  {
+    "id": "la-music_composer_ruby-m0375",
+    "text": "ぎが"
+  },
+  {
+    "id": "la-music_composer_ruby-m0376",
+    "text": "とことこ"
+  },
+  {
+    "id": "la-music_composer_ruby-m0413",
+    "text": "なゆたんせいじん"
   },
   {
     "id": "la-music_composer_ruby-m0459",
@@ -3134,6 +3240,10 @@
   {
     "id": "la-music_composer_ruby-m0527",
     "text": "おにがわら"
+  },
+  {
+    "id": "la-music_composer_ruby-m0548",
+    "text": "てにをは"
   },
   {
     "id": "la-music_composer_ruby-m9999",
@@ -3362,6 +3472,10 @@
   {
     "id": "la-music_lock_description-m0301",
     "text": "解放条件：メインクエスト2章クリア"
+  },
+  {
+    "id": "la-music_lock_description-m0354",
+    "text": "解放条件：メインクエスト3章クリア"
   },
   {
     "id": "la-music_lyricist-m0001",
@@ -4152,12 +4266,36 @@
     "text": "DECO*27"
   },
   {
+    "id": "la-music_lyricist-m0354",
+    "text": "中村歩、吉村隆行"
+  },
+  {
+    "id": "la-music_lyricist-m0357",
+    "text": "かめりあ, Hakos Baelz"
+  },
+  {
+    "id": "la-music_lyricist-m0358",
+    "text": "なとり"
+  },
+  {
     "id": "la-music_lyricist-m0359",
     "text": "Kaela Kovalskia"
   },
   {
     "id": "la-music_lyricist-m0363",
     "text": "椎乃味醂"
+  },
+  {
+    "id": "la-music_lyricist-m0375",
+    "text": "夕野ヨシミ(IOSYS)"
+  },
+  {
+    "id": "la-music_lyricist-m0376",
+    "text": "TOKOTOKO"
+  },
+  {
+    "id": "la-music_lyricist-m0413",
+    "text": "ナユタン星人"
   },
   {
     "id": "la-music_lyricist-m0459",
@@ -4174,6 +4312,10 @@
   {
     "id": "la-music_lyricist-m0527",
     "text": "竹内サティフォ"
+  },
+  {
+    "id": "la-music_lyricist-m0548",
+    "text": "てにをは"
   },
   {
     "id": "la-music_lyricist-m9999",
@@ -4968,12 +5110,36 @@
     "text": "でこにーな"
   },
   {
+    "id": "la-music_lyricist_ruby-m0354",
+    "text": "なかむらあゆむよしむらたかゆき"
+  },
+  {
+    "id": "la-music_lyricist_ruby-m0357",
+    "text": "かめりあはこすべーるず"
+  },
+  {
+    "id": "la-music_lyricist_ruby-m0358",
+    "text": "なとり"
+  },
+  {
     "id": "la-music_lyricist_ruby-m0359",
     "text": "かえらこう゛ぁるすきあ"
   },
   {
     "id": "la-music_lyricist_ruby-m0363",
     "text": "しいのみりん"
+  },
+  {
+    "id": "la-music_lyricist_ruby-m0375",
+    "text": "ゆうのよしみいおしす"
+  },
+  {
+    "id": "la-music_lyricist_ruby-m0376",
+    "text": "とことこ"
+  },
+  {
+    "id": "la-music_lyricist_ruby-m0413",
+    "text": "なゆたんせいじん"
   },
   {
     "id": "la-music_lyricist_ruby-m0459",
@@ -4990,6 +5156,10 @@
   {
     "id": "la-music_lyricist_ruby-m0527",
     "text": "たけうちさてぃふぉ"
+  },
+  {
+    "id": "la-music_lyricist_ruby-m0548",
+    "text": "てにをは"
   },
   {
     "id": "la-music_lyricist_ruby-m9999",
@@ -5784,12 +5954,36 @@
     "text": "ナイトループ"
   },
   {
+    "id": "la-music_title-m0354",
+    "text": "PARADISE！"
+  },
+  {
+    "id": "la-music_title-m0357",
+    "text": "Play Dice!"
+  },
+  {
+    "id": "la-music_title-m0358",
+    "text": "プロポーズ"
+  },
+  {
     "id": "la-music_title-m0359",
     "text": "Backseat"
   },
   {
     "id": "la-music_title-m0363",
     "text": "シミュラクル"
+  },
+  {
+    "id": "la-music_title-m0375",
+    "text": "Wonky Monkey"
+  },
+  {
+    "id": "la-music_title-m0376",
+    "text": "KONKON Beats"
+  },
+  {
+    "id": "la-music_title-m0413",
+    "text": "爆ラブ+ケミストリー"
   },
   {
     "id": "la-music_title-m0459",
@@ -5806,6 +6000,10 @@
   {
     "id": "la-music_title-m0527",
     "text": "めくるめくランデヴー"
+  },
+  {
+    "id": "la-music_title-m0548",
+    "text": "きゃぴ"
   },
   {
     "id": "la-music_title-m9999",
@@ -6600,12 +6798,36 @@
     "text": "ないとるーぷ"
   },
   {
+    "id": "la-music_title_ruby-m0354",
+    "text": "ぱらだいす"
+  },
+  {
+    "id": "la-music_title_ruby-m0357",
+    "text": "ぷれいだいす"
+  },
+  {
+    "id": "la-music_title_ruby-m0358",
+    "text": "ぷろぽーず"
+  },
+  {
     "id": "la-music_title_ruby-m0359",
     "text": "ばっくしーと"
   },
   {
     "id": "la-music_title_ruby-m0363",
     "text": "しみゅらくる"
+  },
+  {
+    "id": "la-music_title_ruby-m0375",
+    "text": "うぉんきーもんきー"
+  },
+  {
+    "id": "la-music_title_ruby-m0376",
+    "text": "こんこんびーつ"
+  },
+  {
+    "id": "la-music_title_ruby-m0413",
+    "text": "ばくらぶけみすとりー"
   },
   {
     "id": "la-music_title_ruby-m0459",
@@ -6622,6 +6844,10 @@
   {
     "id": "la-music_title_ruby-m0527",
     "text": "めくるめくらんでう゛ー"
+  },
+  {
+    "id": "la-music_title_ruby-m0548",
+    "text": "きゃぴ"
   },
   {
     "id": "la-music_title_ruby-m9999",
@@ -7416,12 +7642,36 @@
     "text": "大神ミオ"
   },
   {
+    "id": "la-singer_name-m0354",
+    "text": "hololive IDOL PROJECT"
+  },
+  {
+    "id": "la-singer_name-m0357",
+    "text": "Hakos Baelz"
+  },
+  {
+    "id": "la-singer_name-m0358",
+    "text": "Kobo Kanaeru"
+  },
+  {
     "id": "la-singer_name-m0359",
     "text": "Kaela Kovalskia"
   },
   {
     "id": "la-singer_name-m0363",
     "text": "獅白ぼたん"
+  },
+  {
+    "id": "la-singer_name-m0375",
+    "text": "戌神ころね     "
+  },
+  {
+    "id": "la-singer_name-m0376",
+    "text": "白上フブキ"
+  },
+  {
+    "id": "la-singer_name-m0413",
+    "text": "博衣こより"
   },
   {
     "id": "la-singer_name-m0459",
@@ -7438,6 +7688,10 @@
   {
     "id": "la-singer_name-m0527",
     "text": "FUWAMOCO"
+  },
+  {
+    "id": "la-singer_name-m0548",
+    "text": "宝鐘マリン"
   },
   {
     "id": "la-singer_name-m9999",
@@ -8232,12 +8486,36 @@
     "text": "おおかみみお"
   },
   {
+    "id": "la-singer_name_ruby-m0354",
+    "text": "ほろらいぶあいどるぷろじぇくと"
+  },
+  {
+    "id": "la-singer_name_ruby-m0357",
+    "text": "はこすべーるず"
+  },
+  {
+    "id": "la-singer_name_ruby-m0358",
+    "text": "こぼかなえる"
+  },
+  {
     "id": "la-singer_name_ruby-m0359",
     "text": "かえらこゔぁるすきあ"
   },
   {
     "id": "la-singer_name_ruby-m0363",
     "text": "ししろぼたん"
+  },
+  {
+    "id": "la-singer_name_ruby-m0375",
+    "text": "いぬがみころね"
+  },
+  {
+    "id": "la-singer_name_ruby-m0376",
+    "text": "しらかみふぶき"
+  },
+  {
+    "id": "la-singer_name_ruby-m0413",
+    "text": "はくいこより"
   },
   {
     "id": "la-singer_name_ruby-m0459",
@@ -8254,6 +8532,10 @@
   {
     "id": "la-singer_name_ruby-m0527",
     "text": "ふわわもここふわもこあびすがーど"
+  },
+  {
+    "id": "la-singer_name_ruby-m0548",
+    "text": "ほうしょうまりん"
   },
   {
     "id": "la-singer_name_ruby-m9999",

@@ -528,6 +528,14 @@
     "text": "Event Badge"
   },
   {
+    "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-description",
+    "text": "A Badge used to exchange for items in the Event Exchange.\nAfter the deadline, they are converted into Hologold."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-name",
+    "text": "Event Badge"
+  },
+  {
     "id": "la-item-event_badge-marathon_event-relay-001-all-description",
     "text": "A Badge used to exchange for items in the Event Exchange (Common).\nAfter the deadline, they are converted into Hologold."
   },
@@ -688,6 +696,30 @@
     "text": "IC Chip"
   },
   {
+    "id": "la-item-facility-area_a03-001-1-description",
+    "text": "An item used for Building, Upgrading facilities, and more."
+  },
+  {
+    "id": "la-item-facility-area_a03-001-1-name",
+    "text": "Seashell"
+  },
+  {
+    "id": "la-item-facility-area_a03-002-1-description",
+    "text": "An item used for Building, Upgrading facilities, and more."
+  },
+  {
+    "id": "la-item-facility-area_a03-002-1-name",
+    "text": "Drift Metal"
+  },
+  {
+    "id": "la-item-facility-area_a03-003-1-description",
+    "text": "An item used for Building, Upgrading facilities, and more."
+  },
+  {
+    "id": "la-item-facility-area_a03-003-1-name",
+    "text": "Driftwood"
+  },
+  {
     "id": "la-item-gacha-cmn_sticker-01-description",
     "text": "Stickers used to exchange for items at the Holosticker Exchange."
   },
@@ -768,6 +800,14 @@
     "text": "Mega Sphere Coin"
   },
   {
+    "id": "la-item-mini_game_fishing_coin-description",
+    "text": "An item that can be traded for items at the Soda Pop Lagoon Exchange."
+  },
+  {
+    "id": "la-item-mini_game_fishing_coin-name",
+    "text": "Soda Pop Coin"
+  },
+  {
     "id": "la-item-mini_game_reward_up_stamina_recover-description",
     "text": "An item that can be converted into Minigame Boosts."
   },
@@ -798,6 +838,22 @@
   {
     "id": "la-item-quest-area-a01-17-1-2-name",
     "text": "Cleaning Tools"
+  },
+  {
+    "id": "la-item-quest-area-a03-05-1-1-description",
+    "text": "La+'s misplaced Fishing Rod. An essential fishing companion."
+  },
+  {
+    "id": "la-item-quest-area-a03-05-1-1-name",
+    "text": "La+'s Fishing Rod"
+  },
+  {
+    "id": "la-item-quest-area-a03-12-1-1-description",
+    "text": "The beach ball Polka launched into the ocean. Hurry back and entertain the princess!"
+  },
+  {
+    "id": "la-item-quest-area-a03-12-1-1-name",
+    "text": "Beach Ball"
   },
   {
     "id": "la-item-quest-main-w1-01-02-1-4-description",

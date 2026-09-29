@@ -1,5 +1,9 @@
 [
   {
+    "id": "la-empty",
+    "text": "-"
+  },
+  {
     "id": "la-facility-a01-athletic-description",
     "text": "3기생이 만든 운동 시설\n몸을 움직이며 즐길 수 있다"
   },
@@ -82,5 +86,61 @@
   {
     "id": "la-facility-a02-station-lvup",
     "text": "하이 랭크 Holo워크 발생률 UP"
+  },
+  {
+    "id": "la-facility-a03-boat-description",
+    "text": "-"
+  },
+  {
+    "id": "la-facility-a03-boatshop-description",
+    "text": "코요리의 보트 개조 시설\n목표는 애정을 담은 내 배를 가장 빠른 모습으로"
+  },
+  {
+    "id": "la-facility-a03-entrance-description",
+    "text": "해상에 열린 관문\n왕래가 끊이지 않는, 아름다운 해양 도시의 얼굴"
+  },
+  {
+    "id": "la-facility-a03-fishingpond1-description",
+    "text": "온통 푸른빛의 평온한 해역\n아름다운 수면은 절호의 낚시 스폿"
+  },
+  {
+    "id": "la-facility-a03-fishingpond2-description",
+    "text": "눈이 뒤덮인 라미의 낚시 스폿\n풍경을 즐기며 대물을 낚자"
+  },
+  {
+    "id": "la-facility-a03-fishingpond3-description",
+    "text": "하얀 파도가 부서지는 코보의 낚시 스폿\n모여드는 강자를 낚아 올리자"
+  },
+  {
+    "id": "la-facility-a03-fishingshop-description",
+    "text": "다양한 미끼를 갖춘 하코스의 낚시용품점\n코인이 낚시 실력을 끌어올린다"
+  },
+  {
+    "id": "la-facility-a03-glamping-description",
+    "text": "아는 사람은 다 아는 폴카의 캠핑장\n여기서 맛보는 BBQ는 최고의 체험이다"
+  },
+  {
+    "id": "la-facility-a03-livestage-description",
+    "text": "바닷바람이 기분 좋은 라이브 스테이지\n파도 소리와 함께 노래가 울려 퍼진다"
+  },
+  {
+    "id": "la-facility-a03-resortshop-description",
+    "text": "낚시꾼을 위한 리리카의 교환소\n빛나는 코인이 꿈의 아이템으로 바뀐다"
+  },
+  {
+    "id": "la-facility-a03-stadium-description",
+    "text": "해수면을 필드로 바꾸는 구기 시설\n파도를 가르며 승리의 골인을 노리자"
+  },
+  {
+    "id": "la-facility-a03-station-description",
+    "text": "파도 치는 바닷가에 있는 마린의 휴식소\n파도 소리를 들으며 잠시 쉴 수 있다"
+  },
+  {
+    "id": "la-facility-a03-watergun-description",
+    "text": "카나타의 라이브 굿즈 전문점\n인기 만점 물총을 들고 라이브로 GO!"
+  },
+  {
+    "id": "la-facility-a03-whale-description",
+    "text": "해역을 누비는 거대 고래\n그 거대한 몸집을 한눈에 바라볼 수 있는 절호의 포토존"
   }
 ]

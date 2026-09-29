@@ -20,6 +20,30 @@
     "text": "메인 퀘스트 ｢폭주! 메가 서킷!｣을 클리어하면 개방됩니다"
   },
   {
+    "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup",
+    "text": "메인 퀘스트 ｢Build Up! 피싱 포인트｣를 클리어하면 개방할 수 있습니다"
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup-description",
+    "text": "메인 퀘스트 ｢Build Up! 피싱 포인트｣를 클리어하면 개방할 수 있습니다"
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a03-resortshop-first_time_limited-next_lineup_view",
+    "text": "11월 이후 매월 초기화"
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup",
+    "text": "메인 퀘스트 ｢수상의 럭셔리 시설｣을 클리어하면 개방됩니다"
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup-description",
+    "text": "메인 퀘스트 ｢수상의 럭셔리 시설｣을 클리어하면 개방됩니다"
+  },
+  {
+    "id": "la-cd-exchange_booth_fixed_item_unlock-item-mini-game-chase-coin",
+    "text": "개방 조건: 구역 퀘스트 「어둠의 파티, 불꽃 튀는 추격」 클리어"
+  },
+  {
     "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
     "text": "이름이 같은 아이템을 모두 교환해 개방"
   },
@@ -70,6 +94,18 @@
   {
     "id": "la-cd-marathon_event",
     "text": "메인 퀘스트 1장 4화 클리어 시 개방"
+  },
+  {
+    "id": "la-cd-park_fishing_rod-02",
+    "text": "개방 조건: 메인 퀘스트 3장 5화 클리어"
+  },
+  {
+    "id": "la-cd-park_fishing_rod-03",
+    "text": "개방 조건: 물고기 20종류 낚기"
+  },
+  {
+    "id": "la-cd-park_fishing_rod-04",
+    "text": "개방 조건: 물고기 50종류 낚기"
   },
   {
     "id": "la-cd-perm-a01-chase",
@@ -326,5 +362,21 @@
   {
     "id": "la-quest-main-w1-02-09-unlock-description",
     "text": "구역 퀘스트나Holo멤버 퀘스트에 도전하면\n드림 랭크를 올릴 수 있습니다"
+  },
+  {
+    "id": "la-unlock-player_level-30",
+    "text": "드림 랭크 30 달성 시 개방할 수 있습니다"
+  },
+  {
+    "id": "la-unlock-player_level-34",
+    "text": "드림 랭크 34 달성 시 개방할 수 있습니다"
+  },
+  {
+    "id": "la-unlock-player_level-35",
+    "text": "드림 랭크 35 달성 시 개방할 수 있습니다"
+  },
+  {
+    "id": "la-unlock_description-quest_live_play",
+    "text": "퀘스트나 라이브를 플레이하자"
   }
 ]

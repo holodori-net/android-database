@@ -1,1 +1,70 @@
-[]
+[
+  {
+    "level": 1,
+    "name_lang_id": "la-park_fishing_rod-01-name",
+    "asset_id": "img_fishing_rod-01",
+    "description_lang_id": "la-park_fishing_rod-01-description",
+    "unlock_condition_group_id": "cd-park_fishing_rod-01",
+    "capture_bar_length_up": 120
+  },
+  {
+    "level": 2,
+    "name_lang_id": "la-park_fishing_rod-02-name",
+    "asset_id": "img_fishing_rod-02",
+    "description_lang_id": "la-park_fishing_rod-02-description",
+    "unlock_condition_group_id": "cd-park_fishing_rod-02",
+    "capture_bar_length_up": 150,
+    "icon_speed_change_millisecond_up": 2,
+    "progress_meter_speed_increase_up": 50,
+    "consumptions": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "10000"
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "name_lang_id": "la-park_fishing_rod-03-name",
+    "asset_id": "img_fishing_rod-03",
+    "description_lang_id": "la-park_fishing_rod-03-description",
+    "unlock_condition_group_id": "cd-park_fishing_rod-03",
+    "capture_bar_length_up": 225,
+    "icon_speed_change_millisecond_up": 5,
+    "progress_meter_speed_increase_up": 100,
+    "consumptions": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "25000"
+      }
+    ]
+  },
+  {
+    "level": 4,
+    "name_lang_id": "la-park_fishing_rod-04-name",
+    "asset_id": "img_fishing_rod-04",
+    "description_lang_id": "la-park_fishing_rod-04-description",
+    "unlock_condition_group_id": "cd-park_fishing_rod-04",
+    "capture_bar_length_up": 300,
+    "icon_speed_change_millisecond_up": 10,
+    "progress_meter_speed_increase_up": 150,
+    "consumptions": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "50000"
+      }
+    ]
+  }
+]

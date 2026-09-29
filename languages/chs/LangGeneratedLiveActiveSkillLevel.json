@@ -544,6 +544,14 @@
     "text": "每 23 秒以高概率在 8 秒内得分提升[highlight]115[/highlight]% "
   },
   {
+    "id": "la-generated-live_active_skill-card-00023-5-uniq-0085-00.1-description",
+    "text": "每 34 秒以中等概率在 12 秒内得分提升100% "
+  },
+  {
+    "id": "la-generated-live_active_skill-card-00023-5-uniq-0085-00.2-description",
+    "text": "每 34 秒以中等概率在 12 秒内得分提升[highlight]120[/highlight]% "
+  },
+  {
     "id": "la-generated-live_active_skill-card-00026-3-nrml-0021-00.1-description",
     "text": "每 17 秒以低概率在 6 秒内得分提升40% "
   },
@@ -816,6 +824,14 @@
     "text": "每 23 秒以高概率在 8 秒内得分提升[highlight]115[/highlight]% "
   },
   {
+    "id": "la-generated-live_active_skill-card-00037-5-uniq-0086-00.1-description",
+    "text": "每 25 秒以中等概率在 9 秒内得分提升50% 生命值在600点以上时得分提升100% "
+  },
+  {
+    "id": "la-generated-live_active_skill-card-00037-5-uniq-0086-00.2-description",
+    "text": "每 25 秒以中等概率在 9 秒内得分提升[highlight]60[/highlight]% 生命值在600点以上时得分提升[highlight]120[/highlight]% "
+  },
+  {
     "id": "la-generated-live_active_skill-card-00039-3-nrml-0032-00.1-description",
     "text": "每 17 秒以低概率在 6 秒内得分提升40% "
   },
@@ -1072,6 +1088,14 @@
     "text": "每 15 秒以中等概率在 6 秒内得分提升[highlight]55[/highlight]% 队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时得分提升[highlight]110[/highlight]% "
   },
   {
+    "id": "la-generated-live_active_skill-card-03009-5-uniq-0088-00.1-description",
+    "text": "每 29 秒以高概率在 10 秒内得分提升95% "
+  },
+  {
+    "id": "la-generated-live_active_skill-card-03009-5-uniq-0088-00.2-description",
+    "text": "每 29 秒以高概率在 10 秒内得分提升[highlight]115[/highlight]% "
+  },
+  {
     "id": "la-generated-live_active_skill-card-04001-3-nrml-0042-00.1-description",
     "text": "每 17 秒以低概率在 6 秒内得分提升40% "
   },
@@ -1230,6 +1254,14 @@
   {
     "id": "la-generated-live_active_skill-card-04012-5-uniq-0051-00.2-description",
     "text": "每 25 秒以高概率在 11 秒内得分提升[highlight]90[/highlight]% "
+  },
+  {
+    "id": "la-generated-live_active_skill-card-04012-5-uniq-0087-00.1-description",
+    "text": "每 22 秒以中等概率在 8 秒内得分提升50% 队伍中有至少2名Promise时得分提升105% "
+  },
+  {
+    "id": "la-generated-live_active_skill-card-04012-5-uniq-0087-00.2-description",
+    "text": "每 22 秒以中等概率在 8 秒内得分提升[highlight]65[/highlight]% 队伍中有至少2名Promise时得分提升[highlight]125[/highlight]% "
   },
   {
     "id": "la-generated-live_active_skill-card-04013-3-nrml-0052-00.1-description",

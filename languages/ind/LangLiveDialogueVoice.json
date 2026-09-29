@@ -44,6 +44,10 @@
     "text": "【Ksatria Mega Ombak Noel】Skill SP"
   },
   {
+    "id": "la-name_cv-live_dial_chr-00023_00023-5-uniq-0085-00_myself",
+    "text": "【Kuasai Meriam Air!♡ Marine】Skill SP"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_myself",
     "text": "【Bersantai di Pelampung Watame】Skill SP"
   },
@@ -60,6 +64,10 @@
     "text": "【Rehat Si Bos Andal Lui】Skill SP"
   },
   {
+    "id": "la-name_cv-live_dial_chr-00037_00037-5-uniq-0086-00_myself",
+    "text": "【Lirikan Misteri Koyori】Skill SP"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
     "text": "【Selam Seru Musim Panas Ollie】Skill SP"
   },
@@ -68,12 +76,20 @@
     "text": "【Denting Hari Cerah Anya】Skill SP"
   },
   {
+    "id": "la-name_cv-live_dial_chr-03009_03009-5-uniq-0088-00_myself",
+    "text": "【Raga Selaras Ombak Kobo】Skill SP"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself",
     "text": "【Smash Maut Sang Reaper Calliope】Skill SP"
   },
   {
     "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself",
     "text": "【Jejak Memori Ombak Ina'nis】Skill SP"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-04012_04012-5-uniq-0087-00_myself",
+    "text": "【Ini Jagoan Utamaku! Baelz】Skill SP"
   },
   {
     "id": "la-name_cv-live_dial_chr-04013_04013-5-uniq-0083-00_myself",
@@ -688,6 +704,54 @@
     "text": "【Biru Laut Mempesona Marine】 Skill SP"
   },
   {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-00030",
+    "text": "【Kuasai Meriam Air!♡ Marine】Marine&Lamy"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-00034",
+    "text": "【Kuasai Meriam Air!♡ Marine】Marine&Polka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-00037",
+    "text": "【Kuasai Meriam Air!♡ Marine】Marine&Koyori"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-03009",
+    "text": "【Kuasai Meriam Air!♡ Marine】Marine&Kobo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-04012",
+    "text": "【Kuasai Meriam Air!♡ Marine】Marine&Baelz"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-06003",
+    "text": "【Kuasai Meriam Air!♡ Marine】Marine&Ririka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00030-to-00023",
+    "text": "【Kuasai Meriam Air!♡ Marine】Lamy&Marine"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00034-to-00023",
+    "text": "【Kuasai Meriam Air!♡ Marine】Polka&Marine"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00037-to-00023",
+    "text": "【Kuasai Meriam Air!♡ Marine】Koyori&Marine"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_03009-to-00023",
+    "text": "【Kuasai Meriam Air!♡ Marine】Kobo&Marine"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_04012-to-00023",
+    "text": "【Kuasai Meriam Air!♡ Marine】Baelz&Marine"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_06003-to-00023",
+    "text": "【Kuasai Meriam Air!♡ Marine】Ririka&Marine"
+  },
+  {
     "id": "la-name_live_dial_voice_card_00026-5-uniq-0021-00_00026-to-00027",
     "text": "【Woolly Smile Festival Watame】Watame&Towa"
   },
@@ -948,6 +1012,54 @@
     "text": "【Penjerat Hati Asisten Koyori】 Skill SP"
   },
   {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00023-to-00037",
+    "text": "【Lirikan Misteri Koyori】Marine&Koyori"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00030-to-00037",
+    "text": "【Lirikan Misteri Koyori】Lamy&Koyori"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00034-to-00037",
+    "text": "【Lirikan Misteri Koyori】Polka&Koyori"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-00023",
+    "text": "【Lirikan Misteri Koyori】Koyori&Marine"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-00030",
+    "text": "【Lirikan Misteri Koyori】Koyori&Lamy"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-00034",
+    "text": "【Lirikan Misteri Koyori】Koyori&Polka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-03009",
+    "text": "【Lirikan Misteri Koyori】Koyori&Kobo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-04012",
+    "text": "【Lirikan Misteri Koyori】Koyori&Baelz"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-06003",
+    "text": "【Lirikan Misteri Koyori】Koyori&Ririka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_03009-to-00037",
+    "text": "【Lirikan Misteri Koyori】Kobo&Koyori"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_04012-to-00037",
+    "text": "【Lirikan Misteri Koyori】Baelz&Koyori"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_06003-to-00037",
+    "text": "【Lirikan Misteri Koyori】Ririka&Koyori"
+  },
+  {
     "id": "la-name_live_dial_voice_card_00039-5-uniq-0032-00_00039-to-00035",
     "text": "【Tebasan Kilat Iroha】Iroha&La+"
   },
@@ -1136,6 +1248,54 @@
     "text": "【Pawang Hujan Sukacita Kobo】 Skill SP"
   },
   {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00023-to-03009",
+    "text": "【Raga Selaras Ombak Kobo】Marine&Kobo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00030-to-03009",
+    "text": "【Raga Selaras Ombak Kobo】Lamy&Kobo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00034-to-03009",
+    "text": "【Raga Selaras Ombak Kobo】Polka&Kobo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00037-to-03009",
+    "text": "【Raga Selaras Ombak Kobo】Koyori&Kobo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00023",
+    "text": "【Raga Selaras Ombak Kobo】Kobo&Marine"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00030",
+    "text": "【Raga Selaras Ombak Kobo】Kobo&Lamy"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00034",
+    "text": "【Raga Selaras Ombak Kobo】Kobo&Polka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00037",
+    "text": "【Raga Selaras Ombak Kobo】Kobo&Koyori"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-04012",
+    "text": "【Raga Selaras Ombak Kobo】Kobo&Baelz"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-06003",
+    "text": "【Raga Selaras Ombak Kobo】Kobo&Ririka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_04012-to-03009",
+    "text": "【Raga Selaras Ombak Kobo】Baelz&Kobo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_06003-to-03009",
+    "text": "【Raga Selaras Ombak Kobo】Ririka&Kobo"
+  },
+  {
     "id": "la-name_live_dial_voice_card_04001-5-uniq-0042-00_04001-to-04002",
     "text": "【Reaper's Death Flow Calliope】Calliope&Kiara"
   },
@@ -1270,6 +1430,54 @@
   {
     "id": "la-name_live_dial_voice_card_04012-5-uniq-0051-00_myself",
     "text": "【Chaotic Powerful Rat Baelz】 Skill SP"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00023-to-04012",
+    "text": "【Ini Jagoan Utamaku! Baelz】Marine&Baelz"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00030-to-04012",
+    "text": "【Ini Jagoan Utamaku! Baelz】Lamy&Baelz"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00034-to-04012",
+    "text": "【Ini Jagoan Utamaku! Baelz】Polka&Baelz"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00037-to-04012",
+    "text": "【Ini Jagoan Utamaku! Baelz】Koyori&Baelz"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_03009-to-04012",
+    "text": "【Ini Jagoan Utamaku! Baelz】Kobo&Baelz"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00023",
+    "text": "【Ini Jagoan Utamaku! Baelz】Baelz&Marine"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00030",
+    "text": "【Ini Jagoan Utamaku! Baelz】Baelz&Lamy"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00034",
+    "text": "【Ini Jagoan Utamaku! Baelz】Baelz&Polka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00037",
+    "text": "【Ini Jagoan Utamaku! Baelz】Baelz&Koyori"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-03009",
+    "text": "【Ini Jagoan Utamaku! Baelz】Baelz&Kobo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-06003",
+    "text": "【Ini Jagoan Utamaku! Baelz】Baelz&Ririka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_06003-to-04012",
+    "text": "【Ini Jagoan Utamaku! Baelz】Ririka&Baelz"
   },
   {
     "id": "la-name_live_dial_voice_card_04013-5-uniq-0052-00_04013-to-04014",

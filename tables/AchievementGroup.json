@@ -764,6 +764,21 @@
     "order": 10
   },
   {
+    "id": "achievement_grp-minigame_splashball",
+    "achievement_category_type": {
+      "name": "ACHIEVEMENT_CATEGORY_TYPE_MINI_GAME",
+      "number": 3
+    },
+    "name_lang_id": "la-achievement_grp-minigame_splashball",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-12",
+    "asset_id": "img_achieve_icon_splashball",
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_SPLASH_BALL",
+      "number": 6
+    },
+    "order": 50
+  },
+  {
     "id": "achievement_grp-music",
     "achievement_category_type": {
       "name": "ACHIEVEMENT_CATEGORY_TYPE_LIVE",
@@ -833,6 +848,17 @@
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-24",
     "asset_id": "img_achieve_icon_w1-a02",
     "order": 20
+  },
+  {
+    "id": "achievement_grp-w1-a03",
+    "achievement_category_type": {
+      "name": "ACHIEVEMENT_CATEGORY_TYPE_PARK",
+      "number": 4
+    },
+    "name_lang_id": "la-achievement_grp-w1-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-12",
+    "asset_id": "img_achieve_icon_w1-a03",
+    "order": 30
   },
   {
     "id": "achievement_grp-work",

@@ -134,5 +134,53 @@
     "story_id": "story-area_story_chapter_area-a02_006",
     "archive_view_condition_group_id": "cd-quest_clear-quest-area-02-15",
     "unlock_condition_group_id": "cd-quest_clear-quest-area-02-15"
+  },
+  {
+    "area_story_chapter_id": "area_story_chapter_area-a03",
+    "number": 1,
+    "title_lang_id": "la-area_story_chapter_area-a03-001",
+    "story_id": "story-area_story_chapter_area-a03_001",
+    "archive_view_condition_group_id": "cd-quest_clear-quest-area-a03-01",
+    "unlock_condition_group_id": "cd-quest_clear-quest-area-a03-01"
+  },
+  {
+    "area_story_chapter_id": "area_story_chapter_area-a03",
+    "number": 2,
+    "title_lang_id": "la-area_story_chapter_area-a03-002",
+    "story_id": "story-area_story_chapter_area-a03_002",
+    "archive_view_condition_group_id": "cd-quest_clear-quest-area-a03-03",
+    "unlock_condition_group_id": "cd-quest_clear-quest-area-a03-03"
+  },
+  {
+    "area_story_chapter_id": "area_story_chapter_area-a03",
+    "number": 3,
+    "title_lang_id": "la-area_story_chapter_area-a03-003",
+    "story_id": "story-area_story_chapter_area-a03_003",
+    "archive_view_condition_group_id": "cd-quest_clear-quest-area-a03-04",
+    "unlock_condition_group_id": "cd-quest_clear-quest-area-a03-04"
+  },
+  {
+    "area_story_chapter_id": "area_story_chapter_area-a03",
+    "number": 4,
+    "title_lang_id": "la-area_story_chapter_area-a03-004",
+    "story_id": "story-area_story_chapter_area-a03_004",
+    "archive_view_condition_group_id": "cd-quest_clear-quest-area-a03-10",
+    "unlock_condition_group_id": "cd-quest_clear-quest-area-a03-10"
+  },
+  {
+    "area_story_chapter_id": "area_story_chapter_area-a03",
+    "number": 5,
+    "title_lang_id": "la-area_story_chapter_area-a03-005",
+    "story_id": "story-area_story_chapter_area-a03_005",
+    "archive_view_condition_group_id": "cd-quest_clear-quest-area-a03-13",
+    "unlock_condition_group_id": "cd-quest_clear-quest-area-a03-13"
+  },
+  {
+    "area_story_chapter_id": "area_story_chapter_area-a03",
+    "number": 6,
+    "title_lang_id": "la-area_story_chapter_area-a03-006",
+    "story_id": "story-area_story_chapter_area-a03_006",
+    "archive_view_condition_group_id": "cd-quest_clear-quest-area-a03-14",
+    "unlock_condition_group_id": "cd-quest_clear-quest-area-a03-14"
   }
 ]

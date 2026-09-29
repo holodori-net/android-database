@@ -642,6 +642,424 @@
     "before_park_talk_group_id": "park_talk-perm-a02-station"
   },
   {
+    "park_permanence_id": "perm-a03-fishingpond1",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_PARK_FISHING_FISH_BOOK",
+      "number": 26
+    },
+    "condition_group_id": "cd-quest_clear-quest-main-w1-03-03-5",
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond1"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingpond1-fishing",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_FISHING",
+      "number": 21
+    },
+    "condition_group_id": "cd-park_fishing",
+    "park_fishing_spot_id": "park_fishing_spot-01-01"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingpond1-open",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_PARK_FISHING_FISH_BOOK",
+      "number": 26
+    },
+    "condition_group_id": "cd-quest_clear-quest-main-w1-03-03-5",
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond1"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingpond2",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_PARK_FISHING_FISH_BOOK",
+      "number": 26
+    },
+    "condition_group_id": "cd-quest_clear-quest-main-w1-03-03-5",
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond2"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingpond2-fishing",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_FISHING",
+      "number": 21
+    },
+    "condition_group_id": "cd-park_fishing",
+    "park_fishing_spot_id": "park_fishing_spot-02-01"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingpond2-open",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_PARK_FISHING_FISH_BOOK",
+      "number": 26
+    },
+    "condition_group_id": "cd-quest_clear-quest-main-w1-03-03-5",
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond2"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingpond3",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_PARK_FISHING_FISH_BOOK",
+      "number": 26
+    },
+    "condition_group_id": "cd-quest_clear-quest-main-w1-03-03-5",
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond3"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingpond3-fishing",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_FISHING",
+      "number": 21
+    },
+    "condition_group_id": "cd-park_fishing",
+    "park_fishing_spot_id": "park_fishing_spot-03-01"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingpond3-open",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_PARK_FISHING_FISH_BOOK",
+      "number": 26
+    },
+    "condition_group_id": "cd-quest_clear-quest-main-w1-03-03-5",
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond3"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingshop",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_EXCHANGE",
+      "number": 5
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingshop",
+    "exchange_booth_group_id": "exchange_booth_group-facility-a03-fishingshop"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingshop-open",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_EXCHANGE",
+      "number": 5
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingshop",
+    "exchange_booth_group_id": "exchange_booth_group-facility-a03-fishingshop"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingshop-open-rod",
+    "action_number": 1,
+    "description_lang_id": "la-perm-a03-fishingshop-1",
+    "type": {
+      "name": "PARK_ACTION_TYPE_EXCHANGE",
+      "number": 5
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingshop",
+    "exchange_booth_group_id": "exchange_booth_group-facility-a03-fishingshop"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingshop-open-rod",
+    "action_number": 2,
+    "description_lang_id": "la-perm-a03-fishingshop-2",
+    "type": {
+      "name": "PARK_ACTION_TYPE_FISHING_ROD_LEVEL_UP",
+      "number": 22
+    },
+    "condition_group_id": "cd-park_fishing_rod",
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingshop"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingshop-open-rod",
+    "action_number": 3,
+    "description_lang_id": "la-perm-a03-fishingshop-3",
+    "type": {
+      "name": "PARK_ACTION_TYPE_TALK",
+      "number": 16
+    }
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingshop-rod",
+    "action_number": 1,
+    "description_lang_id": "la-perm-a03-fishingshop-1",
+    "type": {
+      "name": "PARK_ACTION_TYPE_EXCHANGE",
+      "number": 5
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingshop",
+    "exchange_booth_group_id": "exchange_booth_group-facility-a03-fishingshop"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingshop-rod",
+    "action_number": 2,
+    "description_lang_id": "la-perm-a03-fishingshop-2",
+    "type": {
+      "name": "PARK_ACTION_TYPE_FISHING_ROD_LEVEL_UP",
+      "number": 22
+    },
+    "condition_group_id": "cd-park_fishing_rod",
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingshop"
+  },
+  {
+    "park_permanence_id": "perm-a03-fishingshop-rod",
+    "action_number": 3,
+    "description_lang_id": "la-perm-a03-fishingshop-3",
+    "type": {
+      "name": "PARK_ACTION_TYPE_TALK",
+      "number": 16
+    }
+  },
+  {
+    "park_permanence_id": "perm-a03-glamping",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_PARK_TIME_TRANSITION",
+      "number": 27
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-glamping",
+    "area_grouping_id": "area_group-a03"
+  },
+  {
+    "park_permanence_id": "perm-a03-glamping-open",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_PARK_TIME_TRANSITION",
+      "number": 27
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-glamping",
+    "area_grouping_id": "area_group-a03"
+  },
+  {
+    "park_permanence_id": "perm-a03-islandlarge1",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_FISHING",
+      "number": 21
+    },
+    "condition_group_id": "cd-park_fishing",
+    "park_fishing_spot_id": "park_fishing_spot-03-04"
+  },
+  {
+    "park_permanence_id": "perm-a03-islandlarge2",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_FISHING",
+      "number": 21
+    },
+    "condition_group_id": "cd-park_fishing",
+    "park_fishing_spot_id": "park_fishing_spot-03-05"
+  },
+  {
+    "park_permanence_id": "perm-a03-islandmiddle1",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_FISHING",
+      "number": 21
+    },
+    "condition_group_id": "cd-park_fishing",
+    "park_fishing_spot_id": "park_fishing_spot-01-04"
+  },
+  {
+    "park_permanence_id": "perm-a03-islandmiddle2",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_FISHING",
+      "number": 21
+    },
+    "condition_group_id": "cd-park_fishing",
+    "park_fishing_spot_id": "park_fishing_spot-03-02"
+  },
+  {
+    "park_permanence_id": "perm-a03-islandmiddle3",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_FISHING",
+      "number": 21
+    },
+    "condition_group_id": "cd-park_fishing",
+    "park_fishing_spot_id": "park_fishing_spot-03-03"
+  },
+  {
+    "park_permanence_id": "perm-a03-islandsmall1",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_FISHING",
+      "number": 21
+    },
+    "condition_group_id": "cd-park_fishing",
+    "park_fishing_spot_id": "park_fishing_spot-01-02"
+  },
+  {
+    "park_permanence_id": "perm-a03-islandsmall2",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_FISHING",
+      "number": 21
+    },
+    "condition_group_id": "cd-park_fishing",
+    "park_fishing_spot_id": "park_fishing_spot-01-03"
+  },
+  {
+    "park_permanence_id": "perm-a03-islandsmall3",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_FISHING",
+      "number": 21
+    },
+    "condition_group_id": "cd-park_fishing",
+    "park_fishing_spot_id": "park_fishing_spot-02-02"
+  },
+  {
+    "park_permanence_id": "perm-a03-islandsmall4",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_FISHING",
+      "number": 21
+    },
+    "condition_group_id": "cd-park_fishing",
+    "park_fishing_spot_id": "park_fishing_spot-02-03"
+  },
+  {
+    "park_permanence_id": "perm-a03-livestage",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_LIVE",
+      "number": 1
+    },
+    "before_park_talk_group_id": "park_talk-perm-a01-live"
+  },
+  {
+    "park_permanence_id": "perm-a03-livestage-open",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_LIVE",
+      "number": 1
+    },
+    "before_park_talk_group_id": "park_talk-perm-a01-live"
+  },
+  {
+    "park_permanence_id": "perm-a03-resortshop",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_EXCHANGE",
+      "number": 5
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-resortshop",
+    "exchange_booth_group_id": "exchange_booth_group-facility-a03-resortshop"
+  },
+  {
+    "park_permanence_id": "perm-a03-resortshop-convert",
+    "action_number": 1,
+    "description_lang_id": "la-perm-a03-resortshop-description-1",
+    "type": {
+      "name": "PARK_ACTION_TYPE_EXCHANGE",
+      "number": 5
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-resortshop",
+    "exchange_booth_group_id": "exchange_booth_group-facility-a03-resortshop"
+  },
+  {
+    "park_permanence_id": "perm-a03-resortshop-convert",
+    "action_number": 2,
+    "description_lang_id": "la-perm-a03-resortshop-description-2",
+    "type": {
+      "name": "PARK_ACTION_TYPE_CONVERT_MINI_GAME_REWARD_UP_STAMINA",
+      "number": 18
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-resortshop",
+    "mini_game_reward_up_stamina_conversion_id": "mini_game_reward_up_stamina_conversion-item-mini_game_fishing_coin"
+  },
+  {
+    "park_permanence_id": "perm-a03-resortshop-convert",
+    "action_number": 3,
+    "description_lang_id": "la-perm-a03-resortshop-description-3",
+    "type": {
+      "name": "PARK_ACTION_TYPE_TALK",
+      "number": 16
+    }
+  },
+  {
+    "park_permanence_id": "perm-a03-resortshop-open",
+    "action_number": 1,
+    "description_lang_id": "la-perm-a03-resortshop-description-1",
+    "type": {
+      "name": "PARK_ACTION_TYPE_EXCHANGE",
+      "number": 5
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-resortshop",
+    "exchange_booth_group_id": "exchange_booth_group-facility-a03-resortshop"
+  },
+  {
+    "park_permanence_id": "perm-a03-resortshop-open",
+    "action_number": 2,
+    "description_lang_id": "la-perm-a03-resortshop-description-2",
+    "type": {
+      "name": "PARK_ACTION_TYPE_CONVERT_MINI_GAME_REWARD_UP_STAMINA",
+      "number": 18
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-resortshop",
+    "mini_game_reward_up_stamina_conversion_id": "mini_game_reward_up_stamina_conversion-item-mini_game_fishing_coin"
+  },
+  {
+    "park_permanence_id": "perm-a03-resortshop-open",
+    "action_number": 3,
+    "description_lang_id": "la-perm-a03-resortshop-description-2",
+    "type": {
+      "name": "PARK_ACTION_TYPE_TALK",
+      "number": 16
+    }
+  },
+  {
+    "park_permanence_id": "perm-a03-stadium",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_SPLASH_BALL",
+      "number": 1005
+    }
+  },
+  {
+    "park_permanence_id": "perm-a03-station",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_WORK",
+      "number": 6
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-station"
+  },
+  {
+    "park_permanence_id": "perm-a03-station-open",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_WORK",
+      "number": 6
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-station"
+  },
+  {
+    "park_permanence_id": "perm-a03-watergun",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_CHARACTER_SHOP",
+      "number": 12
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-watergun",
+    "park_character_shop_id": "park_character_shop-prop_watergun"
+  },
+  {
+    "park_permanence_id": "perm-a03-watergun-open",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_CHARACTER_SHOP",
+      "number": 12
+    },
+    "before_park_talk_group_id": "park_talk-perm-a03-watergun",
+    "park_character_shop_id": "park_character_shop-prop_watergun"
+  },
+  {
     "park_permanence_id": "perm-chr-00001",
     "action_number": 1,
     "type": {

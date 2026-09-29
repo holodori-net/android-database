@@ -528,6 +528,14 @@
     "text": "活动徽章"
   },
   {
+    "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-description",
+    "text": "可在活动兑换所兑换道具的徽章。\n有效期限过后，会转换为holo金币。"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-name",
+    "text": "活动徽章"
+  },
+  {
     "id": "la-item-event_badge-marathon_event-relay-001-all-description",
     "text": "可在活动兑换所（全部）兑换道具的徽章。\n有效期限过后，会转换为Holo金币。"
   },
@@ -688,6 +696,30 @@
     "text": "IC芯片"
   },
   {
+    "id": "la-item-facility-area_a03-001-1-description",
+    "text": "用于设施建筑及强化等方面的道具。"
+  },
+  {
+    "id": "la-item-facility-area_a03-001-1-name",
+    "text": "贝壳"
+  },
+  {
+    "id": "la-item-facility-area_a03-002-1-description",
+    "text": "用于设施建筑及强化等方面的道具。"
+  },
+  {
+    "id": "la-item-facility-area_a03-002-1-name",
+    "text": "漂流金属"
+  },
+  {
+    "id": "la-item-facility-area_a03-003-1-description",
+    "text": "用于设施建筑及强化等方面的道具。"
+  },
+  {
+    "id": "la-item-facility-area_a03-003-1-name",
+    "text": "浮木"
+  },
+  {
     "id": "la-item-gacha-cmn_sticker-01-description",
     "text": "可以在Holo贴纸兑换所兑换道具的贴纸。"
   },
@@ -768,6 +800,14 @@
     "text": "电玩巨蛋城代币"
   },
   {
+    "id": "la-item-mini_game_fishing_coin-description",
+    "text": "可用于汽水泡泡海湾的兑换所等地的道具。"
+  },
+  {
+    "id": "la-item-mini_game_fishing_coin-name",
+    "text": "汽水泡泡代币"
+  },
+  {
     "id": "la-item-mini_game_reward_up_stamina_recover-description",
     "text": "可以转换为迷你游戏能量的道具。"
   },
@@ -798,6 +838,22 @@
   {
     "id": "la-item-quest-area-a01-17-1-2-name",
     "text": "打扫工具"
+  },
+  {
+    "id": "la-item-quest-area-a03-05-1-1-description",
+    "text": "拉普拉斯落下的钓竿。是钓鱼不可或缺的重要伙伴。"
+  },
+  {
+    "id": "la-item-quest-area-a03-05-1-1-name",
+    "text": "拉普拉斯的钓竿"
+  },
+  {
+    "id": "la-item-quest-area-a03-12-1-1-description",
+    "text": "因为波尔卡的一记猛投，而飞向大海的沙滩球。要快点捞回去，好好陪公主玩才行！"
+  },
+  {
+    "id": "la-item-quest-area-a03-12-1-1-name",
+    "text": "沙滩球"
   },
   {
     "id": "la-item-quest-main-w1-01-02-1-4-description",

@@ -132,6 +132,22 @@
     "text": "楽曲ショップ"
   },
   {
+    "id": "la-tips-game_screen-park-fishing-fish-list-area03",
+    "text": "魚図鑑"
+  },
+  {
+    "id": "la-tips-game_screen-park-fishing-rod-level",
+    "text": "ベーズ・ビッツアンドボブス"
+  },
+  {
+    "id": "la-tips-game_screen-park-fishing-top-area03",
+    "text": "さかな釣り"
+  },
+  {
+    "id": "la-tips-game_screen-park-time-period-area03",
+    "text": "時間変更"
+  },
+  {
     "id": "la-tips-game_screen-park_change_playable-title",
     "text": "ホロメン変更"
   },
@@ -158,6 +174,10 @@
   {
     "id": "la-tips-game_screen-skill_tree-title",
     "text": "ホロメンボード"
+  },
+  {
+    "id": "la-tips-game_screen-splash_ball",
+    "text": "スプラッシュボール"
   },
   {
     "id": "la-tips-game_screen-story_archive_top-title",
@@ -296,12 +316,32 @@
     "text": "SPスキルイラスト＆Live2D"
   },
   {
+    "id": "la-tips-hint-live_option_detail_special_skill_timing_display-title",
+    "text": "SPスキルタイミング表示"
+  },
+  {
     "id": "la-tips-hint-live_option_detail_tap_effect-title",
     "text": "タップエフェクト"
   },
   {
     "id": "la-tips-hint-live_option_detail_tap_vibration-title",
     "text": "タップ時の振動"
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_display_setting-title",
+    "text": "表示判定"
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_display_type-title",
+    "text": "判定表示タイプ"
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_position-title",
+    "text": "判定表示位置"
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_timing_position-title",
+    "text": "FAST/SLOWの表示位置"
   },
   {
     "id": "la-tips-hint-live_option_key_config_lane-title",
@@ -320,8 +360,20 @@
     "text": "判定ライン位置"
   },
   {
+    "id": "la-tips-hint-live_option_lane_split-title",
+    "text": "レーン分割数"
+  },
+  {
     "id": "la-tips-hint-live_option_lane_top_cut-title",
     "text": "レーン上部カット"
+  },
+  {
+    "id": "la-tips-hint-live_option_lane_width_setting-title",
+    "text": "レーン幅"
+  },
+  {
+    "id": "la-tips-hint-live_option_low_life_warning_effect-title",
+    "text": "低ライフ時のアラート演出"
   },
   {
     "id": "la-tips-hint-live_option_mirror_chart-title",
@@ -336,8 +388,16 @@
     "text": "楽曲タイミング調整"
   },
   {
+    "id": "la-tips-hint-live_option_note_height_pct_setting-title",
+    "text": "ノーツの縦幅(%)"
+  },
+  {
     "id": "la-tips-hint-live_option_note_speed-title",
     "text": "ノーツの速さ"
+  },
+  {
+    "id": "la-tips-hint-live_option_note_width_pct_setting-title",
+    "text": "ノーツの横幅(%)"
   },
   {
     "id": "la-tips-hint-live_option_skin_combo-title",
@@ -362,6 +422,10 @@
   {
     "id": "la-tips-hint-live_option_skin_note-title",
     "text": "ノーツスキン"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_penlight-title",
+    "text": "ペンライト設定"
   },
   {
     "id": "la-tips-hint-live_option_skin_tap_effect_type-title",
@@ -472,6 +536,14 @@
     "text": "操作方法"
   },
   {
+    "id": "la-tips-park-boat-area03",
+    "text": "ボート"
+  },
+  {
+    "id": "la-tips-park-boat-level-area03",
+    "text": "こよラボ・海洋支部"
+  },
+  {
     "id": "la-tips-park-character-shop-area01-balloon-title",
     "text": "フーセンショップ"
   },
@@ -486,6 +558,30 @@
   {
     "id": "la-tips-park-character-shop-area02-hair-accessory-title",
     "text": "シルクハットショップ"
+  },
+  {
+    "id": "la-tips-park-fishing-area03",
+    "text": "さかな釣り"
+  },
+  {
+    "id": "la-tips-park-fishing-fish-list-area03",
+    "text": "魚図鑑"
+  },
+  {
+    "id": "la-tips-park-fishing-rod-level-area03",
+    "text": "ベーズ・ビッツアンドボブス"
+  },
+  {
+    "id": "la-tips-park-fishing-rod-level-up--area03-title",
+    "text": "釣り竿を強化しよう！"
+  },
+  {
+    "id": "la-tips-park-fishing-top-area03",
+    "text": "さかな釣り"
+  },
+  {
+    "id": "la-tips-park-fishingshop-area03",
+    "text": "ベーズ・ビッツアンドボブス"
   },
   {
     "id": "la-tips-park-high-low-area02-title",
@@ -534,6 +630,14 @@
   {
     "id": "la-tips-skill-tree-title",
     "text": "ホロメンボード"
+  },
+  {
+    "id": "la-tips-splash_ball",
+    "text": "スプラッシュボール"
+  },
+  {
+    "id": "la-tips-splash_ball-quest",
+    "text": "スプラッシュボール"
   },
   {
     "id": "la-tips-story-title",

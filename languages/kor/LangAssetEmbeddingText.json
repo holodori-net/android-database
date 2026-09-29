@@ -112,6 +112,58 @@
     "text": "메가코스터"
   },
   {
+    "id": "la-asset_embedding_text-facility-a03-boatshop",
+    "text": "코요랩 해양지부"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-entrance",
+    "text": "소다팝 라군 입구"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-fishingpond1",
+    "text": "피시 블루"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-fishingpond2",
+    "text": "라미의 스노우돔"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-fishingpond3",
+    "text": "보코보코 등대"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-fishingshop",
+    "text": "베이의 잡동사니"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-glamping",
+    "text": "포포포 해피 캠프"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-livestage",
+    "text": "소다팝 라군 스테이지"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-resortshop",
+    "text": "이치조 VIP 라운지"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-stadium",
+    "text": "스플래시 스타디움"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-station",
+    "text": "프린세스 마린호"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-watergun",
+    "text": "우파오 헤븐"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-whale",
+    "text": "고래"
+  },
+  {
     "id": "la-asset_embedding_text-park_action-cmn-change-evening",
     "text": "저녁까지 대기"
   },
@@ -246,5 +298,53 @@
   {
     "id": "la-asset_embedding_text-park_action-facility-a02-slotgame-00",
     "text": "플레이"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-facility-a03-fishingpond2-00",
+    "text": "쓰다듬기"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-facility-a03-fishingpond2-01",
+    "text": "엿보기"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-facility-a03-fishingpond3-00",
+    "text": "노크하기"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-facility-a03-glamping-00",
+    "text": "다이빙하기"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-facility-a03-glamping-01",
+    "text": "손 뻗기"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-park_action-cmn-board",
+    "text": "보트에 타기"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-park_action-cmn-hangout",
+    "text": "플레이하기"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-park_action-cmn-knock",
+    "text": "노크하기"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-park_action-cmn-land",
+    "text": "보트에서 내리기"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-park_action-cmn-look",
+    "text": "보기"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-park_action-cmn-pose",
+    "text": "포즈 취하기"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-park_action-cmn-sandpile",
+    "text": "파묻히기"
   }
 ]

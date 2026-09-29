@@ -1,0 +1,67 @@
+[
+  {
+    "area_grouping_id": "area_group-a03",
+    "name_lang_id": "la-park_time_transition-area_group-a03-night-003-name",
+    "asset_id": "night-003",
+    "main_color": "9A93FF",
+    "sub_color": "C7C4FF",
+    "icon_asset_id": "night-001",
+    "icon_name_lang_id": "la-park_time_transition-area_group-a03-night-003-description",
+    "order": 6
+  },
+  {
+    "area_grouping_id": "area_group-a03",
+    "time_point": 6,
+    "name_lang_id": "la-park_time_transition-area_group-a03-noon-001-name",
+    "asset_id": "noon-001",
+    "main_color": "FFB31C",
+    "sub_color": "FFD582",
+    "icon_asset_id": "noon-001",
+    "icon_name_lang_id": "la-park_time_transition-area_group-a03-noon-001-description",
+    "order": 1
+  },
+  {
+    "area_grouping_id": "area_group-a03",
+    "time_point": 12,
+    "name_lang_id": "la-park_time_transition-area_group-a03-noon-002-name",
+    "asset_id": "noon-002",
+    "main_color": "FFB31C",
+    "sub_color": "FFD582",
+    "icon_asset_id": "noon-001",
+    "icon_name_lang_id": "la-park_time_transition-area_group-a03-noon-002-description",
+    "order": 2
+  },
+  {
+    "area_grouping_id": "area_group-a03",
+    "time_point": 24,
+    "name_lang_id": "la-park_time_transition-area_group-a03-noon-003-name",
+    "asset_id": "noon-003",
+    "main_color": "FFB31C",
+    "sub_color": "FFD582",
+    "icon_asset_id": "noon-001",
+    "icon_name_lang_id": "la-park_time_transition-area_group-a03-noon-003-description",
+    "order": 3
+  },
+  {
+    "area_grouping_id": "area_group-a03",
+    "time_point": 29,
+    "name_lang_id": "la-park_time_transition-area_group-a03-night-001-name",
+    "asset_id": "night-001",
+    "main_color": "9A93FF",
+    "sub_color": "C7C4FF",
+    "icon_asset_id": "night-001",
+    "icon_name_lang_id": "la-park_time_transition-area_group-a03-night-001-description",
+    "order": 4
+  },
+  {
+    "area_grouping_id": "area_group-a03",
+    "time_point": 38,
+    "name_lang_id": "la-park_time_transition-area_group-a03-night-002-name",
+    "asset_id": "night-002",
+    "main_color": "9A93FF",
+    "sub_color": "C7C4FF",
+    "icon_asset_id": "night-001",
+    "icon_name_lang_id": "la-park_time_transition-area_group-a03-night-002-description",
+    "order": 5
+  }
+]

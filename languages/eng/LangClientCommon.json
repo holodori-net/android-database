@@ -482,6 +482,42 @@
     "text": "Live Together"
   },
   {
+    "client_id": "202606300001",
+    "text": "The teams have been decided!"
+  },
+  {
+    "client_id": "202608070001",
+    "text": "Should team imbalances occur, it will be resolved by lottery."
+  },
+  {
+    "client_id": "202608070002",
+    "text": "Multiplayer"
+  },
+  {
+    "client_id": "202608070003",
+    "text": "Splash Ball"
+  },
+  {
+    "client_id": "202608070004",
+    "text": "Auto"
+  },
+  {
+    "client_id": "202608140001",
+    "text": "Stolen from {0}!"
+  },
+  {
+    "client_id": "202608140002",
+    "text": "PINK"
+  },
+  {
+    "client_id": "202608140003",
+    "text": "YELLOW"
+  },
+  {
+    "client_id": "202608140004",
+    "text": "BLUE"
+  },
+  {
     "client_id": "219289739264",
     "text": "Fast"
   },
@@ -568,6 +604,10 @@
   {
     "client_id": "586542997504",
     "text": "Edit"
+  },
+  {
+    "client_id": "590875382694",
+    "text": "If no input is detected within the remaining <space=6px><size=32><color=#F9FF55>{0} seconds</color></size><space=6px>, you will be forcibly removed."
   },
   {
     "client_id": "634412589056",
@@ -867,6 +907,10 @@
   {
     "client_id": "2803613425664",
     "text": "Campaign"
+  },
+  {
+    "client_id": "2811230201836",
+    "text": "--"
   },
   {
     "client_id": "2830206230528",
@@ -1236,12 +1280,20 @@
     "text": "Let's Play a Game!"
   },
   {
+    "client_id": "6480768429193",
+    "text": "1st Time Bonus"
+  },
+  {
     "client_id": "6526320620455",
     "text": "GPA."
   },
   {
     "client_id": "6529759109120",
     "text": "Performance"
+  },
+  {
+    "client_id": "6623057692057",
+    "text": "Report"
   },
   {
     "client_id": "6727395982968",
@@ -1374,6 +1426,10 @@
   {
     "client_id": "8572573310976",
     "text": "Password"
+  },
+  {
+    "client_id": "8597809391041",
+    "text": "Upgrade Fishing Rod"
   },
   {
     "client_id": "8622716215296",
@@ -1542,6 +1598,10 @@
   {
     "client_id": "11110441108620",
     "text": "Copyright"
+  },
+  {
+    "client_id": "11134621937617",
+    "text": "Change Bait"
   },
   {
     "client_id": "11182760628171",
@@ -1863,6 +1923,18 @@
     "text": "Shop"
   },
   {
+    "client_id": "20828188085068",
+    "text": "Best Ever"
+  },
+  {
+    "client_id": "21203337706729",
+    "text": "This cannot be changed as the position is invalid."
+  },
+  {
+    "client_id": "21427976644001",
+    "text": "Lane Width"
+  },
+  {
     "client_id": "21619123675136",
     "text": "Content"
   },
@@ -1873,6 +1945,10 @@
   {
     "client_id": "21758261805400",
     "text": "Sound Settings"
+  },
+  {
+    "client_id": "22480911888912",
+    "text": "Original Color"
   },
   {
     "client_id": "22525577061769",
@@ -1897,6 +1973,10 @@
   {
     "client_id": "22852849038446",
     "text": "Three will be chosen at random. Choose one!"
+  },
+  {
+    "client_id": "23332640194103",
+    "text": "Goal"
   },
   {
     "client_id": "23351514451274",
@@ -1986,6 +2066,10 @@
     "text": "Still happens"
   },
   {
+    "client_id": "27397249670644",
+    "text": "Fishing Rod upgrade available."
+  },
+  {
     "client_id": "27520443343165",
     "text": "Active Skill"
   },
@@ -2002,12 +2086,24 @@
     "text": "Visit Dream Park!"
   },
   {
+    "client_id": "28167913602282",
+    "text": "Boat"
+  },
+  {
     "client_id": "28261965271945",
     "text": "[{0}] {1}<alpha=#8B> is"
   },
   {
     "client_id": "28331001242075",
     "text": "Off"
+  },
+  {
+    "client_id": "28761925576133",
+    "text": "OUT!"
+  },
+  {
+    "client_id": "29109149014419",
+    "text": "You cannot set a difficulty level that is significantly lower than the Estimated Difficulty."
   },
   {
     "client_id": "29112528035840",
@@ -2032,6 +2128,10 @@
   {
     "client_id": "29396020686017",
     "text": "Connection failed.\\n[useridmismatch]"
+  },
+  {
+    "client_id": "29492151002064",
+    "text": "Other"
   },
   {
     "client_id": "29520273104896",
@@ -2095,6 +2195,10 @@
   {
     "client_id": "32842849148928",
     "text": "Cancel"
+  },
+  {
+    "client_id": "32847540736756",
+    "text": "Penlight"
   },
   {
     "client_id": "32994003476480",
@@ -2163,6 +2267,10 @@
   {
     "client_id": "35642596057088",
     "text": "Search around the park"
+  },
+  {
+    "client_id": "35706714594581",
+    "text": "Fish that can be caught here"
   },
   {
     "client_id": "35714178310144",
@@ -2249,6 +2357,10 @@
     "text": "Current Score"
   },
   {
+    "client_id": "38298234724197",
+    "text": "Fish Guide"
+  },
+  {
     "client_id": "38421319245824",
     "text": "Top Score"
   },
@@ -2267,6 +2379,10 @@
   {
     "client_id": "38714760500538",
     "text": "Header UI"
+  },
+  {
+    "client_id": "38724332423842",
+    "text": "Items used for the upgrade will be consumed."
   },
   {
     "client_id": "38890956240120",
@@ -2355,6 +2471,10 @@
   {
     "client_id": "41249489578224",
     "text": "PRIVATE"
+  },
+  {
+    "client_id": "41262588683551",
+    "text": "{0}\\nTotalled Results Schedule"
   },
   {
     "client_id": "41571789304033",
@@ -2488,6 +2608,10 @@
     "text": "Update required. Please try again from the edit screen."
   },
   {
+    "client_id": "44489598940899",
+    "text": "Fail"
+  },
+  {
     "client_id": "44690749610706",
     "text": "Changing this will exit the game."
   },
@@ -2606,6 +2730,10 @@
   {
     "client_id": "47073204100735",
     "text": "Lead holomem"
+  },
+  {
+    "client_id": "47128529851600",
+    "text": "Lane Divisions"
   },
   {
     "client_id": "47301566450577",
@@ -2748,6 +2876,10 @@
     "text": "Bring the required ingredients!"
   },
   {
+    "client_id": "54058167112346",
+    "text": "Failed to cancel the difficulty selection."
+  },
+  {
     "client_id": "54068314601485",
     "text": "History"
   },
@@ -2786,6 +2918,10 @@
   {
     "client_id": "54982979084288",
     "text": "Preview"
+  },
+  {
+    "client_id": "55083451363575",
+    "text": "Scoring Settings"
   },
   {
     "client_id": "55219026124800",
@@ -2948,10 +3084,6 @@
     "text": "Removed from Friends."
   },
   {
-    "client_id": "60417203445434",
-    "text": "You can check after a clear."
-  },
-  {
     "client_id": "60532177643209",
     "text": "External Transmission of User Information"
   },
@@ -3068,6 +3200,10 @@
     "text": "Create"
   },
   {
+    "client_id": "64882015935888",
+    "text": ":"
+  },
+  {
     "client_id": "64901463662592",
     "text": "Benefits (excl. Medals) require active membership."
   },
@@ -3176,6 +3312,10 @@
     "text": "Sense"
   },
   {
+    "client_id": "67945359829469",
+    "text": "There is not enough fishing bait."
+  },
+  {
     "client_id": "67967285092700",
     "text": "Cancel"
   },
@@ -3237,6 +3377,10 @@
   {
     "client_id": "69612874332199",
     "text": "Purchase failed."
+  },
+  {
+    "client_id": "69711317680359",
+    "text": "Items used for the upgrade will be consumed."
   },
   {
     "client_id": "69912407703277",
@@ -3331,6 +3475,10 @@
     "text": "Lane 3"
   },
   {
+    "client_id": "72488060829775",
+    "text": "Fish that like this bait"
+  },
+  {
     "client_id": "72910449795072",
     "text": "%"
   },
@@ -3395,6 +3543,10 @@
     "text": "This character cannot be used."
   },
   {
+    "client_id": "76155321078112",
+    "text": "pt"
+  },
+  {
     "client_id": "76276142347264",
     "text": "No Score Rating"
   },
@@ -3445,6 +3597,10 @@
   {
     "client_id": "78087086192474",
     "text": "Account Restricted"
+  },
+  {
+    "client_id": "78138526476578",
+    "text": "You cannot set a difficulty level that is significantly exceeds the Estimated Difficulty."
   },
   {
     "client_id": "78199322763264",
@@ -3535,6 +3691,10 @@
     "text": "Currently undergoing maintenance."
   },
   {
+    "client_id": "80777379197786",
+    "text": "CLEARED!"
+  },
+  {
     "client_id": "80800845451093",
     "text": "Bar"
   },
@@ -3595,6 +3755,10 @@
     "text": "This may take some time. Please wait for a bit."
   },
   {
+    "client_id": "82715765679041",
+    "text": "Confirm"
+  },
+  {
     "client_id": "82798275584000",
     "text": "times/day"
   },
@@ -3651,8 +3815,16 @@
     "text": "time(s)"
   },
   {
+    "client_id": "85182408856929",
+    "text": "Favorite Bait"
+  },
+  {
     "client_id": "85464158545221",
     "text": "Data Sharing"
+  },
+  {
+    "client_id": "85472627192213",
+    "text": "Powered-Up Fishing Rod.\\nEven slippery fish can be caught like it's nothing!"
   },
   {
     "client_id": "85477499206102",
@@ -3673,6 +3845,10 @@
   {
     "client_id": "86727911083853",
     "text": "Confirm"
+  },
+  {
+    "client_id": "86740115084185",
+    "text": "Perfect Fishing Rod.\\nEven slippery fish can be caught like it's nothing!"
   },
   {
     "client_id": "86792674710737",
@@ -3703,6 +3879,10 @@
     "text": "Members that have enough Pts to Fully Bloom\\nwill be converted into the following items."
   },
   {
+    "client_id": "88634430503054",
+    "text": "Line"
+  },
+  {
     "client_id": "89388026070647",
     "text": "Exchange period has ended.\\nReturning to Title screen."
   },
@@ -3713,6 +3893,10 @@
   {
     "client_id": "89890475791805",
     "text": "JDG. Boost"
+  },
+  {
+    "client_id": "90370242537558",
+    "text": "Note Height(%)"
   },
   {
     "client_id": "90544181977137",
@@ -3733,6 +3917,10 @@
   {
     "client_id": "90889181773740",
     "text": "Progress through the Main Quests first."
+  },
+  {
+    "client_id": "91041481404042",
+    "text": "Key Configuration (Park)"
   },
   {
     "client_id": "91086829084672",
@@ -3830,6 +4018,10 @@
     "text": "Deleting resources will not delete save data."
   },
   {
+    "client_id": "94934413190447",
+    "text": "By Lane"
+  },
+  {
     "client_id": "95108122304512",
     "text": "Go!"
   },
@@ -3922,6 +4114,10 @@
     "text": "Month"
   },
   {
+    "client_id": "98619044845502",
+    "text": "GOOD & below"
+  },
+  {
     "client_id": "98654268837929",
     "text": "Titles are distributed based on your ranking every week at the time of update. Titles remain valid until the next update."
   },
@@ -3932,6 +4128,10 @@
   {
     "client_id": "98921961807216",
     "text": "Play with other players."
+  },
+  {
+    "client_id": "99023187762244",
+    "text": "Field guide rewards available to claim."
   },
   {
     "client_id": "99353951407048",
@@ -4058,6 +4258,10 @@
     "text": "F"
   },
   {
+    "client_id": "102809088138335",
+    "text": "Key Configuration (Fishing)"
+  },
+  {
     "client_id": "102978277720385",
     "text": "Caught!"
   },
@@ -4122,6 +4326,10 @@
     "text": "T"
   },
   {
+    "client_id": "104786989303116",
+    "text": "Display SLOW/FAST"
+  },
+  {
     "client_id": "104872538217778",
     "text": "Unlock Conditions:"
   },
@@ -4140,6 +4348,10 @@
   {
     "client_id": "105934899765248",
     "text": "Remove"
+  },
+  {
+    "client_id": "106030032847894",
+    "text": "Patrol Squad: Use skill"
   },
   {
     "client_id": "106031278214794",
@@ -4202,6 +4414,10 @@
     "text": "Quick Chat"
   },
   {
+    "client_id": "108497959713342",
+    "text": "Matchmaking timed out."
+  },
+  {
     "client_id": "108501731129186",
     "text": "Purchase Confirmation"
   },
@@ -4212,6 +4428,14 @@
   {
     "client_id": "109259847294976",
     "text": "Park Outfit"
+  },
+  {
+    "client_id": "109464742164561",
+    "text": "Live Color"
+  },
+  {
+    "client_id": "109871167340975",
+    "text": "Power Up Your Boat: Jet Across the Open Sea!"
   },
   {
     "client_id": "109988051383082",
@@ -4236,6 +4460,10 @@
   {
     "client_id": "110358790152207",
     "text": "Moving"
+  },
+  {
+    "client_id": "110366006093427",
+    "text": "Display All"
   },
   {
     "client_id": "110377357107200",
@@ -4270,8 +4498,16 @@
     "text": "Streamer Mode"
   },
   {
+    "client_id": "111407385215380",
+    "text": "Amount Used"
+  },
+  {
     "client_id": "111512041917253",
     "text": "Achievs"
+  },
+  {
+    "client_id": "112077237337464",
+    "text": "Highlight"
   },
   {
     "client_id": "112123834752842",
@@ -4284,6 +4520,10 @@
   {
     "client_id": "112486698408497",
     "text": "Transaction Processing Error"
+  },
+  {
+    "client_id": "112559174875507",
+    "text": "Maximum level reached"
   },
   {
     "client_id": "112623128895461",
@@ -4308,6 +4548,10 @@
   {
     "client_id": "112995329444239",
     "text": "You have friend requests."
+  },
+  {
+    "client_id": "113368905515828",
+    "text": "How to Obtain"
   },
   {
     "client_id": "113508879875796",
@@ -4360,6 +4604,10 @@
   {
     "client_id": "115592316850676",
     "text": "This chapter is not open yet."
+  },
+  {
+    "client_id": "116144009142970",
+    "text": "Field Guide Reward"
   },
   {
     "client_id": "116294624403456",
@@ -4430,12 +4678,20 @@
     "text": "Join"
   },
   {
+    "client_id": "119254927205055",
+    "text": "Hide All"
+  },
+  {
     "client_id": "119260780556154",
     "text": "Please enter 8-16 characters."
   },
   {
     "client_id": "119433013747712",
     "text": "Legal Notices"
+  },
+  {
+    "client_id": "119854367263277",
+    "text": "LEVEL UP!"
   },
   {
     "client_id": "119917962176578",
@@ -4514,6 +4770,10 @@
     "text": "Account linking date"
   },
   {
+    "client_id": "123006427951991",
+    "text": "Scoring Display Type"
+  },
+  {
     "client_id": "123078356594941",
     "text": "Not unblocked"
   },
@@ -4544,6 +4804,18 @@
   {
     "client_id": "124306953920512",
     "text": "Outfit Skill"
+  },
+  {
+    "client_id": "124518069627445",
+    "text": "Key Configuration (Shadowbound Chase/Patrol Squad)"
+  },
+  {
+    "client_id": "124550326747671",
+    "text": "Let’s choose a bait."
+  },
+  {
+    "client_id": "124741878216016",
+    "text": "Continue"
   },
   {
     "client_id": "124824786886656",
@@ -4669,6 +4941,10 @@
     "text": "Grade"
   },
   {
+    "client_id": "129096002954899",
+    "text": "Spawn Area"
+  },
+  {
     "client_id": "129096506862295",
     "text": "Remove friend request?"
   },
@@ -4707,6 +4983,10 @@
   {
     "client_id": "129770703937536",
     "text": "Custom Card"
+  },
+  {
+    "client_id": "129777156368767",
+    "text": "Failed to save photo."
   },
   {
     "client_id": "129925621851595",
@@ -4817,6 +5097,10 @@
     "text": "Total"
   },
   {
+    "client_id": "134071460711440",
+    "text": "Are you sure you want to reset all\\nkey configurations settings back to default?"
+  },
+  {
     "client_id": "134125401228663",
     "text": "mm:ss"
   },
@@ -4833,8 +5117,16 @@
     "text": "Enter the Room ID."
   },
   {
+    "client_id": "134729507062026",
+    "text": "Fish that like this bait"
+  },
+  {
     "client_id": "134754170417333",
     "text": "Due to disruptive behavior to other players\\nyou have been temporarily restricted from Multiplayer Live."
+  },
+  {
+    "client_id": "134757844370353",
+    "text": "Action"
   },
   {
     "client_id": "134778363606176",
@@ -4997,6 +5289,10 @@
     "text": "Already invited."
   },
   {
+    "client_id": "138289897885663",
+    "text": "High-Spec Fishing Rod.\\nEven slippery fish can be caught like it's nothing!"
+  },
+  {
     "client_id": "138656132069497",
     "text": "By completing this purchase, I acknowledge that I am purchasing a license to use the digital content specified in the terms of this license agreement. I expressly consent to the immediate download of the digital content upon purchase and acknowledge that my right of withdrawal will terminate once the download has commenced."
   },
@@ -5085,6 +5381,10 @@
     "text": "Too bad..."
   },
   {
+    "client_id": "140242834952609",
+    "text": "Key Configuration (Movement)"
+  },
+  {
     "client_id": "140638702932876",
     "text": "You do not own this Fan Badge."
   },
@@ -5095,6 +5395,14 @@
   {
     "client_id": "140827551621120",
     "text": "Vocal ver."
+  },
+  {
+    "client_id": "140883373011756",
+    "text": "Bait"
+  },
+  {
+    "client_id": "141028108199085",
+    "text": "Maximum level reached"
   },
   {
     "client_id": "141208789409792",
@@ -5125,8 +5433,16 @@
     "text": "Skip"
   },
   {
+    "client_id": "142197475622576",
+    "text": "Key Configuration (Shadowbound Chase/Prank Gang)"
+  },
+  {
     "client_id": "142222883134808",
     "text": "Select a player."
+  },
+  {
+    "client_id": "142637145472144",
+    "text": "How to Upgrade"
   },
   {
     "client_id": "142978427478016",
@@ -5143,6 +5459,10 @@
   {
     "client_id": "143382413344468",
     "text": "Failed to initialize purchase processing."
+  },
+  {
+    "client_id": "143537155726184",
+    "text": "Lv"
   },
   {
     "client_id": "143549850655551",
@@ -5223,6 +5543,10 @@
   {
     "client_id": "147204378728393",
     "text": "Selected"
+  },
+  {
+    "client_id": "147220480777755",
+    "text": "Fishing"
   },
   {
     "client_id": "147308723585301",
@@ -5337,6 +5661,10 @@
     "text": "Downloading assets..."
   },
   {
+    "client_id": "152721070420963",
+    "text": "Best Score"
+  },
+  {
     "client_id": "152994130000111",
     "text": "MV Settings"
   },
@@ -5383,6 +5711,10 @@
   {
     "client_id": "154629955033605",
     "text": "No more draws available today."
+  },
+  {
+    "client_id": "154899795811027",
+    "text": "New Record!"
   },
   {
     "client_id": "154924381593600"
@@ -5484,6 +5816,10 @@
     "text": "No eligible events."
   },
   {
+    "client_id": "157601853239892",
+    "text": "∞"
+  },
+  {
     "client_id": "157737652760328",
     "text": "No unlocked Skills."
   },
@@ -5520,6 +5856,10 @@
     "text": "This will turn off tracking from third-party cross-site apps and websites.\\n\\nAs a result, you're more likely to see irrelevant ads."
   },
   {
+    "client_id": "158586228057072",
+    "text": "Customize Boat"
+  },
+  {
     "client_id": "158688117531881",
     "text": "Standard"
   },
@@ -5542,6 +5882,10 @@
   {
     "client_id": "160235586803111",
     "text": "example@example.com"
+  },
+  {
+    "client_id": "160354713874129",
+    "text": "Own Goal..."
   },
   {
     "client_id": "160411624766432",
@@ -5594,6 +5938,10 @@
   {
     "client_id": "163066800908073",
     "text": "Minigame (Chase in the Dark)"
+  },
+  {
+    "client_id": "163079102592301",
+    "text": "LEVEL UP!"
   },
   {
     "client_id": "163092983372341",
@@ -5680,6 +6028,10 @@
     "text": "x"
   },
   {
+    "client_id": "165049181133805",
+    "text": "Failed to save photo."
+  },
+  {
     "client_id": "165142451348012",
     "text": "Cannot create because the maximum number of charts has been reached."
   },
@@ -5690,6 +6042,10 @@
   {
     "client_id": "165333052272359",
     "text": "Stickers"
+  },
+  {
+    "client_id": "165643122152798",
+    "text": "Fishing Rod"
   },
   {
     "client_id": "165701883647920",
@@ -5792,6 +6148,10 @@
     "text": "B"
   },
   {
+    "client_id": "170282585182683",
+    "text": "Icon"
+  },
+  {
     "client_id": "170495085220418",
     "text": "Tap to close"
   },
@@ -5802,6 +6162,10 @@
   {
     "client_id": "170832546566974",
     "text": "Quick Chat 3"
+  },
+  {
+    "client_id": "170881198635134",
+    "text": "Number of Exchanges"
   },
   {
     "client_id": "171092172460353",
@@ -5928,6 +6292,10 @@
     "text": "HoloPassport"
   },
   {
+    "client_id": "176285540301213",
+    "text": "Regular"
+  },
+  {
     "client_id": "176643305588580",
     "text": "Play the Same\\nGame"
   },
@@ -5938,6 +6306,10 @@
   {
     "client_id": "176926570811707",
     "text": "Top Score"
+  },
+  {
+    "client_id": "177076926115126",
+    "text": "Highlight Bonus"
   },
   {
     "client_id": "177162247645535",
@@ -5954,6 +6326,10 @@
   {
     "client_id": "177421391874093",
     "text": "Skill Activation Voice"
+  },
+  {
+    "client_id": "177507855254637",
+    "text": "Rewards Earned"
   },
   {
     "client_id": "177640489442371",
@@ -5978,6 +6354,10 @@
   {
     "client_id": "178744514347256",
     "text": "Product updates are available at {0}."
+  },
+  {
+    "client_id": "178839456405827",
+    "text": "Event Badge"
   },
   {
     "client_id": "179065099313152",
@@ -6014,6 +6394,10 @@
   {
     "client_id": "179877316245102",
     "text": "An unexpected error occurred."
+  },
+  {
+    "client_id": "179959226528343",
+    "text": "Level Up Fishing Rod"
   },
   {
     "client_id": "180113299495501",
@@ -6172,6 +6556,10 @@
     "text": "Diamond Purchase"
   },
   {
+    "client_id": "187265459161388",
+    "text": "SP Skill Timing"
+  },
+  {
     "client_id": "187584456089600",
     "text": "Resources deleted."
   },
@@ -6186,6 +6574,10 @@
   {
     "client_id": "187840606242973",
     "text": "TAP"
+  },
+  {
+    "client_id": "187871869339322",
+    "text": "Current Score"
   },
   {
     "client_id": "187889360152634",
@@ -6218,6 +6610,10 @@
   {
     "client_id": "190246224734835",
     "text": "Live"
+  },
+  {
+    "client_id": "190776526102413",
+    "text": "The wider you make the lanes, the higher the chance of overlapping with UI elements."
   },
   {
     "client_id": "191131441140206",
@@ -6266,6 +6662,10 @@
   {
     "client_id": "192951076625981",
     "text": "Not enough Diamonds to be able to recover."
+  },
+  {
+    "client_id": "193613022522218",
+    "text": "Size"
   },
   {
     "client_id": "193730252844322",
@@ -6361,6 +6761,10 @@
   {
     "client_id": "197683903622961",
     "text": "Daily Pts limit has been reached."
+  },
+  {
+    "client_id": "198323575482155",
+    "text": "Spawn Time"
   },
   {
     "client_id": "198623699976603",
@@ -6493,6 +6897,10 @@
   {
     "client_id": "204163089932948",
     "text": "Server communication timed out."
+  },
+  {
+    "client_id": "204343453307638",
+    "text": "Bonus Inc."
   },
   {
     "client_id": "204557739577807"
@@ -6708,6 +7116,10 @@
     "text": "Event Ranking"
   },
   {
+    "client_id": "209571580209432",
+    "text": "TIME'S UP!"
+  },
+  {
     "client_id": "209765962604544",
     "text": "Next"
   },
@@ -6770,6 +7182,10 @@
   {
     "client_id": "211372609144403",
     "text": "Dot"
+  },
+  {
+    "client_id": "211553485302535",
+    "text": "Fish"
   },
   {
     "client_id": "211614722809856",
@@ -6836,6 +7252,10 @@
     "text": "C"
   },
   {
+    "client_id": "214973362115376",
+    "text": "Change Time"
+  },
+  {
     "client_id": "215019381972992",
     "text": "Other Quests are unavailable during a Holomem Quest (can be paused)."
   },
@@ -6866,6 +7286,10 @@
   {
     "client_id": "215935421883889",
     "text": "Back"
+  },
+  {
+    "client_id": "215951530512145",
+    "text": "Bottom"
   },
   {
     "client_id": "216019064971264",
@@ -6924,6 +7348,10 @@
     "text": "Let’s make our own Custom Profile!\nLet’s play hololive Dreams!\n\n#MyHolodoriProfile"
   },
   {
+    "client_id": "218149562304581",
+    "text": "The bait is gone..."
+  },
+  {
     "client_id": "218328455146562",
     "text": "No ranking info"
   },
@@ -6958,6 +7386,10 @@
   {
     "client_id": "219721360123651",
     "text": "ID"
+  },
+  {
+    "client_id": "219844064940506",
+    "text": "/{0}"
   },
   {
     "client_id": "219975319480054",
@@ -7000,8 +7432,16 @@
     "text": "AC"
   },
   {
+    "client_id": "221748600260508",
+    "text": "Lane Divisions"
+  },
+  {
     "client_id": "222098170830001",
     "text": "I’ve published an Original Chart!\\n\nLet’s play hololive Dreams!\\n\\n\n\n[{0}]\\n\nChart ID: {1}\\n\\n\n\n#MyholodoriOriginals"
+  },
+  {
+    "client_id": "222272372501752",
+    "text": "A cool, powered-up boat Thanks to the windshield, safety is improved!"
   },
   {
     "client_id": "222585071557787",
@@ -7052,6 +7492,10 @@
     "text": "Display"
   },
   {
+    "client_id": "225297087395783",
+    "text": "Team defended!"
+  },
+  {
     "client_id": "225639315816103",
     "text": "Story"
   },
@@ -7078,6 +7522,14 @@
   {
     "client_id": "226228688755941",
     "text": "Secret Mode"
+  },
+  {
+    "client_id": "226260569507326",
+    "text": "g"
+  },
+  {
+    "client_id": "226499894520324",
+    "text": "No Multi-Finger"
   },
   {
     "client_id": "226640543761006",
@@ -7176,6 +7628,10 @@
     "text": "None"
   },
   {
+    "client_id": "229866390281079",
+    "text": "Max. Lv. {0}"
+  },
+  {
     "client_id": "230091269452885",
     "text": "ms"
   },
@@ -7202,6 +7658,10 @@
   {
     "client_id": "231261976478574",
     "text": "Don't change"
+  },
+  {
+    "client_id": "231446769731481",
+    "text": "Patrol Squad: Use skill"
   },
   {
     "client_id": "231607329841163",
@@ -7248,6 +7708,10 @@
     "text": "Special Titles can be claimed through Achievs."
   },
   {
+    "client_id": "233048304980143",
+    "text": "Required"
+  },
+  {
     "client_id": "233127210249974",
     "text": "Recommended input lag"
   },
@@ -7280,6 +7744,10 @@
     "text": "Display Guide"
   },
   {
+    "client_id": "235030385773992",
+    "text": "The results of your Pokajan! match have been recorded."
+  },
+  {
     "client_id": "235362861556149",
     "text": "This is not available in CREATE."
   },
@@ -7310,6 +7778,10 @@
   {
     "client_id": "236060943868432",
     "text": "2"
+  },
+  {
+    "client_id": "236110736395862",
+    "text": "Note Width(%)"
   },
   {
     "client_id": "236117060304762",
@@ -7368,6 +7840,10 @@
     "text": "Badge"
   },
   {
+    "client_id": "240182675930479",
+    "text": "Level Up Boat"
+  },
+  {
     "client_id": "240350042930005",
     "text": "Remove all."
   },
@@ -7420,12 +7896,20 @@
     "text": "Cruising!"
   },
   {
+    "client_id": "242259114219279",
+    "text": "No Obstacles"
+  },
+  {
     "client_id": "242594053610408",
     "text": "Required Unit Score: {0}"
   },
   {
     "client_id": "242655411028237",
     "text": "3840x2880"
+  },
+  {
+    "client_id": "243137198509034",
+    "text": "Note Settings"
   },
   {
     "client_id": "243159930595896",
@@ -7532,6 +8016,10 @@
     "text": "Support is only provided in English. We appreciate your understanding."
   },
   {
+    "client_id": "247178928037429",
+    "text": "FAST/SLOW Scoring Position"
+  },
+  {
     "client_id": "247519453661921",
     "text": "Contains invalid parts."
   },
@@ -7600,6 +8088,14 @@
     "text": "Create New"
   },
   {
+    "client_id": "250691950937970",
+    "text": "{0} is in Secret Mode so cannot be displayed on a profile."
+  },
+  {
+    "client_id": "250863090900176",
+    "text": "Key Configuration"
+  },
+  {
     "client_id": "251083096921935",
     "text": "Skip"
   },
@@ -7662,6 +8158,10 @@
   {
     "client_id": "251353706512640",
     "text": "You can set a max of {0} tag(s)."
+  },
+  {
+    "client_id": "251362110937708",
+    "text": "kg"
   },
   {
     "client_id": "251421706512640",
@@ -7734,6 +8234,10 @@
   {
     "client_id": "252835721535082",
     "text": "Cannot purchase while already holding max amount."
+  },
+  {
+    "client_id": "252898316141129",
+    "text": "Current Time"
   },
   {
     "client_id": "252938621977846",
@@ -7867,6 +8371,10 @@
     "text": "/{0}%"
   },
   {
+    "client_id": "255758852655061",
+    "text": "Scoring Position"
+  },
+  {
     "client_id": "255873887100047",
     "text": "If left unselected, this Room will be set to public mode!"
   },
@@ -7933,6 +8441,10 @@
     "text": "Unavailable during a Holomem Quest."
   },
   {
+    "client_id": "260102496199404",
+    "text": "Alert when Life is low"
+  },
+  {
     "client_id": "260602000000001",
     "text": "YOU"
   },
@@ -7963,6 +8475,10 @@
   {
     "client_id": "260705000000001",
     "text": "All facilities unlocked!"
+  },
+  {
+    "client_id": "260723000000001",
+    "text": "{0} minute(s) left!"
   },
   {
     "client_id": "260814378403481",
@@ -8009,12 +8525,20 @@
     "text": "Unlock by progressing through Main Quests."
   },
   {
+    "client_id": "263289128963483",
+    "text": "A ton of balls has appeared!"
+  },
+  {
     "client_id": "263528394189817",
     "text": "iOS order date"
   },
   {
     "client_id": "263910397340110",
     "text": "Nothing to sell!"
+  },
+  {
+    "client_id": "264079956936260",
+    "text": "Other"
   },
   {
     "client_id": "264251913561012",
@@ -8087,6 +8611,14 @@
   {
     "client_id": "266646480557808",
     "text": "2"
+  },
+  {
+    "client_id": "266795432418646",
+    "text": "Splash Ball"
+  },
+  {
+    "client_id": "266912564022995",
+    "text": "Top"
   },
   {
     "client_id": "266926850887631",
@@ -8177,6 +8709,10 @@
     "text": "Birthdate"
   },
   {
+    "client_id": "270957784885017",
+    "text": "You can check after playing."
+  },
+  {
     "client_id": "271285309906609",
     "text": "Reset {0} settings.\\nProceed?"
   },
@@ -8225,6 +8761,10 @@
     "text": "Guide"
   },
   {
+    "client_id": "273356968496714",
+    "text": "Display Scoring"
+  },
+  {
     "client_id": "273503382580827",
     "text": "Return to Title?"
   },
@@ -8249,6 +8789,10 @@
     "text": "Reset"
   },
   {
+    "client_id": "274180652232091",
+    "text": "TEAM"
+  },
+  {
     "client_id": "274288251361989",
     "text": "Select All"
   },
@@ -8262,6 +8806,10 @@
   {
     "client_id": "274437520856561",
     "text": "Set"
+  },
+  {
+    "client_id": "274569560932634",
+    "text": "Defense Points"
   },
   {
     "client_id": "274972954255360",
@@ -8298,6 +8846,10 @@
   {
     "client_id": "276671702261760",
     "text": "Quest"
+  },
+  {
+    "client_id": "276805342887425",
+    "text": "Start"
   },
   {
     "client_id": "276815394922496",
@@ -8350,6 +8902,10 @@
   {
     "client_id": "278889974489088",
     "text": "Failed"
+  },
+  {
+    "client_id": "278989127684840",
+    "text": "GREAT & below"
   },
   {
     "client_id": "279128447016960",
@@ -11220,6 +11776,18 @@
   {
     "client_id": "706680765276160",
     "text": "Flick"
+  },
+  {
+    "client_id": "706904353357824",
+    "text": "’s score reached {0} point(s). The match has ended."
+  },
+  {
+    "client_id": "706904353357825",
+    "text": "’s score dropped to 0 points. The match has ended."
+  },
+  {
+    "client_id": "706904353357827",
+    "text": "{0}pt"
   },
   {
     "client_id": "707542663716864",

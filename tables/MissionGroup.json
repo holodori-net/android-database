@@ -1,11 +1,19 @@
 [
   {
+    "id": "mission_grp-area03-release-260929",
+    "name_lang_id": "la-mission_grp-area03-release-260929"
+  },
+  {
     "id": "mission_grp-beginner_mission",
     "name_lang_id": "la-mission_grp-beginner_mission"
   },
   {
     "id": "mission_grp-chase_celebration-260828",
     "name_lang_id": "la-mission_grp-chase_celebration-260828"
+  },
+  {
+    "id": "mission_grp-comeback-260929",
+    "name_lang_id": "la-mission_grp-comeback-260929"
   },
   {
     "id": "mission_grp-marathon_event-normal-001-chapter-01",
@@ -21,6 +29,10 @@
   },
   {
     "id": "mission_grp-marathon_event-normal-004-chapter-01",
+    "name_lang_id": "la-mission_grp-marathon_event"
+  },
+  {
+    "id": "mission_grp-marathon_event-normal-005-chapter-01",
     "name_lang_id": "la-mission_grp-marathon_event"
   },
   {

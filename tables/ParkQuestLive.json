@@ -78,6 +78,42 @@
     "live_deck_evaluation_value_benchmark_threshold_b": "700000"
   },
   {
+    "id": "quest_live-area-a03-02-1-2",
+    "music_id": "m0010",
+    "deck_type": {
+      "name": "PARK_QUEST_LIVE_DECK_TYPE_FREE",
+      "number": 1
+    },
+    "clear_score": "1100000",
+    "live_deck_evaluation_value_benchmark_threshold_s": "1130000",
+    "live_deck_evaluation_value_benchmark_threshold_a": "1000000",
+    "live_deck_evaluation_value_benchmark_threshold_b": "770000"
+  },
+  {
+    "id": "quest_live-area-a03-10-1-2",
+    "music_id": "m0116",
+    "deck_type": {
+      "name": "PARK_QUEST_LIVE_DECK_TYPE_FREE",
+      "number": 1
+    },
+    "clear_score": "1250000",
+    "live_deck_evaluation_value_benchmark_threshold_s": "1285000",
+    "live_deck_evaluation_value_benchmark_threshold_a": "1135000",
+    "live_deck_evaluation_value_benchmark_threshold_b": "875000"
+  },
+  {
+    "id": "quest_live-area-a03-15-1-2",
+    "music_id": "m0354",
+    "deck_type": {
+      "name": "PARK_QUEST_LIVE_DECK_TYPE_FREE",
+      "number": 1
+    },
+    "clear_score": "1500000",
+    "live_deck_evaluation_value_benchmark_threshold_s": "1545000",
+    "live_deck_evaluation_value_benchmark_threshold_a": "1365000",
+    "live_deck_evaluation_value_benchmark_threshold_b": "1050000"
+  },
+  {
     "id": "quest_live-daily-live-00001-1-2",
     "music_id": "m0022",
     "deck_type": {
@@ -564,6 +600,62 @@
     "live_skin_group_id": "live_skin_group-area-a01"
   },
   {
+    "id": "quest_live-daily-live-a03-00023-1-2",
+    "music_id": "m0090",
+    "deck_type": {
+      "name": "PARK_QUEST_LIVE_DECK_TYPE_FREE",
+      "number": 1
+    }
+  },
+  {
+    "id": "quest_live-daily-live-a03-00030-1-2",
+    "music_id": "m0040",
+    "deck_type": {
+      "name": "PARK_QUEST_LIVE_DECK_TYPE_FREE",
+      "number": 1
+    }
+  },
+  {
+    "id": "quest_live-daily-live-a03-00034-1-2",
+    "music_id": "m0042",
+    "deck_type": {
+      "name": "PARK_QUEST_LIVE_DECK_TYPE_FREE",
+      "number": 1
+    }
+  },
+  {
+    "id": "quest_live-daily-live-a03-00037-1-2",
+    "music_id": "m0044",
+    "deck_type": {
+      "name": "PARK_QUEST_LIVE_DECK_TYPE_FREE",
+      "number": 1
+    }
+  },
+  {
+    "id": "quest_live-daily-live-a03-03009-1-2",
+    "music_id": "m0062",
+    "deck_type": {
+      "name": "PARK_QUEST_LIVE_DECK_TYPE_FREE",
+      "number": 1
+    }
+  },
+  {
+    "id": "quest_live-daily-live-a03-04012-1-2",
+    "music_id": "m0121",
+    "deck_type": {
+      "name": "PARK_QUEST_LIVE_DECK_TYPE_FREE",
+      "number": 1
+    }
+  },
+  {
+    "id": "quest_live-daily-live-a03-06003-1-2",
+    "music_id": "m0069",
+    "deck_type": {
+      "name": "PARK_QUEST_LIVE_DECK_TYPE_FREE",
+      "number": 1
+    }
+  },
+  {
     "id": "quest_live-main-w1-01-01-1-5",
     "music_id": "m9999",
     "deck_type": {
@@ -766,6 +858,57 @@
     "live_deck_evaluation_value_benchmark_threshold_s": "720000",
     "live_deck_evaluation_value_benchmark_threshold_a": "635000",
     "live_deck_evaluation_value_benchmark_threshold_b": "490000"
+  },
+  {
+    "id": "quest_live-main-w1-03-02-1-1",
+    "music_id": "m0002",
+    "deck_type": {
+      "name": "PARK_QUEST_LIVE_DECK_TYPE_FREE",
+      "number": 1
+    },
+    "clear_score": "720000",
+    "live_deck_evaluation_value_benchmark_threshold_s": "740000",
+    "live_deck_evaluation_value_benchmark_threshold_a": "655000",
+    "live_deck_evaluation_value_benchmark_threshold_b": "500000"
+  },
+  {
+    "id": "quest_live-main-w1-03-06-1-4",
+    "music_id": "m0121",
+    "deck_type": {
+      "name": "PARK_QUEST_LIVE_DECK_TYPE_FREE",
+      "number": 1
+    },
+    "clear_score": "840000",
+    "live_skin_group_id": "live_skin_group-area-a03",
+    "live_deck_evaluation_value_benchmark_threshold_s": "865000",
+    "live_deck_evaluation_value_benchmark_threshold_a": "760000",
+    "live_deck_evaluation_value_benchmark_threshold_b": "585000"
+  },
+  {
+    "id": "quest_live-main-w1-03-10-1-7",
+    "music_id": "m0137",
+    "deck_type": {
+      "name": "PARK_QUEST_LIVE_DECK_TYPE_FREE",
+      "number": 1
+    },
+    "clear_score": "1030000",
+    "live_skin_group_id": "live_skin_group-area-a03",
+    "live_deck_evaluation_value_benchmark_threshold_s": "1060000",
+    "live_deck_evaluation_value_benchmark_threshold_a": "935000",
+    "live_deck_evaluation_value_benchmark_threshold_b": "720000"
+  },
+  {
+    "id": "quest_live-main-w1-03-15-1-4",
+    "music_id": "m0354",
+    "deck_type": {
+      "name": "PARK_QUEST_LIVE_DECK_TYPE_FREE",
+      "number": 1
+    },
+    "clear_score": "1200000",
+    "live_skin_group_id": "live_skin_group-area-a03",
+    "live_deck_evaluation_value_benchmark_threshold_s": "1235000",
+    "live_deck_evaluation_value_benchmark_threshold_a": "1090000",
+    "live_deck_evaluation_value_benchmark_threshold_b": "840000"
   },
   {
     "id": "quest_live-quest-chr-00001-1-3",

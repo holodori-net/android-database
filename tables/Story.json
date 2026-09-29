@@ -124,6 +124,48 @@
     ]
   },
   {
+    "id": "story-area_story_chapter_area-a03_001",
+    "asset_ids": [
+      "adv_area_01_03_01-01",
+      "adv_area_01_03_01-02"
+    ]
+  },
+  {
+    "id": "story-area_story_chapter_area-a03_002",
+    "asset_ids": [
+      "adv_area_01_03_02-01",
+      "adv_area_01_03_02-02"
+    ]
+  },
+  {
+    "id": "story-area_story_chapter_area-a03_003",
+    "asset_ids": [
+      "adv_area_01_03_03-01",
+      "adv_area_01_03_03-02"
+    ]
+  },
+  {
+    "id": "story-area_story_chapter_area-a03_004",
+    "asset_ids": [
+      "adv_area_01_03_04-01",
+      "adv_area_01_03_04-02"
+    ]
+  },
+  {
+    "id": "story-area_story_chapter_area-a03_005",
+    "asset_ids": [
+      "adv_area_01_03_05-01",
+      "adv_area_01_03_05-02"
+    ]
+  },
+  {
+    "id": "story-area_story_chapter_area-a03_006",
+    "asset_ids": [
+      "adv_area_01_03_06-01",
+      "adv_area_01_03_06-02"
+    ]
+  },
+  {
     "id": "story-character_story_chr-00001_001",
     "asset_ids": [
       "adv_chr_00001_01_01-01",
@@ -1036,6 +1078,139 @@
     ]
   },
   {
+    "id": "story-main_story_chapter_area-a03_001",
+    "asset_ids": [
+      "adv_main_01_03_01-01",
+      "adv_main_01_03_01-02"
+    ]
+  },
+  {
+    "id": "story-main_story_chapter_area-a03_002",
+    "asset_ids": [
+      "adv_main_01_03_02-01",
+      "adv_main_01_03_02-02"
+    ]
+  },
+  {
+    "id": "story-main_story_chapter_area-a03_003",
+    "asset_ids": [
+      "adv_main_01_03_03-01",
+      "adv_main_01_03_03-02",
+      "adv_main_01_03_03-03",
+      "adv_main_01_03_03-04",
+      "adv_main_01_03_03-05",
+      "adv_main_01_03_03-06"
+    ]
+  },
+  {
+    "id": "story-main_story_chapter_area-a03_004",
+    "asset_ids": [
+      "adv_main_01_03_04-01",
+      "adv_main_01_03_04-02",
+      "adv_main_01_03_04-03"
+    ]
+  },
+  {
+    "id": "story-main_story_chapter_area-a03_005",
+    "asset_ids": [
+      "adv_main_01_03_05-01",
+      "adv_main_01_03_05-02",
+      "adv_main_01_03_05-03",
+      "adv_main_01_03_05-04"
+    ]
+  },
+  {
+    "id": "story-main_story_chapter_area-a03_006",
+    "asset_ids": [
+      "adv_main_01_03_06-01",
+      "adv_main_01_03_06-02",
+      "adv_main_01_03_06-03",
+      "adv_main_01_03_06-04"
+    ]
+  },
+  {
+    "id": "story-main_story_chapter_area-a03_007",
+    "asset_ids": [
+      "adv_main_01_03_07-01",
+      "adv_main_01_03_07-02",
+      "adv_main_01_03_07-03"
+    ]
+  },
+  {
+    "id": "story-main_story_chapter_area-a03_008",
+    "asset_ids": [
+      "adv_main_01_03_08-01",
+      "adv_main_01_03_08-02",
+      "adv_main_01_03_08-03",
+      "adv_main_01_03_08-04"
+    ]
+  },
+  {
+    "id": "story-main_story_chapter_area-a03_009",
+    "asset_ids": [
+      "adv_main_01_03_09-01",
+      "adv_main_01_03_09-02"
+    ]
+  },
+  {
+    "id": "story-main_story_chapter_area-a03_010",
+    "asset_ids": [
+      "adv_main_01_03_10-01",
+      "adv_main_01_03_10-02",
+      "adv_main_01_03_10-03",
+      "adv_main_01_03_10-04",
+      "adv_main_01_03_10-05",
+      "adv_main_01_03_10-06",
+      "adv_main_01_03_10-07",
+      "adv_main_01_03_10-08"
+    ]
+  },
+  {
+    "id": "story-main_story_chapter_area-a03_011",
+    "asset_ids": [
+      "adv_main_01_03_11-01",
+      "adv_main_01_03_11-02",
+      "adv_main_01_03_11-03",
+      "adv_main_01_03_11-04",
+      "adv_main_01_03_11-05",
+      "adv_main_01_03_11-06"
+    ]
+  },
+  {
+    "id": "story-main_story_chapter_area-a03_012",
+    "asset_ids": [
+      "adv_main_01_03_12-01",
+      "adv_main_01_03_12-02",
+      "adv_main_01_03_12-03",
+      "adv_main_01_03_12-04"
+    ]
+  },
+  {
+    "id": "story-main_story_chapter_area-a03_013",
+    "asset_ids": [
+      "adv_main_01_03_13-01",
+      "adv_main_01_03_13-02"
+    ]
+  },
+  {
+    "id": "story-main_story_chapter_area-a03_014",
+    "asset_ids": [
+      "adv_main_01_03_14-01",
+      "adv_main_01_03_14-02",
+      "adv_main_01_03_14-03",
+      "adv_main_01_03_14-04"
+    ]
+  },
+  {
+    "id": "story-main_story_chapter_area-a03_015",
+    "asset_ids": [
+      "adv_main_01_03_15-01",
+      "adv_main_01_03_15-02",
+      "adv_main_01_03_15-03",
+      "adv_main_01_03_15-04"
+    ]
+  },
+  {
     "id": "story-marathon_event-normal-001-chapter-01-1",
     "asset_ids": [
       "adv_event_2608_01_01-01"
@@ -1225,6 +1400,12 @@
     "id": "story-special_normal_area-a02-mv",
     "asset_ids": [
       "mov_adv_special_m0301-mv-01"
+    ]
+  },
+  {
+    "id": "story-special_normal_area-a03-mv",
+    "asset_ids": [
+      "mov_adv_special_m0354-mv-01"
     ]
   }
 ]

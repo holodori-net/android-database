@@ -1,5 +1,9 @@
 [
   {
+    "id": "la-increment_park_fishing_fish_caught_count",
+    "text": "魚を{0}匹釣ろう"
+  },
+  {
     "id": "la-mission-achievement-chr-00001-absolute_card_get_unique_count-description",
     "text": "メンバーを{0}種類入手"
   },
@@ -5568,6 +5572,46 @@
     "text": "楽曲を{0}曲解放"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-description",
+    "text": "{0}種類の魚を釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0028-description",
+    "text": "モテホウボウを釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0029-description",
+    "text": "マンタァカデミックを釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0030-description",
+    "text": "可愛伊勢海老を釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0061-description",
+    "text": "スノーフレークリオネを釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0062-description",
+    "text": "セクシーテンヤッコを釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0063-description",
+    "text": "ネズミギステップを釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0094-description",
+    "text": "ストームラサメモンガラを釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0095-description",
+    "text": "ノコギリガザエンジェルを釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0096-description",
+    "text": "ピエロカエルアンコォルカを釣ろう"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a01-area-description",
     "text": "ハーモニーガーデンのエリアクエストを{0}個クリア"
   },
@@ -5584,6 +5628,10 @@
     "text": "メガスフィアのメインクエストを{0}個クリア"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a03-description",
+    "text": "ソーダポップラグーンのメイン、エリアクエストを全てクリア"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w1-01-24-description",
     "text": "ハーモニーガーデンのメインクエストEP24をクリア"
   },
@@ -5592,11 +5640,19 @@
     "text": "メガスフィアのメインクエストEP12をクリア"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w3-01-15-description",
+    "text": "ソーダポップラグーンのメインクエストEP15をクリア"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a01-description",
     "text": "トレジャーを{0}個獲得"
   },
   {
     "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a02-description",
+    "text": "トレジャーを{0}個獲得"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a03-description",
     "text": "トレジャーを{0}個獲得"
   },
   {
@@ -5840,6 +5896,10 @@
     "text": "ホッピン・ロープを{0}回プレイ"
   },
   {
+    "id": "la-mission-achievement-common-increment_mini_game_play_count-splash_ball-description",
+    "text": "{0}回プレイ"
+  },
+  {
     "id": "la-mission-achievement-common-increment_multi_live_mvp_count-description",
     "text": "みんなでライブで{0}回MVPを獲得"
   },
@@ -5854,6 +5914,18 @@
   {
     "id": "la-mission-achievement-common-increment_music_creative_chart_live_clear_count-description",
     "text": "クリエイト譜面を{0}曲クリア"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_park_fishing_fish_caught_count-description",
+    "text": "魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_park_fishing_fish_failed_count-description",
+    "text": "{0}回魚を逃がした"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_park_fishing_fish_failed_count-name",
+    "text": "エサやり名人"
   },
   {
     "id": "la-mission-achievement-common-increment_park_photo_take_count-description",
@@ -5880,12 +5952,196 @@
     "text": "ホロゴールドを{0}獲得"
   },
   {
+    "id": "la-mission-achievement-common-increment_splash_ball_cold_lose_count-description",
+    "text": "自チームが0点で敗北"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_cold_lose_count-name",
+    "text": "いつか・・・ストライカーに・・・"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_defense_score-description",
+    "text": "守備pt{0}点獲得"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_goal_count-bonus-description",
+    "text": "金のボールを{0}回入れる"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_goal_score-description",
+    "text": "ゴールpt{0}点獲得"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_splash_ball_win_count-description",
+    "text": "{0}回勝利"
+  },
+  {
     "id": "la-mission-achievement-common-increment_work_finish_count-5-description",
     "text": "ホロワークで評価ランクSを{0}回達成"
   },
   {
     "id": "la-mission-achievement-common-increment_work_finish_count-description",
     "text": "ホロワークを{0}回完了する"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-arch_island_top-description",
+    "text": "アーチ状の島にある積み石の下でポーズをとる"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-arch_island_top-name",
+    "text": "自然のアスレチック"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beach_sand_muscle-description",
+    "text": "ムキムキな人魚になる"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beach_sand_muscle-name",
+    "text": "砂上の肉体美"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beach_sos-description",
+    "text": "砂に書かれた「SOS」を見つける"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beach_sos-name",
+    "text": "誰かのいたずら書き"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beacon_lighthouse-description",
+    "text": "ぼこぼこビーコンで灯台の扉を3回ノックして、灯台のホロメンが反応する"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-beacon_lighthouse-name",
+    "text": "灯台下暗し"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-boatshop_experiment_failure-description",
+    "text": "こよラボ・海洋支部のバルブから緑のガスを噴射する"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-boatshop_experiment_failure-name",
+    "text": "実験中・・・？"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_bench-description",
+    "text": "南東の洞窟内のベンチに座る"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_bench-name",
+    "text": "秘密の避暑地"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_exit_pose-description",
+    "text": "西の洞窟の先の崖でポーズを取る"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_exit_pose-name",
+    "text": "暗闇を抜けて"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_waterfall-description",
+    "text": "北の洞窟で滝行をする"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cave_waterfall-name",
+    "text": "無心の滝行"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cliff_top-description",
+    "text": "東の崖の頂上に登る"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cliff_top-name",
+    "text": "頂上の特権"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cottage_cliff_yoga-description",
+    "text": "北のコテージ裏で深呼吸する"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-cottage_cliff_yoga-name",
+    "text": "最北端で深呼吸"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-fishblue_vacances-description",
+    "text": "フィッシュブルーで椅子に座る"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-fishblue_vacances-name",
+    "text": "バカンス満喫中"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-glamping_bed-description",
+    "text": "ぽぽぽハッピーキャンプのベッドにダイブする"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-glamping_bed-name",
+    "text": "今日は店じまい！"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-live_stage_backstage-description",
+    "text": "ライブステージ裏のデッキに行く"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-live_stage_backstage-name",
+    "text": "舞台裏に潜入！"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-observatory_deck_chair-description",
+    "text": "展望台のデッキチェアでドリンクを飲む"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-observatory_deck_chair-name",
+    "text": "優雅なひと時"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-residential_knock-description",
+    "text": "西の別荘地にある全てのドアをノックする"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-residential_knock-name",
+    "text": "誰かいませんか"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-resortshop_water-description",
+    "text": "一条VIPラウンジのプールで座ってバタ足をした"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-resortshop_water-name",
+    "text": "泳ぎの練習中"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-snowdome_caress-description",
+    "text": "ラミィズスノードームでだいふくを撫でる"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-snowdome_caress-name",
+    "text": "寒そうに見えたので"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-station_ship_cannon-description",
+    "text": "プリンセスマリン号の近くに大砲が着弾する"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-station_ship_cannon-name",
+    "text": "危機一髪"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-waterfall_point-description",
+    "text": "東の洞窟で滝を眺める"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-waterfall_point-name",
+    "text": "ボートを降りた先に"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-watergun_rainbow-description",
+    "text": "うぱおヘヴンの桟橋で虹を見る"
+  },
+  {
+    "id": "la-mission-achievement-increment_park_mission_action_count-watergun_rainbow-name",
+    "text": "虹の架け橋"
   },
   {
     "id": "la-mission-achievement-increment_park_mission_action_countbar_table_drink-description",
@@ -6116,6 +6372,42 @@
     "text": "みんなでライブを{0}回プレイしよう"
   },
   {
+    "id": "la-mission-event_mission-area03-release-260929-absolute_park_fishing_fish_unique_count",
+    "text": "魚を{0}種類釣ろう"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_drop_item_get_count-area_group-a03",
+    "text": "ソーダポップラグーンで隠しトレジャーを{0}個拾おう"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_mission_clear_count-mission_grp-area03-release-260929",
+    "text": "全てのミッションを完了しよう"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_park_fishing_fish_caught_count",
+    "text": "魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_resource_get_count-item-item-mini_game_fishing_coin",
+    "text": "ソーダポップコインを{0}個獲得しよう"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_defense_score",
+    "text": "スプラッシュボールで守備ポイントを{0}ポイント獲得しよう"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_goal_count",
+    "text": "スプラッシュボールで{0}回ゴールしよう"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count",
+    "text": "スプラッシュボールで{0}回勝利しよう"
+  },
+  {
+    "id": "la-mission-event_mission-area03-release-260929-increment_work_finish_count",
+    "text": "ホロワークを{0}回完了しよう"
+  },
+  {
     "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
     "text": "くらやみチェイスで{0}回鍵を使おう"
   },
@@ -6154,6 +6446,26 @@
   {
     "id": "la-mission-event_mission-chase_celebration-260828-increment_work_finish_count",
     "text": "ホロワークを{0}回完了しよう"
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-absolute_card_level",
+    "text": "メンバーLvを{0}Lvにしよう"
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-absolute_live_clear_music_count",
+    "text": "{0}種類のライブをクリアしよう"
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-absolute_live_deck_evaluation_value",
+    "text": "ユニットスコア{0}を達成しよう"
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-absolute_park_quest_clear_count-quest-main-w1-02-12",
+    "text": "メガスフィアのメインクエストEP12をクリアしよう"
+  },
+  {
+    "id": "la-mission-event_mission-comeback-260929-increment_mini_game_stamina_consumption",
+    "text": "ミニゲームでミニゲームブーストを合計{0}消費しよう"
   },
   {
     "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
@@ -6216,6 +6528,10 @@
     "text": "-"
   },
   {
+    "id": "la-mission-hidden-shop_consumption_item-pack-area03_clear-260929-name",
+    "text": "-"
+  },
+  {
     "id": "la-mission-marathon_event-live_clear_count",
     "text": "イベント課題曲を{0}回クリアしよう"
   },
@@ -6230,6 +6546,10 @@
   {
     "id": "la-mission-marathon_event-live_stamina_consumption",
     "text": "ライブブーストを合計{0}消費しよう"
+  },
+  {
+    "id": "la-mission-marathon_event-marathon_increment_resource_get_count",
+    "text": "イベントバッジを{0}個獲得しよう"
   },
   {
     "id": "la-mission-marathon_event-marathon_live_play_count",
@@ -6444,6 +6764,54 @@
     "text": "ホロワークを{0}回開始しよう"
   },
   {
+    "id": "la-mission-missionpass-261001-daily-increment_card_level_up_count-name",
+    "text": "メンバーのLvを{0}回強化しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_drop_item_get_count-name",
+    "text": "隠しトレジャーを{0}個拾おう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_live_play_count-name",
+    "text": "ライブを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_mini_game_play_count-name",
+    "text": "ミニゲームを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_multi_live_play_count-name",
+    "text": "みんなでライブを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_park_present_receive_count-name",
+    "text": "ホロメンからプレゼントを{0}回受け取ろう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_park_quest_clear_count-daily-name",
+    "text": "デイリークエストを{0}回クリアしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-daily-increment_work_start_count-name",
+    "text": "ホロワークを{0}回開始しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-season-absolute_park_fishing_fish_unique_count-name",
+    "text": "魚を{0}種類釣ろう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-season-absolute_park_quest_clear_count-quest-main-w1-03-15-name",
+    "text": "ソーダポップラグーンのメインクエストEP15をクリアしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-season-increment_mini_game_play_count-splash_ball-name",
+    "text": "スプラッシュボールを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261001-season-increment_park_fishing_fish_caught_count-name",
+    "text": "魚を{0}匹釣ろう"
+  },
+  {
     "id": "la-mission-missionpass-261001-weekly-increment_card_level_limit_break_count-name",
     "text": "メンバーを{0}回特訓しよう"
   },
@@ -6600,12 +6968,92 @@
     "text": "ハイ＆ローでメガスフィアコインを{0}個獲得しよう"
   },
   {
+    "id": "la-mission-quest-area-a03-01-1-2-description",
+    "text": "★2以上の魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-01-1-2-name",
+    "text": "★2以上の魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-03-1-2-description",
+    "text": "ソーダポップコインを{0}個獲得しよう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-03-1-2-name",
+    "text": "ソーダポップコインを{0}個獲得しよう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-04-1-2-description",
+    "text": "{0}種類の魚を釣ろう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-04-1-2-name",
+    "text": "{0}種類の魚を釣ろう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-07-1-2-description",
+    "text": "ホロメンボードを{0}個解放しよう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-07-1-2-name",
+    "text": "ホロメンボードを{0}個解放しよう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-09-1-2-description",
+    "text": "★4以上の魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-09-1-2-name",
+    "text": "★4以上の魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-11-1-2-description",
+    "text": "★5の魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-11-1-2-name",
+    "text": "★5の魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-13-1-2-description",
+    "text": "深夜に魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-13-1-2-name",
+    "text": "深夜に魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-14-1-2-description",
+    "text": "{0}種類の魚を釣ろう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-14-1-2-name",
+    "text": "{0}種類の魚を釣ろう"
+  },
+  {
+    "id": "la-mission-quest-area-a03-16-1-2-description",
+    "text": "メンバーを{0}段階まで特訓する"
+  },
+  {
+    "id": "la-mission-quest-area-a03-16-1-2-name",
+    "text": "メンバーを{0}段階まで特訓する"
+  },
+  {
     "id": "la-mission-quest-daily-mini_game_bet_coin-description",
     "text": "メガスフィアコインを{0}個獲得しよう"
   },
   {
     "id": "la-mission-quest-daily-mini_game_bet_coin-name",
     "text": "メガスフィアコインを{0}個獲得しよう"
+  },
+  {
+    "id": "la-mission-quest-daily-mini_game_fishing_coin-description",
+    "text": "ソーダポップコインを{0}個獲得しよう"
+  },
+  {
+    "id": "la-mission-quest-daily-mini_game_fishing_coin-name",
+    "text": "ソーダポップコインを{0}個獲得しよう"
   },
   {
     "id": "la-mission-quest-main-w1-01-04-1-06-description",
@@ -6662,5 +7110,69 @@
   {
     "id": "la-mission-quest-main-w1-02-06-1-07-name",
     "text": "メガプリを1回撮ろう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-04-description",
+    "text": "魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-04-name",
+    "text": "魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-07-description",
+    "text": "ベーズ・ビッツアンドボブスで{0}回交換しよう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-07-name",
+    "text": "ベーズ・ビッツアンドボブスで{0}回交換しよう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-08-description",
+    "text": "フィッシュブルーで魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-03-1-08-name",
+    "text": "フィッシュブルーで魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-04-1-03-description",
+    "text": "一条VIPラウンジで{0}回交換しよう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-04-1-03-name",
+    "text": "一条VIPラウンジで{0}回交換しよう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-07-1-03-description",
+    "text": "ラミィズスノードームで{0}匹の魚を釣ろう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-07-1-03-name",
+    "text": "ラミィズスノードームで{0}匹の魚を釣ろう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-10-1-03-description",
+    "text": "魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-10-1-03-name",
+    "text": "魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-10-1-05-description",
+    "text": "★2以上の魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-10-1-05-name",
+    "text": "★2以上の魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-12-1-04-description",
+    "text": "ぼこぼこビーコンで{0}匹の魚を釣ろう"
+  },
+  {
+    "id": "la-mission-quest-main-w1-03-12-1-04-name",
+    "text": "ぼこぼこビーコンで{0}匹の魚を釣ろう"
   }
 ]

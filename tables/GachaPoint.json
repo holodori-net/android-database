@@ -1,5 +1,12 @@
 [
   {
+    "id": "gacha_point-area03-260929",
+    "name_lang_id": "la-gacha_point-area03-260929",
+    "icon_asset_id": "gacha-point-common-001",
+    "exchange_booth_group_id": "exchange_booth_group-gacha-area03-260929",
+    "order": 1
+  },
+  {
     "id": "gacha_point-beginner-select-001",
     "name_lang_id": "la-gacha_point-beginner-select-001",
     "icon_asset_id": "gacha-point-common-001",
@@ -53,6 +60,13 @@
     "name_lang_id": "la-gacha_point-pickup-260919",
     "icon_asset_id": "gacha-point-common-001",
     "exchange_booth_group_id": "exchange_booth_group-gacha-pickup-260919",
+    "order": 1
+  },
+  {
+    "id": "gacha_point-pickup-260929",
+    "name_lang_id": "la-gacha_point-pickup-260929",
+    "icon_asset_id": "gacha-point-common-001",
+    "exchange_booth_group_id": "exchange_booth_group-gacha-pickup-260929",
     "order": 1
   }
 ]

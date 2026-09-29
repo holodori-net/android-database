@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "group_id": "ball_group-normal",
+    "number": 1,
+    "ball_type": {
+      "name": "SPLASH_BALL_BALL_TYPE_NORMAL",
+      "number": 1
+    },
+    "size": 15,
+    "mass": 1700,
+    "bounce_coefficient_permil_multiply": 1000,
+    "goal_point": "1",
+    "appearance_probability_ratio": 110,
+    "dash_force_coefficient_permil_multiply": 1000
+  },
+  {
+    "group_id": "ball_group-normal",
+    "number": 2,
+    "ball_type": {
+      "name": "SPLASH_BALL_BALL_TYPE_BONUS",
+      "number": 2
+    },
+    "size": 15,
+    "mass": 2000,
+    "bounce_coefficient_permil_multiply": 1000,
+    "goal_point": "5",
+    "appearance_probability_ratio": 25,
+    "dash_force_coefficient_permil_multiply": 1000
+  },
+  {
+    "group_id": "ball_group-normal",
+    "number": 3,
+    "ball_type": {
+      "name": "SPLASH_BALL_BALL_TYPE_LIGHT",
+      "number": 3
+    },
+    "size": 15,
+    "mass": 1200,
+    "bounce_coefficient_permil_multiply": 1000,
+    "goal_point": "1",
+    "appearance_probability_ratio": 35,
+    "dash_force_coefficient_permil_multiply": 1000
+  },
+  {
+    "group_id": "ball_group-normal",
+    "number": 4,
+    "ball_type": {
+      "name": "SPLASH_BALL_BALL_TYPE_HEAVY",
+      "number": 4
+    },
+    "size": 15,
+    "mass": 2500,
+    "bounce_coefficient_permil_multiply": 700,
+    "goal_point": "3",
+    "appearance_probability_ratio": 30,
+    "dash_force_coefficient_permil_multiply": 300
+  },
+  {
+    "group_id": "ball_group-quest",
+    "number": 1,
+    "ball_type": {
+      "name": "SPLASH_BALL_BALL_TYPE_NORMAL",
+      "number": 1
+    },
+    "size": 15,
+    "mass": 1700,
+    "bounce_coefficient_permil_multiply": 1000,
+    "goal_point": "1",
+    "appearance_probability_ratio": 110,
+    "dash_force_coefficient_permil_multiply": 1000
+  },
+  {
+    "group_id": "ball_group-quest",
+    "number": 2,
+    "ball_type": {
+      "name": "SPLASH_BALL_BALL_TYPE_BONUS",
+      "number": 2
+    },
+    "size": 15,
+    "mass": 2000,
+    "bounce_coefficient_permil_multiply": 1000,
+    "goal_point": "5",
+    "appearance_probability_ratio": 25,
+    "dash_force_coefficient_permil_multiply": 1000
+  },
+  {
+    "group_id": "ball_group-quest",
+    "number": 3,
+    "ball_type": {
+      "name": "SPLASH_BALL_BALL_TYPE_LIGHT",
+      "number": 3
+    },
+    "size": 15,
+    "mass": 1200,
+    "bounce_coefficient_permil_multiply": 1000,
+    "goal_point": "1",
+    "appearance_probability_ratio": 35,
+    "dash_force_coefficient_permil_multiply": 1000
+  },
+  {
+    "group_id": "ball_group-quest",
+    "number": 4,
+    "ball_type": {
+      "name": "SPLASH_BALL_BALL_TYPE_HEAVY",
+      "number": 4
+    },
+    "size": 15,
+    "mass": 2500,
+    "bounce_coefficient_permil_multiply": 700,
+    "goal_point": "3",
+    "appearance_probability_ratio": 30,
+    "dash_force_coefficient_permil_multiply": 300
+  }
+]

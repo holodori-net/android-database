@@ -1300,6 +1300,27 @@
     "description_lang_id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-jump_rope-description"
   },
   {
+    "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-splash_ball",
+    "effect_type": {
+      "name": "SKILL_TREE_EFFECT_TYPE_MINI_GAME_REWARD_QUANTITY_UP_PERMIL_UP",
+      "number": 18
+    },
+    "value": "5",
+    "skill_tree_effect_target_id": "skill_tree_effect_target-all",
+    "character_trigger_type": {
+      "name": "SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+      "number": 3
+    },
+    "mini_game_types": [
+      {
+        "name": "MINI_GAME_TYPE_SPLASH_BALL",
+        "number": 6
+      }
+    ],
+    "name_lang_id": "la-skill_tree_effect-name-park",
+    "description_lang_id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-splash_ball-description"
+  },
+  {
     "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-chase",
     "effect_type": {
       "name": "SKILL_TREE_EFFECT_TYPE_MINI_GAME_REWARD_QUANTITY_UP_PERMIL_UP",

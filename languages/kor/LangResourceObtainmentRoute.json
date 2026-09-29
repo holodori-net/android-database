@@ -24,6 +24,18 @@
     "text": "메가코스터"
   },
   {
+    "id": "la-facility-a03-fishingshop-name",
+    "text": "베이의 잡동사니"
+  },
+  {
+    "id": "la-facility-a03-resortshop-name",
+    "text": "이치조 VIP 라운지"
+  },
+  {
+    "id": "la-facility-a03-station-name",
+    "text": "프린세스 마린호"
+  },
+  {
     "id": "la-resource_obtainment_route-achievement",
     "text": "업적"
   },
@@ -52,6 +64,18 @@
     "text": "이벤트"
   },
   {
+    "id": "la-resource_obtainment_route-fishingpond1",
+    "text": "피시 블루\n(물고기 낚시)"
+  },
+  {
+    "id": "la-resource_obtainment_route-fishingpond2",
+    "text": "라미의 스노우돔\n(물고기 낚시)"
+  },
+  {
+    "id": "la-resource_obtainment_route-fishingpond3",
+    "text": "보코보코 등대\n(물고기 낚시)"
+  },
+  {
     "id": "la-resource_obtainment_route-gacha",
     "text": "뽑기"
   },
@@ -73,6 +97,10 @@
   },
   {
     "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-004-chapter-01",
+    "text": "이벤트"
+  },
+  {
+    "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-005-chapter-01",
     "text": "이벤트"
   },
   {
@@ -162,6 +190,10 @@
   {
     "id": "la-resource_obtainment_route-shop",
     "text": "상점"
+  },
+  {
+    "id": "la-resource_obtainment_route-splash_ball",
+    "text": "스플래시 스타디움\n(스플래시 볼)"
   },
   {
     "id": "la-resource_obtainment_route-treasure",

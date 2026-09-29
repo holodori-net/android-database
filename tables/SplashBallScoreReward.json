@@ -1,0 +1,541 @@
+[
+  {
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-facility-area_a03-003-1"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-002"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-003"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-004"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-005"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_auto_play"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold"
+      }
+    ]
+  },
+  {
+    "score_gte": "20",
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-facility-area_a03-003-1"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-002"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-003"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-004"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-005"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_auto_play"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold"
+      }
+    ]
+  },
+  {
+    "score_gte": "40",
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-facility-area_a03-003-1"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-002"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-003"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-004"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-005"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_auto_play"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold"
+      }
+    ]
+  },
+  {
+    "score_gte": "60",
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-facility-area_a03-003-1"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-002"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-003"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-004"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-005"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_auto_play"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold"
+      }
+    ]
+  },
+  {
+    "score_gte": "80",
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-facility-area_a03-003-1"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-002"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-003"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-004"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-005"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_auto_play"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold"
+      }
+    ]
+  },
+  {
+    "score_gte": "100",
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-facility-area_a03-003-1"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-002"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-003"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-004"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-005"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_auto_play"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold"
+      }
+    ]
+  },
+  {
+    "score_gte": "125",
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-facility-area_a03-003-1"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-002"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-003"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-004"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-005"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_auto_play"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold"
+      }
+    ]
+  },
+  {
+    "score_gte": "150",
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-facility-area_a03-003-1"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-002"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-003"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-004"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-005"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_auto_play"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold"
+      }
+    ]
+  },
+  {
+    "score_gte": "175",
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-facility-area_a03-003-1"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-002"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-003"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-004"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-005"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_auto_play"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold"
+      }
+    ]
+  },
+  {
+    "score_gte": "200",
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-facility-area_a03-003-1"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-002"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-003"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-004"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-005"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_auto_play"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold"
+      }
+    ]
+  }
+]

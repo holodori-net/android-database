@@ -16,6 +16,81 @@
   },
   {
     "type": {
+      "name": "CHEAT_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+      "number": 1
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_YELLOW",
+      "number": 1
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_COUNT",
+      "number": 2
+    },
+    "threshold": "1"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+      "number": 1
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_YELLOW",
+      "number": 1
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_RETENTION_HOUR",
+      "number": 3
+    },
+    "threshold": "1"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+      "number": 1
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_RED",
+      "number": 2
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_GRACE_SECOND",
+      "number": 1
+    },
+    "threshold": "30"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+      "number": 1
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_RED",
+      "number": 2
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_COUNT",
+      "number": 2
+    },
+    "threshold": "5"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+      "number": 1
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_RED",
+      "number": 2
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_RETENTION_HOUR",
+      "number": 3
+    },
+    "threshold": "168"
+  },
+  {
+    "type": {
       "name": "CHEAT_TYPE_SINGLE_LIVE_SCORE_TAMPERING",
       "number": 2
     },
@@ -253,6 +328,81 @@
       "number": 1000
     },
     "threshold": "10"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+      "number": 100
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_YELLOW",
+      "number": 1
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_COUNT",
+      "number": 1001
+    },
+    "threshold": "1"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+      "number": 100
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_YELLOW",
+      "number": 1
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_RETENTION_HOUR",
+      "number": 1002
+    },
+    "threshold": "1"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+      "number": 100
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_RED",
+      "number": 2
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_GRACE_SECOND",
+      "number": 1000
+    },
+    "threshold": "30"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+      "number": 100
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_RED",
+      "number": 2
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_COUNT",
+      "number": 1001
+    },
+    "threshold": "5"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+      "number": 100
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_RED",
+      "number": 2
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_RETENTION_HOUR",
+      "number": 1002
+    },
+    "threshold": "168"
   },
   {
     "type": {
@@ -552,7 +702,7 @@
       "name": "CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION_TIME_MILLISECOND",
       "number": 103000
     },
-    "threshold": "3000"
+    "threshold": "2000"
   },
   {
     "type": {
@@ -582,7 +732,7 @@
       "name": "CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION_TIME_MILLISECOND",
       "number": 103000
     },
-    "threshold": "2000"
+    "threshold": "1500"
   },
   {
     "type": {
@@ -612,7 +762,7 @@
       "name": "CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_RESULT_TOTAL_COUNT",
       "number": 103001
     },
-    "threshold": "25"
+    "threshold": "30"
   },
   {
     "type": {
@@ -627,7 +777,7 @@
       "name": "CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_RESULT_TOTAL_COUNT",
       "number": 103001
     },
-    "threshold": "30"
+    "threshold": "40"
   },
   {
     "type": {
@@ -642,7 +792,7 @@
       "name": null,
       "number": 103003
     },
-    "threshold": "25000"
+    "threshold": "32000"
   },
   {
     "type": {
@@ -657,7 +807,7 @@
       "name": null,
       "number": 103003
     },
-    "threshold": "30000"
+    "threshold": "40000"
   },
   {
     "type": {
@@ -687,7 +837,37 @@
       "name": null,
       "number": 103005
     },
-    "threshold": "4000"
+    "threshold": "2500"
+  },
+  {
+    "type": {
+      "name": null,
+      "number": 1303
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_RED",
+      "number": 2
+    },
+    "parameter_type": {
+      "name": null,
+      "number": 103004
+    },
+    "threshold": "25000"
+  },
+  {
+    "type": {
+      "name": null,
+      "number": 1303
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_RED",
+      "number": 2
+    },
+    "parameter_type": {
+      "name": null,
+      "number": 103005
+    },
+    "threshold": "2500"
   },
   {
     "type": {
@@ -898,5 +1078,35 @@
       "number": 200000
     },
     "threshold": "5000"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_PARK_FISHING_CLEAR_TIME_TAMPERING",
+      "number": 10100
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_YELLOW",
+      "number": 1
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_PARK_FISHING_CLEAR_TIME_TAMPERING_COEFFICIENT_PERMIL_MULTIPLY",
+      "number": 201000
+    },
+    "threshold": "1100"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_PARK_FISHING_CLEAR_TIME_TAMPERING",
+      "number": 10100
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_RED",
+      "number": 2
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_PARK_FISHING_CLEAR_TIME_TAMPERING_COEFFICIENT_PERMIL_MULTIPLY",
+      "number": 201000
+    },
+    "threshold": "1500"
   }
 ]

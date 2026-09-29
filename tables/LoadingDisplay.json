@@ -507,6 +507,18 @@
     "condition_group_id": "cd-quest_clear-quest-main-w1-01-06"
   },
   {
+    "id": "loading_display-tips-boat-001",
+    "type": {
+      "name": "LOADING_DISPLAY_TYPE_TIPS",
+      "number": 1
+    },
+    "title_lang_id": "la-loading_display-tips-boat-001-title",
+    "text_lang_id": "la-loading_display-tips-boat-001-text",
+    "asset_id": "img_ui_loading_boat-001",
+    "ratio": 10,
+    "condition_group_id": "cd-quest_clear-quest-main-w1-03-02-2"
+  },
+  {
     "id": "loading_display-tips-card-001",
     "type": {
       "name": "LOADING_DISPLAY_TYPE_TIPS",
@@ -665,6 +677,18 @@
     "asset_id": "img_ui_loading_exchange-coin-001",
     "ratio": 10,
     "condition_group_id": "cd-quest_clear-quest-main-w1-02-02"
+  },
+  {
+    "id": "loading_display-tips-fishing-001",
+    "type": {
+      "name": "LOADING_DISPLAY_TYPE_TIPS",
+      "number": 1
+    },
+    "title_lang_id": "la-loading_display-tips-fishing-001-title",
+    "text_lang_id": "la-loading_display-tips-fishing-001-text",
+    "asset_id": "img_ui_loading_fishing-001",
+    "ratio": 10,
+    "condition_group_id": "cd-quest_clear-quest-main-w1-03-03-3"
   },
   {
     "id": "loading_display-tips-friend-001",
@@ -872,6 +896,18 @@
     "asset_id": "img_ui_loading_mg-jump-rope-001",
     "ratio": 10,
     "condition_group_id": "cd-quest_clear-quest-main-w1-01-03"
+  },
+  {
+    "id": "loading_display-tips-mg-splash_ball-001",
+    "type": {
+      "name": "LOADING_DISPLAY_TYPE_TIPS",
+      "number": 1
+    },
+    "title_lang_id": "la-loading_display-tips-mg-splash_ball-001",
+    "text_lang_id": "la-loading_display-tips-mg-splash_ball-001-text",
+    "asset_id": "img_ui_loading_mg-splash_ball-001",
+    "ratio": 10,
+    "condition_group_id": "cd-quest_clear-quest-main-w1-03-08"
   },
   {
     "id": "loading_display-tips-mission-001",

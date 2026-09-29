@@ -1,1 +1,75 @@
-[]
+[
+  {
+    "id": "park_fishing_bait-001",
+    "name_lang_id": "la-park_fishing_bait-001-name",
+    "description_lang_id": "la-park_fishing_bait-001-description",
+    "asset_id": "img_fishing_bait_thumb_bait-001",
+    "is_unlimited": true,
+    "resource_obtainment_route_group_id": "resource_obtainment_route-fishingbait-001",
+    "view_condition_group_id": "cd-park_fishing_bait-001-gettable",
+    "order": 1
+  },
+  {
+    "id": "park_fishing_bait-002",
+    "name_lang_id": "la-park_fishing_bait-002-name",
+    "description_lang_id": "la-park_fishing_bait-002-description",
+    "asset_id": "img_fishing_bait_thumb_bait-002",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-fishingbait-002",
+    "view_condition_group_id": "cd-park_fishing_bait-002-gettable",
+    "order": 2
+  },
+  {
+    "id": "park_fishing_bait-003",
+    "name_lang_id": "la-park_fishing_bait-003-name",
+    "description_lang_id": "la-park_fishing_bait-003-description",
+    "asset_id": "img_fishing_bait_thumb_bait-003",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-fishingbait-003",
+    "view_condition_group_id": "cd-park_fishing_bait-003-gettable",
+    "order": 3
+  },
+  {
+    "id": "park_fishing_bait-004",
+    "name_lang_id": "la-park_fishing_bait-004-name",
+    "description_lang_id": "la-park_fishing_bait-004-description",
+    "asset_id": "img_fishing_bait_thumb_bait-004",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-fishingbait-004",
+    "view_condition_group_id": "cd-park_fishing_bait-004-gettable",
+    "order": 4
+  },
+  {
+    "id": "park_fishing_bait-005",
+    "name_lang_id": "la-park_fishing_bait-005-name",
+    "description_lang_id": "la-park_fishing_bait-005-description",
+    "asset_id": "img_fishing_bait_thumb_bait-005",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-fishingbait-005",
+    "view_condition_group_id": "cd-park_fishing_bait-005-gettable",
+    "order": 5
+  },
+  {
+    "id": "park_fishing_bait-006",
+    "name_lang_id": "la-park_fishing_bait-006-name",
+    "description_lang_id": "la-park_fishing_bait-006-description",
+    "asset_id": "img_fishing_bait_thumb_bait-006",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-fishingbait-006",
+    "view_condition_group_id": "cd-park_fishing_bait-006-gettable",
+    "order": 6
+  },
+  {
+    "id": "park_fishing_bait-007",
+    "name_lang_id": "la-park_fishing_bait-007-name",
+    "description_lang_id": "la-park_fishing_bait-007-description",
+    "asset_id": "img_fishing_bait_thumb_bait-007",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-fishingbait-007",
+    "view_condition_group_id": "cd-park_fishing_bait-007-gettable",
+    "order": 7
+  },
+  {
+    "id": "park_fishing_bait-008",
+    "name_lang_id": "la-park_fishing_bait-008-name",
+    "description_lang_id": "la-park_fishing_bait-008-description",
+    "asset_id": "img_fishing_bait_thumb_bait-008",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-fishingbait-008",
+    "view_condition_group_id": "cd-park_fishing_bait-008-gettable",
+    "order": 8
+  }
+]

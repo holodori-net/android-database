@@ -691,6 +691,12 @@
     "position": "quest_01"
   },
   {
+    "id": "park_pos-a01-gate3-quest_01",
+    "area_id": "area-a01",
+    "facility_id": "facility-a01-gate3",
+    "position": "quest_01"
+  },
+  {
     "id": "park_pos-a01-house-free_npc",
     "area_id": "area-a01",
     "facility_id": "facility-a01-house",
@@ -4403,5 +4409,2384 @@
     "id": "park_pos-a02_lobby-reward_random_20",
     "area_id": "area-a02-lobby",
     "position": "reward_random_20"
+  },
+  {
+    "id": "park_pos-a03-boatshop-content_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-boatshop",
+    "position": "content_sp_01"
+  },
+  {
+    "id": "park_pos-a03-boatshop-free_npc_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-boatshop",
+    "position": "free_npc_01"
+  },
+  {
+    "id": "park_pos-a03-boatshop-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-boatshop",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-boatshop-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-boatshop",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-boatshop-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-boatshop",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-boatshop-quest_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-boatshop",
+    "position": "quest_01"
+  },
+  {
+    "id": "park_pos-a03-boatshop-quest_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-boatshop",
+    "position": "quest_02"
+  },
+  {
+    "id": "park_pos-a03-boatshop-quest_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-boatshop",
+    "position": "quest_03"
+  },
+  {
+    "id": "park_pos-a03-boatshop-quest_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-boatshop",
+    "position": "quest_04"
+  },
+  {
+    "id": "park_pos-a03-boatshop-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-boatshop",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-boatshop-quest_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-boatshop",
+    "position": "quest_sp_02"
+  },
+  {
+    "id": "park_pos-a03-entrance-free_npc_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "free_npc_01"
+  },
+  {
+    "id": "park_pos-a03-entrance-free_npc_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "free_npc_02"
+  },
+  {
+    "id": "park_pos-a03-entrance-free_npc_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "free_npc_03"
+  },
+  {
+    "id": "park_pos-a03-entrance-free_npc_grp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "free_npc_grp_01"
+  },
+  {
+    "id": "park_pos-a03-entrance-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-entrance-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-entrance-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-entrance-free_npc_sp_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "free_npc_sp_04"
+  },
+  {
+    "id": "park_pos-a03-entrance-free_npc_sp_05",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "free_npc_sp_05"
+  },
+  {
+    "id": "park_pos-a03-entrance-free_npc_sp_06",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "free_npc_sp_06"
+  },
+  {
+    "id": "park_pos-a03-entrance-free_npc_sp_07",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "free_npc_sp_07"
+  },
+  {
+    "id": "park_pos-a03-entrance-free_npc_sp_08",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "free_npc_sp_08"
+  },
+  {
+    "id": "park_pos-a03-entrance-quest_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "quest_01"
+  },
+  {
+    "id": "park_pos-a03-entrance-quest_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "quest_02"
+  },
+  {
+    "id": "park_pos-a03-entrance-quest_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "quest_03"
+  },
+  {
+    "id": "park_pos-a03-entrance-quest_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "quest_04"
+  },
+  {
+    "id": "park_pos-a03-entrance-quest_05",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "quest_05"
+  },
+  {
+    "id": "park_pos-a03-entrance-quest_06",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-entrance",
+    "position": "quest_06"
+  },
+  {
+    "id": "park_pos-a03-fishingpond1-content_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond1",
+    "position": "content_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond1-free_npc_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond1",
+    "position": "free_npc_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond1-free_npc_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond1",
+    "position": "free_npc_02"
+  },
+  {
+    "id": "park_pos-a03-fishingpond1-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond1",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond1-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond1",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-fishingpond1-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond1",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-fishingpond1-free_npc_sp_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond1",
+    "position": "free_npc_sp_04"
+  },
+  {
+    "id": "park_pos-a03-fishingpond1-quest_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond1",
+    "position": "quest_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond1-quest_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond1",
+    "position": "quest_02"
+  },
+  {
+    "id": "park_pos-a03-fishingpond1-quest_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond1",
+    "position": "quest_03"
+  },
+  {
+    "id": "park_pos-a03-fishingpond1-quest_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond1",
+    "position": "quest_04"
+  },
+  {
+    "id": "park_pos-a03-fishingpond1-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond1",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond1-quest_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond1",
+    "position": "quest_sp_02"
+  },
+  {
+    "id": "park_pos-a03-fishingpond2-content_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond2",
+    "position": "content_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond2-free_npc_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond2",
+    "position": "free_npc_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond2-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond2",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond2-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond2",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-fishingpond2-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond2",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-fishingpond2-free_npc_sp_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond2",
+    "position": "free_npc_sp_04"
+  },
+  {
+    "id": "park_pos-a03-fishingpond2-free_npc_sp_05",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond2",
+    "position": "free_npc_sp_05"
+  },
+  {
+    "id": "park_pos-a03-fishingpond2-free_npc_sp_06",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond2",
+    "position": "free_npc_sp_06"
+  },
+  {
+    "id": "park_pos-a03-fishingpond2-quest_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond2",
+    "position": "quest_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond2-quest_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond2",
+    "position": "quest_02"
+  },
+  {
+    "id": "park_pos-a03-fishingpond2-quest_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond2",
+    "position": "quest_03"
+  },
+  {
+    "id": "park_pos-a03-fishingpond2-quest_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond2",
+    "position": "quest_04"
+  },
+  {
+    "id": "park_pos-a03-fishingpond2-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond2",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond2-quest_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond2",
+    "position": "quest_sp_02"
+  },
+  {
+    "id": "park_pos-a03-fishingpond3-content_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond3",
+    "position": "content_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond3-free_npc_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond3",
+    "position": "free_npc_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond3-free_npc_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond3",
+    "position": "free_npc_02"
+  },
+  {
+    "id": "park_pos-a03-fishingpond3-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond3",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond3-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond3",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-fishingpond3-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond3",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-fishingpond3-free_npc_sp_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond3",
+    "position": "free_npc_sp_04"
+  },
+  {
+    "id": "park_pos-a03-fishingpond3-free_npc_sp_05",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond3",
+    "position": "free_npc_sp_05"
+  },
+  {
+    "id": "park_pos-a03-fishingpond3-quest_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond3",
+    "position": "quest_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond3-quest_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond3",
+    "position": "quest_02"
+  },
+  {
+    "id": "park_pos-a03-fishingpond3-quest_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond3",
+    "position": "quest_03"
+  },
+  {
+    "id": "park_pos-a03-fishingpond3-quest_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond3",
+    "position": "quest_04"
+  },
+  {
+    "id": "park_pos-a03-fishingpond3-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond3",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-fishingpond3-quest_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingpond3",
+    "position": "quest_sp_02"
+  },
+  {
+    "id": "park_pos-a03-fishingshop-content_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingshop",
+    "position": "content_sp_01"
+  },
+  {
+    "id": "park_pos-a03-fishingshop-free_npc_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingshop",
+    "position": "free_npc_01"
+  },
+  {
+    "id": "park_pos-a03-fishingshop-free_npc_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingshop",
+    "position": "free_npc_02"
+  },
+  {
+    "id": "park_pos-a03-fishingshop-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingshop",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-fishingshop-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingshop",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-fishingshop-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingshop",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-fishingshop-free_npc_sp_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingshop",
+    "position": "free_npc_sp_04"
+  },
+  {
+    "id": "park_pos-a03-fishingshop-free_npc_sp_05",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingshop",
+    "position": "free_npc_sp_05"
+  },
+  {
+    "id": "park_pos-a03-fishingshop-quest_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingshop",
+    "position": "quest_01"
+  },
+  {
+    "id": "park_pos-a03-fishingshop-quest_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingshop",
+    "position": "quest_02"
+  },
+  {
+    "id": "park_pos-a03-fishingshop-quest_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingshop",
+    "position": "quest_03"
+  },
+  {
+    "id": "park_pos-a03-fishingshop-quest_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingshop",
+    "position": "quest_04"
+  },
+  {
+    "id": "park_pos-a03-fishingshop-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingshop",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-fishingshop-quest_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-fishingshop",
+    "position": "quest_sp_02"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_01",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_02",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_03",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_04",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_04"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_05",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_05"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_06",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_06"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_07",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_07"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_08",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_08"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_09",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_09"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_10",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_10"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_11",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_11"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_12",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_12"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_13",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_13"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_14",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_14"
+  },
+  {
+    "id": "park_pos-a03-free_npc_sp_15",
+    "area_id": "area-a03",
+    "position": "free_npc_sp_15"
+  },
+  {
+    "id": "park_pos-a03-glamping-content_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "content_01"
+  },
+  {
+    "id": "park_pos-a03-glamping-free_npc_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "free_npc_01"
+  },
+  {
+    "id": "park_pos-a03-glamping-free_npc_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "free_npc_02"
+  },
+  {
+    "id": "park_pos-a03-glamping-free_npc_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "free_npc_03"
+  },
+  {
+    "id": "park_pos-a03-glamping-free_npc_grp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "free_npc_grp_01"
+  },
+  {
+    "id": "park_pos-a03-glamping-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-glamping-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-glamping-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-glamping-free_npc_sp_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "free_npc_sp_04"
+  },
+  {
+    "id": "park_pos-a03-glamping-free_npc_sp_05",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "free_npc_sp_05"
+  },
+  {
+    "id": "park_pos-a03-glamping-free_npc_sp_06",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "free_npc_sp_06"
+  },
+  {
+    "id": "park_pos-a03-glamping-free_npc_sp_07",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "free_npc_sp_07"
+  },
+  {
+    "id": "park_pos-a03-glamping-quest_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "quest_01"
+  },
+  {
+    "id": "park_pos-a03-glamping-quest_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "quest_02"
+  },
+  {
+    "id": "park_pos-a03-glamping-quest_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "quest_03"
+  },
+  {
+    "id": "park_pos-a03-glamping-quest_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "quest_04"
+  },
+  {
+    "id": "park_pos-a03-glamping-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-glamping-quest_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-glamping",
+    "position": "quest_sp_02"
+  },
+  {
+    "id": "park_pos-a03-islandlarge1-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-islandlarge1",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-islandlarge2-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-islandlarge2",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-islandmiddle1-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-islandmiddle1",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-islandmiddle2-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-islandmiddle2",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-islandmiddle3-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-islandmiddle3",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-islandsmall1-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-islandsmall1",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-islandsmall2-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-islandsmall2",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-islandsmall3-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-islandsmall3",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-islandsmall4-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-islandsmall4",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-livestage-content_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-livestage",
+    "position": "content_01"
+  },
+  {
+    "id": "park_pos-a03-livestage-free_npc_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-livestage",
+    "position": "free_npc_01"
+  },
+  {
+    "id": "park_pos-a03-livestage-free_npc_grp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-livestage",
+    "position": "free_npc_grp_01"
+  },
+  {
+    "id": "park_pos-a03-livestage-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-livestage",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-livestage-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-livestage",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-livestage-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-livestage",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-livestage-quest_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-livestage",
+    "position": "quest_01"
+  },
+  {
+    "id": "park_pos-a03-livestage-quest_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-livestage",
+    "position": "quest_02"
+  },
+  {
+    "id": "park_pos-a03-livestage-quest_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-livestage",
+    "position": "quest_03"
+  },
+  {
+    "id": "park_pos-a03-livestage-quest_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-livestage",
+    "position": "quest_04"
+  },
+  {
+    "id": "park_pos-a03-livestage-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-livestage",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-livestage-quest_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-livestage",
+    "position": "quest_sp_02"
+  },
+  {
+    "id": "park_pos-a03-resortshop-content_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-resortshop",
+    "position": "content_sp_01"
+  },
+  {
+    "id": "park_pos-a03-resortshop-free_npc_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-resortshop",
+    "position": "free_npc_01"
+  },
+  {
+    "id": "park_pos-a03-resortshop-free_npc_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-resortshop",
+    "position": "free_npc_02"
+  },
+  {
+    "id": "park_pos-a03-resortshop-free_npc_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-resortshop",
+    "position": "free_npc_03"
+  },
+  {
+    "id": "park_pos-a03-resortshop-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-resortshop",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-resortshop-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-resortshop",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-resortshop-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-resortshop",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-resortshop-free_npc_sp_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-resortshop",
+    "position": "free_npc_sp_04"
+  },
+  {
+    "id": "park_pos-a03-resortshop-free_npc_sp_05",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-resortshop",
+    "position": "free_npc_sp_05"
+  },
+  {
+    "id": "park_pos-a03-resortshop-quest_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-resortshop",
+    "position": "quest_01"
+  },
+  {
+    "id": "park_pos-a03-resortshop-quest_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-resortshop",
+    "position": "quest_02"
+  },
+  {
+    "id": "park_pos-a03-resortshop-quest_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-resortshop",
+    "position": "quest_03"
+  },
+  {
+    "id": "park_pos-a03-resortshop-quest_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-resortshop",
+    "position": "quest_04"
+  },
+  {
+    "id": "park_pos-a03-resortshop-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-resortshop",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_01",
+    "area_id": "area-a03",
+    "position": "reward_treasure_01"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_02",
+    "area_id": "area-a03",
+    "position": "reward_treasure_02"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_03",
+    "area_id": "area-a03",
+    "position": "reward_treasure_03"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_04",
+    "area_id": "area-a03",
+    "position": "reward_treasure_04"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_05",
+    "area_id": "area-a03",
+    "position": "reward_treasure_05"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_06",
+    "area_id": "area-a03",
+    "position": "reward_treasure_06"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_07",
+    "area_id": "area-a03",
+    "position": "reward_treasure_07"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_08",
+    "area_id": "area-a03",
+    "position": "reward_treasure_08"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_09",
+    "area_id": "area-a03",
+    "position": "reward_treasure_09"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_10",
+    "area_id": "area-a03",
+    "position": "reward_treasure_10"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_11",
+    "area_id": "area-a03",
+    "position": "reward_treasure_11"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_12",
+    "area_id": "area-a03",
+    "position": "reward_treasure_12"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_13",
+    "area_id": "area-a03",
+    "position": "reward_treasure_13"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_14",
+    "area_id": "area-a03",
+    "position": "reward_treasure_14"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_15",
+    "area_id": "area-a03",
+    "position": "reward_treasure_15"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_16",
+    "area_id": "area-a03",
+    "position": "reward_treasure_16"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_17",
+    "area_id": "area-a03",
+    "position": "reward_treasure_17"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_18",
+    "area_id": "area-a03",
+    "position": "reward_treasure_18"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_19",
+    "area_id": "area-a03",
+    "position": "reward_treasure_19"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_20",
+    "area_id": "area-a03",
+    "position": "reward_treasure_20"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_21",
+    "area_id": "area-a03",
+    "position": "reward_treasure_21"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_22",
+    "area_id": "area-a03",
+    "position": "reward_treasure_22"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_23",
+    "area_id": "area-a03",
+    "position": "reward_treasure_23"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_24",
+    "area_id": "area-a03",
+    "position": "reward_treasure_24"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_25",
+    "area_id": "area-a03",
+    "position": "reward_treasure_25"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_26",
+    "area_id": "area-a03",
+    "position": "reward_treasure_26"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_27",
+    "area_id": "area-a03",
+    "position": "reward_treasure_27"
+  },
+  {
+    "id": "park_pos-a03-reward_treasure_28",
+    "area_id": "area-a03",
+    "position": "reward_treasure_28"
+  },
+  {
+    "id": "park_pos-a03-seaarea1-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea1",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-seaarea1-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea1",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-seaarea1-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea1",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-seaarea1-free_npc_sp_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea1",
+    "position": "free_npc_sp_04"
+  },
+  {
+    "id": "park_pos-a03-seaarea1-free_npc_sp_05",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea1",
+    "position": "free_npc_sp_05"
+  },
+  {
+    "id": "park_pos-a03-seaarea1-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea1",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-seaarea1-quest_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea1",
+    "position": "quest_sp_02"
+  },
+  {
+    "id": "park_pos-a03-seaarea2-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea2",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-seaarea2-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea2",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-seaarea2-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea2",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-seaarea2-free_npc_sp_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea2",
+    "position": "free_npc_sp_04"
+  },
+  {
+    "id": "park_pos-a03-seaarea2-free_npc_sp_05",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea2",
+    "position": "free_npc_sp_05"
+  },
+  {
+    "id": "park_pos-a03-seaarea2-free_npc_sp_06",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea2",
+    "position": "free_npc_sp_06"
+  },
+  {
+    "id": "park_pos-a03-seaarea2-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea2",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-seaarea2-quest_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea2",
+    "position": "quest_sp_02"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_04"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_05",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_05"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_06",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_06"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_07",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_07"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_08",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_08"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_09",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_09"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_10",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_10"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_11",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_11"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_12",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_12"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_13",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_13"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_14",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_14"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_15",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_15"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_16",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_16"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_17",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_17"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_18",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_18"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_19",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_19"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_20",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_20"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_21",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_21"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_22",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_22"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-free_npc_sp_23",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "free_npc_sp_23"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-seaarea3-quest_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-seaarea3",
+    "position": "quest_sp_02"
+  },
+  {
+    "id": "park_pos-a03-stadium-content_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-stadium",
+    "position": "content_sp_01"
+  },
+  {
+    "id": "park_pos-a03-stadium-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-stadium",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-stadium-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-stadium",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-stadium-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-stadium",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-stadium-quest_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-stadium",
+    "position": "quest_sp_02"
+  },
+  {
+    "id": "park_pos-a03-stadium-quest_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-stadium",
+    "position": "quest_sp_03"
+  },
+  {
+    "id": "park_pos-a03-stadium-quest_sp_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-stadium",
+    "position": "quest_sp_04"
+  },
+  {
+    "id": "park_pos-a03-station-content_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "content_01"
+  },
+  {
+    "id": "park_pos-a03-station-free_npc_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "free_npc_01"
+  },
+  {
+    "id": "park_pos-a03-station-free_npc_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "free_npc_02"
+  },
+  {
+    "id": "park_pos-a03-station-free_npc_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "free_npc_03"
+  },
+  {
+    "id": "park_pos-a03-station-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-station-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-station-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-station-free_npc_sp_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "free_npc_sp_04"
+  },
+  {
+    "id": "park_pos-a03-station-free_npc_sp_05",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "free_npc_sp_05"
+  },
+  {
+    "id": "park_pos-a03-station-quest_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "quest_01"
+  },
+  {
+    "id": "park_pos-a03-station-quest_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "quest_02"
+  },
+  {
+    "id": "park_pos-a03-station-quest_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "quest_03"
+  },
+  {
+    "id": "park_pos-a03-station-quest_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "quest_04"
+  },
+  {
+    "id": "park_pos-a03-station-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-station-quest_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-station",
+    "position": "quest_sp_02"
+  },
+  {
+    "id": "park_pos-a03-watergun-content_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-watergun",
+    "position": "content_sp_01"
+  },
+  {
+    "id": "park_pos-a03-watergun-free_npc_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-watergun",
+    "position": "free_npc_01"
+  },
+  {
+    "id": "park_pos-a03-watergun-free_npc_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-watergun",
+    "position": "free_npc_02"
+  },
+  {
+    "id": "park_pos-a03-watergun-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-watergun",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-watergun-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-watergun",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-watergun-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-watergun",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-watergun-free_npc_sp_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-watergun",
+    "position": "free_npc_sp_04"
+  },
+  {
+    "id": "park_pos-a03-watergun-quest_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-watergun",
+    "position": "quest_01"
+  },
+  {
+    "id": "park_pos-a03-watergun-quest_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-watergun",
+    "position": "quest_02"
+  },
+  {
+    "id": "park_pos-a03-watergun-quest_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-watergun",
+    "position": "quest_03"
+  },
+  {
+    "id": "park_pos-a03-watergun-quest_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-watergun",
+    "position": "quest_04"
+  },
+  {
+    "id": "park_pos-a03-watergun-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-watergun",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-watergun-quest_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-watergun",
+    "position": "quest_sp_02"
+  },
+  {
+    "id": "park_pos-a03-whale-free_npc_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-whale",
+    "position": "free_npc_sp_01"
+  },
+  {
+    "id": "park_pos-a03-whale-free_npc_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-whale",
+    "position": "free_npc_sp_02"
+  },
+  {
+    "id": "park_pos-a03-whale-free_npc_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-whale",
+    "position": "free_npc_sp_03"
+  },
+  {
+    "id": "park_pos-a03-whale-quest_sp_01",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-whale",
+    "position": "quest_sp_01"
+  },
+  {
+    "id": "park_pos-a03-whale-quest_sp_02",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-whale",
+    "position": "quest_sp_02"
+  },
+  {
+    "id": "park_pos-a03-whale-quest_sp_03",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-whale",
+    "position": "quest_sp_03"
+  },
+  {
+    "id": "park_pos-a03-whale-quest_sp_04",
+    "area_id": "area-a03",
+    "facility_id": "facility-a03-whale",
+    "position": "quest_sp_04"
+  },
+  {
+    "id": "park_pos-a03_reward_random_01",
+    "area_id": "area-a03",
+    "position": "reward_random_01"
+  },
+  {
+    "id": "park_pos-a03_reward_random_02",
+    "area_id": "area-a03",
+    "position": "reward_random_02"
+  },
+  {
+    "id": "park_pos-a03_reward_random_03",
+    "area_id": "area-a03",
+    "position": "reward_random_03"
+  },
+  {
+    "id": "park_pos-a03_reward_random_04",
+    "area_id": "area-a03",
+    "position": "reward_random_04"
+  },
+  {
+    "id": "park_pos-a03_reward_random_05",
+    "area_id": "area-a03",
+    "position": "reward_random_05"
+  },
+  {
+    "id": "park_pos-a03_reward_random_06",
+    "area_id": "area-a03",
+    "position": "reward_random_06"
+  },
+  {
+    "id": "park_pos-a03_reward_random_07",
+    "area_id": "area-a03",
+    "position": "reward_random_07"
+  },
+  {
+    "id": "park_pos-a03_reward_random_08",
+    "area_id": "area-a03",
+    "position": "reward_random_08"
+  },
+  {
+    "id": "park_pos-a03_reward_random_09",
+    "area_id": "area-a03",
+    "position": "reward_random_09"
+  },
+  {
+    "id": "park_pos-a03_reward_random_10",
+    "area_id": "area-a03",
+    "position": "reward_random_10"
+  },
+  {
+    "id": "park_pos-a03_reward_random_100",
+    "area_id": "area-a03",
+    "position": "reward_random_100"
+  },
+  {
+    "id": "park_pos-a03_reward_random_101",
+    "area_id": "area-a03",
+    "position": "reward_random_101"
+  },
+  {
+    "id": "park_pos-a03_reward_random_102",
+    "area_id": "area-a03",
+    "position": "reward_random_102"
+  },
+  {
+    "id": "park_pos-a03_reward_random_103",
+    "area_id": "area-a03",
+    "position": "reward_random_103"
+  },
+  {
+    "id": "park_pos-a03_reward_random_104",
+    "area_id": "area-a03",
+    "position": "reward_random_104"
+  },
+  {
+    "id": "park_pos-a03_reward_random_105",
+    "area_id": "area-a03",
+    "position": "reward_random_105"
+  },
+  {
+    "id": "park_pos-a03_reward_random_106",
+    "area_id": "area-a03",
+    "position": "reward_random_106"
+  },
+  {
+    "id": "park_pos-a03_reward_random_107",
+    "area_id": "area-a03",
+    "position": "reward_random_107"
+  },
+  {
+    "id": "park_pos-a03_reward_random_108",
+    "area_id": "area-a03",
+    "position": "reward_random_108"
+  },
+  {
+    "id": "park_pos-a03_reward_random_109",
+    "area_id": "area-a03",
+    "position": "reward_random_109"
+  },
+  {
+    "id": "park_pos-a03_reward_random_11",
+    "area_id": "area-a03",
+    "position": "reward_random_11"
+  },
+  {
+    "id": "park_pos-a03_reward_random_110",
+    "area_id": "area-a03",
+    "position": "reward_random_110"
+  },
+  {
+    "id": "park_pos-a03_reward_random_111",
+    "area_id": "area-a03",
+    "position": "reward_random_111"
+  },
+  {
+    "id": "park_pos-a03_reward_random_112",
+    "area_id": "area-a03",
+    "position": "reward_random_112"
+  },
+  {
+    "id": "park_pos-a03_reward_random_113",
+    "area_id": "area-a03",
+    "position": "reward_random_113"
+  },
+  {
+    "id": "park_pos-a03_reward_random_114",
+    "area_id": "area-a03",
+    "position": "reward_random_114"
+  },
+  {
+    "id": "park_pos-a03_reward_random_115",
+    "area_id": "area-a03",
+    "position": "reward_random_115"
+  },
+  {
+    "id": "park_pos-a03_reward_random_116",
+    "area_id": "area-a03",
+    "position": "reward_random_116"
+  },
+  {
+    "id": "park_pos-a03_reward_random_117",
+    "area_id": "area-a03",
+    "position": "reward_random_117"
+  },
+  {
+    "id": "park_pos-a03_reward_random_118",
+    "area_id": "area-a03",
+    "position": "reward_random_118"
+  },
+  {
+    "id": "park_pos-a03_reward_random_119",
+    "area_id": "area-a03",
+    "position": "reward_random_119"
+  },
+  {
+    "id": "park_pos-a03_reward_random_12",
+    "area_id": "area-a03",
+    "position": "reward_random_12"
+  },
+  {
+    "id": "park_pos-a03_reward_random_120",
+    "area_id": "area-a03",
+    "position": "reward_random_120"
+  },
+  {
+    "id": "park_pos-a03_reward_random_121",
+    "area_id": "area-a03",
+    "position": "reward_random_121"
+  },
+  {
+    "id": "park_pos-a03_reward_random_122",
+    "area_id": "area-a03",
+    "position": "reward_random_122"
+  },
+  {
+    "id": "park_pos-a03_reward_random_123",
+    "area_id": "area-a03",
+    "position": "reward_random_123"
+  },
+  {
+    "id": "park_pos-a03_reward_random_124",
+    "area_id": "area-a03",
+    "position": "reward_random_124"
+  },
+  {
+    "id": "park_pos-a03_reward_random_125",
+    "area_id": "area-a03",
+    "position": "reward_random_125"
+  },
+  {
+    "id": "park_pos-a03_reward_random_126",
+    "area_id": "area-a03",
+    "position": "reward_random_126"
+  },
+  {
+    "id": "park_pos-a03_reward_random_127",
+    "area_id": "area-a03",
+    "position": "reward_random_127"
+  },
+  {
+    "id": "park_pos-a03_reward_random_128",
+    "area_id": "area-a03",
+    "position": "reward_random_128"
+  },
+  {
+    "id": "park_pos-a03_reward_random_129",
+    "area_id": "area-a03",
+    "position": "reward_random_129"
+  },
+  {
+    "id": "park_pos-a03_reward_random_13",
+    "area_id": "area-a03",
+    "position": "reward_random_13"
+  },
+  {
+    "id": "park_pos-a03_reward_random_130",
+    "area_id": "area-a03",
+    "position": "reward_random_130"
+  },
+  {
+    "id": "park_pos-a03_reward_random_131",
+    "area_id": "area-a03",
+    "position": "reward_random_131"
+  },
+  {
+    "id": "park_pos-a03_reward_random_132",
+    "area_id": "area-a03",
+    "position": "reward_random_132"
+  },
+  {
+    "id": "park_pos-a03_reward_random_133",
+    "area_id": "area-a03",
+    "position": "reward_random_133"
+  },
+  {
+    "id": "park_pos-a03_reward_random_134",
+    "area_id": "area-a03",
+    "position": "reward_random_134"
+  },
+  {
+    "id": "park_pos-a03_reward_random_135",
+    "area_id": "area-a03",
+    "position": "reward_random_135"
+  },
+  {
+    "id": "park_pos-a03_reward_random_136",
+    "area_id": "area-a03",
+    "position": "reward_random_136"
+  },
+  {
+    "id": "park_pos-a03_reward_random_137",
+    "area_id": "area-a03",
+    "position": "reward_random_137"
+  },
+  {
+    "id": "park_pos-a03_reward_random_138",
+    "area_id": "area-a03",
+    "position": "reward_random_138"
+  },
+  {
+    "id": "park_pos-a03_reward_random_139",
+    "area_id": "area-a03",
+    "position": "reward_random_139"
+  },
+  {
+    "id": "park_pos-a03_reward_random_14",
+    "area_id": "area-a03",
+    "position": "reward_random_14"
+  },
+  {
+    "id": "park_pos-a03_reward_random_140",
+    "area_id": "area-a03",
+    "position": "reward_random_140"
+  },
+  {
+    "id": "park_pos-a03_reward_random_141",
+    "area_id": "area-a03",
+    "position": "reward_random_141"
+  },
+  {
+    "id": "park_pos-a03_reward_random_142",
+    "area_id": "area-a03",
+    "position": "reward_random_142"
+  },
+  {
+    "id": "park_pos-a03_reward_random_143",
+    "area_id": "area-a03",
+    "position": "reward_random_143"
+  },
+  {
+    "id": "park_pos-a03_reward_random_144",
+    "area_id": "area-a03",
+    "position": "reward_random_144"
+  },
+  {
+    "id": "park_pos-a03_reward_random_145",
+    "area_id": "area-a03",
+    "position": "reward_random_145"
+  },
+  {
+    "id": "park_pos-a03_reward_random_146",
+    "area_id": "area-a03",
+    "position": "reward_random_146"
+  },
+  {
+    "id": "park_pos-a03_reward_random_147",
+    "area_id": "area-a03",
+    "position": "reward_random_147"
+  },
+  {
+    "id": "park_pos-a03_reward_random_148",
+    "area_id": "area-a03",
+    "position": "reward_random_148"
+  },
+  {
+    "id": "park_pos-a03_reward_random_149",
+    "area_id": "area-a03",
+    "position": "reward_random_149"
+  },
+  {
+    "id": "park_pos-a03_reward_random_15",
+    "area_id": "area-a03",
+    "position": "reward_random_15"
+  },
+  {
+    "id": "park_pos-a03_reward_random_150",
+    "area_id": "area-a03",
+    "position": "reward_random_150"
+  },
+  {
+    "id": "park_pos-a03_reward_random_151",
+    "area_id": "area-a03",
+    "position": "reward_random_151"
+  },
+  {
+    "id": "park_pos-a03_reward_random_152",
+    "area_id": "area-a03",
+    "position": "reward_random_152"
+  },
+  {
+    "id": "park_pos-a03_reward_random_153",
+    "area_id": "area-a03",
+    "position": "reward_random_153"
+  },
+  {
+    "id": "park_pos-a03_reward_random_154",
+    "area_id": "area-a03",
+    "position": "reward_random_154"
+  },
+  {
+    "id": "park_pos-a03_reward_random_155",
+    "area_id": "area-a03",
+    "position": "reward_random_155"
+  },
+  {
+    "id": "park_pos-a03_reward_random_156",
+    "area_id": "area-a03",
+    "position": "reward_random_156"
+  },
+  {
+    "id": "park_pos-a03_reward_random_157",
+    "area_id": "area-a03",
+    "position": "reward_random_157"
+  },
+  {
+    "id": "park_pos-a03_reward_random_158",
+    "area_id": "area-a03",
+    "position": "reward_random_158"
+  },
+  {
+    "id": "park_pos-a03_reward_random_159",
+    "area_id": "area-a03",
+    "position": "reward_random_159"
+  },
+  {
+    "id": "park_pos-a03_reward_random_16",
+    "area_id": "area-a03",
+    "position": "reward_random_16"
+  },
+  {
+    "id": "park_pos-a03_reward_random_160",
+    "area_id": "area-a03",
+    "position": "reward_random_160"
+  },
+  {
+    "id": "park_pos-a03_reward_random_161",
+    "area_id": "area-a03",
+    "position": "reward_random_161"
+  },
+  {
+    "id": "park_pos-a03_reward_random_162",
+    "area_id": "area-a03",
+    "position": "reward_random_162"
+  },
+  {
+    "id": "park_pos-a03_reward_random_163",
+    "area_id": "area-a03",
+    "position": "reward_random_163"
+  },
+  {
+    "id": "park_pos-a03_reward_random_164",
+    "area_id": "area-a03",
+    "position": "reward_random_164"
+  },
+  {
+    "id": "park_pos-a03_reward_random_165",
+    "area_id": "area-a03",
+    "position": "reward_random_165"
+  },
+  {
+    "id": "park_pos-a03_reward_random_166",
+    "area_id": "area-a03",
+    "position": "reward_random_166"
+  },
+  {
+    "id": "park_pos-a03_reward_random_167",
+    "area_id": "area-a03",
+    "position": "reward_random_167"
+  },
+  {
+    "id": "park_pos-a03_reward_random_168",
+    "area_id": "area-a03",
+    "position": "reward_random_168"
+  },
+  {
+    "id": "park_pos-a03_reward_random_169",
+    "area_id": "area-a03",
+    "position": "reward_random_169"
+  },
+  {
+    "id": "park_pos-a03_reward_random_17",
+    "area_id": "area-a03",
+    "position": "reward_random_17"
+  },
+  {
+    "id": "park_pos-a03_reward_random_170",
+    "area_id": "area-a03",
+    "position": "reward_random_170"
+  },
+  {
+    "id": "park_pos-a03_reward_random_18",
+    "area_id": "area-a03",
+    "position": "reward_random_18"
+  },
+  {
+    "id": "park_pos-a03_reward_random_19",
+    "area_id": "area-a03",
+    "position": "reward_random_19"
+  },
+  {
+    "id": "park_pos-a03_reward_random_20",
+    "area_id": "area-a03",
+    "position": "reward_random_20"
+  },
+  {
+    "id": "park_pos-a03_reward_random_21",
+    "area_id": "area-a03",
+    "position": "reward_random_21"
+  },
+  {
+    "id": "park_pos-a03_reward_random_22",
+    "area_id": "area-a03",
+    "position": "reward_random_22"
+  },
+  {
+    "id": "park_pos-a03_reward_random_23",
+    "area_id": "area-a03",
+    "position": "reward_random_23"
+  },
+  {
+    "id": "park_pos-a03_reward_random_24",
+    "area_id": "area-a03",
+    "position": "reward_random_24"
+  },
+  {
+    "id": "park_pos-a03_reward_random_25",
+    "area_id": "area-a03",
+    "position": "reward_random_25"
+  },
+  {
+    "id": "park_pos-a03_reward_random_26",
+    "area_id": "area-a03",
+    "position": "reward_random_26"
+  },
+  {
+    "id": "park_pos-a03_reward_random_27",
+    "area_id": "area-a03",
+    "position": "reward_random_27"
+  },
+  {
+    "id": "park_pos-a03_reward_random_28",
+    "area_id": "area-a03",
+    "position": "reward_random_28"
+  },
+  {
+    "id": "park_pos-a03_reward_random_29",
+    "area_id": "area-a03",
+    "position": "reward_random_29"
+  },
+  {
+    "id": "park_pos-a03_reward_random_30",
+    "area_id": "area-a03",
+    "position": "reward_random_30"
+  },
+  {
+    "id": "park_pos-a03_reward_random_31",
+    "area_id": "area-a03",
+    "position": "reward_random_31"
+  },
+  {
+    "id": "park_pos-a03_reward_random_32",
+    "area_id": "area-a03",
+    "position": "reward_random_32"
+  },
+  {
+    "id": "park_pos-a03_reward_random_33",
+    "area_id": "area-a03",
+    "position": "reward_random_33"
+  },
+  {
+    "id": "park_pos-a03_reward_random_34",
+    "area_id": "area-a03",
+    "position": "reward_random_34"
+  },
+  {
+    "id": "park_pos-a03_reward_random_35",
+    "area_id": "area-a03",
+    "position": "reward_random_35"
+  },
+  {
+    "id": "park_pos-a03_reward_random_36",
+    "area_id": "area-a03",
+    "position": "reward_random_36"
+  },
+  {
+    "id": "park_pos-a03_reward_random_37",
+    "area_id": "area-a03",
+    "position": "reward_random_37"
+  },
+  {
+    "id": "park_pos-a03_reward_random_38",
+    "area_id": "area-a03",
+    "position": "reward_random_38"
+  },
+  {
+    "id": "park_pos-a03_reward_random_39",
+    "area_id": "area-a03",
+    "position": "reward_random_39"
+  },
+  {
+    "id": "park_pos-a03_reward_random_40",
+    "area_id": "area-a03",
+    "position": "reward_random_40"
+  },
+  {
+    "id": "park_pos-a03_reward_random_41",
+    "area_id": "area-a03",
+    "position": "reward_random_41"
+  },
+  {
+    "id": "park_pos-a03_reward_random_42",
+    "area_id": "area-a03",
+    "position": "reward_random_42"
+  },
+  {
+    "id": "park_pos-a03_reward_random_43",
+    "area_id": "area-a03",
+    "position": "reward_random_43"
+  },
+  {
+    "id": "park_pos-a03_reward_random_44",
+    "area_id": "area-a03",
+    "position": "reward_random_44"
+  },
+  {
+    "id": "park_pos-a03_reward_random_45",
+    "area_id": "area-a03",
+    "position": "reward_random_45"
+  },
+  {
+    "id": "park_pos-a03_reward_random_46",
+    "area_id": "area-a03",
+    "position": "reward_random_46"
+  },
+  {
+    "id": "park_pos-a03_reward_random_47",
+    "area_id": "area-a03",
+    "position": "reward_random_47"
+  },
+  {
+    "id": "park_pos-a03_reward_random_48",
+    "area_id": "area-a03",
+    "position": "reward_random_48"
+  },
+  {
+    "id": "park_pos-a03_reward_random_49",
+    "area_id": "area-a03",
+    "position": "reward_random_49"
+  },
+  {
+    "id": "park_pos-a03_reward_random_50",
+    "area_id": "area-a03",
+    "position": "reward_random_50"
+  },
+  {
+    "id": "park_pos-a03_reward_random_51",
+    "area_id": "area-a03",
+    "position": "reward_random_51"
+  },
+  {
+    "id": "park_pos-a03_reward_random_52",
+    "area_id": "area-a03",
+    "position": "reward_random_52"
+  },
+  {
+    "id": "park_pos-a03_reward_random_53",
+    "area_id": "area-a03",
+    "position": "reward_random_53"
+  },
+  {
+    "id": "park_pos-a03_reward_random_54",
+    "area_id": "area-a03",
+    "position": "reward_random_54"
+  },
+  {
+    "id": "park_pos-a03_reward_random_55",
+    "area_id": "area-a03",
+    "position": "reward_random_55"
+  },
+  {
+    "id": "park_pos-a03_reward_random_56",
+    "area_id": "area-a03",
+    "position": "reward_random_56"
+  },
+  {
+    "id": "park_pos-a03_reward_random_57",
+    "area_id": "area-a03",
+    "position": "reward_random_57"
+  },
+  {
+    "id": "park_pos-a03_reward_random_58",
+    "area_id": "area-a03",
+    "position": "reward_random_58"
+  },
+  {
+    "id": "park_pos-a03_reward_random_59",
+    "area_id": "area-a03",
+    "position": "reward_random_59"
+  },
+  {
+    "id": "park_pos-a03_reward_random_60",
+    "area_id": "area-a03",
+    "position": "reward_random_60"
+  },
+  {
+    "id": "park_pos-a03_reward_random_61",
+    "area_id": "area-a03",
+    "position": "reward_random_61"
+  },
+  {
+    "id": "park_pos-a03_reward_random_62",
+    "area_id": "area-a03",
+    "position": "reward_random_62"
+  },
+  {
+    "id": "park_pos-a03_reward_random_63",
+    "area_id": "area-a03",
+    "position": "reward_random_63"
+  },
+  {
+    "id": "park_pos-a03_reward_random_64",
+    "area_id": "area-a03",
+    "position": "reward_random_64"
+  },
+  {
+    "id": "park_pos-a03_reward_random_65",
+    "area_id": "area-a03",
+    "position": "reward_random_65"
+  },
+  {
+    "id": "park_pos-a03_reward_random_66",
+    "area_id": "area-a03",
+    "position": "reward_random_66"
+  },
+  {
+    "id": "park_pos-a03_reward_random_67",
+    "area_id": "area-a03",
+    "position": "reward_random_67"
+  },
+  {
+    "id": "park_pos-a03_reward_random_68",
+    "area_id": "area-a03",
+    "position": "reward_random_68"
+  },
+  {
+    "id": "park_pos-a03_reward_random_69",
+    "area_id": "area-a03",
+    "position": "reward_random_69"
+  },
+  {
+    "id": "park_pos-a03_reward_random_70",
+    "area_id": "area-a03",
+    "position": "reward_random_70"
+  },
+  {
+    "id": "park_pos-a03_reward_random_71",
+    "area_id": "area-a03",
+    "position": "reward_random_71"
+  },
+  {
+    "id": "park_pos-a03_reward_random_72",
+    "area_id": "area-a03",
+    "position": "reward_random_72"
+  },
+  {
+    "id": "park_pos-a03_reward_random_73",
+    "area_id": "area-a03",
+    "position": "reward_random_73"
+  },
+  {
+    "id": "park_pos-a03_reward_random_74",
+    "area_id": "area-a03",
+    "position": "reward_random_74"
+  },
+  {
+    "id": "park_pos-a03_reward_random_75",
+    "area_id": "area-a03",
+    "position": "reward_random_75"
+  },
+  {
+    "id": "park_pos-a03_reward_random_76",
+    "area_id": "area-a03",
+    "position": "reward_random_76"
+  },
+  {
+    "id": "park_pos-a03_reward_random_77",
+    "area_id": "area-a03",
+    "position": "reward_random_77"
+  },
+  {
+    "id": "park_pos-a03_reward_random_78",
+    "area_id": "area-a03",
+    "position": "reward_random_78"
+  },
+  {
+    "id": "park_pos-a03_reward_random_79",
+    "area_id": "area-a03",
+    "position": "reward_random_79"
+  },
+  {
+    "id": "park_pos-a03_reward_random_80",
+    "area_id": "area-a03",
+    "position": "reward_random_80"
+  },
+  {
+    "id": "park_pos-a03_reward_random_81",
+    "area_id": "area-a03",
+    "position": "reward_random_81"
+  },
+  {
+    "id": "park_pos-a03_reward_random_82",
+    "area_id": "area-a03",
+    "position": "reward_random_82"
+  },
+  {
+    "id": "park_pos-a03_reward_random_83",
+    "area_id": "area-a03",
+    "position": "reward_random_83"
+  },
+  {
+    "id": "park_pos-a03_reward_random_84",
+    "area_id": "area-a03",
+    "position": "reward_random_84"
+  },
+  {
+    "id": "park_pos-a03_reward_random_85",
+    "area_id": "area-a03",
+    "position": "reward_random_85"
+  },
+  {
+    "id": "park_pos-a03_reward_random_86",
+    "area_id": "area-a03",
+    "position": "reward_random_86"
+  },
+  {
+    "id": "park_pos-a03_reward_random_87",
+    "area_id": "area-a03",
+    "position": "reward_random_87"
+  },
+  {
+    "id": "park_pos-a03_reward_random_88",
+    "area_id": "area-a03",
+    "position": "reward_random_88"
+  },
+  {
+    "id": "park_pos-a03_reward_random_89",
+    "area_id": "area-a03",
+    "position": "reward_random_89"
+  },
+  {
+    "id": "park_pos-a03_reward_random_90",
+    "area_id": "area-a03",
+    "position": "reward_random_90"
+  },
+  {
+    "id": "park_pos-a03_reward_random_91",
+    "area_id": "area-a03",
+    "position": "reward_random_91"
+  },
+  {
+    "id": "park_pos-a03_reward_random_92",
+    "area_id": "area-a03",
+    "position": "reward_random_92"
+  },
+  {
+    "id": "park_pos-a03_reward_random_93",
+    "area_id": "area-a03",
+    "position": "reward_random_93"
+  },
+  {
+    "id": "park_pos-a03_reward_random_94",
+    "area_id": "area-a03",
+    "position": "reward_random_94"
+  },
+  {
+    "id": "park_pos-a03_reward_random_95",
+    "area_id": "area-a03",
+    "position": "reward_random_95"
+  },
+  {
+    "id": "park_pos-a03_reward_random_96",
+    "area_id": "area-a03",
+    "position": "reward_random_96"
+  },
+  {
+    "id": "park_pos-a03_reward_random_97",
+    "area_id": "area-a03",
+    "position": "reward_random_97"
+  },
+  {
+    "id": "park_pos-a03_reward_random_98",
+    "area_id": "area-a03",
+    "position": "reward_random_98"
+  },
+  {
+    "id": "park_pos-a03_reward_random_99",
+    "area_id": "area-a03",
+    "position": "reward_random_99"
   }
 ]

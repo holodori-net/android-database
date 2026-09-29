@@ -112,6 +112,58 @@
     "lang_id": "la-asset_embedding_text-facility-a02-station"
   },
   {
+    "id": "asset_embedding_text-facility-a03-boatshop",
+    "lang_id": "la-asset_embedding_text-facility-a03-boatshop"
+  },
+  {
+    "id": "asset_embedding_text-facility-a03-entrance",
+    "lang_id": "la-asset_embedding_text-facility-a03-entrance"
+  },
+  {
+    "id": "asset_embedding_text-facility-a03-fishingpond1",
+    "lang_id": "la-asset_embedding_text-facility-a03-fishingpond1"
+  },
+  {
+    "id": "asset_embedding_text-facility-a03-fishingpond2",
+    "lang_id": "la-asset_embedding_text-facility-a03-fishingpond2"
+  },
+  {
+    "id": "asset_embedding_text-facility-a03-fishingpond3",
+    "lang_id": "la-asset_embedding_text-facility-a03-fishingpond3"
+  },
+  {
+    "id": "asset_embedding_text-facility-a03-fishingshop",
+    "lang_id": "la-asset_embedding_text-facility-a03-fishingshop"
+  },
+  {
+    "id": "asset_embedding_text-facility-a03-glamping",
+    "lang_id": "la-asset_embedding_text-facility-a03-glamping"
+  },
+  {
+    "id": "asset_embedding_text-facility-a03-livestage",
+    "lang_id": "la-asset_embedding_text-facility-a03-livestage"
+  },
+  {
+    "id": "asset_embedding_text-facility-a03-resortshop",
+    "lang_id": "la-asset_embedding_text-facility-a03-resortshop"
+  },
+  {
+    "id": "asset_embedding_text-facility-a03-stadium",
+    "lang_id": "la-asset_embedding_text-facility-a03-stadium"
+  },
+  {
+    "id": "asset_embedding_text-facility-a03-station",
+    "lang_id": "la-asset_embedding_text-facility-a03-station"
+  },
+  {
+    "id": "asset_embedding_text-facility-a03-watergun",
+    "lang_id": "la-asset_embedding_text-facility-a03-watergun"
+  },
+  {
+    "id": "asset_embedding_text-facility-a03-whale",
+    "lang_id": "la-asset_embedding_text-facility-a03-whale"
+  },
+  {
     "id": "asset_embedding_text-park_action-cmn-change-evening",
     "lang_id": "la-asset_embedding_text-park_action-cmn-change-evening"
   },
@@ -246,5 +298,53 @@
   {
     "id": "asset_embedding_text-park_action-facility-a02-slotgame-00",
     "lang_id": "la-asset_embedding_text-park_action-facility-a02-slotgame-00"
+  },
+  {
+    "id": "asset_embedding_text-park_action-facility-a03-fishingpond2-00",
+    "lang_id": "la-asset_embedding_text-park_action-facility-a03-fishingpond2-00"
+  },
+  {
+    "id": "asset_embedding_text-park_action-facility-a03-fishingpond2-01",
+    "lang_id": "la-asset_embedding_text-park_action-facility-a03-fishingpond2-01"
+  },
+  {
+    "id": "asset_embedding_text-park_action-facility-a03-fishingpond3-00",
+    "lang_id": "la-asset_embedding_text-park_action-facility-a03-fishingpond3-00"
+  },
+  {
+    "id": "asset_embedding_text-park_action-facility-a03-glamping-00",
+    "lang_id": "la-asset_embedding_text-park_action-facility-a03-glamping-00"
+  },
+  {
+    "id": "asset_embedding_text-park_action-facility-a03-glamping-01",
+    "lang_id": "la-asset_embedding_text-park_action-facility-a03-glamping-01"
+  },
+  {
+    "id": "asset_embedding_text-park_action-park_action-cmn-board",
+    "lang_id": "la-asset_embedding_text-park_action-park_action-cmn-board"
+  },
+  {
+    "id": "asset_embedding_text-park_action-park_action-cmn-hangout",
+    "lang_id": "la-asset_embedding_text-park_action-park_action-cmn-hangout"
+  },
+  {
+    "id": "asset_embedding_text-park_action-park_action-cmn-knock",
+    "lang_id": "la-asset_embedding_text-park_action-park_action-cmn-knock"
+  },
+  {
+    "id": "asset_embedding_text-park_action-park_action-cmn-land",
+    "lang_id": "la-asset_embedding_text-park_action-park_action-cmn-land"
+  },
+  {
+    "id": "asset_embedding_text-park_action-park_action-cmn-look",
+    "lang_id": "la-asset_embedding_text-park_action-park_action-cmn-look"
+  },
+  {
+    "id": "asset_embedding_text-park_action-park_action-cmn-pose",
+    "lang_id": "la-asset_embedding_text-park_action-park_action-cmn-pose"
+  },
+  {
+    "id": "asset_embedding_text-park_action-park_action-cmn-sandpile",
+    "lang_id": "la-asset_embedding_text-park_action-park_action-cmn-sandpile"
   }
 ]

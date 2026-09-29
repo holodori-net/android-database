@@ -313,6 +313,12 @@
   },
   {
     "group_id": "tree-model-001",
+    "skill_tree_node_group_id": "G-025",
+    "position_x": 1,
+    "position_y": -10
+  },
+  {
+    "group_id": "tree-model-001",
     "skill_tree_node_group_id": "R-001",
     "position_y": 1
   },
@@ -1183,6 +1189,12 @@
     "group_id": "tree-model-002",
     "skill_tree_node_group_id": "G-024",
     "position_x": -1,
+    "position_y": -10
+  },
+  {
+    "group_id": "tree-model-002",
+    "skill_tree_node_group_id": "G-025",
+    "position_x": 1,
     "position_y": -10
   },
   {
@@ -2061,6 +2073,12 @@
   },
   {
     "group_id": "tree-model-003",
+    "skill_tree_node_group_id": "G-025",
+    "position_x": 1,
+    "position_y": -10
+  },
+  {
+    "group_id": "tree-model-003",
     "skill_tree_node_group_id": "R-001",
     "position_y": 1
   },
@@ -2931,6 +2949,12 @@
     "group_id": "tree-model-004",
     "skill_tree_node_group_id": "G-024",
     "position_x": -1,
+    "position_y": -10
+  },
+  {
+    "group_id": "tree-model-004",
+    "skill_tree_node_group_id": "G-025",
+    "position_x": 1,
     "position_y": -10
   },
   {

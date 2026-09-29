@@ -24,6 +24,18 @@
     "text": "Mega Coaster"
   },
   {
+    "id": "la-facility-a03-fishingshop-name",
+    "text": "Bae's Bits & Bobs"
+  },
+  {
+    "id": "la-facility-a03-resortshop-name",
+    "text": "Ichijou VIP Lounge"
+  },
+  {
+    "id": "la-facility-a03-station-name",
+    "text": "Princess Marine Ship"
+  },
+  {
     "id": "la-resource_obtainment_route-achievement",
     "text": "Achievs"
   },
@@ -52,6 +64,18 @@
     "text": "Event"
   },
   {
+    "id": "la-resource_obtainment_route-fishingpond1",
+    "text": "Fish Blue\n(Memancing)"
+  },
+  {
+    "id": "la-resource_obtainment_route-fishingpond2",
+    "text": "Lamy's Snow Dome\n(Memancing)"
+  },
+  {
+    "id": "la-resource_obtainment_route-fishingpond3",
+    "text": "Bokoboko Beacon\n(Memancing)"
+  },
+  {
     "id": "la-resource_obtainment_route-gacha",
     "text": "Gacha"
   },
@@ -73,6 +97,10 @@
   },
   {
     "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-004-chapter-01",
+    "text": "Event"
+  },
+  {
+    "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-005-chapter-01",
     "text": "Event"
   },
   {
@@ -162,6 +190,10 @@
   {
     "id": "la-resource_obtainment_route-shop",
     "text": "Toko"
+  },
+  {
+    "id": "la-resource_obtainment_route-splash_ball",
+    "text": "Splash Stadium\n(Splash Ball)"
   },
   {
     "id": "la-resource_obtainment_route-treasure",

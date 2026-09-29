@@ -47,9 +47,9 @@
     "stage_key_reappear_milliseconds": 5000,
     "stage_laser_gimmick_release_milliseconds": 10000,
     "stage_laser_gimmick_max_appear_count": 1,
-    "stage_camera_height": 24,
-    "stage_camera_angle": -32,
     "stage_key_use_icon_remaining_key_count_threshold": 3,
-    "result_voice_threshold_score_win_big": "2000"
+    "result_voice_threshold_score_win_big": "2000",
+    "is_cheat_detect_dgs_red_judgement_enabled": true,
+    "is_cheat_detect_red_disconnect_user_enabled": true
   }
 ]

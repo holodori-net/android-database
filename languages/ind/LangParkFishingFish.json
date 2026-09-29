@@ -1,1 +1,650 @@
-[]
+[
+  {
+    "id": "la-park_fishing_fish-0001-description",
+    "text": "Ikan fantasi yang dijuluki \"Tujuh Bintang\". Ledakan rasa gurih dibalik tubuhnya yang mungil berpadu sempurna dengan bumbu kabayaki. Malam ini, nikmatilah keberuntunganmu memancing sang Bintang!"
+  },
+  {
+    "id": "la-park_fishing_fish-0001-name",
+    "text": "Sarden"
+  },
+  {
+    "id": "la-park_fishing_fish-0002-description",
+    "text": "Si gesit yang namanya berubah seiring besar ukurannya. Varian terbesar, \"Terra Aji\", punya aroma lemak menggoda ketika dibakar dan dijamin bikin kamu ketagihan!"
+  },
+  {
+    "id": "la-park_fishing_fish-0002-name",
+    "text": "Ikan Selar"
+  },
+  {
+    "id": "la-park_fishing_fish-0003-description",
+    "text": "Dikenal sebagai \"Nona Pantai\" karena tampilannya yang indah dan memikat. Tapi jangan terkecoh, tarikannya yang kuat bakal membakar jiwa pemburu para pemancing. Kalau digoreng tepung, dagingnya yang renyah dan lembut dijamin meleleh di mulut!"
+  },
+  {
+    "id": "la-park_fishing_fish-0003-name",
+    "text": "Ikan Teri Gangga"
+  },
+  {
+    "id": "la-park_fishing_fish-0004-description",
+    "text": "Pencuri umpan paling handal yang siap mengelabui para pemancing. Tapi tenang, amarahmu akan luntur begitu mencicipi kelezatan sashiminya yang dicelup saus kecap asin hati! Pertarungan adu cerdik antara pemancing dan si pencuri umpan dimulai!"
+  },
+  {
+    "id": "la-park_fishing_fish-0004-name",
+    "text": "Ikan Pakol"
+  },
+  {
+    "id": "la-park_fishing_fish-0005-description",
+    "text": "Sosoknya yang bulat sungguh menggemaskan. Tetapi jika diolah oleh yang bukan ahlinya, siap-siap saja ini jadi santapan terakhirmu! Hanya koki bersertifikat yang sanggup menyajikan kelezatan terlarang ini."
+  },
+  {
+    "id": "la-park_fishing_fish-0005-name",
+    "text": "Ikan Buntal"
+  },
+  {
+    "id": "la-park_fishing_fish-0006-description",
+    "text": "Petinju laut yang sanggup menghancurkan cangkang keras. Dibalik lengannya yang kuat, tersimpan kelezatan pekat yang meledak saat direbus dengan garam! Manis, juicy, sebuah hidangan yang akan mengesankan para pecinta kuliner."
+  },
+  {
+    "id": "la-park_fishing_fish-0006-name",
+    "text": "Udang Ronggeng"
+  },
+  {
+    "id": "la-park_fishing_fish-0007-description",
+    "text": "Penghuni laut berbentuk bintang yang tergolong kuliner langka. Di balik bentuknya yang unik, tersimpan kelezatan gurih khas laut yang cuma sanggup diresapi oleh para kulineran sejati!"
+  },
+  {
+    "id": "la-park_fishing_fish-0007-name",
+    "text": "Bintang Laut"
+  },
+  {
+    "id": "la-park_fishing_fish-0008-description",
+    "text": "Si penghibur yang hobi melompat ke daratan. Memiliki penampilan imut dengan mata membulat yang jenaka dan mulut besar. Ngomong-ngomong, dia adalah master bernapas yang tak hanya pakai insang, tapi juga bisa bernapas lewat kulit!"
+  },
+  {
+    "id": "la-park_fishing_fish-0008-name",
+    "text": "Ikan Tembakul"
+  },
+  {
+    "id": "la-park_fishing_fish-0009-description",
+    "text": "Gerakannya yang anggun bikin dia layak jadi idola akuarium. Meskipun menyandang nama gurita, dia ini ubur-ubur sungguhan. Teksturnya yang kenyal memang menggiurkan kalau dicelup saus ponzu, tapi yang satu ini murni cuma buat hiasan."
+  },
+  {
+    "id": "la-park_fishing_fish-0009-name",
+    "text": "Ubur-ubur Bintik"
+  },
+  {
+    "id": "la-park_fishing_fish-0010-description",
+    "text": "Bintang akuarium yang mengalami metamorfosis menakjubkan dari betina ke jantan. Meski paling jago mencuri umpan para pemancing, rasa manis nan lembut saat dimasak kecap atau goreng tepung dijamin bikin lidah bergoyang. Karakter utama yang bikin gembira saat berhasil dipancing!"
+  },
+  {
+    "id": "la-park_fishing_fish-0010-name",
+    "text": "Ikan Keling"
+  },
+  {
+    "id": "la-park_fishing_fish-0011-description",
+    "text": "Sesuai namanya yang berarti \"Ikan Pembawa Musim Semi\", ikan ini menandai hadirnya musim baru. Daging empuknya yang menyerap kaldu, dijamin bikin sumpitmu tak berhenti bergerak. Penglihatannya yang sangat rabun justru jadi daya tarik tersendiri."
+  },
+  {
+    "id": "la-park_fishing_fish-0011-name",
+    "text": "Ikan Karang"
+  },
+  {
+    "id": "la-park_fishing_fish-0012-description",
+    "text": "Bagaikan kupu-kupu laut yang menari di taman karang. Meski dulu sempat dikonsumsi di beberapa daerah, kini posisinya sebagai ikan hias unggulan sudah tak tergoyahkan."
+  },
+  {
+    "id": "la-park_fishing_fish-0012-name",
+    "text": "Ikan Kepe-kepe"
+  },
+  {
+    "id": "la-park_fishing_fish-0013-description",
+    "text": "Sering dikira kerabat ikan kakap merah, padahal dia tergolong famili Kinmedai. Sebelum terpana oleh mata emasnya, nikmati dulu ketika dimasak kecap. Dagingnya yang begitu empuk dijamin meleleh di mulut!"
+  },
+  {
+    "id": "la-park_fishing_fish-0013-name",
+    "text": "Ikan Matari"
+  },
+  {
+    "id": "la-park_fishing_fish-0014-description",
+    "text": "Hanagoi Merah Jingga yang mewarnai terumbu karang. Warna indahnya memancarkan pesona yang memukau di akuarium. Idola tropis yang tak memuaskan perut, tetapi siap mewarnai hati para pemancing!"
+  },
+  {
+    "id": "la-park_fishing_fish-0014-name",
+    "text": "Ikan Hering"
+  },
+  {
+    "id": "la-park_fishing_fish-0015-description",
+    "text": "Dipanggil \"Permata Laut\", tapi wujud aslinya adalah moluska yang bisa berubah bentuk sesuka hati. Tanduk unik dan tubuh warna-warninya seolah seperti karakter dari dunia lain! Walau tak bisa dimakan, pesonanya dijamin bikin siapa pun ingin mengoleksinya!"
+  },
+  {
+    "id": "la-park_fishing_fish-0015-name",
+    "text": "Kelinci Laut"
+  },
+  {
+    "id": "la-park_fishing_fish-0016-description",
+    "text": "Ikan unik yang suka berjalan di dasar laut sambil mengeluarkan gelembung. Konon ikan ini favorit para bangsawan, tapi daya tarik utamanya tetap ada di piring sashimi! Tiap gigitan menyajikan rasa gurih yang siap bikin ketagihan!"
+  },
+  {
+    "id": "la-park_fishing_fish-0016-name",
+    "text": "Ikan Belalang"
+  },
+  {
+    "id": "la-park_fishing_fish-0017-description",
+    "text": "Sosok karismatik dunia perikanan telah tiba. Mulai dari tekstur sashiminya yang kenyal hingga keharumannya ketika dimasak bersama nasi, semuanya punya cita rasa kelas atas yang siap memeriahkan pesta penuh suka cita."
+  },
+  {
+    "id": "la-park_fishing_fish-0017-name",
+    "text": "Ikan Kakap"
+  },
+  {
+    "id": "la-park_fishing_fish-0018-description",
+    "text": "Namanya berasal dari sosoknya yang seperti bapak-bapak... Tapi seolah bilang \"jangan remehin bapak-bapak!\", ikan kelas atas ini justru membuktikan kelezatannya di berbagai masakan. Tepuk tangan buat kemampuannya menepis prasangka!"
+  },
+  {
+    "id": "la-park_fishing_fish-0018-name",
+    "text": "Ikan Jenggot"
+  },
+  {
+    "id": "la-park_fishing_fish-0019-description",
+    "text": "Ulahnya yang suka mengintip gemas dari dalam pasir benar-benar memikat hati. Tarian meliuk lucunya sanggup memuaskan hati para pemancing, mengalahkan pesona ikan mewah mana pun!"
+  },
+  {
+    "id": "la-park_fishing_fish-0019-name",
+    "text": "Belut Taman"
+  },
+  {
+    "id": "la-park_fishing_fish-0020-description",
+    "text": "Fashionista menakjubkan yang handal mengganti corak untuk mengecoh musuh. Ikan dengan visual terbaik yang siap memuaskan selera estetikamu!"
+  },
+  {
+    "id": "la-park_fishing_fish-0020-name",
+    "text": "Ikan Angel Batman"
+  },
+  {
+    "id": "la-park_fishing_fish-0022-description",
+    "text": "Corak oranye-hitamnya yang mencolok bagaikan kobaran api. Meskipun berparas imut, sifatnya sangat berapi-api memperebutkan wilayah. Kilau cahayanya sanggup membakar semangat siapa pun yang memandanginya!"
+  },
+  {
+    "id": "la-park_fishing_fish-0022-name",
+    "text": "Injel Merah Api"
+  },
+  {
+    "id": "la-park_fishing_fish-0023-description",
+    "text": "Setelah berpisah dari masa lalu saat dianggap subspesies, di tahun 2017 ia resmi bangkit sebagai spesies baru! Jangan remehkan dia cuma sebagai ikan hias, karena di beberapa daerah, ia adalah kuda hitam yang sangat diandalkan buat olahan goreng tepung hingga masak kecap!"
+  },
+  {
+    "id": "la-park_fishing_fish-0023-name",
+    "text": "Ikan Betok Ekor Putih"
+  },
+  {
+    "id": "la-park_fishing_fish-0024-description",
+    "text": "Raja panjang umur di laut pemilik legenda keabadian. Begitu dipanggang dengan sentuhan bawang putih, lemak gurih dan daging kenyalnya siap menyihir lidah siapa pun! Cita rasa mahakarya yang disukai di seluruh penjuru dunia."
+  },
+  {
+    "id": "la-park_fishing_fish-0024-name",
+    "text": "Lobster"
+  },
+  {
+    "id": "la-park_fishing_fish-0027-description",
+    "text": "Sosok populer di akuarium berkat wujudnya yang lucu. Siapa sangka, ia juga bahan makanan favorit warga lokal sejak dulu. Menenangkan saat dipandang, mengejutkan saat disantap, mahakarya laut dengan kenikmatan ganda."
+  },
+  {
+    "id": "la-park_fishing_fish-0027-name",
+    "text": "Ikan Mola-mola"
+  },
+  {
+    "id": "la-park_fishing_fish-0028-description",
+    "text": "Ikan idaman yang selalu masuk daftar impian para pemancing. Tingkahnya yang suka jalan di dasar laut dan mengejutkan lawan pakai sirip dadanya mirip komedian, tapi gaya berenangnya yang mengepakkan sirip lebar sungguh terlihat keren."
+  },
+  {
+    "id": "la-park_fishing_fish-0028-name",
+    "text": "Gurnheart"
+  },
+  {
+    "id": "la-park_fishing_fish-0029-description",
+    "text": "Ikan idola impian para pemancing. Dikenal sebagai \"Si Otak Dunia Ikan\" berkat kejeniusannya. Pesona renang anggunnya serta tatapan matanya yang sarat kecerdasan bakal bikin siapa pun diam terkesima."
+  },
+  {
+    "id": "la-park_fishing_fish-0029-name",
+    "text": "Mantakademik"
+  },
+  {
+    "id": "la-park_fishing_fish-0030-description",
+    "text": "Udang mewah berwarna cerah yang jadi idaman para pemancing. Penampilannya memang terkesan glamor ala selebriti, tapi saat kaget, aksinya meliukkan badan lalu melompat mundur dengan \"gerakan aneh\" dijamin bakal bikin tersenyum."
+  },
+  {
+    "id": "la-park_fishing_fish-0030-name",
+    "text": "Ririprawn"
+  },
+  {
+    "id": "la-park_fishing_fish-0034-description",
+    "text": "Meski memiliki reputasi bangsawan yang diakui klan Shogun, sebenarnya ia adalah sosok merakyat yang mampu bertahan di alam liar. Ketika disajikan sebagai tempura garing keemasan di musim dingin, kelezatannya sanggup menyaingi hidangan kelas atas mana pun!"
+  },
+  {
+    "id": "la-park_fishing_fish-0034-name",
+    "text": "Ikan Shisamo"
+  },
+  {
+    "id": "la-park_fishing_fish-0035-description",
+    "text": "Ikan migrasi bersisik perak berkilau yang dinamai \"Pedang Musim Gugur\". Suara lemaknya yang mendesis di panggangan arang adalah penanda hadirnya musim gugur. Lembut meleleh sebagai sashimi, harum saat dipanggang, ia adalah sajian favorit rakyat jelata!"
+  },
+  {
+    "id": "la-park_fishing_fish-0035-name",
+    "text": "Ikan Sauri Pasifik"
+  },
+  {
+    "id": "la-park_fishing_fish-0036-description",
+    "text": "Sang kurir samudra yang menyandang nama \"Ikan Pembawa Pesan Musim Semi\". Kilau keemasan yang dipercaya membawa keberuntungan dan menyebarkan aroma awal musim semi. Ketika direbus dengan saus manis yang ditaruh di atas mi soba, menghadirkan kegembiraan setelah musim dingin yang panjang!"
+  },
+  {
+    "id": "la-park_fishing_fish-0036-name",
+    "text": "Ikan Herring"
+  },
+  {
+    "id": "la-park_fishing_fish-0037-description",
+    "text": "Keajaiban biru di sepanjang garis pantai yang diam-diam jadi pendamping sempurna buat minum. Mau diasinkan atau dicelup saus sumiso, aroma lautnya yang pekat siap bikin lapar dan memikat perut siapa pun!"
+  },
+  {
+    "id": "la-park_fishing_fish-0037-name",
+    "text": "Cumi Kunang-kunang"
+  },
+  {
+    "id": "la-park_fishing_fish-0038-description",
+    "text": "Entertainer sejati yang memikat lawan jenis lewat tarian capitnya. Lezat direbus hingga merah merona dan hidangan steamboat! Nikmati bubur penutupnya untuk menyapu bersih sisa kaldu gurih yang pekat!"
+  },
+  {
+    "id": "la-park_fishing_fish-0038-name",
+    "text": "Kepiting"
+  },
+  {
+    "id": "la-park_fishing_fish-0039-description",
+    "text": "Pembawa keberuntungan yang melambangkan umur panjang dan penangkal bala. Enak dimasak pedas, atau digoreng tepung. Santap habis untuk meningkatkan keberuntunganmu!"
+  },
+  {
+    "id": "la-park_fishing_fish-0039-name",
+    "text": "Udang"
+  },
+  {
+    "id": "la-park_fishing_fish-0040-description",
+    "text": "Si rakus berbaju zirah duri hitam yang gemar menyapu bersih rumput laut. Ketika disantap bersama nasi hangat, aroma segar laut dan rasa manis siap bikin perutmu ketagihan!"
+  },
+  {
+    "id": "la-park_fishing_fish-0040-name",
+    "text": "Bulu Babi"
+  },
+  {
+    "id": "la-park_fishing_fish-0041-description",
+    "text": "Wujudnya yang seram dengan duri beracun memang bikin ragu, padahal di baliknya tersembunyi daging putih berkualitas tinggi. Digoreng garing sampai ke tulang, cita rasa laut yang akan meledak di mulut!"
+  },
+  {
+    "id": "la-park_fishing_fish-0041-name",
+    "text": "Ikan Lepu Batu"
+  },
+  {
+    "id": "la-park_fishing_fish-0042-description",
+    "text": "Predator ulung yang bersembunyi di pasir demi menghabisi mangsa dalam sekali serangan! Diiris tipis dan disajikan dengan lobak parut dan cabai, pasti akan memukau seleramu!"
+  },
+  {
+    "id": "la-park_fishing_fish-0042-name",
+    "text": "Ikan Flounder"
+  },
+  {
+    "id": "la-park_fishing_fish-0043-description",
+    "text": "Ikan penyabar yang suka bersembunyi di pasir laut tenang. Kegigihannya menghasilkan daging yang padat gurih dan nikmat. Berbalut kuah rebusan pekat yang bikin sumpit tak berhenti, dialah sang raja hidangan rebusan!"
+  },
+  {
+    "id": "la-park_fishing_fish-0043-name",
+    "text": "Ikan Sebelah"
+  },
+  {
+    "id": "la-park_fishing_fish-0044-description",
+    "text": "Bagai kristal hidup yang berkilauan di lautan beku. Wujudnya yang mengalirkan darah bening transparan benar-benar menggugah rasa ingin tahu siapa pun yang melihatnya. Sekali berhasil dipancing, dijamin bakal terbuai oleh pesona misteriusnya!"
+  },
+  {
+    "id": "la-park_fishing_fish-0044-name",
+    "text": "Ikan Es"
+  },
+  {
+    "id": "la-park_fishing_fish-0045-description",
+    "text": "Meski punya asal-usul nama nan cantik yaitu \"Ikan Bunga\", sosok padat gizi dari perairan karang ini makin mantap jika disantap bersama parutan lobak segar. Nasi putih dijamin langsung ludes! Inilah jawara kuliner dari utara yang jadi menu langganan di izakaya!"
+  },
+  {
+    "id": "la-park_fishing_fish-0045-name",
+    "text": "Atka Mackerel"
+  },
+  {
+    "id": "la-park_fishing_fish-0046-description",
+    "text": "Sekilas tampak seperti pedang yang tajam, tapi dalamnya adalah \"Pangeran Daging Putih\" yang gurih! Dipanggang garing jelas nikmat, tapi jika ditumis dengan mentega, kelezatannya akan memikat lidahmu dalam sekejap!"
+  },
+  {
+    "id": "la-park_fishing_fish-0046-name",
+    "text": "Ikan Layur"
+  },
+  {
+    "id": "la-park_fishing_fish-0047-description",
+    "text": "Karya seni kaca hidup yang mengapung santai mengikuti alur arus laut. Gerakan cantiknya yang disoroti lampu akuarium dijamin menenangkan jiwamu."
+  },
+  {
+    "id": "la-park_fishing_fish-0047-name",
+    "text": "Ubur-ubur Bulan"
+  },
+  {
+    "id": "la-park_fishing_fish-0048-description",
+    "text": "Meski dijuluki \"King\", ia memiliki nama Jepang yang mirip samurai, \"Masunosuke\". Diolah jadi steak tebal berbumbu mentega, lelehan lemak gurihnya dijamin bakal menebas lidahmu dalam satu gigitan!"
+  },
+  {
+    "id": "la-park_fishing_fish-0048-name",
+    "text": "Salmon Raja"
+  },
+  {
+    "id": "la-park_fishing_fish-0049-description",
+    "text": "Meskipun terlihat sederhana dan berukuran besar, raksasa laut dalam ini mendapat julukan \"Serba Toro\"! Satu irisan saja, sensasi gurih lemaknya yang pekat dijamin langsung meledak memenuhi mulutmu. Eits, tapi hati-hati jangan sampai makan terlalu banyak!"
+  },
+  {
+    "id": "la-park_fishing_fish-0049-name",
+    "text": "Ikan Skilfish"
+  },
+  {
+    "id": "la-park_fishing_fish-0050-description",
+    "text": "Gaya berenangnya yang berdiri tegak dan meliuk santai menjadikannya bintang favorit utama di akuarium! Setelah menerima titipan telur dari sang betina, si jantanlah yang merawat dan mencurahkan kasih sayang. Sosoknya sudah lama dikenal sebagai \"Ayah Idaman\" nomor satu di samudra!"
+  },
+  {
+    "id": "la-park_fishing_fish-0050-name",
+    "text": "Kuda Laut"
+  },
+  {
+    "id": "la-park_fishing_fish-0051-description",
+    "text": "Dengan ukurannya yang sangat besar, ikan pari ini dapat mencapai kecepatan lebih dari 100 km/jam! Sekali tertabrak bisa fatal, tapi kelezatan setiap bagiannya benar-benar puncak sajian kelas dunia!"
+  },
+  {
+    "id": "la-park_fishing_fish-0051-name",
+    "text": "Ikan Tuna"
+  },
+  {
+    "id": "la-park_fishing_fish-0052-description",
+    "text": "Makhluk pipih misterius yang menghuni kegelapan paling kelam. Karena tinggal di laut dalam, ia sangat sensitif terhadap cahaya dan memiliki tubuh yang amat rapuh. Jika beruntung bisa bertemu dengannya, pastikan untuk mengabadikan keindahannya dalam ingatanmu!"
+  },
+  {
+    "id": "la-park_fishing_fish-0052-name",
+    "text": "Gurita Dumbo"
+  },
+  {
+    "id": "la-park_fishing_fish-0054-description",
+    "text": "Fosil hidup yang muncul dari laut dalam ini telah bertahan hidup selama 500 tahun. Mereka ini menyadarkan kita betapa singkatnya sejarah peradaban manusia."
+  },
+  {
+    "id": "la-park_fishing_fish-0054-name",
+    "text": "Nautilus"
+  },
+  {
+    "id": "la-park_fishing_fish-0055-description",
+    "text": "Gangster laut yang akan menyerang siapa pun yang berani memasuki wilayahnya. Dia sulit untuk ditangkap dan dimasak, tetapi setelah digoreng, ikan mewah ini siap memberikan pengalaman kuliner yang luar biasa!"
+  },
+  {
+    "id": "la-park_fishing_fish-0055-name",
+    "text": "Belut Moray"
+  },
+  {
+    "id": "la-park_fishing_fish-0056-description",
+    "text": "Selendang perak yang memancarkan keagungan sempurna sesuai namanya. Tubuh raksasanya yang bisa mencapai panjang 8 meter menyimpan keindahan sekelas legenda perkotaan! Ayo temukan ikan super langka yang muncul dari keheningan laut dalam ini!"
+  },
+  {
+    "id": "la-park_fishing_fish-0056-name",
+    "text": "Ikan Sabuk"
+  },
+  {
+    "id": "la-park_fishing_fish-0057-description",
+    "text": "Sosok raksasa 18 meter yang muncul dari laut pekat seperti dalam legenda. Mengagumkan, tapi usianya hanya 3 tahun. Kalau beruntung menemukannya, pastikan untuk mengucapkan \"Terima kasih atas kerja kerasmu!\" dengan lembut padanya!"
+  },
+  {
+    "id": "la-park_fishing_fish-0057-name",
+    "text": "Cumi-cumi Raksasa"
+  },
+  {
+    "id": "la-park_fishing_fish-0060-description",
+    "text": "Tak cuma namanya, mulut besar dan tubuh 7 meternya benar-benar memicu rasa takut! Namun, karena ekologinya masih penuh misteri, kalau kebetulan menangkapnya, pastikan untuk menghubungi pihak berwenang!"
+  },
+  {
+    "id": "la-park_fishing_fish-0060-name",
+    "text": "Hiu Mulut Besar"
+  },
+  {
+    "id": "la-park_fishing_fish-0061-description",
+    "text": "Dikagumi oleh para pemancing, penampilannya yang cantik benar-benar membuatnya tampak seperti \"Peri Es\", tapi aslinya ia cukup agresif. Hati-hati, kalau kamu bengong di dekatnya, tentakelnya siap menyambar dan menegurmu tanpa ampun."
+  },
+  {
+    "id": "la-park_fishing_fish-0061-name",
+    "text": "Snowsea Angel"
+  },
+  {
+    "id": "la-park_fishing_fish-0062-description",
+    "text": "Ikan impian yang ingin ditangkap semua pemancing suatu hari nanti! Punya daya tarik berupa bibir seksi dan motif tubuh yang imut! Uniknya, corak mirip topi bajak laut di atas kepalanya kerap jadi bahan debat para nelayan soal bisa dicopot atau tidak."
+  },
+  {
+    "id": "la-park_fishing_fish-0062-name",
+    "text": "Vixen Angelfish"
+  },
+  {
+    "id": "la-park_fishing_fish-0063-description",
+    "text": "Ikan impian yang wajib dipancing! Punya telinga tikus padahal ikan, berwujud mirip ikan kaca piring padahal beda keluarga. Pokoknya makhluk satu ini adalah wujud nyata dari sebuah \"kekacauan\"."
+  },
+  {
+    "id": "la-park_fishing_fish-0063-name",
+    "text": "Beaked Jitterbug"
+  },
+  {
+    "id": "la-park_fishing_fish-0067-description",
+    "text": "Dijuluki \"Serigala\", kamu bakal takjub oleh dahsyatnya tarikan kail ikan ini kalau mengira dia hanya ikan kembung. Setelah melewati pertarungan legendaris, raihlah rasa kemenangan berupa lemak gurih yang bahkan menyaingi perut tuna terbaik!"
+  },
+  {
+    "id": "la-park_fishing_fish-0067-name",
+    "text": "Ikan Kuwe"
+  },
+  {
+    "id": "la-park_fishing_fish-0068-description",
+    "text": "Pangeran kecepatan yang membuang kantung renangnya demi meluncur kencang! Daging kokohnya yang ditempa lautan ganas akan memberikan kelezatan maksimal saat dipanggang dengan saus miso. Harumnya yang gurih dijamin bikin kamu tambah semangat!"
+  },
+  {
+    "id": "la-park_fishing_fish-0068-name",
+    "text": "Ikan Tenggiri"
+  },
+  {
+    "id": "la-park_fishing_fish-0069-description",
+    "text": "Hanya mereka yang sanggup menerjang ombak ganas dan berhasil mencapai puncaklah yang berhak menyandang gelar Suzuki! Ikan pembawa keberuntungan yang cocok diolah jadi apa saja, mulai dari sashimi, meuniere, sampai dimasak kecap!"
+  },
+  {
+    "id": "la-park_fishing_fish-0069-name",
+    "text": "Kakap Putih Jepang"
+  },
+  {
+    "id": "la-park_fishing_fish-0070-description",
+    "text": "Melesat hingga 40 km/jam. Dengan semburan air dari organ corongnya, cumi-cumi ini berubah jadi pembalap samudra. Hari demi hari, ia terus berpacu dengan para pemancing yang terpesona dengan keindahan daging sashimi transparan miliknya."
+  },
+  {
+    "id": "la-park_fishing_fish-0070-name",
+    "text": "Cumi Sotong"
+  },
+  {
+    "id": "la-park_fishing_fish-0071-description",
+    "text": "Si pemburu penguasa laut Selatan. Meski dikenal dengan rasanya yang lezat, ada varian di kawasan tertentu yang beracun. Sensasi bahaya inilah yang menjadikannya kuliner terlarang, khusus untuk mereka yang bernyali besar?!"
+  },
+  {
+    "id": "la-park_fishing_fish-0071-name",
+    "text": "Lencam Moncong"
+  },
+  {
+    "id": "la-park_fishing_fish-0072-description",
+    "text": "Prajurit yang mengusir musuh dengan seribu jarum. Namun, duri di baju zirahnya hanya berjumlah 400, sebuah kenyataan yang menggemaskan. Kalau kamu melihatnya, jangan protes ya, dukung dia sepenuh hati!"
+  },
+  {
+    "id": "la-park_fishing_fish-0072-name",
+    "text": "Ikan Buntal Duri"
+  },
+  {
+    "id": "la-park_fishing_fish-0073-description",
+    "text": "Ikan tropis berpenampilan bak permadani indah dengan ciri khas tanduk panjang yang memikat. Konon, ikan ini membawa keberuntungan sehingga begitu populer dijadikan ikan hias! Memeliharanya akan memberimu sejuta harapan!"
+  },
+  {
+    "id": "la-park_fishing_fish-0073-name",
+    "text": "Ikan Layaran Karang"
+  },
+  {
+    "id": "la-park_fishing_fish-0074-description",
+    "text": "Kibasan sirip yang anggun, wujudnya seperti bunga yang mekar di lautan sukses memikat siapa saja yang memandang. Namun, di balik sirip indahnya itu tersembunyi duri beracun yang siap memberikan pelukan maut bagi siapa pun yang mendekat."
+  },
+  {
+    "id": "la-park_fishing_fish-0074-name",
+    "text": "Ikan Singa"
+  },
+  {
+    "id": "la-park_fishing_fish-0075-description",
+    "text": "Dijuluki kipas lipat karena siluetnya yang unik, padahal dagingnya adalah jenis udang kelas atas yang sejajar dengan Lobster Ise! Nikmati kelezatan mewahnya lewat sajian sashimi atau sup miso, dijamin akan meningkatkan selera kulinermu!"
+  },
+  {
+    "id": "la-park_fishing_fish-0075-name",
+    "text": "Lobster Kipas"
+  },
+  {
+    "id": "la-park_fishing_fish-0076-description",
+    "text": "Meskipun sosoknya serba hitam sesuai namanya, dia justru berubah jadi putih dengan aksen pink manis di sirip ekor ketika sedang bersemangat! Sosok fashionista serbabisa yang menyembunyikan pesonanya di balik nama si hitam!"
+  },
+  {
+    "id": "la-park_fishing_fish-0076-name",
+    "text": "Ikan Pemicu Hitam"
+  },
+  {
+    "id": "la-park_fishing_fish-0077-description",
+    "text": "Dijuluki Menuke karena matanya yang melotot keluar saat ditarik naik dari laut. Dagingnya matang di laut dalam, membuatnya dikategorikan sebagai ikan kelas atas. Kalau gagal memancingnya, tinggal meluncur saja ke restoran mewah!"
+  },
+  {
+    "id": "la-park_fishing_fish-0077-name",
+    "text": "Ikan Batu Merah"
+  },
+  {
+    "id": "la-park_fishing_fish-0078-description",
+    "text": "Kuatnya tarikan ikan ini bikin darah pemancing bergejolak! Meski julukannya di berbagai daerah berbeda-beda dan bikin sedikit bingung, cita rasanya dijamin kualitas jempolan! Mau dijadikan sashimi atau sushi, kelezatannya siap memuaskan perutmu!"
+  },
+  {
+    "id": "la-park_fishing_fish-0078-name",
+    "text": "Ikan Kuwe Amberjack"
+  },
+  {
+    "id": "la-park_fishing_fish-0079-description",
+    "text": "Dipanggang di atas api jerami, lalu disantap dengan jahe dan myoga, inilah cita rasa istimewa yang disukai warga Edo jaman dulu! Ditambah lagi, ikan ini tinggi protein, rendah lemak, kaya zat besi, dan efektif memulihkan stamina. Pokoknya, wajib diiris tebal-tebal!"
+  },
+  {
+    "id": "la-park_fishing_fish-0079-name",
+    "text": "Ikan Cakalang"
+  },
+  {
+    "id": "la-park_fishing_fish-0080-description",
+    "text": "Ikan Kanburi unggulan dari lautan musim dingin yang ganas! Sensasi kuah kaldu hangat dan saus ponzu, lezatnya sungguh luar biasa! Santap habis ikan pembawa hoki ini dan tingkatkan keberuntunganmu!"
+  },
+  {
+    "id": "la-park_fishing_fish-0080-name",
+    "text": "Ikan Ekor Kuning"
+  },
+  {
+    "id": "la-park_fishing_fish-0081-description",
+    "text": "Cara ia menghisap mangsanya dengan moncongnya yang panjang bak seorang musisi jazz yang memainkan terompet. Mulai dari menyamar sampai menyusup ke kawanan ikan besar, ia menikmati pertunjukan improvisasi layaknya sebuah klub jazz."
+  },
+  {
+    "id": "la-park_fishing_fish-0081-name",
+    "text": "Ikan Terompet"
+  },
+  {
+    "id": "la-park_fishing_fish-0082-description",
+    "text": "Bayangan raksasa di kedalaman terumbu karang yang gelap. Karena jumlahnya yang langka, ia dijuluki sebagai ikan mewah legendaris. Daging putihnya yang kaya kolagen bahkan lebih lezat dibanding ikan buntal. Bersiaplah mengubah standar kulinermu, mulai dari sajian hot pot hingga bubur!"
+  },
+  {
+    "id": "la-park_fishing_fish-0082-name",
+    "text": "Kerapu Kertang"
+  },
+  {
+    "id": "la-park_fishing_fish-0083-description",
+    "text": "Dikenal sebagai \"Pembersih Laut Dalam\", wujudnya mirip dengan Kutu Kayu Raksasa. Ada rekor yang mencatat bahwa ia sanggup hidup tanpa makanan hampir 5 tahun, benar-benar hidup hemat energi. Kalau ketemu, pastikan untuk mengagumi bentuknya yang menakjubkan!"
+  },
+  {
+    "id": "la-park_fishing_fish-0083-name",
+    "text": "Isopoda Raksasa"
+  },
+  {
+    "id": "la-park_fishing_fish-0085-description",
+    "text": "Suka menempel di ikan besar demi remah makanan, bahkan namanya pun meminjam nama hiu! Dibuat sashimi atau dipanggang, gurihnya lemak ikan ini beneran meleleh di mulut. Tak heran kalau ia jadi tangkapan istimewa favorit para pemancing!"
+  },
+  {
+    "id": "la-park_fishing_fish-0085-name",
+    "text": "Ikan Remora"
+  },
+  {
+    "id": "la-park_fishing_fish-0086-description",
+    "text": "Terbagi dari spesies ikan dan reptil, sebagian jenis ikan bisa dimakan. Jenis reptilnya bahkan jadi santapan obat mewah di beberapa daerah, tapi awas karena ia beracun! Beneran buah terlarang yang tersembunyi di dasar laut!"
+  },
+  {
+    "id": "la-park_fishing_fish-0086-name",
+    "text": "Ular Laut"
+  },
+  {
+    "id": "la-park_fishing_fish-0088-description",
+    "text": "Roket lautan sepanjang 2 meter yang sanggup melesat hingga 50 km/jam. Kalau berpapasan di dalam air, ia bakal menatapmu dengan pandangan dingin, dan ditambah lagi ada risiko racunnya... Beneran pemacu adrenalin sejati!"
+  },
+  {
+    "id": "la-park_fishing_fish-0088-name",
+    "text": "Ikan Alu-alu"
+  },
+  {
+    "id": "la-park_fishing_fish-0089-description",
+    "text": "Ikan pari dengan mantelnya yang besar dan mengembang, melayang bebas di lautan luas. Sirip di kedua sisinya jadi bagian favorit untuk dikonsumsi di beberapa daerah, dan ketika digoreng, konon teksturnya mirip dengan ayam."
+  },
+  {
+    "id": "la-park_fishing_fish-0089-name",
+    "text": "Pari Manta"
+  },
+  {
+    "id": "la-park_fishing_fish-0091-description",
+    "text": "Bentuk kepalanya yang unik seperti palu sering kali dianggap imut, padahal sebenarnya sangat fungsional. Ia mampu mendeteksi denyut jantung hingga aliran listrik terlemah di dalam laut. Selain itu dia bisa diolah jadi karaage, gorengan tepung sampai olahan kamaboko!"
+  },
+  {
+    "id": "la-park_fishing_fish-0091-name",
+    "text": "Hiu Martil"
+  },
+  {
+    "id": "la-park_fishing_fish-0093-description",
+    "text": "Ikan terbesar di dunia yang bisa tumbuh sampai 20 meter! Tiap ikan punya corak jinbei unik yang berbeda. Gaya berenangnya yang tenang di antara kawanan ikan kecil membuktikan kalau dialah sang \"Raja Lautan\" sejati."
+  },
+  {
+    "id": "la-park_fishing_fish-0093-name",
+    "text": "Hiu Paus"
+  },
+  {
+    "id": "la-park_fishing_fish-0094-description",
+    "text": "Ikan impian yang sangat ingin ditangkap oleh setiap pemancing suatu hari nanti. Meskipun mirip dengan ikan picasso triggerfish, tingkat kejahilannya jauh di atas itu. Bocah nakal yang menggemaskan ini suka sekali memancing keributan di mana-mana, tapi anehnya sama sekali tidak bisa dibenci."
+  },
+  {
+    "id": "la-park_fishing_fish-0094-name",
+    "text": "Downpour Jawfish"
+  },
+  {
+    "id": "la-park_fishing_fish-0095-description",
+    "text": "Kepiting dengan corak mirip shuriken yang jadi impian para pemancing. Ciri khasnya ada pada sepasang capit kebanggaannya yang berpotensi memiliki kekuatan cengkeraman melebihi 50 kg, sehingga ia ditakuti sebagai gorila lautan."
+  },
+  {
+    "id": "la-park_fishing_fish-0095-name",
+    "text": "Angelrove Crab"
+  },
+  {
+    "id": "la-park_fishing_fish-0096-description",
+    "text": "Ikan idaman para pemancing dengan kepala mencolok yang mirip topi badut. Biasanya bersembunyi sambil berkamuflase di antara batu atau dasar berpasir, lalu sesekali tiba-tiba menyapa \"Ada aku di sini~!\" untuk menghibur para penyelam."
+  },
+  {
+    "id": "la-park_fishing_fish-0096-name",
+    "text": "Jester Frogfish"
+  },
+  {
+    "id": "la-park_fishing_fish-item-facility-area_a03-002-1-description",
+    "text": "Logam yang hanyut"
+  },
+  {
+    "id": "la-park_fishing_fish-item-facility-area_a03-002-1-name",
+    "text": "Logam yang hanyut"
+  }
+]

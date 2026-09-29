@@ -24,6 +24,18 @@
     "text": "勤工飞车"
   },
   {
+    "id": "la-facility-a03-fishingshop-name",
+    "text": "Bae's 混沌杂货"
+  },
+  {
+    "id": "la-facility-a03-resortshop-name",
+    "text": "一条贵宾会所"
+  },
+  {
+    "id": "la-facility-a03-station-name",
+    "text": "玛琳公主号"
+  },
+  {
     "id": "la-resource_obtainment_route-achievement",
     "text": "成就"
   },
@@ -52,6 +64,18 @@
     "text": "活动"
   },
   {
+    "id": "la-resource_obtainment_route-fishingpond1",
+    "text": "青之垂钓场\n（钓鱼）"
+  },
+  {
+    "id": "la-resource_obtainment_route-fishingpond2",
+    "text": "菈米的冰天雪堡\n（钓鱼）"
+  },
+  {
+    "id": "la-resource_obtainment_route-fishingpond3",
+    "text": "波可波可灯塔\n（钓鱼）"
+  },
+  {
     "id": "la-resource_obtainment_route-gacha",
     "text": "扭蛋"
   },
@@ -73,6 +97,10 @@
   },
   {
     "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-004-chapter-01",
+    "text": "活动"
+  },
+  {
+    "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-005-chapter-01",
     "text": "活动"
   },
   {
@@ -162,6 +190,10 @@
   {
     "id": "la-resource_obtainment_route-shop",
     "text": "商店"
+  },
+  {
+    "id": "la-resource_obtainment_route-splash_ball",
+    "text": "水花运动场\n（水球大战）"
   },
   {
     "id": "la-resource_obtainment_route-treasure",

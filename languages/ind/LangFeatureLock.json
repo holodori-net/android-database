@@ -116,8 +116,20 @@
     "text": "Peringkat Rating Skor Tertinggi"
   },
   {
+    "id": "la-feature_lock-park_area03_sea_area2-title",
+    "text": "Area lautan baru"
+  },
+  {
+    "id": "la-feature_lock-park_area03_sea_area3-title",
+    "text": "Area lautan baru"
+  },
+  {
     "id": "la-feature_lock-park_area_quest-title",
     "text": "Misi Area"
+  },
+  {
+    "id": "la-feature_lock-park_boat-title",
+    "text": "Boat"
   },
   {
     "id": "la-feature_lock-park_character_quest-title",
@@ -154,6 +166,14 @@
   {
     "id": "la-feature_lock-park_emotion-title",
     "text": "Emotikon"
+  },
+  {
+    "id": "la-feature_lock-park_fishing-rod-level-up",
+    "text": "Tingkatkan Alat Pancing"
+  },
+  {
+    "id": "la-feature_lock-park_fishing-title",
+    "text": "Memancing"
   },
   {
     "id": "la-feature_lock-park_high_low-title",
@@ -198,6 +218,10 @@
   {
     "id": "la-feature_lock-skill_tree-title",
     "text": "Holomem Board"
+  },
+  {
+    "id": "la-feature_lock-splash_ball",
+    "text": "Splash Ball"
   },
   {
     "id": "la-feature_lock-story-title",

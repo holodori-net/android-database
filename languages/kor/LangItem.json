@@ -528,6 +528,14 @@
     "text": "이벤트 배지"
   },
   {
+    "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-description",
+    "text": "이벤트 교환소의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-name",
+    "text": "이벤트 배지"
+  },
+  {
     "id": "la-item-event_badge-marathon_event-relay-001-all-description",
     "text": "이벤트 교환소(전체)의 아이템과 교환할 수 있는 배지.\n유효 기한 이후에는 holo골드로 변환."
   },
@@ -688,6 +696,30 @@
     "text": "IC칩"
   },
   {
+    "id": "la-item-facility-area_a03-001-1-description",
+    "text": "시설 건축 및 강화 등에 사용하는 아이템"
+  },
+  {
+    "id": "la-item-facility-area_a03-001-1-name",
+    "text": "조개껍데기"
+  },
+  {
+    "id": "la-item-facility-area_a03-002-1-description",
+    "text": "시설 건축 및 강화 등에 사용하는 아이템"
+  },
+  {
+    "id": "la-item-facility-area_a03-002-1-name",
+    "text": "표류 금속"
+  },
+  {
+    "id": "la-item-facility-area_a03-003-1-description",
+    "text": "시설 건축 및 강화 등에 사용하는 아이템"
+  },
+  {
+    "id": "la-item-facility-area_a03-003-1-name",
+    "text": "유목"
+  },
+  {
     "id": "la-item-gacha-cmn_sticker-01-description",
     "text": "Holo스티커 교환소에서 아이템과 교환할 수 있는 스티커."
   },
@@ -768,6 +800,14 @@
     "text": "메가 스피어 코인"
   },
   {
+    "id": "la-item-mini_game_fishing_coin-description",
+    "text": "소다팝 라군의 교환소 등에서 사용하는 아이템."
+  },
+  {
+    "id": "la-item-mini_game_fishing_coin-name",
+    "text": "소다팝 코인"
+  },
+  {
     "id": "la-item-mini_game_reward_up_stamina_recover-description",
     "text": "미니 게임 부스트에 교환 가능한 아이템."
   },
@@ -798,6 +838,22 @@
   {
     "id": "la-item-quest-area-a01-17-1-2-name",
     "text": "청소 도구"
+  },
+  {
+    "id": "la-item-quest-area-a03-05-1-1-description",
+    "text": "라플라스가 깜빡 잊고 두고 간 낚싯대. 낚시에 빠질 수 없는 소중한 파트너."
+  },
+  {
+    "id": "la-item-quest-area-a03-05-1-1-name",
+    "text": "라플라스의 낚싯대"
+  },
+  {
+    "id": "la-item-quest-area-a03-12-1-1-description",
+    "text": "폴카가 대폭투하는 바람에 바다로 날아간 비치볼. 빨리 가지고 돌아가 공주님을 즐겁게 해드려야 해!"
+  },
+  {
+    "id": "la-item-quest-area-a03-12-1-1-name",
+    "text": "비치볼"
   },
   {
     "id": "la-item-quest-main-w1-01-02-1-4-description",

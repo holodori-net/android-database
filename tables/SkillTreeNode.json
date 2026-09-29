@@ -5902,6 +5902,29 @@
     ]
   },
   {
+    "group_id": "G-025",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_NODE_TYPE_ALL_MEMBER",
+      "number": 4
+    },
+    "grade": 1,
+    "skill_tree_effect_id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-splash_ball",
+    "view_condition_group_id": "cd-player_level-30",
+    "consumption_skill_tree_point_quantity": 3,
+    "auto_selection_priority": 1,
+    "consumptions": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_allmember-1",
+        "quantity": "160"
+      }
+    ]
+  },
+  {
     "group_id": "R-001",
     "number": 1,
     "type": {

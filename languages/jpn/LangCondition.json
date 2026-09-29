@@ -20,6 +20,30 @@
     "text": "メインクエスト｢爆走！メガサーキット！｣をクリアすると解放できます"
   },
   {
+    "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup",
+    "text": "メインクエスト｢Build Up！フィッシングポイント｣をクリアすると解放できます"
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup-description",
+    "text": "メインクエスト｢Build Up！フィッシングポイント｣をクリアすると解放できます"
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a03-resortshop-first_time_limited-next_lineup_view",
+    "text": "11月以降毎月リセット"
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup",
+    "text": "メインクエスト｢水上のラグジュアリー施設｣をクリアすると解放できます"
+  },
+  {
+    "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup-description",
+    "text": "メインクエスト｢水上のラグジュアリー施設｣をクリアすると解放できます"
+  },
+  {
+    "id": "la-cd-exchange_booth_fixed_item_unlock-item-mini-game-chase-coin",
+    "text": "解放条件：エリアクエスト｢暗闇の宴、火花散らすチェイス｣クリア"
+  },
+  {
     "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
     "text": "同名アイテム全交換で解放"
   },
@@ -70,6 +94,18 @@
   {
     "id": "la-cd-marathon_event",
     "text": "メインクエスト 1章4話クリアで解放"
+  },
+  {
+    "id": "la-cd-park_fishing_rod-02",
+    "text": "解放条件：メインクエスト3章5話クリア"
+  },
+  {
+    "id": "la-cd-park_fishing_rod-03",
+    "text": "解放条件：魚を20種類釣る"
+  },
+  {
+    "id": "la-cd-park_fishing_rod-04",
+    "text": "解放条件：魚を50種類釣る"
   },
   {
     "id": "la-cd-perm-a01-chase",
@@ -326,5 +362,21 @@
   {
     "id": "la-quest-main-w1-02-09-unlock-description",
     "text": "エリアクエストやホロメンクエストに挑戦することで\nドリームランクを上げることができます"
+  },
+  {
+    "id": "la-unlock-player_level-30",
+    "text": "ドリームランク30で解放できます"
+  },
+  {
+    "id": "la-unlock-player_level-34",
+    "text": "ドリームランク34で解放できます"
+  },
+  {
+    "id": "la-unlock-player_level-35",
+    "text": "ドリームランク35で解放できます"
+  },
+  {
+    "id": "la-unlock_description-quest_live_play",
+    "text": "クエストやライブをプレイしよう"
   }
 ]

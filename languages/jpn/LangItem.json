@@ -528,6 +528,14 @@
     "text": "イベントバッジ"
   },
   {
+    "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-description",
+    "text": "イベント交換所のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-name",
+    "text": "イベントバッジ"
+  },
+  {
     "id": "la-item-event_badge-marathon_event-relay-001-all-description",
     "text": "イベント交換所(共通)のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
   },
@@ -688,6 +696,30 @@
     "text": "ICチップ"
   },
   {
+    "id": "la-item-facility-area_a03-001-1-description",
+    "text": "施設の建築や強化などに使用するアイテム"
+  },
+  {
+    "id": "la-item-facility-area_a03-001-1-name",
+    "text": "貝殻"
+  },
+  {
+    "id": "la-item-facility-area_a03-002-1-description",
+    "text": "施設の建築や強化などに使用するアイテム"
+  },
+  {
+    "id": "la-item-facility-area_a03-002-1-name",
+    "text": "漂流金属"
+  },
+  {
+    "id": "la-item-facility-area_a03-003-1-description",
+    "text": "施設の建築や強化などに使用するアイテム"
+  },
+  {
+    "id": "la-item-facility-area_a03-003-1-name",
+    "text": "流木"
+  },
+  {
     "id": "la-item-gacha-cmn_sticker-01-description",
     "text": "ホロステッカー交換所でアイテムと交換できるステッカー。"
   },
@@ -768,6 +800,14 @@
     "text": "メガスフィアコイン"
   },
   {
+    "id": "la-item-mini_game_fishing_coin-description",
+    "text": "ソーダポップラグーンの交換所などで使用するアイテム。"
+  },
+  {
+    "id": "la-item-mini_game_fishing_coin-name",
+    "text": "ソーダポップコイン"
+  },
+  {
     "id": "la-item-mini_game_reward_up_stamina_recover-description",
     "text": "ミニゲームブーストに変換することができるアイテム。"
   },
@@ -798,6 +838,22 @@
   {
     "id": "la-item-quest-area-a01-17-1-2-name",
     "text": "掃除用具"
+  },
+  {
+    "id": "la-item-quest-area-a03-05-1-1-description",
+    "text": "ラプラスが置き忘れていった釣り竿。釣りに欠かせない大切な相棒。"
+  },
+  {
+    "id": "la-item-quest-area-a03-05-1-1-name",
+    "text": "ラプラスの釣り竿"
+  },
+  {
+    "id": "la-item-quest-area-a03-12-1-1-description",
+    "text": "ポルカの大暴投で海へ飛んでいったビーチボール。早く持ち帰って、姫様をおもてなしせねば！"
+  },
+  {
+    "id": "la-item-quest-area-a03-12-1-1-name",
+    "text": "ビーチボール"
   },
   {
     "id": "la-item-quest-main-w1-01-02-1-4-description",

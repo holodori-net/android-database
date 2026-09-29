@@ -28,6 +28,10 @@
     "text": "구역 이동"
   },
   {
+    "id": "la-label-facility-a01-gate3",
+    "text": "구역 이동"
+  },
+  {
     "id": "la-label-facility-a01-house",
     "text": "선물"
   },
@@ -110,5 +114,53 @@
   {
     "id": "la-label-facility-a02-station",
     "text": "Holo워크"
+  },
+  {
+    "id": "la-label-facility-a03-boatshop",
+    "text": "보트 상점"
+  },
+  {
+    "id": "la-label-facility-a03-fishingpond1",
+    "text": "낚시 스폿"
+  },
+  {
+    "id": "la-label-facility-a03-fishingpond2",
+    "text": "낚시 스폿"
+  },
+  {
+    "id": "la-label-facility-a03-fishingpond3",
+    "text": "낚시 스폿"
+  },
+  {
+    "id": "la-label-facility-a03-fishingshop",
+    "text": "낚시 미끼 상점"
+  },
+  {
+    "id": "la-label-facility-a03-glamping",
+    "text": "시간 변경"
+  },
+  {
+    "id": "la-label-facility-a03-livestage",
+    "text": "리듬 게임"
+  },
+  {
+    "id": "la-label-facility-a03-resortshop",
+    "text": "교환소"
+  },
+  {
+    "id": "la-label-facility-a03-stadium",
+    "text": "미니 게임"
+  },
+  {
+    "id": "la-label-facility-a03-station",
+    "text": "Holo워크"
+  },
+  {
+    "id": "la-label-facility-a03-watergun",
+    "text": "물총 상점"
+  },
+  {
+    "id": "la-label-facility-a03-whale",
+    "text": "고래"
   }
 ]

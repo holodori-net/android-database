@@ -1,0 +1,62 @@
+[
+  {
+    "group_id": "team_rank_reward-normal",
+    "end_rank": 1,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-facility-area_a03-003-1"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold"
+      }
+    ]
+  },
+  {
+    "group_id": "team_rank_reward-normal",
+    "end_rank": 2,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-facility-area_a03-003-1"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold"
+      }
+    ]
+  },
+  {
+    "group_id": "team_rank_reward-normal",
+    "end_rank": 3,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-facility-area_a03-003-1"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold"
+      }
+    ]
+  }
+]

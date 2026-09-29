@@ -11,7 +11,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-01",
     "order": 1010
   },
@@ -27,7 +26,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-02",
     "order": 1020
   },
@@ -43,7 +41,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-03",
     "order": 1030
   },
@@ -59,7 +56,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-04",
     "order": 1040
   },
@@ -75,7 +71,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-05",
     "order": 1050
   },
@@ -91,7 +86,6 @@
     },
     "priority": 810,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-06",
     "order": 1005
   },
@@ -107,7 +101,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-07",
     "order": 1070
   },
@@ -123,7 +116,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-08",
     "order": 1080
   },
@@ -139,7 +131,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-09",
     "order": 1090
   },
@@ -155,7 +146,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-10",
     "order": 1100
   },
@@ -171,7 +161,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-11",
     "unlock_condition_group_id": "cd-quest-area-a01-11-unlock",
     "order": 1110
@@ -188,7 +177,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-12",
     "order": 1120
   },
@@ -204,7 +192,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-13",
     "order": 1130
   },
@@ -220,7 +207,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-14",
     "unlock_condition_group_id": "cd-quest-area-a01-14-unlock",
     "order": 1140
@@ -237,7 +223,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-15",
     "order": 1150
   },
@@ -253,7 +238,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-16",
     "unlock_condition_group_id": "cd-quest-area-a01-16-unlock",
     "order": 1160
@@ -270,7 +254,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-17",
     "order": 1170
   },
@@ -286,7 +269,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-18",
     "order": 1180
   },
@@ -302,7 +284,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-19",
     "order": 1190
   },
@@ -318,7 +299,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-20",
     "order": 1200
   },
@@ -334,7 +314,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-21",
     "order": 1210
   },
@@ -350,7 +329,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-22",
     "order": 1220
   },
@@ -366,7 +344,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-23",
     "unlock_condition_group_id": "cd-quest-area-a01-23-unlock",
     "order": 1230
@@ -383,7 +360,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-24",
     "unlock_condition_group_id": "cd-quest-area-a01-24-unlock",
     "order": 1240
@@ -400,7 +376,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-25",
     "unlock_condition_group_id": "cd-quest-area-a01-25-unlock",
     "order": 1250
@@ -417,7 +392,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-26",
     "unlock_condition_group_id": "cd-quest-area-a01-26-unlock",
     "order": 1260
@@ -434,7 +408,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-27",
     "unlock_condition_group_id": "cd-quest-area-a01-27-unlock",
     "order": 1270
@@ -451,7 +424,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-28",
     "unlock_condition_group_id": "cd-quest-area-a01-28-unlock",
     "order": 1280
@@ -468,7 +440,6 @@
     },
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a01-29-unlock",
     "unlock_condition_group_id": "cd-quest-area-a01-29-unlock",
     "order": 900
@@ -485,7 +456,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-01",
     "order": 2010
   },
@@ -501,7 +471,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-02",
     "order": 2020
   },
@@ -517,7 +486,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-03",
     "order": 2030
   },
@@ -533,7 +501,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-04",
     "order": 2040
   },
@@ -549,7 +516,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-05",
     "order": 2050
   },
@@ -565,7 +531,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-06",
     "order": 2060
   },
@@ -581,7 +546,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-07",
     "order": 2070
   },
@@ -597,7 +561,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-08",
     "unlock_condition_group_id": "cd-quest-area-a02-08-unlock",
     "order": 2080
@@ -614,7 +577,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-09",
     "order": 2090
   },
@@ -630,7 +592,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-10",
     "unlock_condition_group_id": "cd-quest-area-a02-10-unlock",
     "order": 2100
@@ -647,7 +608,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-11",
     "order": 2110
   },
@@ -663,7 +623,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-12",
     "order": 2120
   },
@@ -679,7 +638,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-13",
     "order": 2130
   },
@@ -695,7 +653,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-14",
     "order": 2140
   },
@@ -711,7 +668,6 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-15",
     "order": 2150
   },
@@ -727,10 +683,297 @@
     },
     "priority": 800,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest-area-a02-16",
     "unlock_condition_group_id": "cd-quest-area-a02-16-unlock",
     "order": 2160
+  },
+  {
+    "id": "quest-area-a03-01",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 1,
+    "title_lang_id": "la-quest-area-a03-01-title",
+    "description_lang_id": "la-quest-area-a03-01-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-01",
+    "order": 2170
+  },
+  {
+    "id": "quest-area-a03-02",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 2,
+    "title_lang_id": "la-quest-area-a03-02-title",
+    "description_lang_id": "la-quest-area-a03-02-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-02",
+    "order": 2180
+  },
+  {
+    "id": "quest-area-a03-03",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 3,
+    "title_lang_id": "la-quest-area-a03-03-title",
+    "description_lang_id": "la-quest-area-a03-03-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-03",
+    "order": 2190
+  },
+  {
+    "id": "quest-area-a03-04",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 4,
+    "title_lang_id": "la-quest-area-a03-04-title",
+    "description_lang_id": "la-quest-area-a03-04-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-04",
+    "order": 2200
+  },
+  {
+    "id": "quest-area-a03-05",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 5,
+    "title_lang_id": "la-quest-area-a03-05-title",
+    "description_lang_id": "la-quest-area-a03-05-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-05",
+    "order": 2210
+  },
+  {
+    "id": "quest-area-a03-06",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 6,
+    "title_lang_id": "la-quest-area-a03-06-title",
+    "description_lang_id": "la-quest-area-a03-06-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-06",
+    "order": 2220
+  },
+  {
+    "id": "quest-area-a03-07",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 7,
+    "title_lang_id": "la-quest-area-a03-07-title",
+    "description_lang_id": "la-quest-area-a03-07-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-07",
+    "order": 2230
+  },
+  {
+    "id": "quest-area-a03-08",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 8,
+    "title_lang_id": "la-quest-area-a03-08-title",
+    "description_lang_id": "la-quest-area-a03-08-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-08",
+    "order": 2240
+  },
+  {
+    "id": "quest-area-a03-09",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 9,
+    "title_lang_id": "la-quest-area-a03-09-title",
+    "description_lang_id": "la-quest-area-a03-09-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-09",
+    "order": 2250
+  },
+  {
+    "id": "quest-area-a03-10",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 10,
+    "title_lang_id": "la-quest-area-a03-10-title",
+    "description_lang_id": "la-quest-area-a03-10-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-10",
+    "order": 2260
+  },
+  {
+    "id": "quest-area-a03-11",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 11,
+    "title_lang_id": "la-quest-area-a03-11-title",
+    "description_lang_id": "la-quest-area-a03-11-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-11",
+    "order": 2270
+  },
+  {
+    "id": "quest-area-a03-12",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 12,
+    "title_lang_id": "la-quest-area-a03-12-title",
+    "description_lang_id": "la-quest-area-a03-12-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-12",
+    "order": 2280
+  },
+  {
+    "id": "quest-area-a03-13",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 13,
+    "title_lang_id": "la-quest-area-a03-13-title",
+    "description_lang_id": "la-quest-area-a03-13-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-13",
+    "order": 2290
+  },
+  {
+    "id": "quest-area-a03-14",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 14,
+    "title_lang_id": "la-quest-area-a03-14-title",
+    "description_lang_id": "la-quest-area-a03-14-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-14",
+    "order": 2300
+  },
+  {
+    "id": "quest-area-a03-15",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 15,
+    "title_lang_id": "la-quest-area-a03-15-title",
+    "description_lang_id": "la-quest-area-a03-15-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-15",
+    "order": 2310
+  },
+  {
+    "id": "quest-area-a03-16",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 16,
+    "title_lang_id": "la-quest-area-a03-16-title",
+    "description_lang_id": "la-quest-area-a03-16-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-16",
+    "order": 2320
+  },
+  {
+    "id": "quest-area-a03-17",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 17,
+    "title_lang_id": "la-quest-area-a03-17-title",
+    "description_lang_id": "la-quest-area-a03-17-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-17",
+    "unlock_condition_group_id": "cd-quest-area-a03-17-unlock",
+    "order": 2330
+  },
+  {
+    "id": "quest-area-a03-18",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 18,
+    "title_lang_id": "la-quest-area-a03-18-title",
+    "description_lang_id": "la-quest-area-a03-18-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-18",
+    "unlock_condition_group_id": "cd-quest-area-a03-18-unlock",
+    "order": 2340
+  },
+  {
+    "id": "quest-area-a03-19",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 19,
+    "title_lang_id": "la-quest-area-a03-19-title",
+    "description_lang_id": "la-quest-area-a03-19-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 800,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-19",
+    "unlock_condition_group_id": "cd-quest-area-a03-19-unlock",
+    "order": 2350
   },
   {
     "id": "quest-chr-00001",
@@ -745,7 +988,6 @@
     "play_character_id": "chr-00001",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -761,7 +1003,6 @@
     "play_character_id": "chr-00002",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -777,7 +1018,6 @@
     "play_character_id": "chr-00004",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -793,7 +1033,6 @@
     "play_character_id": "chr-00005",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -809,7 +1048,6 @@
     "play_character_id": "chr-00006",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -825,7 +1063,6 @@
     "play_character_id": "chr-00007",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -841,7 +1078,6 @@
     "play_character_id": "chr-00010",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -857,7 +1093,6 @@
     "play_character_id": "chr-00011",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -873,7 +1108,6 @@
     "play_character_id": "chr-00012",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -889,7 +1123,6 @@
     "play_character_id": "chr-00013",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -905,7 +1138,6 @@
     "play_character_id": "chr-00014",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -921,7 +1153,6 @@
     "play_character_id": "chr-00015",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -937,7 +1168,6 @@
     "play_character_id": "chr-00016",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -953,7 +1183,6 @@
     "play_character_id": "chr-00017",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -969,7 +1198,6 @@
     "play_character_id": "chr-00018",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -985,7 +1213,6 @@
     "play_character_id": "chr-00019",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1001,7 +1228,6 @@
     "play_character_id": "chr-00021",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1017,7 +1243,6 @@
     "play_character_id": "chr-00022",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1033,7 +1258,6 @@
     "play_character_id": "chr-00023",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1049,7 +1273,6 @@
     "play_character_id": "chr-00026",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1065,7 +1288,6 @@
     "play_character_id": "chr-00027",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1081,7 +1303,6 @@
     "play_character_id": "chr-00028",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1097,7 +1318,6 @@
     "play_character_id": "chr-00030",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1113,7 +1333,6 @@
     "play_character_id": "chr-00031",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1129,7 +1348,6 @@
     "play_character_id": "chr-00032",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1145,7 +1363,6 @@
     "play_character_id": "chr-00034",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1161,7 +1378,6 @@
     "play_character_id": "chr-00035",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1177,7 +1393,6 @@
     "play_character_id": "chr-00036",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1193,7 +1408,6 @@
     "play_character_id": "chr-00037",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1209,7 +1423,6 @@
     "play_character_id": "chr-00039",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1225,7 +1438,6 @@
     "play_character_id": "chr-03001",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1241,7 +1453,6 @@
     "play_character_id": "chr-03002",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1257,7 +1468,6 @@
     "play_character_id": "chr-03003",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1273,7 +1483,6 @@
     "play_character_id": "chr-03004",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1289,7 +1498,6 @@
     "play_character_id": "chr-03005",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1305,7 +1513,6 @@
     "play_character_id": "chr-03006",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1321,7 +1528,6 @@
     "play_character_id": "chr-03007",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1337,7 +1543,6 @@
     "play_character_id": "chr-03008",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1353,7 +1558,6 @@
     "play_character_id": "chr-03009",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1369,7 +1573,6 @@
     "play_character_id": "chr-04001",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1385,7 +1588,6 @@
     "play_character_id": "chr-04002",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1401,7 +1603,6 @@
     "play_character_id": "chr-04003",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1417,7 +1618,6 @@
     "play_character_id": "chr-04007",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1433,7 +1633,6 @@
     "play_character_id": "chr-04010",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1449,7 +1648,6 @@
     "play_character_id": "chr-04012",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1465,7 +1663,6 @@
     "play_character_id": "chr-04013",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1481,7 +1678,6 @@
     "play_character_id": "chr-04014",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1497,7 +1693,6 @@
     "play_character_id": "chr-04015",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1513,7 +1708,6 @@
     "play_character_id": "chr-04016",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1529,7 +1723,6 @@
     "play_character_id": "chr-04017",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1545,7 +1738,6 @@
     "play_character_id": "chr-06002",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1561,7 +1753,6 @@
     "play_character_id": "chr-06003",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1577,7 +1768,6 @@
     "play_character_id": "chr-06004",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1593,7 +1783,6 @@
     "play_character_id": "chr-06005",
     "priority": 900,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -1608,7 +1797,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
     "order": 4
   },
@@ -1624,7 +1812,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
     "order": 7
   },
@@ -1640,7 +1827,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
     "order": 8
   },
@@ -1656,7 +1842,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
     "order": 2
   },
@@ -1672,7 +1857,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
     "order": 1
   },
@@ -1688,7 +1872,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
     "order": 6
   },
@@ -1704,7 +1887,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
     "order": 3
   },
@@ -1720,7 +1902,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
     "order": 5
   },
@@ -1736,7 +1917,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
     "order": 6
   },
@@ -1752,7 +1932,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
     "order": 1
   },
@@ -1768,7 +1947,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
     "order": 5
   },
@@ -1784,7 +1962,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
     "order": 7
   },
@@ -1800,7 +1977,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
     "order": 8
   },
@@ -1816,7 +1992,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
     "order": 4
   },
@@ -1832,7 +2007,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
     "order": 2
   },
@@ -1848,7 +2022,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
     "order": 3
   },
@@ -1864,7 +2037,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-01",
     "order": 4
   },
@@ -1880,7 +2052,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-01",
     "order": 6
   },
@@ -1896,7 +2067,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
     "order": 8
   },
@@ -1912,7 +2082,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-01",
     "order": 7
   },
@@ -1928,7 +2097,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-01",
     "order": 2
   },
@@ -1944,7 +2112,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-04",
     "order": 1
   },
@@ -1960,7 +2127,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-05",
     "order": 5
   },
@@ -1976,7 +2142,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-05",
     "order": 3
   },
@@ -1992,7 +2157,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
     "order": 1
   },
@@ -2008,7 +2172,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-21",
     "order": 7
   },
@@ -2024,7 +2187,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
     "order": 10
   },
@@ -2040,7 +2202,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
     "order": 5
   },
@@ -2056,7 +2217,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
     "order": 11
   },
@@ -2072,7 +2232,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
     "order": 8
   },
@@ -2088,7 +2247,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
     "order": 6
   },
@@ -2104,7 +2262,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
     "order": 9
   },
@@ -2120,7 +2277,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
     "order": 3
   },
@@ -2136,7 +2292,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
     "order": 2
   },
@@ -2152,7 +2307,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
     "order": 4
   },
@@ -2168,7 +2322,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 1
   },
@@ -2184,7 +2337,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
     "order": 7
   },
@@ -2200,7 +2352,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-09",
     "order": 4
   },
@@ -2216,7 +2367,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-15",
     "order": 3
   },
@@ -2232,7 +2382,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
     "order": 5
   },
@@ -2248,7 +2397,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-12",
     "order": 6
   },
@@ -2264,9 +2412,113 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 2
+  },
+  {
+    "id": "quest-daily-fishing_coin-a03-00023",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-12",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-fishing_coin-a03-00030",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-12",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-fishing_coin-a03-00034",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-03",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-fishing_coin-a03-00037",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-07",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-fishing_coin-a03-03009",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-14",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-fishing_coin-a03-04012",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-12",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-fishing_coin-a03-06003",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-07",
+    "order": 1
   },
   {
     "id": "quest-daily-group-04016",
@@ -2280,7 +2532,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-09",
     "order": 8
   },
@@ -2296,7 +2547,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 10
   },
@@ -2312,7 +2562,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 15
   },
@@ -2328,7 +2577,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 5
   },
@@ -2344,7 +2592,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
     "order": 25
   },
@@ -2360,7 +2607,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 34
   },
@@ -2376,7 +2622,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-13",
     "order": 18
   },
@@ -2392,7 +2637,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 40
   },
@@ -2408,7 +2652,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 50
   },
@@ -2424,7 +2667,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 26
   },
@@ -2440,7 +2682,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 1
   },
@@ -2456,7 +2697,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-09",
     "order": 27
   },
@@ -2472,7 +2712,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 8
   },
@@ -2488,7 +2727,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-14",
     "order": 31
   },
@@ -2504,7 +2742,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 35
   },
@@ -2520,7 +2757,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-08",
     "order": 24
   },
@@ -2536,7 +2772,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 48
   },
@@ -2552,7 +2787,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 55
   },
@@ -2568,7 +2802,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 33
   },
@@ -2584,7 +2817,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 53
   },
@@ -2600,7 +2832,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 45
   },
@@ -2616,7 +2847,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 22
   },
@@ -2632,7 +2862,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 51
   },
@@ -2648,7 +2877,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-06",
     "order": 39
   },
@@ -2664,7 +2892,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 30
   },
@@ -2680,7 +2907,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 20
   },
@@ -2696,7 +2922,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 52
   },
@@ -2712,7 +2937,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-06",
     "order": 14
   },
@@ -2728,7 +2952,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 28
   },
@@ -2744,7 +2967,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 32
   },
@@ -2760,7 +2982,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 49
   },
@@ -2776,7 +2997,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-08",
     "order": 41
   },
@@ -2792,7 +3012,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
     "order": 13
   },
@@ -2808,7 +3027,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-21",
     "order": 4
   },
@@ -2824,7 +3042,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-07",
     "order": 7
   },
@@ -2840,7 +3057,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 3
   },
@@ -2856,7 +3072,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
     "order": 37
   },
@@ -2872,7 +3087,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 12
   },
@@ -2888,7 +3102,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
     "order": 6
   },
@@ -2904,7 +3117,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-14",
     "order": 36
   },
@@ -2920,7 +3132,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
     "order": 23
   },
@@ -2936,7 +3147,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 47
   },
@@ -2952,7 +3162,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
     "order": 16
   },
@@ -2968,7 +3177,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 2
   },
@@ -2984,7 +3192,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 54
   },
@@ -3000,7 +3207,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 11
   },
@@ -3016,7 +3222,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-12",
     "order": 9
   },
@@ -3032,7 +3237,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-09",
     "order": 19
   },
@@ -3048,7 +3252,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 42
   },
@@ -3064,7 +3267,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 38
   },
@@ -3080,7 +3282,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 43
   },
@@ -3096,7 +3297,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 44
   },
@@ -3112,7 +3312,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-21",
     "order": 17
   },
@@ -3128,7 +3327,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-14",
     "order": 21
   },
@@ -3144,9 +3342,113 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 46
+  },
+  {
+    "id": "quest-daily-live-a03-00023",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-06",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-live-a03-00030",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-13",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-live-a03-00034",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-09",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-live-a03-00037",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-06",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-live-a03-03009",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-06",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-live-a03-04012",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-06",
+    "order": 1
+  },
+  {
+    "id": "quest-daily-live-a03-06003",
+    "park_quest_chapter_id": "quest_chapter-daily",
+    "number": 1,
+    "title_lang_id": "la-quest-daily-title",
+    "description_lang_id": "la-quest-daily-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_DAILY",
+      "number": 4
+    },
+    "priority": 100,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-06",
+    "order": 1
   },
   {
     "id": "quest-daily-rope-00001",
@@ -3160,7 +3462,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-14",
     "order": 3
   },
@@ -3176,7 +3477,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 10
   },
@@ -3192,7 +3492,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 6
   },
@@ -3208,7 +3507,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-12",
     "order": 7
   },
@@ -3224,7 +3522,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 11
   },
@@ -3240,7 +3537,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 9
   },
@@ -3256,7 +3552,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-13",
     "order": 12
   },
@@ -3272,7 +3567,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 8
   },
@@ -3288,7 +3582,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-07",
     "order": 1
   },
@@ -3304,7 +3597,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
     "order": 2
   },
@@ -3320,7 +3612,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 4
   },
@@ -3336,7 +3627,6 @@
     },
     "priority": 100,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "order": 5
   },
@@ -3352,7 +3642,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "order": 1
   },
   {
@@ -3367,7 +3656,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-01",
     "order": 1
   },
@@ -3383,7 +3671,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-02",
     "unlock_condition_group_id": "cd-quest-main-w1-01-03-unlock",
     "order": 1
@@ -3400,7 +3687,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-03",
     "order": 1
   },
@@ -3416,7 +3702,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-04",
     "order": 1
   },
@@ -3432,7 +3717,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-05",
     "unlock_condition_group_id": "cd-quest-main-w1-01-06-unlock",
     "order": 1
@@ -3449,7 +3733,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-06",
     "order": 1
   },
@@ -3465,7 +3748,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-07",
     "order": 1
   },
@@ -3481,7 +3763,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-08",
     "order": 1
   },
@@ -3497,7 +3778,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-09",
     "order": 1
   },
@@ -3513,7 +3793,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-10",
     "order": 1
   },
@@ -3529,7 +3808,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-11",
     "unlock_condition_group_id": "cd-quest-main-w1-01-12-unlock",
     "order": 1
@@ -3546,7 +3824,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-12",
     "order": 1
   },
@@ -3562,7 +3839,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-13",
     "order": 1
   },
@@ -3578,7 +3854,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-14",
     "order": 1
   },
@@ -3594,7 +3869,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-15",
     "order": 1
   },
@@ -3610,7 +3884,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-16",
     "order": 1
   },
@@ -3626,7 +3899,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-17",
     "order": 1
   },
@@ -3642,7 +3914,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-18",
     "order": 1
   },
@@ -3658,7 +3929,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-19",
     "order": 1
   },
@@ -3674,7 +3944,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-20",
     "order": 1
   },
@@ -3690,7 +3959,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-21",
     "order": 1
   },
@@ -3706,7 +3974,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-22",
     "order": 1
   },
@@ -3722,7 +3989,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a01",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-23",
     "unlock_condition_group_id": "cd-quest-main-w1-01-24-unlock",
     "order": 1
@@ -3739,7 +4005,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-01-24",
     "order": 1
   },
@@ -3755,7 +4020,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-01",
     "order": 1
   },
@@ -3771,7 +4035,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-02",
     "order": 1
   },
@@ -3787,7 +4050,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-03",
     "order": 1
   },
@@ -3803,7 +4065,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-04",
     "order": 1
   },
@@ -3819,7 +4080,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-05",
     "order": 1
   },
@@ -3835,7 +4095,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-06",
     "order": 1
   },
@@ -3851,7 +4110,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-07",
     "order": 1
   },
@@ -3867,7 +4125,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-08",
     "unlock_condition_group_id": "cd-quest-main-w1-02-09-unlock",
     "order": 1
@@ -3884,7 +4141,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-09",
     "order": 1
   },
@@ -3900,7 +4156,6 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-10",
     "order": 1
   },
@@ -3916,8 +4171,232 @@
     },
     "priority": 1000,
     "area_grouping_id": "area_group-a02",
-    "ratio": 100,
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-11",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-01",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 1,
+    "title_lang_id": "la-quest-main-w1-03-01-title",
+    "description_lang_id": "la-quest-main-w1-03-01-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-02-12",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-02",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 2,
+    "title_lang_id": "la-quest-main-w1-03-02-title",
+    "description_lang_id": "la-quest-main-w1-03-02-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-01",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-03",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 3,
+    "title_lang_id": "la-quest-main-w1-03-03-title",
+    "description_lang_id": "la-quest-main-w1-03-03-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-02",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-04",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 4,
+    "title_lang_id": "la-quest-main-w1-03-04-title",
+    "description_lang_id": "la-quest-main-w1-03-04-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-03",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-05",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 5,
+    "title_lang_id": "la-quest-main-w1-03-05-title",
+    "description_lang_id": "la-quest-main-w1-03-05-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-04",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-06",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 6,
+    "title_lang_id": "la-quest-main-w1-03-06-title",
+    "description_lang_id": "la-quest-main-w1-03-06-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-05",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-07",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 7,
+    "title_lang_id": "la-quest-main-w1-03-07-title",
+    "description_lang_id": "la-quest-main-w1-03-07-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-06",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-08",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 8,
+    "title_lang_id": "la-quest-main-w1-03-08-title",
+    "description_lang_id": "la-quest-main-w1-03-08-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-07",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-09",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 9,
+    "title_lang_id": "la-quest-main-w1-03-09-title",
+    "description_lang_id": "la-quest-main-w1-03-09-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-08",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-10",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 10,
+    "title_lang_id": "la-quest-main-w1-03-10-title",
+    "description_lang_id": "la-quest-main-w1-03-10-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-09",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-11",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 11,
+    "title_lang_id": "la-quest-main-w1-03-11-title",
+    "description_lang_id": "la-quest-main-w1-03-11-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-10",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-12",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 12,
+    "title_lang_id": "la-quest-main-w1-03-12-title",
+    "description_lang_id": "la-quest-main-w1-03-12-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-11",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-13",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 13,
+    "title_lang_id": "la-quest-main-w1-03-13-title",
+    "description_lang_id": "la-quest-main-w1-03-13-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-12",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-14",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 14,
+    "title_lang_id": "la-quest-main-w1-03-14-title",
+    "description_lang_id": "la-quest-main-w1-03-14-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-13",
+    "order": 1
+  },
+  {
+    "id": "quest-main-w1-03-15",
+    "park_quest_chapter_id": "quest_chapter-main-w1-03",
+    "number": 15,
+    "title_lang_id": "la-quest-main-w1-03-15-title",
+    "description_lang_id": "la-quest-main-w1-03-15-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_MAIN",
+      "number": 1
+    },
+    "priority": 1000,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-14",
     "order": 1
   }
 ]

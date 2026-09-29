@@ -532,6 +532,222 @@
     "text": "메가 스피어 로비에서 {character}(와)과 대화해 코스터의 완성을 확인하자"
   },
   {
+    "id": "la-quest-area-a03-01-1-1",
+    "text": "승리의 예감! 피시 블루에서 낚시에 도전하는 {character}(와)과 합류하자"
+  },
+  {
+    "id": "la-quest-area-a03-01-1-2",
+    "text": "수면의 움직임을 놓치지 마! 파도를 읽어 ★2 이상의 물고기 2마리를 낚자"
+  },
+  {
+    "id": "la-quest-area-a03-01-1-3",
+    "text": "보람은 있었어? 피시 블루에서 {character}(와)과 조과를 확인하자"
+  },
+  {
+    "id": "la-quest-area-a03-02-1-1",
+    "text": "파도 소리가 두 사람의 BGM. 해변에 모인 마린과 라미에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-area-a03-02-1-2",
+    "text": "바닷바람을 내편으로 만들어 라이브 연습을 성공시키자"
+  },
+  {
+    "id": "la-quest-area-a03-02-1-3",
+    "text": "푸른 바다에 새긴 노력. 흡족해하는 해변의 마린과 라미에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-area-a03-03-1-1",
+    "text": "대물을 위한 투자? 베이의 잡동사니에 있는 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-area-a03-03-1-2",
+    "text": "목표는 풍어! 낚시 기술을 연마해 소다팝 코인을 1000개 모으자"
+  },
+  {
+    "id": "la-quest-area-a03-03-1-3",
+    "text": "이게 바로 낚시꾼의 실력! 피시 블루에서 들뜬 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-area-a03-04-1-1",
+    "text": "웃음소리에 이끌려. 해변에서 즐거워 보이는 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-area-a03-04-1-2",
+    "text": "베일에 싸인 그림자를 쫓아, 끈기 있는 캐스팅으로 15종류의 물고기를 모으자"
+  },
+  {
+    "id": "la-quest-area-a03-04-1-3",
+    "text": "양동이 속이 궁금해! 라미의 스노우돔에 있는 {character}에게 물어보자"
+  },
+  {
+    "id": "la-quest-area-a03-05-1-1",
+    "text": "라미의 스노우돔에서 주위를 두리번거리는 코보와 라플라스에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-area-a03-05-1-2",
+    "text": "낚시 재개! 구역 입구 부근에서 낚싯대를 찾아서 {character}에게 전달하자"
+  },
+  {
+    "id": "la-quest-area-a03-05-1-3",
+    "text": "애용 낚싯대를 발견해 문제 해결. 라미의 스노우돔에 있는 코보와 라플라스에게 가자"
+  },
+  {
+    "id": "la-quest-area-a03-06-1-1",
+    "text": "라이브 스테이지에서 소라와 폴카가 노래하는 모양이다. 노랫소리에 이끌려 가보자"
+  },
+  {
+    "id": "la-quest-area-a03-06-1-2",
+    "text": "스플래시 스타디움의 {character}(와)과 대화하고 스플래시 볼을 플레이하자"
+  },
+  {
+    "id": "la-quest-area-a03-06-1-3",
+    "text": "물보라의 여운? 열전을 마치고 쿨다운 중인 소라와 폴카에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-area-a03-07-1-1",
+    "text": "미소가 반짝이는 해변. 즐겁게 담소를 나누는 니노마에 이나니스와 크로니에게 가자"
+  },
+  {
+    "id": "la-quest-area-a03-07-1-2",
+    "text": "더욱 높은 곳으로 스텝 업. Holo멤버 보드 150개를 개방하자"
+  },
+  {
+    "id": "la-quest-area-a03-07-1-3",
+    "text": "즐거운 시간은 계속된다? 해변에서 들뜬 니노마에 이나니스와 크로니에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-area-a03-08-1-1",
+    "text": "파도 소리를 BGM으로 상담 중. 프린세스 마린호에 있는 코요리와 마린과 합류하자"
+  },
+  {
+    "id": "la-quest-area-a03-08-1-2",
+    "text": "바다 위 대투자?! {character}(와)과 대화해 프린세스 마린호를 단장하자"
+  },
+  {
+    "id": "la-quest-area-a03-08-1-3",
+    "text": "새롭게 탄생한 선체에서 하이파이브! 개조를 마친 코요리&마린과 대화하자"
+  },
+  {
+    "id": "la-quest-area-a03-09-1-1",
+    "text": "조과 제로의 위기에서 구하라! 라미의 스노우돔에 있는 라미&미코와 합류하자"
+  },
+  {
+    "id": "la-quest-area-a03-09-1-2",
+    "text": "릴이 비명 지르는 대승부! 특기인 낚싯대 조작으로 ★4 이상의 대물을 1마리 낚자"
+  },
+  {
+    "id": "la-quest-area-a03-09-1-3",
+    "text": "이게 바로 프로의 낚싯대 조작?! 라미의 스노우돔에서 라미와 미코에게 조과를 듣자"
+  },
+  {
+    "id": "la-quest-area-a03-10-1-1",
+    "text": "물보라와 웃음소리! 해변에서 천진난만하게 노는 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-area-a03-10-1-2",
+    "text": "물방울이 반짝이는 라이브 스테이지에서 {character}(와)과 음을 맞춰보자"
+  },
+  {
+    "id": "la-quest-area-a03-10-1-3",
+    "text": "춤으로 옷이 말랐어? 라이브 스테이지의 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-area-a03-11-1-1",
+    "text": "수면을 가르는 그림자가 보여? 보코보코 등대에서 대화하는 아키와 아야메에게 가자"
+  },
+  {
+    "id": "la-quest-area-a03-11-1-2",
+    "text": "히트 순간을 놓치지 마! 날카로운 집중력으로 ★5 물고기 1마리를 노리자!"
+  },
+  {
+    "id": "la-quest-area-a03-11-1-3",
+    "text": "풍어로 떠들썩한 보코보코 등대에서 싱글벙글하는 아키&아야메와 합류하자"
+  },
+  {
+    "id": "la-quest-area-a03-12-1-1",
+    "text": "해프닝 발생! 포포포 해피 캠프에 있는 폴카&루나에게 서둘러 가자"
+  },
+  {
+    "id": "la-quest-area-a03-12-1-2",
+    "text": "둥실둥실 떠 있는 동그란 그림자. 우파오 헤븐까지 흘러간 비치볼을 찾아내자"
+  },
+  {
+    "id": "la-quest-area-a03-12-1-3",
+    "text": "비치볼을 무사히 구출! 포포포 해피 캠프에서 폴카와 루나에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-area-a03-13-1-1",
+    "text": "달빛 아래 로맨스를. 이치조 VIP 라운지의 {character}(와)과 합류하자"
+  },
+  {
+    "id": "la-quest-area-a03-13-1-2",
+    "text": "달밤이 매료하는 기적의 만남. 밤바다에 나타나는 물고기를 노리자"
+  },
+  {
+    "id": "la-quest-area-a03-13-1-3",
+    "text": "밤의 피시 블루에 흥분하는 {character}에게 감상을 듣자!"
+  },
+  {
+    "id": "la-quest-area-a03-14-1-1",
+    "text": "물멍도 특별한 추억. 보코보코 등대에서 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-area-a03-14-1-2",
+    "text": "이게 바로 낚시꾼의 증표! 미지의 물고기를 기록해 물고기 도감 60종류를 채우자!"
+  },
+  {
+    "id": "la-quest-area-a03-14-1-3",
+    "text": "목표 달성?! 보코보코 등대에서 {character}(와)과 기쁨을 나누자"
+  },
+  {
+    "id": "la-quest-area-a03-15-1-1",
+    "text": "파도의 멜로디에 힐링 중? 해변에서 쉬는 코요리&하지메와 대화하자"
+  },
+  {
+    "id": "la-quest-area-a03-15-1-2",
+    "text": "실전을 위해! 스테이지에서 기다리는 {character}(와)과 특훈 개시!"
+  },
+  {
+    "id": "la-quest-area-a03-15-1-3",
+    "text": "연습 후 스테이지에서 한숨 돌리는 코요리와 하지메에게 감상을 듣자"
+  },
+  {
+    "id": "la-quest-area-a03-16-1-1",
+    "text": "최고의 퍼포먼스 고민 중?! 라이브 스테이지에서 대화하는 벨즈와 코보와 합류하자"
+  },
+  {
+    "id": "la-quest-area-a03-16-1-2",
+    "text": "재능을 깨워라! 멤버 한 명을 4단계까지 특훈하자"
+  },
+  {
+    "id": "la-quest-area-a03-16-1-3",
+    "text": "노력은 배신하지 않는다. 스테이지에서 더욱 빛나는 벨즈와 코보에게 서둘러 가자"
+  },
+  {
+    "id": "la-quest-area-a03-17-1-1",
+    "text": "아직 개선의 여지가? 프린세스 마린호에서 {character}에게 이야기를 듣자"
+  },
+  {
+    "id": "la-quest-area-a03-17-1-2",
+    "text": "꿈은 이뤄진다! {character}(와)과 대화해 프린세스 마린호를 진화시키자!"
+  },
+  {
+    "id": "la-quest-area-a03-18-1-1",
+    "text": "번뜩임에 가슴이 설렌다! 프린세스 마린호의 {character}에게 명안을 듣자!"
+  },
+  {
+    "id": "la-quest-area-a03-18-1-2",
+    "text": "멋진 특등석으로! {character}(와)과 프린세스 마린호를 업그레이드하자"
+  },
+  {
+    "id": "la-quest-area-a03-19-1-1",
+    "text": "맛있는 음료로 특별하게. 프린세스 마린호의 {character}(와)과 합류하자"
+  },
+  {
+    "id": "la-quest-area-a03-19-1-2",
+    "text": "특등석을 더욱 호화롭게! {character}(와)과 프린세스 마린호를 강화하자"
+  },
+  {
     "id": "la-quest-chr-00001-1-1",
     "text": "라이브 스테이지에 가자"
   },
@@ -1668,6 +1884,90 @@
     "text": "뭐가 들어 있을지! 항구에서 짐을 기다리는 {character}(와)과 대화하자"
   },
   {
+    "id": "la-quest-daily-fishing_coin-a03-00023-1-1",
+    "text": "보코보코 등대에서 낚시 중인 듯한 {character}의 상황을 보러 가자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-00023-1-2",
+    "text": "승리를 거머쥐어라! 물고기를 낚아 소다팝 코인을 획득하자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-00023-1-3",
+    "text": "The Winner! 승리의 함성을 지르는 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-00030-1-1",
+    "text": "베이의 잡동사니에서 새 낚싯대를 얻은듯 하다. {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-00030-1-2",
+    "text": "새로운 낚싯대의 사용감은 어때? 물고기를 낚아 소다팝 코인을 획득하자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-00030-1-3",
+    "text": "새로운 낚싯대는 대단해! 신이 난 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-00034-1-1",
+    "text": "피시 블루에 있는 {character}의 낚싯대에 입질조차 없다. 말을 걸어 보자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-00034-1-2",
+    "text": "실전은 지금부터! 물고기를 낚아 소다팝 코인을 획득하자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-00034-1-3",
+    "text": "풍어다 풍어! 싱글벙글하는 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-00037-1-1",
+    "text": "조과가 0? 라미의 스노우돔에서 풀죽은 {character}의 모습을 보러 가자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-00037-1-2",
+    "text": "Believe In Myself! 물고기를 낚아 소다팝 코인을 획득하자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-00037-1-3",
+    "text": "모든 것은 두뇌가 생각한 대로? 싱글벙글하는 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-03009-1-1",
+    "text": "포포포 해피 캠프에서 푹 잔 듯하다. 막 깬 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-03009-1-2",
+    "text": "마음껏 낚시를 즐겨라! 물고기를 낚아 소다팝 코인을 획득하자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-03009-1-3",
+    "text": "그 실력은 천재급? {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-04012-1-1",
+    "text": "왠지 하이텐션인 듯? 보코보코 등대에 있는 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-04012-1-2",
+    "text": "래트라면 풍어 확정! 물고기를 낚아 소다팝 코인을 획득하자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-04012-1-3",
+    "text": "이게 바로 낚시 퀸의 실력! 들떠 있는 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-06003-1-1",
+    "text": "라미의 스노우돔에서 추워 보이는 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-06003-1-2",
+    "text": "눈을 녹일 정도의 열정? 물고기를 낚아 소다팝 코인을 획득하자"
+  },
+  {
+    "id": "la-quest-daily-fishing_coin-a03-06003-1-3",
+    "text": "자, 승리의 함성의 시간이다! 한껏 달아오른 {character}에게 말을 걸자"
+  },
+  {
     "id": "la-quest-daily-group-04016-1-1",
     "text": "부두에 있는 {character}(와)과 대화하자"
   },
@@ -2122,6 +2422,62 @@
   {
     "id": "la-quest-daily-live-06005-1-2",
     "text": "라이브 스테이지에서 {character}(와)과 레슨 시작"
+  },
+  {
+    "id": "la-quest-daily-live-a03-00023-1-1",
+    "text": "이치조 VIP 라운지에서 휴식 중인 듯한 {character}에게 말을 걸어보자"
+  },
+  {
+    "id": "la-quest-daily-live-a03-00023-1-2",
+    "text": "제시간에 도착했어? 라이브 스테이지에 있는 {character}(와)과 연습하자"
+  },
+  {
+    "id": "la-quest-daily-live-a03-00030-1-1",
+    "text": "{character}(이)가 우파오 헤븐에서 연출을 고민 중인 모양이다. 가 보자"
+  },
+  {
+    "id": "la-quest-daily-live-a03-00030-1-2",
+    "text": "고민의 결과는? 라이브 스테이지로 간 {character}(와)과 함께 연습하자"
+  },
+  {
+    "id": "la-quest-daily-live-a03-00034-1-1",
+    "text": "프린세스 마린호에서 방송 중이던 모양이다. {character}에게 말을 걸어보자"
+  },
+  {
+    "id": "la-quest-daily-live-a03-00034-1-2",
+    "text": "라이브 스테이지에서 준비 중인 {character}에게 말을 걸어 연습을 시작하자"
+  },
+  {
+    "id": "la-quest-daily-live-a03-00037-1-1",
+    "text": "라이브 스테이지에서 {character}(이)가 연습 중인 모양이다. 보러 가자"
+  },
+  {
+    "id": "la-quest-daily-live-a03-00037-1-2",
+    "text": "의욕이 가득한 {character}에게 말을 걸고 두뇌!한 연습을 시작하자"
+  },
+  {
+    "id": "la-quest-daily-live-a03-03009-1-1",
+    "text": "{character}(이)가 싱글벙글 배를 문지르고 있다. 무슨 일인지 보러 가자"
+  },
+  {
+    "id": "la-quest-daily-live-a03-03009-1-2",
+    "text": "과자 파워 풀 개방! 라이브 스테이지에 있는 {character}(와)과 연습하자"
+  },
+  {
+    "id": "la-quest-daily-live-a03-04012-1-1",
+    "text": "코요랩 해양지부에서 {character}(이)가 보트를 점검한 모양이다. 가 보자"
+  },
+  {
+    "id": "la-quest-daily-live-a03-04012-1-2",
+    "text": "반짝이는 보트로 라이브 스테이지에 간 {character}(와)과 합류해 연습하자"
+  },
+  {
+    "id": "la-quest-daily-live-a03-06003-1-1",
+    "text": "{character}(이)가 한껏 달아오른 모양이다. 라이브 스테이지에 가 보자"
+  },
+  {
+    "id": "la-quest-daily-live-a03-06003-1-2",
+    "text": "어려운 스텝을 해내라! {character}(와)과 연습을 시작하자"
   },
   {
     "id": "la-quest-daily-rope-00001-1-1",
@@ -3070,5 +3426,269 @@
   {
     "id": "la-quest-main-w1-02-12-1-5",
     "text": "마음을 음악에 싣고. 모두가 기다리는 카지노 구역에서 최고의 라이브를 하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-01-1-1",
+    "text": "웃음소리가 들린다. 시끌벅적한 holo홈에서 모두와 합류하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-01-1-2",
+    "text": "바다 냄새가 물씬 풍긴다! 개방감 넘치는 새 구역에 가 보자"
+  },
+  {
+    "id": "la-quest-main-w1-03-02-1-1",
+    "text": "기다리는 시간도 낭비할 수 없다! 보트가 도착할 때까지 멋진 소리를 퍼뜨리자!"
+  },
+  {
+    "id": "la-quest-main-w1-03-02-1-2",
+    "text": "먼 바다에는 뭐가 기다리고 있을까? 보트로 미지의 바다에 가 보자"
+  },
+  {
+    "id": "la-quest-main-w1-03-03-1-1",
+    "text": "뜻밖의 사태 발생?! 입구에서 난감해하는 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-03-1-2",
+    "text": "해상에 희망이 건설된다! 입구에서 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-main-w1-03-03-1-3",
+    "text": "대물을 낚을 예감에 가슴이 설렌다! 피시 블루를 완성하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-03-1-4",
+    "text": "수면의 찌에 전집중! 물고기를 낚아서 실력을 보여주자!"
+  },
+  {
+    "id": "la-quest-main-w1-03-03-1-5",
+    "text": "물고기를 획득! {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-03-1-6",
+    "text": "까탈쟁이도 인정할 가게 분위기! 베이의 잡동사니를 완성해서 대물에 대비하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-03-1-7",
+    "text": "물고기들도 시선 고정! 베이의 잡동사니에서 최고의 미끼를 손에 넣자"
+  },
+  {
+    "id": "la-quest-main-w1-03-03-1-8",
+    "text": "입질 증가?! 새로운 미끼를 사용해 피시 블루에서 물고기 3마리를 낚자!"
+  },
+  {
+    "id": "la-quest-main-w1-03-03-1-9",
+    "text": "물고기를 획득! {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-04-1-1",
+    "text": "망치 소리가 들린다! 열심히 건물을 짓는 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-main-w1-03-04-1-2",
+    "text": "최고의 편안함을 구현! 이치조 VIP 라운지를 완성하고 축배를 들자!"
+  },
+  {
+    "id": "la-quest-main-w1-03-04-1-3",
+    "text": "이치조 VIP 라운지에서 최고급 아이템과 교환하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-04-1-4",
+    "text": "이치조 VIP 라운지에서 고상히 서 있는(?) {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-main-w1-03-05-1-1",
+    "text": "대화의 장으로. 이치조 VIP 라운지에 있는 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-05-1-2",
+    "text": "바닷가의 최첨단! 코요랩 해양지부를 완성하고 연구를 시작하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-05-1-3",
+    "text": "두근두근☆풀 장비! 코요랩 해양지부에서 보트를 개조하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-05-1-4",
+    "text": "가자, 미지의 해역으로! 새로운 보트로 먼 바다에 나가자"
+  },
+  {
+    "id": "la-quest-main-w1-03-06-1-1",
+    "text": "바람을 가르며 새로운 경지로. 아직 보지 못한 해원을 향해 항해하자!"
+  },
+  {
+    "id": "la-quest-main-w1-03-06-1-2",
+    "text": "아이디어가 가득! 입구에서 {character}에게 말을 걸고 회의에 참여하자!"
+  },
+  {
+    "id": "la-quest-main-w1-03-06-1-3",
+    "text": "열광의 무대를 상상해! 스테이지 예정지에서 고민하는 {character}에게 가자"
+  },
+  {
+    "id": "la-quest-main-w1-03-06-1-4",
+    "text": "라이브 스테이지의 {character}에게 말을 걸어 최고의 무대에서 첫 연습!"
+  },
+  {
+    "id": "la-quest-main-w1-03-07-1-1",
+    "text": "시설의 청소는 잘돼가? 피시 블루에 있는 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-07-1-2",
+    "text": "이상적인 시설이 완성 직전! 라미의 스노우돔을 서둘러 완성하자!"
+  },
+  {
+    "id": "la-quest-main-w1-03-07-1-3",
+    "text": "라미의 스노우돔에서 물고기 3마리를 멋지게 낚아 올리자!"
+  },
+  {
+    "id": "la-quest-main-w1-03-07-1-4",
+    "text": "낚시 대회도 막바지! 라미의 스노우돔에 있는 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-08-1-1",
+    "text": "과연 낚시 대회의 결과는?! 라미의 스노우돔에서 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-08-1-2",
+    "text": "이 소리는 스포츠의 예감? 공 소리가 들려오는 입구로 가자"
+  },
+  {
+    "id": "la-quest-main-w1-03-08-1-3",
+    "text": "꿈의 전당이 탄생 임박! 스플래시 스타디움을 완성하고 환희의 시간을 맞이하자!"
+  },
+  {
+    "id": "la-quest-main-w1-03-08-1-4",
+    "text": "새 역사의 시작! 스타디움에서 기다리는 {character}(와)과 합류하자!"
+  },
+  {
+    "id": "la-quest-main-w1-03-09-1-1",
+    "text": "어쩐지 입구가 북적인다. {character}에게 말을 걸어 보자"
+  },
+  {
+    "id": "la-quest-main-w1-03-09-1-2",
+    "text": "모두의 유대가 구현된다. 프린세스 마린호를 단숨에 완성하자!"
+  },
+  {
+    "id": "la-quest-main-w1-03-10-1-1",
+    "text": "본방 1분 전! 입구에서 공지 방송을 준비중인 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-main-w1-03-10-1-10",
+    "text": "보트를 진화시키자! 코요랩 해양지부에 있는 {character}(와)과 합류하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-10-1-2",
+    "text": "낚시꾼들의 혈전! 피시 블루에서 출전을 기다리는 {character}에게 가자"
+  },
+  {
+    "id": "la-quest-main-w1-03-10-1-3",
+    "text": "특훈의 성과를 보여줄 때다! 낚시 대회의 주인공을 목표로 3마리 낚아 올리자!"
+  },
+  {
+    "id": "la-quest-main-w1-03-10-1-4",
+    "text": "끝은 아직이다. 피시 블루에서 승기를 노리는 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-10-1-5",
+    "text": "정적을 깨는 캐스팅. ★2 이상의 물고기를 1마리 낚자"
+  },
+  {
+    "id": "la-quest-main-w1-03-10-1-6",
+    "text": "이번엔 라미의 스노우돔에 있는 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-10-1-7",
+    "text": "화면 너머로 열광을 전하자! 공지 방송에서 라이브를 공개!"
+  },
+  {
+    "id": "la-quest-main-w1-03-10-1-8",
+    "text": "진짜는 지금부터! 스플래시 스타디움에서 준비하는 {character}에게 가자"
+  },
+  {
+    "id": "la-quest-main-w1-03-10-1-9",
+    "text": "초대형 게스트 등장?! 이틈에 holo홈에서 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-11-1-1",
+    "text": "새로워진 보트의 진가를 시험해보자! 진화한 배로 미지의 바다로 전속력 전진!"
+  },
+  {
+    "id": "la-quest-main-w1-03-11-1-2",
+    "text": "고래 집에 잠입 개시! 작은 만에 뭐가 있는지 엿보자!"
+  },
+  {
+    "id": "la-quest-main-w1-03-11-1-3",
+    "text": "작은 만을 반짝반짝하게! 스플래시 스타디움에서 상의하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-11-1-4",
+    "text": "거대한 이웃의 방문?! 스플래시 스타디움에서 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-11-1-5",
+    "text": "청소 작전, 마침내 결행! 입구에서 준비만전의 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-main-w1-03-11-1-6",
+    "text": "운명의 비포 애프터! 다시 한번 작은 만의 상태를 보러 가자"
+  },
+  {
+    "id": "la-quest-main-w1-03-12-1-1",
+    "text": "모두 입구에 있는 모양이다. {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-main-w1-03-12-1-2",
+    "text": "최고의 데드히트! 흥분이 식지 않는 바다에서 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-12-1-3",
+    "text": "완성 임박! 보코보코 등대에 있는 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-12-1-4",
+    "text": "찰나의 입질을 놓치지 마! 보코보코 등대에서 3마리를 낚아 올리자!"
+  },
+  {
+    "id": "la-quest-main-w1-03-12-1-5",
+    "text": "격전 끝에 웃는 자는?! 보코보코 등대에서 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-main-w1-03-13-1-1",
+    "text": "어쩐지 라이브 스테이지가 시끌벅적. 흥분한 {character}(와)과 대화하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-13-1-2",
+    "text": "성지 탄생 직전! 우파오 헤븐에서 지휘하는 {character}에게 서둘러 가자"
+  },
+  {
+    "id": "la-quest-main-w1-03-14-1-1",
+    "text": "공개 라이브를 위해 스테이지에서 조정 중인 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-main-w1-03-14-1-2",
+    "text": "곧 출범 시간! 늦지 않도록 입구에서 {character}(와)과 합류하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-14-1-3",
+    "text": "꿈을 향해! 포포포 해피 캠프의 {character}(와)과 최종 확인을 하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-14-1-4",
+    "text": "축 완성! 포포포 해피 캠프에서 {character}(와)과 BBQ를 즐기자"
+  },
+  {
+    "id": "la-quest-main-w1-03-15-1-1",
+    "text": "공개 순간을 모두 함께! 라이브 스테이지에서 {character}에게 말을 걸자"
+  },
+  {
+    "id": "la-quest-main-w1-03-15-1-2",
+    "text": "드디어 공개. 긴장한 듯한 {character}(와)과 입구에서 합류하자"
+  },
+  {
+    "id": "la-quest-main-w1-03-15-1-3",
+    "text": "공연장은 발 디딜 틈 없는 대성황! 라이브 스테이지로 가자"
+  },
+  {
+    "id": "la-quest-main-w1-03-15-1-4",
+    "text": "공개 라이브 개막! 다 함께 성공시키자!"
   }
 ]

@@ -1,1 +1,227 @@
-[]
+[
+  {
+    "fish_unique_count": 1,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "100"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 3,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_reward_up_stamina_recover",
+        "quantity": "20"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 5,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "100"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 10,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "100"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 15,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_reward_up_stamina_recover",
+        "quantity": "20"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 20,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "100"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 25,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_reward_up_stamina_recover",
+        "quantity": "20"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 30,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "100"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 35,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_reward_up_stamina_recover",
+        "quantity": "20"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 40,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "100"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 45,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_reward_up_stamina_recover",
+        "quantity": "20"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 50,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-card_limit_break-cmn-sr",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 55,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_reward_up_stamina_recover",
+        "quantity": "20"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 60,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "100"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 65,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_reward_up_stamina_recover",
+        "quantity": "20"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 70,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "100"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 75,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_reward_up_stamina_recover",
+        "quantity": "20"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 80,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "500"
+      }
+    ]
+  }
+]

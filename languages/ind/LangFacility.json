@@ -1,5 +1,9 @@
 [
   {
+    "id": "la-empty",
+    "text": "-"
+  },
+  {
     "id": "la-facility-a01-athletic-description",
     "text": "Fasilitas olahraga buatan Gen 3.\nTempat untuk menggerakkan badan."
   },
@@ -81,11 +85,11 @@
   },
   {
     "id": "la-facility-a01-gate3-description",
-    "text": "-"
+    "text": "Gerbang menuju Soda Pop Lagoon"
   },
   {
     "id": "la-facility-a01-gate3-name",
-    "text": "-"
+    "text": "Gerbang Soda Pop Lagoon"
   },
   {
     "id": "la-facility-a01-gate4-description",
@@ -406,6 +410,141 @@
   {
     "id": "la-facility-a02-station-name",
     "text": "Mega Coaster"
+  },
+  {
+    "id": "la-facility-a03-boatshop-description",
+    "text": "Fasilitas Modifikasi Boat Koyori\nTargetku adalah membuat boat favoritku menjadi yang paling cepat."
+  },
+  {
+    "id": "la-facility-a03-boatshop-name",
+    "text": "Koyo Lab Oceanic Branch"
+  },
+  {
+    "id": "la-facility-a03-entrance-description",
+    "text": "Pintu gerbang yang terbuka ke laut lepas, wajah kota tepi laut, di mana lalu lintas tidak pernah berhenti."
+  },
+  {
+    "id": "la-facility-a03-entrance-name",
+    "text": "Pintu masuk Soda Pop Lagoon"
+  },
+  {
+    "id": "la-facility-a03-fishingpond1-description",
+    "text": "Laut tenang nan biru, permukaan air yang indah, pas untuk memancing."
+  },
+  {
+    "id": "la-facility-a03-fishingpond1-name",
+    "text": "Fish Blue"
+  },
+  {
+    "id": "la-facility-a03-fishingpond2-description",
+    "text": "Tempat memancing yang dihiasi salju milik Lamy, nikmati pemandangan sambil memancing ikan yang besar."
+  },
+  {
+    "id": "la-facility-a03-fishingpond2-name",
+    "text": "Lamy's Snow Dome"
+  },
+  {
+    "id": "la-facility-a03-fishingpond3-description",
+    "text": "Tempat memancing milik Kobo dihiasi deburan ombak putih, pemancing yang tangguh berkumpul di sini."
+  },
+  {
+    "id": "la-facility-a03-fishingpond3-name",
+    "text": "Bokoboko Beacon"
+  },
+  {
+    "id": "la-facility-a03-fishingshop-description",
+    "text": "Toko alat pancing milik Hakos dengan umpan yang bermacam-macam, megunakan koin untuk meningkatkan kemampuan memancingmu."
+  },
+  {
+    "id": "la-facility-a03-fishingshop-name",
+    "text": "Bae's Bits & Bobs"
+  },
+  {
+    "id": "la-facility-a03-glamping-description",
+    "text": "Tempat berkemah milik Polka yang hanya diketahui sedikit orang, nikmati pengalaman BBQ terbaik di sini."
+  },
+  {
+    "id": "la-facility-a03-glamping-name",
+    "text": "POPOPO Happy Camp"
+  },
+  {
+    "id": "la-facility-a03-islandlarge1-name"
+  },
+  {
+    "id": "la-facility-a03-islandlarge2-name"
+  },
+  {
+    "id": "la-facility-a03-islandmiddle1-name"
+  },
+  {
+    "id": "la-facility-a03-islandmiddle2-name"
+  },
+  {
+    "id": "la-facility-a03-islandmiddle3-name"
+  },
+  {
+    "id": "la-facility-a03-islandsmall1-name"
+  },
+  {
+    "id": "la-facility-a03-islandsmall2-name"
+  },
+  {
+    "id": "la-facility-a03-islandsmall3-name"
+  },
+  {
+    "id": "la-facility-a03-islandsmall4-name"
+  },
+  {
+    "id": "la-facility-a03-livestage-description",
+    "text": "Panggung Live dengan angin laut yang sepoi-sepoi, Lagu-lagu yang bersahutan dengan suara ombak."
+  },
+  {
+    "id": "la-facility-a03-livestage-name",
+    "text": "Soda Pop Lagoon Stage"
+  },
+  {
+    "id": "la-facility-a03-name",
+    "text": "Laut"
+  },
+  {
+    "id": "la-facility-a03-resortshop-description",
+    "text": "Toko Penukaran Ririka untuk menyemangati para pemancing koin yang berkiluan berubah menjadi item yang diimpikan."
+  },
+  {
+    "id": "la-facility-a03-resortshop-name",
+    "text": "Ichijou VIP Lounge"
+  },
+  {
+    "id": "la-facility-a03-stadium-description",
+    "text": "Fasilitas olahraga yang mengubah permukaan laut menjadi lapangan, kontrol ombak dan raih kemenangan."
+  },
+  {
+    "id": "la-facility-a03-stadium-name",
+    "text": "Splash Stadium"
+  },
+  {
+    "id": "la-facility-a03-station-description",
+    "text": "Tempat istirahat Marine terletak di tepi pantai tempat untuk bersantai sambil mendengarkan suara ombak."
+  },
+  {
+    "id": "la-facility-a03-station-name",
+    "text": "Princess Marine Ship"
+  },
+  {
+    "id": "la-facility-a03-watergun-description",
+    "text": "Toko Spesialis Barang Live milik Kanata, ambil pistol air dan pergi ke area Live!"
+  },
+  {
+    "id": "la-facility-a03-watergun-name",
+    "text": "Upao Heaven"
+  },
+  {
+    "id": "la-facility-a03-whale-description",
+    "text": "Paus besar yang bermigrasi melintasi samudra, spot foto terbaik untuk mengagumi raksasa laut ini."
+  },
+  {
+    "id": "la-facility-a03-whale-name",
+    "text": "Paus"
   },
   {
     "id": "la-facility-facility-a02-facilitylighting-name",

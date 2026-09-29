@@ -560,7 +560,12 @@
     "mission_type": {
       "name": "MISSION_TYPE_INCREMENT_PARK_FISHING_FISH_CAUGHT_COUNT",
       "number": 60
-    }
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_FACILITY",
+      "number": 704
+    },
+    "transition_id": "facility-a03-fishingpond1"
   },
   {
     "mission_type": {
@@ -609,6 +614,72 @@
       "number": 703
     },
     "transition_id": "CHASE"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_SPLASH_BALL_WIN_COUNT",
+      "number": 67
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "SPLASH_BALL"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_SPLASH_BALL_GOAL_SCORE",
+      "number": 68
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "SPLASH_BALL"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_SPLASH_BALL_DEFENSE_SCORE",
+      "number": 69
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "SPLASH_BALL"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_SPLASH_BALL_COLD_LOSE_COUNT",
+      "number": 70
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "SPLASH_BALL"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_SPLASH_BALL_GOAL_COUNT",
+      "number": 71
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "SPLASH_BALL"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_PARK_FISHING_FISH_FAILED_COUNT",
+      "number": 72
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_FACILITY",
+      "number": 704
+    },
+    "transition_id": "facility-a03-fishingpond1"
   },
   {
     "mission_type": {
@@ -943,7 +1014,12 @@
     "mission_type": {
       "name": "MISSION_TYPE_ABSOLUTE_PARK_FISHING_FISH_UNIQUE_COUNT",
       "number": 1044
-    }
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_FACILITY",
+      "number": 704
+    },
+    "transition_id": "facility-a03-fishingpond1"
   },
   {
     "mission_type": {

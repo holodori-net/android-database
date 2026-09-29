@@ -1,5 +1,444 @@
 [
   {
+    "id": "park_fixed_symbol-fixed_symbol-a03-002",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-002"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-003",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-003"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-004",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-004"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-006",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-006"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-007",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-007"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-008",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-008"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-009",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-009"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-010",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-010"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-011",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-011"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-012",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-012"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-013",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-013"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-017",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-017",
+    "condition_group_id": "cd-facility-a03-resortshop"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-020",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-020"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-023",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-023",
+    "condition_group_id": "cd-facility-a03-fishingpond1"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-027",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-027",
+    "condition_group_id": "cd-facility-a03-station"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-028",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-028",
+    "condition_group_id": "cd-facility-a03-station"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-029",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-029",
+    "condition_group_id": "cd-facility-a03-station"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-032",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-032",
+    "condition_group_id": "cd-facility-a03-boatshop"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-035",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-035"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-037",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-037"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-038",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-038",
+    "condition_group_id": "cd-facility-a03-livestage"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-041",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-041",
+    "condition_group_id": "cd-facility-a03-livestage"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-043",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-043",
+    "condition_group_id": "cd-facility-a03-fishingpond2"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-046",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-046",
+    "condition_group_id": "cd-facility-a03-watergun"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-050",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-050",
+    "condition_group_id": "cd-facility-a03-glamping"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-051",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-051",
+    "condition_group_id": "cd-facility-a03-glamping"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-057",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-057",
+    "condition_group_id": "cd-facility-a03-fishingpond3"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-058",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-058"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-061",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-061"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-062",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-062"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-063",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-063"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-064",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-064"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-066",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-066"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-067",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-067"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-068",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-068"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-069",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-069"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-070",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-070"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-071",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-071"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-072",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-072"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-073",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-073"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-074",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-074"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-075",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-075"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-076",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-076"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-077",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-077"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-078",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-078"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-079",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-079"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-080",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-080"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-083",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-083"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-085",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-085"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-087",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-087"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-088",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-088"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-089",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-089"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-090",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-090"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-091",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-091"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-093",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-093"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-094",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-094"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-095",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-095"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-096",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-096"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-097",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-097"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-098",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-098"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-099",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-099"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-100",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-100"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-101",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-101"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-105",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-105"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-107",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-107"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-109",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-109"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-111",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-111"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-115",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-115"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-116",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-116"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-121",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-121"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-122",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-122"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-123",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-123"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-128",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-128"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-131",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-131"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-141",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-141"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-142",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-142"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-143",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-143"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-144",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-144"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-145",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-145"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-146",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-146"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-147",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-147"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-148",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-148"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-149",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-149"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-150",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-150"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-151",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-151"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-152",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-152"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-153",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-153"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-154",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-154"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-155",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-155"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-156",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-156"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-157",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-157"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-158",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-158"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-159",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-159"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-160",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-160"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-161",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-161"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-162",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-162"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-163",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-163"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-164",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-164"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-165",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-165"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-166",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-166"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-167",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-167"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-168",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-168"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-169",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-169"
+  },
+  {
+    "id": "park_fixed_symbol-fixed_symbol-a03-170",
+    "park_target_mapping_id": "target_map-fixed_symbol-a03-170"
+  },
+  {
+    "id": "park_fixed_symbol-quest-area-a03-05",
+    "park_target_mapping_id": "target_map-area-a03-05-1-2-symbol",
+    "condition_group_id": "cd-quest-area-a03-05-1"
+  },
+  {
+    "id": "park_fixed_symbol-quest-area-a03-12",
+    "park_target_mapping_id": "target_map-area-a03-12-1-2-symbol",
+    "condition_group_id": "cd-quest-area-a03-12-1"
+  },
+  {
     "id": "park_fixed_symbol-random_symbol-level_up-01",
     "park_target_mapping_id": "target_map-fixed_symbol-a01-024",
     "condition_group_id": "cd-quest_clear-quest-area-a01-19"

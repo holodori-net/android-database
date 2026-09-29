@@ -581,6 +581,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-normal-005",
+    "exchange_booth_id": "exchange_booth-facility-a01-exchangebooth2",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-relay-001-chapter-01",
     "exchange_booth_id": "exchange_booth-facility-a01-exchangebooth2",
     "purchase_limit_quantity": 1
@@ -949,6 +954,769 @@
       "name": "RESET_INTERVAL_TYPE_MONTHLY",
       "number": 3
     }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-card_limit_break-attribute_1-1-000",
+    "exchange_booth_id": "exchange_booth-facility-a03-exchangebooth"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-card_limit_break-attribute_1-2-000",
+    "exchange_booth_id": "exchange_booth-facility-a03-exchangebooth"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-card_limit_break-attribute_2-1-000",
+    "exchange_booth_id": "exchange_booth-facility-a03-exchangebooth"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-card_limit_break-attribute_2-2-000",
+    "exchange_booth_id": "exchange_booth-facility-a03-exchangebooth"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-card_limit_break-attribute_3-1-000",
+    "exchange_booth_id": "exchange_booth-facility-a03-exchangebooth"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-card_limit_break-attribute_3-2-000",
+    "exchange_booth_id": "exchange_booth-facility-a03-exchangebooth"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-gold-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop-sell"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-gold-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop-sell"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-gold-004",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop-sell"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-gold-005",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop-sell"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-gold-006",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop-sell"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-gold-007",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop-sell"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-gold-008",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop-sell"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-mini_game_fishing_coin-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop-sell"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-mini_game_fishing_coin-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop-sell"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-item-mini_game_fishing_coin-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop-sell"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-park_fishing_bait-004-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop_bait_exchange"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-park_fishing_bait-005-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop_bait_exchange"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-park_fishing_bait-006-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop_bait_exchange"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-park_fishing_bait-007-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop_bait_exchange"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-exchangebooth-park_fishing_bait-008-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop_bait_exchange"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-fishingshop-park_fishing_bait-002-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-fishingshop-park_fishing_bait-002-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop",
+    "purchase_limit_quantity": 999
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-fishingshop-park_fishing_bait-003-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop",
+    "purchase_limit_quantity": 999
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-fishingshop-park_fishing_bait-004-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop",
+    "purchase_limit_quantity": 30,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-fishingshop-park_fishing_bait-005-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop",
+    "purchase_limit_quantity": 30,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-fishingshop-park_fishing_bait-006-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop",
+    "purchase_limit_quantity": 15,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-fishingshop-park_fishing_bait-007-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop",
+    "purchase_limit_quantity": 15,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-fishingshop-park_fishing_bait-008-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-fishingshop",
+    "purchase_limit_quantity": 20,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_level_up-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_level_up-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_level_up-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_1-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_1-1-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_1-1-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_1-2-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_1-2-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_1-2-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_2-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_2-1-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_2-1-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_2-2-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_2-2-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_2-2-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_3-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_3-1-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_3-1-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_3-2-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_3-2-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-attribute_3-2-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-cmn-sr-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-cmn-sr-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-card_limit_break-cmn-sr-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-skill_tree_allmember-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-skill_tree_allmember-1-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-skill_tree_allmember-1-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-skill_tree_allmember-2-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-skill_tree_allmember-2-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-skill_tree_allmember-2-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-skill_tree_content-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-skill_tree_content-1-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-skill_tree_content-1-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-skill_tree_content-2-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-skill_tree_content-2-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-first_time-item-skill_tree_content-2-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_level_up-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_level_up-001-first_month",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_level_up-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_level_up-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_1-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_1-1-001-first_month",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_1-1-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_1-1-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_1-2-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_1-2-001-first_month",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_1-2-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_1-2-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_2-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_2-1-001-first_month",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_2-1-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_2-1-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_2-2-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_2-2-001-first_month",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_2-2-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_2-2-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_3-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_3-1-001-first_month",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_3-1-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_3-1-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_3-2-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_3-2-001-first_month",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_3-2-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-attribute_3-2-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-cmn-sr-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 1,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-cmn-sr-001-first_month",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-cmn-sr-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 1,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-card_limit_break-cmn-sr-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 1,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-facility-area_a03-001-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-facility-area_a03-002-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-facility-area_a03-003-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_allmember-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_allmember-1-001-first_month",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_allmember-1-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_allmember-1-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_allmember-2-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_allmember-2-001-first_month",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_allmember-2-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_allmember-2-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_content-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_content-1-001-first_month",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_content-1-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_content-1-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_content-2-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_content-2-001-first_month",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 5
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_content-2-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-item-skill_tree_content-2-003",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop",
+    "purchase_limit_quantity": 10,
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_MONTHLY",
+      "number": 3
+    }
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-quest_limited-item-card_level_up-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop-quest_limited",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-quest_limited-item-card_limit_break-attribute_1-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop-quest_limited",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-quest_limited-item-card_limit_break-attribute_2-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop-quest_limited",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-quest_limited-item-card_limit_break-attribute_3-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop-quest_limited",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-quest_limited-item-facility-area_a03-001-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop-quest_limited",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-quest_limited-item-facility-area_a03-001-1-002",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop-quest_limited"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-quest_limited-item-facility-area_a03-002-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop-quest_limited"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-quest_limited-item-skill_tree_allmember-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop-quest_limited",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-facility-a03-resortshop-quest_limited-item-skill_tree_content-1-001",
+    "exchange_booth_id": "exchange_booth-facility-a03-resortshop-quest_limited",
+    "purchase_limit_quantity": 10
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-001-chapter-01-item-card_level_up-001",
@@ -1412,6 +2180,129 @@
   {
     "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-004-chapter-01-poster-marathon_event-normal-004-chapter-01",
     "exchange_booth_id": "exchange_booth-marathon_event-normal-004-chapter-01",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-card_level_up-001",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 50
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-card_level_up-002",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 100
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-card_level_up-003",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-card_limit_break-cmn-sr-001",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-card_limit_break-cmn-sr-002",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 2
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-facility-area_a03-001-1",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-facility-area_a03-002-1",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 3
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-gold-001",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 50
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-gold-002",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 100
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-gold-003",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01"
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-mini-game-chase-coin",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 20
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-mini_game_bet_coin",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 20
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-selectable_reward_box-item-card_limit_break-attribute_1-100",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 20
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 30
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-skill_tree_allmember-1",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 45
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-skill_tree_allmember-2",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 30
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-skill_tree_card-1",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 45
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-skill_tree_card-2",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 30
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-skill_tree_content-1",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 45
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-skill_tree_content-2",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 30
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-skill_tree_leader-1",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 45
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-item-skill_tree_leader-2",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 30
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-park_fishing_bait-004",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 3
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-park_fishing_bait-005",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
+    "purchase_limit_quantity": 3
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-005-chapter-01-poster-marathon_event-normal-005-chapter-01",
+    "exchange_booth_id": "exchange_booth-marathon_event-normal-005-chapter-01",
     "purchase_limit_quantity": 1
   },
   {
@@ -1893,6 +2784,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00001-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00001-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00001-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00001-stamp",
     "purchase_limit_quantity": 1
@@ -1944,6 +2840,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00002-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00002-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00002-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00002-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -2003,6 +2904,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00004-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00004-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00004-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00004-stamp",
     "purchase_limit_quantity": 1
@@ -2054,6 +2960,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00005-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00005-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00005-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00005-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -2113,6 +3024,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00006-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00006-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00006-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00006-stamp",
     "purchase_limit_quantity": 1
@@ -2164,6 +3080,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00007-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00007-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00007-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00007-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -2223,6 +3144,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00010-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00010-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00010-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00010-stamp",
     "purchase_limit_quantity": 1
@@ -2274,6 +3200,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00011-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00011-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00011-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00011-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -2333,6 +3264,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00012-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00012-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00012-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00012-stamp",
     "purchase_limit_quantity": 1
@@ -2384,6 +3320,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00013-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00013-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00013-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00013-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -2443,6 +3384,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00014-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00014-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00014-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00014-stamp",
     "purchase_limit_quantity": 1
@@ -2494,6 +3440,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00015-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00015-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00015-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00015-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -2553,6 +3504,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00016-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00016-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00016-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00016-stamp",
     "purchase_limit_quantity": 1
@@ -2604,6 +3560,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00017-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00017-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00017-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00017-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -2663,6 +3624,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00018-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00018-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00018-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00018-stamp",
     "purchase_limit_quantity": 1
@@ -2714,6 +3680,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00019-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00019-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00019-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00019-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -2773,6 +3744,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00021-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00021-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00021-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00021-stamp",
     "purchase_limit_quantity": 1
@@ -2824,6 +3800,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00022-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00022-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00022-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00022-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -2883,6 +3864,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00023-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00023-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00023-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00023-stamp",
     "purchase_limit_quantity": 1
@@ -2934,6 +3920,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00026-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00026-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00026-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00026-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -2993,6 +3984,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00027-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00027-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00027-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00027-stamp",
     "purchase_limit_quantity": 1
@@ -3044,6 +4040,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00028-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00028-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00028-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00028-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -3103,6 +4104,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00030-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00030-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00030-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00030-stamp",
     "purchase_limit_quantity": 1
@@ -3154,6 +4160,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00031-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00031-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00031-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00031-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -3213,6 +4224,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00032-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00032-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00032-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00032-stamp",
     "purchase_limit_quantity": 1
@@ -3264,6 +4280,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00034-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00034-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00034-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00034-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -3323,6 +4344,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00035-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00035-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00035-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00035-stamp",
     "purchase_limit_quantity": 1
@@ -3374,6 +4400,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00036-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00036-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00036-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00036-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -3433,6 +4464,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00037-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-00037-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00037-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-00037-stamp",
     "purchase_limit_quantity": 1
@@ -3484,6 +4520,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00039-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-00039-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00039-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-00039-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -3543,6 +4584,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03001-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-03001-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03001-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-03001-stamp",
     "purchase_limit_quantity": 1
@@ -3594,6 +4640,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03002-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-03002-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03002-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-03002-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -3653,6 +4704,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03003-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-03003-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03003-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-03003-stamp",
     "purchase_limit_quantity": 1
@@ -3704,6 +4760,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03004-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-03004-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03004-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-03004-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -3763,6 +4824,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03005-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-03005-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03005-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-03005-stamp",
     "purchase_limit_quantity": 1
@@ -3814,6 +4880,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03006-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-03006-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03006-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-03006-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -3873,6 +4944,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03007-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-03007-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03007-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-03007-stamp",
     "purchase_limit_quantity": 1
@@ -3924,6 +5000,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03008-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-03008-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03008-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-03008-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -3983,6 +5064,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03009-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-03009-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03009-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-03009-stamp",
     "purchase_limit_quantity": 1
@@ -4034,6 +5120,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04001-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-04001-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04001-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-04001-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -4093,6 +5184,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04002-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-04002-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04002-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-04002-stamp",
     "purchase_limit_quantity": 1
@@ -4144,6 +5240,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04003-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-04003-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04003-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-04003-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -4203,6 +5304,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04007-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-04007-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04007-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-04007-stamp",
     "purchase_limit_quantity": 1
@@ -4254,6 +5360,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04010-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-04010-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04010-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-04010-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -4313,6 +5424,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04012-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-04012-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04012-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-04012-stamp",
     "purchase_limit_quantity": 1
@@ -4364,6 +5480,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04013-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-04013-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04013-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-04013-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -4423,6 +5544,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04014-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-04014-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04014-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-04014-stamp",
     "purchase_limit_quantity": 1
@@ -4474,6 +5600,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04015-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-04015-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04015-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-04015-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -4533,6 +5664,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06002-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-06002-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06002-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-06002-stamp",
     "purchase_limit_quantity": 1
@@ -4584,6 +5720,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06003-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-06003-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06003-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-06003-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -4643,6 +5784,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06004-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-06004-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06004-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-06004-stamp",
     "purchase_limit_quantity": 1
@@ -4694,6 +5840,11 @@
   },
   {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06005-park_emotion-004",
+    "exchange_booth_id": "exchange_booth-membership-chr-06005-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06005-park_emotion-005",
     "exchange_booth_id": "exchange_booth-membership-chr-06005-park_emotion",
     "purchase_limit_quantity": 1
   },
@@ -4753,6 +5904,11 @@
     "purchase_limit_quantity": 1
   },
   {
+    "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-80001-park_emotion-005",
+    "exchange_booth_id": "exchange_booth-membership-chr-80001-park_emotion",
+    "purchase_limit_quantity": 1
+  },
+  {
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-80001-stamp-001",
     "exchange_booth_id": "exchange_booth-membership-chr-80001-stamp",
     "purchase_limit_quantity": 1
@@ -4771,6 +5927,276 @@
     "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-80001-stamp-004",
     "exchange_booth_id": "exchange_booth-membership-chr-80001-stamp",
     "purchase_limit_quantity": 1
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-001",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-002",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-003",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-004",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-005",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-006",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-007",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-008",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-009",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-010",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-011",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-012",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-013",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-014",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-015",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-016",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-017",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-018",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-019",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-020",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-021",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-022",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-023",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-024",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-025",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-026",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-027",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-028",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-029",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-030",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-031",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-032",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-033",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-034",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-035",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-036",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-037",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-038",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-039",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-040",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-041",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-042",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-043",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-044",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-045",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-046",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-047",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-048",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-049",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-050",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-051",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-052",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-053",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-area03-260929-054",
+    "exchange_booth_id": "exchange_booth-gacha-area03-260929",
+    "purchase_limit_quantity": 10
   },
   {
     "id": "exchange_booth_fixed_item-gacha-beginner-select-001",
@@ -5425,6 +6851,26 @@
   {
     "id": "exchange_booth_fixed_item-gacha-pickup-260919-004",
     "exchange_booth_id": "exchange_booth-gacha-pickup-260919",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-pickup-260929-001",
+    "exchange_booth_id": "exchange_booth-gacha-pickup-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-pickup-260929-002",
+    "exchange_booth_id": "exchange_booth-gacha-pickup-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-pickup-260929-003",
+    "exchange_booth_id": "exchange_booth-gacha-pickup-260929",
+    "purchase_limit_quantity": 10
+  },
+  {
+    "id": "exchange_booth_fixed_item-gacha-pickup-260929-004",
+    "exchange_booth_id": "exchange_booth-gacha-pickup-260929",
     "purchase_limit_quantity": 10
   }
 ]

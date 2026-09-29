@@ -482,6 +482,42 @@
     "text": "Live Bersama"
   },
   {
+    "client_id": "202606300001",
+    "text": "Tim sudah ditentukan!"
+  },
+  {
+    "client_id": "202608070001",
+    "text": "Jika anggota tim terlalu banyak atau sedikit, akan diadakan pengundian."
+  },
+  {
+    "client_id": "202608070002",
+    "text": "Multiplayer"
+  },
+  {
+    "client_id": "202608070003",
+    "text": "Splash Ball"
+  },
+  {
+    "client_id": "202608070004",
+    "text": "Otomatis"
+  },
+  {
+    "client_id": "202608140001",
+    "text": "Merebutnya dari {0}!"
+  },
+  {
+    "client_id": "202608140002",
+    "text": "PINK"
+  },
+  {
+    "client_id": "202608140003",
+    "text": "YELLOW"
+  },
+  {
+    "client_id": "202608140004",
+    "text": "BLUE"
+  },
+  {
     "client_id": "219289739264",
     "text": "Fast"
   },
@@ -568,6 +604,10 @@
   {
     "client_id": "586542997504",
     "text": "Ubah"
+  },
+  {
+    "client_id": "590875382694",
+    "text": "Jika tidak ada aksi yang dilakukan dalam <space=6px><size=32><color=#F9FF55>{0} detik</color></size><space=6px>, pemain akan dikeluarkan."
   },
   {
     "client_id": "634412589056",
@@ -867,6 +907,10 @@
   {
     "client_id": "2803613425664",
     "text": "Promo"
+  },
+  {
+    "client_id": "2811230201836",
+    "text": "--"
   },
   {
     "client_id": "2830206230528",
@@ -1236,12 +1280,20 @@
     "text": "Ayo mainkan permainan"
   },
   {
+    "client_id": "6480768429193",
+    "text": "Hadiah Oertama"
+  },
+  {
     "client_id": "6526320620455",
     "text": "GPA."
   },
   {
     "client_id": "6529759109120",
     "text": "Penampilan"
+  },
+  {
+    "client_id": "6623057692057",
+    "text": "Lapor"
   },
   {
     "client_id": "6727395982968",
@@ -1374,6 +1426,10 @@
   {
     "client_id": "8572573310976",
     "text": "Kata Sandi"
+  },
+  {
+    "client_id": "8597809391041",
+    "text": "Meningkatan Alat Pancing"
   },
   {
     "client_id": "8622716215296",
@@ -1542,6 +1598,10 @@
   {
     "client_id": "11110441108620",
     "text": "Hak Cipta"
+  },
+  {
+    "client_id": "11134621937617",
+    "text": "Tukar Umpan"
   },
   {
     "client_id": "11182760628171",
@@ -1863,6 +1923,18 @@
     "text": "Toko"
   },
   {
+    "client_id": "20828188085068",
+    "text": "Rekor Tertinggi"
+  },
+  {
+    "client_id": "21203337706729",
+    "text": "Pengaturan tidak dapat diubah karena akan menghasilkan penempatan yang tidak valid."
+  },
+  {
+    "client_id": "21427976644001",
+    "text": "Lebar jalur"
+  },
+  {
     "client_id": "21619123675136",
     "text": "Detail"
   },
@@ -1873,6 +1945,10 @@
   {
     "client_id": "21758261805400",
     "text": "Pengaturan Suara"
+  },
+  {
+    "client_id": "22480911888912",
+    "text": "Warna Original"
   },
   {
     "client_id": "22525577061769",
@@ -1897,6 +1973,10 @@
   {
     "client_id": "22852849038446",
     "text": "Karena akan dipilih 3 secara acak, Pilih satu!"
+  },
+  {
+    "client_id": "23332640194103",
+    "text": "Goal"
   },
   {
     "client_id": "23351514451274",
@@ -1986,6 +2066,10 @@
     "text": "Saat ini pun masih terus terjadi"
   },
   {
+    "client_id": "27397249670644",
+    "text": "Alat Pancing bisa ditingkatkan"
+  },
+  {
     "client_id": "27520443343165",
     "text": "Skill Aktif"
   },
@@ -2002,12 +2086,24 @@
     "text": "Ayo bermain ke Dream Park"
   },
   {
+    "client_id": "28167913602282",
+    "text": "Boat"
+  },
+  {
     "client_id": "28261965271945",
     "text": "【{0}】{1}<alpha=#8B>"
   },
   {
     "client_id": "28331001242075",
     "text": "Off"
+  },
+  {
+    "client_id": "28761925576133",
+    "text": "KELUAR!"
+  },
+  {
+    "client_id": "29109149014419",
+    "text": "Tingkat kesulitan tidak bisa diubah jauh lebih rendah daripada estimasi tingkat kesulitan"
   },
   {
     "client_id": "29112528035840",
@@ -2032,6 +2128,10 @@
   {
     "client_id": "29396020686017",
     "text": "Koneksi gagal\\n[useridmismatch]"
+  },
+  {
+    "client_id": "29492151002064",
+    "text": "Lainnya"
   },
   {
     "client_id": "29520273104896",
@@ -2095,6 +2195,10 @@
   {
     "client_id": "32842849148928",
     "text": "Batalkan"
+  },
+  {
+    "client_id": "32847540736756",
+    "text": "Lightstick"
   },
   {
     "client_id": "32994003476480",
@@ -2163,6 +2267,10 @@
   {
     "client_id": "35642596057088",
     "text": "Ayo kita jelajahi taman ini!"
+  },
+  {
+    "client_id": "35706714594581",
+    "text": "Ikan yang bisa ditangkap di lokasi ini"
   },
   {
     "client_id": "35714178310144",
@@ -2249,6 +2357,10 @@
     "text": "Skor Kali Ini"
   },
   {
+    "client_id": "38298234724197",
+    "text": "Ensiklopedia Ikan"
+  },
+  {
     "client_id": "38421319245824",
     "text": "Skor Terbaik"
   },
@@ -2267,6 +2379,10 @@
   {
     "client_id": "38714760500538",
     "text": "UI Header"
+  },
+  {
+    "client_id": "38724332423842",
+    "text": "Item yang digunakan untuk peningkatan akan dikonsumsi"
   },
   {
     "client_id": "38890956240120",
@@ -2355,6 +2471,10 @@
   {
     "client_id": "41249489578224",
     "text": "PRIVATE"
+  },
+  {
+    "client_id": "41262588683551",
+    "text": "{0}\\nHasil rekap akan diumumkan"
   },
   {
     "client_id": "41571789304033",
@@ -2488,6 +2608,10 @@
     "text": "Perlu melakukan pembaruan. Silakan simpan lagi dari layar pengeditan."
   },
   {
+    "client_id": "44489598940899",
+    "text": "Gagal"
+  },
+  {
     "client_id": "44690749610706",
     "text": "Melakukan perubahan akan mengakhiri permainan."
   },
@@ -2606,6 +2730,10 @@
   {
     "client_id": "47073204100735",
     "text": "Leader holomem"
+  },
+  {
+    "client_id": "47128529851600",
+    "text": "Jumlah jalur"
   },
   {
     "client_id": "47301566450577",
@@ -2748,6 +2876,10 @@
     "text": "Ambil material yang dibutuhkan!"
   },
   {
+    "client_id": "54058167112346",
+    "text": "Tidak dapat membatalkan pilihan tingkat kesulitan."
+  },
+  {
     "client_id": "54068314601485",
     "text": "Riwayat"
   },
@@ -2786,6 +2918,10 @@
   {
     "client_id": "54982979084288",
     "text": "Sedang Dipakai"
+  },
+  {
+    "client_id": "55083451363575",
+    "text": "Posisi Tampilan Penilaian"
   },
   {
     "client_id": "55219026124800",
@@ -2948,10 +3084,6 @@
     "text": "Menghapus dari pertemanan"
   },
   {
-    "client_id": "60417203445434",
-    "text": "Dapat dicek setelah selesai"
-  },
-  {
     "client_id": "60532177643209",
     "text": "External Transmission of User Information"
   },
@@ -3068,6 +3200,10 @@
     "text": "CREATE"
   },
   {
+    "client_id": "64882015935888",
+    "text": ":"
+  },
+  {
     "client_id": "64901463662592",
     "text": "Benefit (kecuali Medal) hanya ada saat berlangganan."
   },
@@ -3176,6 +3312,10 @@
     "text": "Sense"
   },
   {
+    "client_id": "67945359829469",
+    "text": "Persediaan umpan hampir habis"
+  },
+  {
     "client_id": "67967285092700",
     "text": "Batalkan"
   },
@@ -3237,6 +3377,10 @@
   {
     "client_id": "69612874332199",
     "text": "Proses pembelian gagal"
+  },
+  {
+    "client_id": "69711317680359",
+    "text": "Item yang digunakan untuk peningkatan akan dikonsumsi"
   },
   {
     "client_id": "69912407703277",
@@ -3331,6 +3475,10 @@
     "text": "Jalur 3"
   },
   {
+    "client_id": "72488060829775",
+    "text": "Ikan yang suka dengan umpan ini."
+  },
+  {
     "client_id": "72910449795072",
     "text": "%"
   },
@@ -3395,6 +3543,10 @@
     "text": "Karakter tidak valid."
   },
   {
+    "client_id": "76155321078112",
+    "text": "pt"
+  },
+  {
     "client_id": "76276142347264",
     "text": "Tanpa Rating Skor"
   },
@@ -3445,6 +3597,10 @@
   {
     "client_id": "78087086192474",
     "text": "Pembatasan Akun"
+  },
+  {
+    "client_id": "78138526476578",
+    "text": "Tingkat kesulitan tidak bisa diubah jauh lebih tinggi dari pada estimasi tingkat kesulitan"
   },
   {
     "client_id": "78199322763264",
@@ -3535,6 +3691,10 @@
     "text": "Saat ini sedang dilakukan pemeliharaan dan pembaharuan."
   },
   {
+    "client_id": "80777379197786",
+    "text": "SELESAI!"
+  },
+  {
     "client_id": "80800845451093",
     "text": "Bar"
   },
@@ -3595,6 +3755,10 @@
     "text": "Proses ini membutuhkan beberapa saat. Silahkan tunggu."
   },
   {
+    "client_id": "82715765679041",
+    "text": "Oke"
+  },
+  {
     "client_id": "82798275584000",
     "text": "Kali Per Hari"
   },
@@ -3651,8 +3815,16 @@
     "text": "kali"
   },
   {
+    "client_id": "85182408856929",
+    "text": "Umpan Favorit"
+  },
+  {
     "client_id": "85464158545221",
     "text": "Transmisi Data"
+  },
+  {
+    "client_id": "85472627192213",
+    "text": "Alat pancing yang sudah ditingkatkan! Tangkap ikan yang jauh lebih gesit dengan cepat dan mudah!"
   },
   {
     "client_id": "85477499206102",
@@ -3673,6 +3845,10 @@
   {
     "client_id": "86727911083853",
     "text": "Konfirmasi"
+  },
+  {
+    "client_id": "86740115084185",
+    "text": "Alat pancing paling sempurna! Bisa menangkap ikan yang paling gesit sekalipun dengan cepat dan mudah!"
   },
   {
     "client_id": "86792674710737",
@@ -3703,6 +3879,10 @@
     "text": "Item ini akan dikonversi untuk member yang memiliki poin maksimal untuk berkembang"
   },
   {
+    "client_id": "88634430503054",
+    "text": "Jalur"
+  },
+  {
     "client_id": "89388026070647",
     "text": "Periode pertukaran telah berakhir.\\nKembali ke halaman judul."
   },
@@ -3713,6 +3893,10 @@
   {
     "client_id": "89890475791805",
     "text": "JDG. Boost"
+  },
+  {
+    "client_id": "90370242537558",
+    "text": "Tinggi not (%)"
   },
   {
     "client_id": "90544181977137",
@@ -3733,6 +3917,10 @@
   {
     "client_id": "90889181773740",
     "text": "Lanjutkan Misi Utama"
+  },
+  {
+    "client_id": "91041481404042",
+    "text": "Konfigurasi Tombol (Park)"
   },
   {
     "client_id": "91086829084672",
@@ -3830,6 +4018,10 @@
     "text": "Meskipun sumber data dihapus, data tersimpan tidak akan hilang"
   },
   {
+    "client_id": "94934413190447",
+    "text": "Tiap jalur"
+  },
+  {
     "client_id": "95108122304512",
     "text": "GO!"
   },
@@ -3922,6 +4114,10 @@
     "text": "Bulan"
   },
   {
+    "client_id": "98619044845502",
+    "text": "GOOD ke Bawah"
+  },
+  {
     "client_id": "98654268837929",
     "text": "Gelar akan dibagikan setiap minggu berdasarkan peringkat pencapaian. Gelar tersebut berlaku hingga pembaruan berikutnya."
   },
@@ -3932,6 +4128,10 @@
   {
     "client_id": "98921961807216",
     "text": "Bermain dengan pemain lain"
+  },
+  {
+    "client_id": "99023187762244",
+    "text": "Hadiah Ensiklopedia bisa diambil"
   },
   {
     "client_id": "99353951407048",
@@ -4058,6 +4258,10 @@
     "text": "F"
   },
   {
+    "client_id": "102809088138335",
+    "text": "Konfigurasi Tombol (Memancing)"
+  },
+  {
     "client_id": "102978277720385",
     "text": "Tertangkap!"
   },
@@ -4122,6 +4326,10 @@
     "text": "T"
   },
   {
+    "client_id": "104786989303116",
+    "text": "Tampilan FAST/SLOW"
+  },
+  {
     "client_id": "104872538217778",
     "text": "Syarat membuka:"
   },
@@ -4140,6 +4348,10 @@
   {
     "client_id": "105934899765248",
     "text": "Lepas"
+  },
+  {
+    "client_id": "106030032847894",
+    "text": "Grup Patroli: Gunakan skill."
   },
   {
     "client_id": "106031278214794",
@@ -4202,6 +4414,10 @@
     "text": "Quick chat"
   },
   {
+    "client_id": "108497959713342",
+    "text": "Waktu pencarian habis"
+  },
+  {
     "client_id": "108501731129186",
     "text": "Konfirmasi Pembelian"
   },
@@ -4212,6 +4428,14 @@
   {
     "client_id": "109259847294976",
     "text": "Outfit Taman"
+  },
+  {
+    "client_id": "109464742164561",
+    "text": "Warna Live"
+  },
+  {
+    "client_id": "109871167340975",
+    "text": "Power up boat era baru Melesat jauh di laut lepas dengan tenaga jet!"
   },
   {
     "client_id": "109988051383082",
@@ -4236,6 +4460,10 @@
   {
     "client_id": "110358790152207",
     "text": "Moving"
+  },
+  {
+    "client_id": "110366006093427",
+    "text": "Tampilkan semua"
   },
   {
     "client_id": "110377357107200",
@@ -4270,8 +4498,16 @@
     "text": "Mode Streamer"
   },
   {
+    "client_id": "111407385215380",
+    "text": "Jumlah Konsumsi"
+  },
+  {
     "client_id": "111512041917253",
     "text": "Achievs"
+  },
+  {
+    "client_id": "112077237337464",
+    "text": "Highlight"
   },
   {
     "client_id": "112123834752842",
@@ -4284,6 +4520,10 @@
   {
     "client_id": "112486698408497",
     "text": "Terjadi Kesalahan Pada Transaksi"
+  },
+  {
+    "client_id": "112559174875507",
+    "text": "Mencapai Level Tertinggi"
   },
   {
     "client_id": "112623128895461",
@@ -4308,6 +4548,10 @@
   {
     "client_id": "112995329444239",
     "text": "Ada permintaan masuk."
+  },
+  {
+    "client_id": "113368905515828",
+    "text": "Cara Mendapatkan"
   },
   {
     "client_id": "113508879875796",
@@ -4360,6 +4604,10 @@
   {
     "client_id": "115592316850676",
     "text": "Chapter yang belum dimulai."
+  },
+  {
+    "client_id": "116144009142970",
+    "text": "Hadiah Ensiklopedia"
   },
   {
     "client_id": "116294624403456",
@@ -4430,12 +4678,20 @@
     "text": "Tambahkan"
   },
   {
+    "client_id": "119254927205055",
+    "text": "Sembunyikan"
+  },
+  {
     "client_id": "119260780556154",
     "text": "Masukkan 8-16 karakter (huruf dan angka)"
   },
   {
     "client_id": "119433013747712",
     "text": "Informasi Hukum"
+  },
+  {
+    "client_id": "119854367263277",
+    "text": "LEVEL UP!"
   },
   {
     "client_id": "119917962176578",
@@ -4514,6 +4770,10 @@
     "text": "Tanggal sinkronisasi data historis"
   },
   {
+    "client_id": "123006427951991",
+    "text": "Tipe Tampilan Penilaian"
+  },
+  {
     "client_id": "123078356594941",
     "text": "Belum dirilis."
   },
@@ -4544,6 +4804,18 @@
   {
     "client_id": "124306953920512",
     "text": "Skill Outfit"
+  },
+  {
+    "client_id": "124518069627445",
+    "text": "Konfigurasi Tombol (Perburuan Gelap Gulita Tim Patroli)."
+  },
+  {
+    "client_id": "124550326747671",
+    "text": "Pilih Umpan"
+  },
+  {
+    "client_id": "124741878216016",
+    "text": "Lanjutkan"
   },
   {
     "client_id": "124824786886656",
@@ -4669,6 +4941,10 @@
     "text": "Peringkat"
   },
   {
+    "client_id": "129096002954899",
+    "text": "Tempat Lokasi"
+  },
+  {
     "client_id": "129096506862295",
     "text": "Batalkan permohonan?"
   },
@@ -4707,6 +4983,10 @@
   {
     "client_id": "129770703937536",
     "text": "Kartu Kustom"
+  },
+  {
+    "client_id": "129777156368767",
+    "text": "Gagal menyimpan foto"
   },
   {
     "client_id": "129925621851595",
@@ -4817,6 +5097,10 @@
     "text": "TOTAL"
   },
   {
+    "client_id": "134071460711440",
+    "text": "Apakah Anda yakin untuk mengembalikan semua konfigurasi tombol ke pengaturan default?"
+  },
+  {
     "client_id": "134125401228663",
     "text": "mm:ss"
   },
@@ -4833,8 +5117,16 @@
     "text": "Masukkan ID Ruangan."
   },
   {
+    "client_id": "134729507062026",
+    "text": "Ikan yang suka dengan Umpan ini"
+  },
+  {
     "client_id": "134754170417333",
     "text": "Karena terdeteksi adanya tindakan mengganggu pemain lain,\\nfitur Live Multiplayer dibatasi sementara."
+  },
+  {
+    "client_id": "134757844370353",
+    "text": "Aksi"
   },
   {
     "client_id": "134778363606176",
@@ -4997,6 +5289,10 @@
     "text": "Telah diundang"
   },
   {
+    "client_id": "138289897885663",
+    "text": "Alat pancing spec tinggi! Ikan gesit sekalipun, bisa dipancing dengan cepat dan gampang!"
+  },
+  {
     "client_id": "138656132069497",
     "text": "Dengan membeli lisensi ini, saya mengerti bahwa saya membeli lisensi untuk konten digital seperti yang tertera pada syarat dan ketentuan lisensi ini. Saya menyetujui bahwa konten digital akan diunduh sesegera mungkin setelah pembilan dan saya memahami bahwa hak saya untuk membatalkan akan berakhir stelah pengunduhan dimulai."
   },
@@ -5085,6 +5381,10 @@
     "text": "Sayang sekali..."
   },
   {
+    "client_id": "140242834952609",
+    "text": "Konfigurasi Tombol (Pengaturan Gerakan)"
+  },
+  {
     "client_id": "140638702932876",
     "text": "Tidak memiliki fan mark"
   },
@@ -5095,6 +5395,14 @@
   {
     "client_id": "140827551621120",
     "text": "Vokal ver."
+  },
+  {
+    "client_id": "140883373011756",
+    "text": "Umpan"
+  },
+  {
+    "client_id": "141028108199085",
+    "text": "Mencapai Level Tertinggi"
   },
   {
     "client_id": "141208789409792",
@@ -5125,8 +5433,16 @@
     "text": "Lewati"
   },
   {
+    "client_id": "142197475622576",
+    "text": "Konfigurasi Tombol (Perburuan Gelap Gulita Kelompok Iseng)."
+  },
+  {
     "client_id": "142222883134808",
     "text": "Pilih Pemain."
+  },
+  {
+    "client_id": "142637145472144",
+    "text": "Metode penguatan"
   },
   {
     "client_id": "142978427478016",
@@ -5143,6 +5459,10 @@
   {
     "client_id": "143382413344468",
     "text": "Gagal memulai proses pembelian."
+  },
+  {
+    "client_id": "143537155726184",
+    "text": "Lv"
   },
   {
     "client_id": "143549850655551",
@@ -5223,6 +5543,10 @@
   {
     "client_id": "147204378728393",
     "text": "Dipilih"
+  },
+  {
+    "client_id": "147220480777755",
+    "text": "Memancing"
   },
   {
     "client_id": "147308723585301",
@@ -5336,6 +5660,10 @@
     "text": "Mengunduh aset..."
   },
   {
+    "client_id": "152721070420963",
+    "text": "Skor Tertinggi"
+  },
+  {
     "client_id": "152994130000111",
     "text": "Pengaturan MV"
   },
@@ -5382,6 +5710,10 @@
   {
     "client_id": "154629955033605",
     "text": "Tidak dapat menarik Undian lagi hari ini."
+  },
+  {
+    "client_id": "154899795811027",
+    "text": "Memecahkan rekor!"
   },
   {
     "client_id": "154924381593600"
@@ -5483,6 +5815,10 @@
     "text": "Tidak ada event yang tersedia."
   },
   {
+    "client_id": "157601853239892",
+    "text": "∞"
+  },
+  {
     "client_id": "157737652760328",
     "text": "Belum ada skill yang dibuka"
   },
@@ -5519,6 +5855,10 @@
     "text": "Mematikan fitur ini akan menghentikan pelacakan aktivitas di aplikasi dan situs web lain\\n\\nHasilnya dapat mengurangi pemunculan iklan."
   },
   {
+    "client_id": "158586228057072",
+    "text": "Modifikasi Boat"
+  },
+  {
     "client_id": "158688117531881",
     "text": "Standar"
   },
@@ -5541,6 +5881,10 @@
   {
     "client_id": "160235586803111",
     "text": "contoh@contoh.com"
+  },
+  {
+    "client_id": "160354713874129",
+    "text": "Mencetak Gol bunuh diri..."
   },
   {
     "client_id": "160411624766432",
@@ -5593,6 +5937,10 @@
   {
     "client_id": "163066800908073",
     "text": "Mini game (Kurayami Chase)"
+  },
+  {
+    "client_id": "163079102592301",
+    "text": "LEVEL UP!"
   },
   {
     "client_id": "163092983372341",
@@ -5679,6 +6027,10 @@
     "text": "x"
   },
   {
+    "client_id": "165049181133805",
+    "text": "Gagal menyimpan foto"
+  },
+  {
     "client_id": "165142451348012",
     "text": "Jumlah maksimal partitur yang bisa dibuat telah tercapai dan tidak bisa membuat partitur baru."
   },
@@ -5689,6 +6041,10 @@
   {
     "client_id": "165333052272359",
     "text": "Stiker"
+  },
+  {
+    "client_id": "165643122152798",
+    "text": "Alat Pancing"
   },
   {
     "client_id": "165701883647920",
@@ -5791,6 +6147,10 @@
     "text": "B"
   },
   {
+    "client_id": "170282585182683",
+    "text": "Ikon"
+  },
+  {
     "client_id": "170495085220418",
     "text": "Tekan untuk menutup"
   },
@@ -5801,6 +6161,10 @@
   {
     "client_id": "170832546566974",
     "text": "Quick chat 3"
+  },
+  {
+    "client_id": "170881198635134",
+    "text": "Jumlah Penukaran"
   },
   {
     "client_id": "171092172460353",
@@ -5927,6 +6291,10 @@
     "text": "HoloPaspor"
   },
   {
+    "client_id": "176285540301213",
+    "text": "Normal"
+  },
+  {
     "client_id": "176643305588580",
     "text": "Bermain di pemainan yang sama"
   },
@@ -5937,6 +6305,10 @@
   {
     "client_id": "176926570811707",
     "text": "Skor Terbaik"
+  },
+  {
+    "client_id": "177076926115126",
+    "text": "Bonus Highlight"
   },
   {
     "client_id": "177162247645535",
@@ -5953,6 +6325,10 @@
   {
     "client_id": "177421391874093",
     "text": "Aktivasi Skill Suara"
+  },
+  {
+    "client_id": "177507855254637",
+    "text": "Hadiah yang Diperoleh."
   },
   {
     "client_id": "177640489442371",
@@ -5977,6 +6353,10 @@
   {
     "client_id": "178744514347256",
     "text": "Barang akan diperbarui dalam {0}"
+  },
+  {
+    "client_id": "178839456405827",
+    "text": "Lencana Event"
   },
   {
     "client_id": "179065099313152",
@@ -6013,6 +6393,10 @@
   {
     "client_id": "179877316245102",
     "text": "Terjadi kesalahan sistem."
+  },
+  {
+    "client_id": "179959226528343",
+    "text": "Alat Pancing Lv Up"
   },
   {
     "client_id": "180113299495501",
@@ -6171,6 +6555,10 @@
     "text": "Pembelian Diamond"
   },
   {
+    "client_id": "187265459161388",
+    "text": "Tampilan SP Skill Timing"
+  },
+  {
     "client_id": "187584456089600",
     "text": "Data telah dihapus."
   },
@@ -6185,6 +6573,10 @@
   {
     "client_id": "187840606242973",
     "text": "TAP"
+  },
+  {
+    "client_id": "187871869339322",
+    "text": "Skor Kali Ini"
   },
   {
     "client_id": "187889360152634",
@@ -6217,6 +6609,10 @@
   {
     "client_id": "190246224734835",
     "text": "Live"
+  },
+  {
+    "client_id": "190776526102413",
+    "text": "Semakin besar lebar jalur, maka kemungkinan elemen UI akan tumpang tindih dengan jalur juga makin besar."
   },
   {
     "client_id": "191131441140206",
@@ -6265,6 +6661,10 @@
   {
     "client_id": "192951076625981",
     "text": "Tidak dapat dipulihkan karena Diamond telah habis"
+  },
+  {
+    "client_id": "193613022522218",
+    "text": "Size"
   },
   {
     "client_id": "193730252844322",
@@ -6360,6 +6760,10 @@
   {
     "client_id": "197683903622961",
     "text": "Batas perolehan Pt harian sudah maksimal."
+  },
+  {
+    "client_id": "198323575482155",
+    "text": "Waktu Muncul"
   },
   {
     "client_id": "198623699976603",
@@ -6492,6 +6896,10 @@
   {
     "client_id": "204163089932948",
     "text": "Koneksi dengan server terputus."
+  },
+  {
+    "client_id": "204343453307638",
+    "text": "Ada bonus"
   },
   {
     "client_id": "204557739577807"
@@ -6707,6 +7115,10 @@
     "text": "Peringkat Event"
   },
   {
+    "client_id": "209571580209432",
+    "text": "WAKTU HABIS!"
+  },
+  {
     "client_id": "209765962604544",
     "text": "Berikutnya"
   },
@@ -6769,6 +7181,10 @@
   {
     "client_id": "211372609144403",
     "text": "Titik"
+  },
+  {
+    "client_id": "211553485302535",
+    "text": "Pergi Memancing"
   },
   {
     "client_id": "211614722809856",
@@ -6835,6 +7251,10 @@
     "text": "C"
   },
   {
+    "client_id": "214973362115376",
+    "text": "Ubah Waktu"
+  },
+  {
     "client_id": "215019381972992",
     "text": "Quest lain tidak dapat dimainkan selama Misi Holomem berlangsung (dapat dihentikan di tengah jalan)."
   },
@@ -6865,6 +7285,10 @@
   {
     "client_id": "215935421883889",
     "text": "Kembali"
+  },
+  {
+    "client_id": "215951530512145",
+    "text": "Bagian bawah"
   },
   {
     "client_id": "216019064971264",
@@ -6923,6 +7347,10 @@
     "text": "Profil kustom berhasil dibuat!\nAyo main di hololive Dreams!\n\n#MyHolodoriProfile"
   },
   {
+    "client_id": "218149562304581",
+    "text": "Umpannya diambil ikan..."
+  },
+  {
     "client_id": "218328455146562",
     "text": "Tidak ada informasi peringkat"
   },
@@ -6957,6 +7385,10 @@
   {
     "client_id": "219721360123651",
     "text": "ID"
+  },
+  {
+    "client_id": "219844064940506",
+    "text": "/{0}"
   },
   {
     "client_id": "219975319480054",
@@ -6999,8 +7431,16 @@
     "text": "AC"
   },
   {
+    "client_id": "221748600260508",
+    "text": "Jumlah pembagian jalur"
+  },
+  {
     "client_id": "222098170830001",
     "text": "Partitur Buat sudah dipublikasikan!\\n\nMainkan HoloLive Dreams!\\n\\n\n\n「{0}」\\n\nPartitur Musik ID: {1}\\n\\n\n\n#My Buat Partitur"
+  },
+  {
+    "client_id": "222272372501752",
+    "text": "Boat makin keren & kuat. Kaca depan tingkatkan keamanan!"
   },
   {
     "client_id": "222585071557787",
@@ -7051,6 +7491,10 @@
     "text": "Tampilkan"
   },
   {
+    "client_id": "225297087395783",
+    "text": "Lindungi tim!"
+  },
+  {
     "client_id": "225639315816103",
     "text": "Cerita"
   },
@@ -7077,6 +7521,14 @@
   {
     "client_id": "226228688755941",
     "text": "Mode Privat"
+  },
+  {
+    "client_id": "226260569507326",
+    "text": "g"
+  },
+  {
+    "client_id": "226499894520324",
+    "text": "Tanpa multi jari"
   },
   {
     "client_id": "226640543761006",
@@ -7175,6 +7627,10 @@
     "text": "NONE"
   },
   {
+    "client_id": "229866390281079",
+    "text": "Lv. Maks. {0}"
+  },
+  {
     "client_id": "230091269452885",
     "text": "ms"
   },
@@ -7201,6 +7657,10 @@
   {
     "client_id": "231261976478574",
     "text": "Tidak diperbaharuhi"
+  },
+  {
+    "client_id": "231446769731481",
+    "text": "Grup Patroli: Gunakan skill."
   },
   {
     "client_id": "231607329841163",
@@ -7247,6 +7707,10 @@
     "text": "Anda bisa mendapatkan gelar melalui Achievement."
   },
   {
+    "client_id": "233048304980143",
+    "text": "Diperlukan"
+  },
+  {
     "client_id": "233127210249974",
     "text": "Sinkronisasi Pengaturan Tempo"
   },
@@ -7279,6 +7743,10 @@
     "text": "Tampilkan Panduan"
   },
   {
+    "client_id": "235030385773992",
+    "text": "Hasil permainan Pokajan! telah diterapkan."
+  },
+  {
     "client_id": "235362861556149",
     "text": "CREATE tidak kompatibel."
   },
@@ -7309,6 +7777,10 @@
   {
     "client_id": "236060943868432",
     "text": "2"
+  },
+  {
+    "client_id": "236110736395862",
+    "text": "Lebar not (%)"
   },
   {
     "client_id": "236117060304762",
@@ -7367,6 +7839,10 @@
     "text": "Lencana"
   },
   {
+    "client_id": "240182675930479",
+    "text": "Boat Lv Up"
+  },
+  {
     "client_id": "240350042930005",
     "text": "Hapus semua"
   },
@@ -7419,12 +7895,20 @@
     "text": "Berlayar!"
   },
   {
+    "client_id": "242259114219279",
+    "text": "Tidak ada rintangan"
+  },
+  {
     "client_id": "242594053610408",
     "text": "Syarat Skor Unit: {0}"
   },
   {
     "client_id": "242655411028237",
     "text": "3840x2880"
+  },
+  {
+    "client_id": "243137198509034",
+    "text": "Pengaturan not"
   },
   {
     "client_id": "243159930595896",
@@ -7531,6 +8015,10 @@
     "text": "Harap dicatat bahwa support hanya tersedia dalam bahasa Inggris."
   },
   {
+    "client_id": "247178928037429",
+    "text": "Posisi Tampilan FAST/SLOW"
+  },
+  {
     "client_id": "247519453661921",
     "text": "Terdapat bagian yang tidak valid"
   },
@@ -7599,6 +8087,14 @@
     "text": "Buat"
   },
   {
+    "client_id": "250691950937970",
+    "text": "Tidak dapat menampilkan profil {0} karena berada pada mode privat."
+  },
+  {
+    "client_id": "250863090900176",
+    "text": "Konfigurasi Tombol"
+  },
+  {
     "client_id": "251083096921935",
     "text": "Lewati"
   },
@@ -7661,6 +8157,10 @@
   {
     "client_id": "251353706512640",
     "text": "Maksimal dapat memasang {0} label."
+  },
+  {
+    "client_id": "251362110937708",
+    "text": "kg"
   },
   {
     "client_id": "251421706512640",
@@ -7733,6 +8233,10 @@
   {
     "client_id": "252835721535082",
     "text": "Pembelian gagal karena penyimpanan penuh."
+  },
+  {
+    "client_id": "252898316141129",
+    "text": "Waktu sekarang"
   },
   {
     "client_id": "252938621977846",
@@ -7866,6 +8370,10 @@
     "text": "/{0}%"
   },
   {
+    "client_id": "255758852655061",
+    "text": "Posisi Tampilan Penilaian"
+  },
+  {
     "client_id": "255873887100047",
     "text": "Ruangan dibubarkan jika tidak dipilih."
   },
@@ -7932,6 +8440,10 @@
     "text": "Tidak dapat dimainkan selama Misi Holomem berlangsung."
   },
   {
+    "client_id": "260102496199404",
+    "text": "Efek peringatan LIFE rendah"
+  },
+  {
     "client_id": "260602000000001",
     "text": "YOU"
   },
@@ -7962,6 +8474,10 @@
   {
     "client_id": "260705000000001",
     "text": "Semua fasilitas telah terbuka!"
+  },
+  {
+    "client_id": "260723000000001",
+    "text": "Sisa {0} menit lagi!"
   },
   {
     "client_id": "260814378403481",
@@ -8008,12 +8524,20 @@
     "text": "Dapat dibuka dengan melanjutkan Misi Utama"
   },
   {
+    "client_id": "263289128963483",
+    "text": "Banyak Bola bermunculan"
+  },
+  {
     "client_id": "263528394189817",
     "text": "Tanggal Pemesanan iOS"
   },
   {
     "client_id": "263910397340110",
     "text": "Tidak ada barang yang dapat dijual!"
+  },
+  {
+    "client_id": "264079956936260",
+    "text": "Lainnya"
   },
   {
     "client_id": "264251913561012",
@@ -8086,6 +8610,14 @@
   {
     "client_id": "266646480557808",
     "text": "2"
+  },
+  {
+    "client_id": "266795432418646",
+    "text": "Splash Ball"
+  },
+  {
+    "client_id": "266912564022995",
+    "text": "Bagian atas"
   },
   {
     "client_id": "266926850887631",
@@ -8176,6 +8708,10 @@
     "text": "Tanggal Lahir"
   },
   {
+    "client_id": "270957784885017",
+    "text": "Dapat dicek setelah dimainkan"
+  },
+  {
     "client_id": "271285309906609",
     "text": "Pengaturan {0} akan direset.\\nLanjutkan?"
   },
@@ -8224,6 +8760,10 @@
     "text": "Panduan"
   },
   {
+    "client_id": "273356968496714",
+    "text": "Tampilan Penilaian"
+  },
+  {
     "client_id": "273503382580827",
     "text": "Kembali ke halaman judul."
   },
@@ -8248,6 +8788,10 @@
     "text": "Reset"
   },
   {
+    "client_id": "274180652232091",
+    "text": "TEAM"
+  },
+  {
     "client_id": "274288251361989",
     "text": "Pilih semua"
   },
@@ -8261,6 +8805,10 @@
   {
     "client_id": "274437520856561",
     "text": "Set"
+  },
+  {
+    "client_id": "274569560932634",
+    "text": "Poin DEF"
   },
   {
     "client_id": "274972954255360",
@@ -8297,6 +8845,10 @@
   {
     "client_id": "276671702261760",
     "text": "Quest"
+  },
+  {
+    "client_id": "276805342887425",
+    "text": "Dimulai"
   },
   {
     "client_id": "276815394922496",
@@ -8349,6 +8901,10 @@
   {
     "client_id": "278889974489088",
     "text": "FAILED"
+  },
+  {
+    "client_id": "278989127684840",
+    "text": "GREAT atau kurang"
   },
   {
     "client_id": "279128447016960",
@@ -11219,6 +11775,18 @@
   {
     "client_id": "706680765276160",
     "text": "Geser"
+  },
+  {
+    "client_id": "706904353357824",
+    "text": "Skor mencapai {0} poin. Permainan selesai."
+  },
+  {
+    "client_id": "706904353357825",
+    "text": "Skor mencapai 0 poin. Permainan selesai."
+  },
+  {
+    "client_id": "706904353357827",
+    "text": "{0} pt"
   },
   {
     "client_id": "707542663716864",

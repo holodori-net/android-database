@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "park_fishing_fish_species-01",
+    "name_lang_id": "la-park_fishing_fish_species-01-name",
+    "order": 1
+  },
+  {
+    "id": "park_fishing_fish_species-02",
+    "name_lang_id": "la-park_fishing_fish_species-02-name",
+    "order": 2
+  },
+  {
+    "id": "park_fishing_fish_species-03",
+    "name_lang_id": "la-park_fishing_fish_species-03-name",
+    "order": 3
+  },
+  {
+    "id": "park_fishing_fish_species-04",
+    "name_lang_id": "la-park_fishing_fish_species-04-name",
+    "order": 4
+  }
+]

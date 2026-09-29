@@ -44,6 +44,10 @@
     "text": "【波まとうゆるふわKnight ノエル】SPスキル"
   },
   {
+    "id": "la-name_cv-live_dial_chr-00023_00023-5-uniq-0085-00_myself",
+    "text": "【お宝独占♡ウォーターキャノン マリン】SPスキル"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_myself",
     "text": "【真夏のもふもふフロートタイム わため】SPスキル"
   },
@@ -60,6 +64,10 @@
     "text": "【波音に安らぐ、しごでき幹部 ルイ】SPスキル"
   },
   {
+    "id": "la-name_cv-live_dial_chr-00037_00037-5-uniq-0086-00_myself",
+    "text": "【振り向きざまのaventure こより】SPスキル"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
     "text": "【常夏のCrazy Dive オリー】SPスキル"
   },
@@ -68,12 +76,20 @@
     "text": "【まったりサニーホリデイ アーニャ】SPスキル"
   },
   {
+    "id": "la-name_cv-live_dial_chr-03009_03009-5-uniq-0088-00_myself",
+    "text": "【波間に揺れるBody ＆ Soul こぼ】SPスキル"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself",
     "text": "【ビーチに刺さるReaper's Spike カリオペ】SPスキル"
   },
   {
     "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself",
     "text": "【潮騒の記憶をたどって 伊那尓栖】SPスキル"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-04012_04012-5-uniq-0087-00_myself",
+    "text": "【これがボクのイチオシ！ ベールズ】SPスキル"
   },
   {
     "id": "la-name_cv-live_dial_chr-04013_04013-5-uniq-0083-00_myself",
@@ -688,6 +704,54 @@
     "text": "【妖艶あふれるマリンブルー マリン】SPスキル"
   },
   {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-00030",
+    "text": "【お宝独占♡ウォーターキャノン マリン】マリン&ラミィ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-00034",
+    "text": "【お宝独占♡ウォーターキャノン マリン】マリン&ポルカ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-00037",
+    "text": "【お宝独占♡ウォーターキャノン マリン】マリン&こより"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-03009",
+    "text": "【お宝独占♡ウォーターキャノン マリン】マリン&こぼ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-04012",
+    "text": "【お宝独占♡ウォーターキャノン マリン】マリン&ベールズ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00023-to-06003",
+    "text": "【お宝独占♡ウォーターキャノン マリン】マリン&莉々華"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00030-to-00023",
+    "text": "【お宝独占♡ウォーターキャノン マリン】ラミィ&マリン"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00034-to-00023",
+    "text": "【お宝独占♡ウォーターキャノン マリン】ポルカ&マリン"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_00037-to-00023",
+    "text": "【お宝独占♡ウォーターキャノン マリン】こより&マリン"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_03009-to-00023",
+    "text": "【お宝独占♡ウォーターキャノン マリン】こぼ&マリン"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_04012-to-00023",
+    "text": "【お宝独占♡ウォーターキャノン マリン】ベールズ&マリン"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00023-5-uniq-0085-00_06003-to-00023",
+    "text": "【お宝独占♡ウォーターキャノン マリン】莉々華&マリン"
+  },
+  {
     "id": "la-name_live_dial_voice_card_00026-5-uniq-0021-00_00026-to-00027",
     "text": "【Woolly Smile Festival わため】わため&トワ"
   },
@@ -948,6 +1012,54 @@
     "text": "【助手くんの心を鷲掴みライブ！ こより】SPスキル"
   },
   {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00023-to-00037",
+    "text": "【振り向きざまのaventure こより】マリン&こより"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00030-to-00037",
+    "text": "【振り向きざまのaventure こより】ラミィ&こより"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00034-to-00037",
+    "text": "【振り向きざまのaventure こより】ポルカ&こより"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-00023",
+    "text": "【振り向きざまのaventure こより】こより&マリン"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-00030",
+    "text": "【振り向きざまのaventure こより】こより&ラミィ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-00034",
+    "text": "【振り向きざまのaventure こより】こより&ポルカ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-03009",
+    "text": "【振り向きざまのaventure こより】こより&こぼ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-04012",
+    "text": "【振り向きざまのaventure こより】こより&ベールズ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_00037-to-06003",
+    "text": "【振り向きざまのaventure こより】こより&莉々華"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_03009-to-00037",
+    "text": "【振り向きざまのaventure こより】こぼ&こより"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_04012-to-00037",
+    "text": "【振り向きざまのaventure こより】ベールズ&こより"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00037-5-uniq-0086-00_06003-to-00037",
+    "text": "【振り向きざまのaventure こより】莉々華&こより"
+  },
+  {
     "id": "la-name_live_dial_voice_card_00039-5-uniq-0032-00_00039-to-00035",
     "text": "【ちくりんジャキン！と一刀両断 いろは】いろは&ラプラス"
   },
@@ -1136,6 +1248,54 @@
     "text": "【あめ上がりの雨喜雨喜シャーマン こぼ】SPスキル"
   },
   {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00023-to-03009",
+    "text": "【波間に揺れるBody ＆ Soul こぼ】マリン&こぼ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00030-to-03009",
+    "text": "【波間に揺れるBody ＆ Soul こぼ】ラミィ&こぼ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00034-to-03009",
+    "text": "【波間に揺れるBody ＆ Soul こぼ】ポルカ&こぼ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_00037-to-03009",
+    "text": "【波間に揺れるBody ＆ Soul こぼ】こより&こぼ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00023",
+    "text": "【波間に揺れるBody ＆ Soul こぼ】こぼ&マリン"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00030",
+    "text": "【波間に揺れるBody ＆ Soul こぼ】こぼ&ラミィ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00034",
+    "text": "【波間に揺れるBody ＆ Soul こぼ】こぼ&ポルカ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-00037",
+    "text": "【波間に揺れるBody ＆ Soul こぼ】こぼ&こより"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-04012",
+    "text": "【波間に揺れるBody ＆ Soul こぼ】こぼ&ベールズ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_03009-to-06003",
+    "text": "【波間に揺れるBody ＆ Soul こぼ】こぼ&莉々華"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_04012-to-03009",
+    "text": "【波間に揺れるBody ＆ Soul こぼ】ベールズ&こぼ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03009-5-uniq-0088-00_06003-to-03009",
+    "text": "【波間に揺れるBody ＆ Soul こぼ】莉々華&こぼ"
+  },
+  {
     "id": "la-name_live_dial_voice_card_04001-5-uniq-0042-00_04001-to-04002",
     "text": "【Reaper’s death flow カリオペ】カリオペ&キアラ"
   },
@@ -1270,6 +1430,54 @@
   {
     "id": "la-name_live_dial_voice_card_04012-5-uniq-0051-00_myself",
     "text": "【Chaotic Powerful Rat ベールズ】SPスキル"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00023-to-04012",
+    "text": "【これがボクのイチオシ！ ベールズ】マリン&ベールズ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00030-to-04012",
+    "text": "【これがボクのイチオシ！ ベールズ】ラミィ&ベールズ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00034-to-04012",
+    "text": "【これがボクのイチオシ！ ベールズ】ポルカ&ベールズ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_00037-to-04012",
+    "text": "【これがボクのイチオシ！ ベールズ】こより&ベールズ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_03009-to-04012",
+    "text": "【これがボクのイチオシ！ ベールズ】こぼ&ベールズ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00023",
+    "text": "【これがボクのイチオシ！ ベールズ】ベールズ&マリン"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00030",
+    "text": "【これがボクのイチオシ！ ベールズ】ベールズ&ラミィ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00034",
+    "text": "【これがボクのイチオシ！ ベールズ】ベールズ&ポルカ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00037",
+    "text": "【これがボクのイチオシ！ ベールズ】ベールズ&こより"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-03009",
+    "text": "【これがボクのイチオシ！ ベールズ】ベールズ&こぼ"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_04012-to-06003",
+    "text": "【これがボクのイチオシ！ ベールズ】ベールズ&莉々華"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04012-5-uniq-0087-00_06003-to-04012",
+    "text": "【これがボクのイチオシ！ ベールズ】莉々華&ベールズ"
   },
   {
     "id": "la-name_live_dial_voice_card_04013-5-uniq-0052-00_04013-to-04014",

@@ -112,6 +112,58 @@
     "text": "メガコースター"
   },
   {
+    "id": "la-asset_embedding_text-facility-a03-boatshop",
+    "text": "こよラボ・海洋支部"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-entrance",
+    "text": "ソーダポップラグーン入り口"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-fishingpond1",
+    "text": "フィッシュブルー"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-fishingpond2",
+    "text": "ラミィズスノードーム"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-fishingpond3",
+    "text": "ぼこぼこビーコン"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-fishingshop",
+    "text": "ベーズ・ビッツアンドボブス"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-glamping",
+    "text": "ぽぽぽハッピーキャンプ"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-livestage",
+    "text": "ソーダポップラグーンステージ"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-resortshop",
+    "text": "一条VIPラウンジ"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-stadium",
+    "text": "スプラッシュスタジアム"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-station",
+    "text": "プリンセスマリン号"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-watergun",
+    "text": "うぱおヘヴン"
+  },
+  {
+    "id": "la-asset_embedding_text-facility-a03-whale",
+    "text": "クジラ"
+  },
+  {
     "id": "la-asset_embedding_text-park_action-cmn-change-evening",
     "text": "夕方まで待つ"
   },
@@ -246,5 +298,53 @@
   {
     "id": "la-asset_embedding_text-park_action-facility-a02-slotgame-00",
     "text": "プレイする"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-facility-a03-fishingpond2-00",
+    "text": "なでる"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-facility-a03-fishingpond2-01",
+    "text": "のぞく"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-facility-a03-fishingpond3-00",
+    "text": "ノックする"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-facility-a03-glamping-00",
+    "text": "ダイブする"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-facility-a03-glamping-01",
+    "text": "手をかざす"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-park_action-cmn-board",
+    "text": "ボートに乗る"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-park_action-cmn-hangout",
+    "text": "遊ぶ"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-park_action-cmn-knock",
+    "text": "ノックする"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-park_action-cmn-land",
+    "text": "ボートを降りる"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-park_action-cmn-look",
+    "text": "見る"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-park_action-cmn-pose",
+    "text": "ポーズをとる"
+  },
+  {
+    "id": "la-asset_embedding_text-park_action-park_action-cmn-sandpile",
+    "text": "埋められる"
   }
 ]

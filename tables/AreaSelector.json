@@ -27,12 +27,16 @@
   {
     "id": "area-a02-play-selector",
     "area_grouping_id": "area_group-a02",
-    "is_map_visible": true,
-    "is_user_selectable": true
+    "is_map_visible": true
   },
   {
     "id": "area-a02-selector",
     "area_grouping_id": "area_group-a02",
+    "is_map_visible": true
+  },
+  {
+    "id": "area-a03-selector",
+    "area_grouping_id": "area_group-a03",
     "is_map_visible": true
   }
 ]

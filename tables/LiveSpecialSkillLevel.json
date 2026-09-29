@@ -1048,6 +1048,20 @@
     "description_lang_id": "la-generated-live_special_skill-card-00023-5-uniq-0019-00.2-description"
   },
   {
+    "live_special_skill_id": "live_special_skill-card-00023-5-uniq-0085-00",
+    "level": 1,
+    "live_active_skill_effect_group_id": "live_special_skill_effect-score_up_effect_up_permil_up-950",
+    "effect_duration_millisecond": 14000,
+    "description_lang_id": "la-generated-live_special_skill-card-00023-5-uniq-0085-00.1-description"
+  },
+  {
+    "live_special_skill_id": "live_special_skill-card-00023-5-uniq-0085-00",
+    "level": 2,
+    "live_active_skill_effect_group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1150",
+    "effect_duration_millisecond": 14000,
+    "description_lang_id": "la-generated-live_special_skill-card-00023-5-uniq-0085-00.2-description"
+  },
+  {
     "live_special_skill_id": "live_special_skill-card-00026-3-nrml-0021-00",
     "level": 1,
     "live_active_skill_effect_group_id": "live_special_skill_effect-score_up_effect_up_permil_up-500",
@@ -1564,6 +1578,20 @@
     "description_lang_id": "la-generated-live_special_skill-card-00037-5-uniq-0030-00.2-description"
   },
   {
+    "live_special_skill_id": "live_special_skill-card-00037-5-uniq-0086-00",
+    "level": 1,
+    "live_active_skill_effect_group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1100",
+    "effect_duration_millisecond": 12000,
+    "description_lang_id": "la-generated-live_special_skill-card-00037-5-uniq-0086-00.1-description"
+  },
+  {
+    "live_special_skill_id": "live_special_skill-card-00037-5-uniq-0086-00",
+    "level": 2,
+    "live_active_skill_effect_group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1350",
+    "effect_duration_millisecond": 12000,
+    "description_lang_id": "la-generated-live_special_skill-card-00037-5-uniq-0086-00.2-description"
+  },
+  {
     "live_special_skill_id": "live_special_skill-card-00039-3-nrml-0032-00",
     "level": 1,
     "live_active_skill_effect_group_id": "live_special_skill_effect-score_up_effect_up_permil_up-600",
@@ -2042,6 +2070,20 @@
     "description_lang_id": "la-generated-live_special_skill-card-03009-5-uniq-0041-00.2-description"
   },
   {
+    "live_special_skill_id": "live_special_skill-card-03009-5-uniq-0088-00",
+    "level": 1,
+    "live_active_skill_effect_group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1350",
+    "effect_duration_millisecond": 10000,
+    "description_lang_id": "la-generated-live_special_skill-card-03009-5-uniq-0088-00.1-description"
+  },
+  {
+    "live_special_skill_id": "live_special_skill-card-03009-5-uniq-0088-00",
+    "level": 2,
+    "live_active_skill_effect_group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1600",
+    "effect_duration_millisecond": 10000,
+    "description_lang_id": "la-generated-live_special_skill-card-03009-5-uniq-0088-00.2-description"
+  },
+  {
     "live_special_skill_id": "live_special_skill-card-04001-3-nrml-0042-00",
     "level": 1,
     "live_active_skill_effect_group_id": "live_special_skill_effect-score_up_effect_up_permil_up-400",
@@ -2352,6 +2394,20 @@
     "live_active_skill_effect_group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1350",
     "effect_duration_millisecond": 12000,
     "description_lang_id": "la-generated-live_special_skill-card-04012-5-uniq-0051-00.2-description"
+  },
+  {
+    "live_special_skill_id": "live_special_skill-card-04012-5-uniq-0087-00",
+    "level": 1,
+    "live_active_skill_effect_group_id": "live_special_skill_effect-score_up_effect_up_permil_up-900",
+    "effect_duration_millisecond": 15000,
+    "description_lang_id": "la-generated-live_special_skill-card-04012-5-uniq-0087-00.1-description"
+  },
+  {
+    "live_special_skill_id": "live_special_skill-card-04012-5-uniq-0087-00",
+    "level": 2,
+    "live_active_skill_effect_group_id": "live_special_skill_effect-score_up_effect_up_permil_up-1050",
+    "effect_duration_millisecond": 15000,
+    "description_lang_id": "la-generated-live_special_skill-card-04012-5-uniq-0087-00.2-description"
   },
   {
     "live_special_skill_id": "live_special_skill-card-04013-3-nrml-0052-00",

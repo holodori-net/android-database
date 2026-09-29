@@ -33,6 +33,22 @@
     "order": 2
   },
   {
+    "id": "live_skin-background-default_03",
+    "skin_type": {
+      "name": "LIVE_SKIN_TYPE_BACKGROUND",
+      "number": 6
+    },
+    "name_lang_id": "la-live_skin_name_background-default_03",
+    "description_lang_id": "la-live_skin_description_background-default_03",
+    "asset_id1": "area-03",
+    "asset_id2": "default-03",
+    "thumbnail_asset_id": "img_live_skin_icon_area-a03",
+    "icon_asset_id": "img_live_skin_icon_area-a03",
+    "color1": "0a2066",
+    "color3": "0a2066",
+    "order": 3
+  },
+  {
     "id": "live_skin-chracter_effect-chr_00001",
     "skin_type": {
       "name": "LIVE_SKIN_TYPE_CHARACTER_EFFECT",

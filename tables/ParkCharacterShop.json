@@ -25,5 +25,12 @@
     "logo_color": "42D6FF",
     "background_color": "4989FF",
     "prop_motion_asset_id": "mot_define_general_chr_drs_penlight-shake-r00_typ000_in_bdy00"
+  },
+  {
+    "id": "park_character_shop-prop_watergun",
+    "asset_id": "prop-watergun",
+    "logo_color": "FFC927",
+    "background_color": "FFD149",
+    "prop_motion_asset_id": "mot_define_park_chr_drs_a03-shoot-watergun-r00_typ000_in_bdy00"
   }
 ]

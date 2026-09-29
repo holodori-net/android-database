@@ -1176,6 +1176,17 @@
     "order": 26070005
   },
   {
+    "id": "sdcos-00023-uniq-0085-00",
+    "character_id": "chr-00023",
+    "name_lang_id": "la-sdcos-00023-uniq-0085-00",
+    "hair_asset_id": "uniq-0085-00",
+    "accessory_hair_asset_id": "00023-base-0000-00",
+    "body_asset_id": "uniq-0085-00",
+    "base_thumbnail_asset_id": "default-001",
+    "base_thumbnail_color": "C2153B",
+    "order": 26101001
+  },
+  {
     "id": "sdcos-00024-nrml-0020-00",
     "character_id": "chr-00024",
     "name_lang_id": "la-sdcos-00024-nrml-0020-00",
@@ -1429,6 +1440,17 @@
     "order": 26070005
   },
   {
+    "id": "sdcos-00030-uniq-0089-00",
+    "character_id": "chr-00030",
+    "name_lang_id": "la-sdcos-00030-uniq-0089-00",
+    "hair_asset_id": "uniq-0089-00",
+    "accessory_hair_asset_id": "00030-base-0000-00",
+    "body_asset_id": "uniq-0089-00",
+    "base_thumbnail_asset_id": "default-001",
+    "base_thumbnail_color": "49AAFF",
+    "order": 26102001
+  },
+  {
     "id": "sdcos-00031-cmmn-0000-00",
     "character_id": "chr-00031",
     "name_lang_id": "la-sdcos-00031-cmmn-0000-00",
@@ -1592,6 +1614,17 @@
     "base_thumbnail_asset_id": "default-001",
     "base_thumbnail_color": "ED0043",
     "order": 26070005
+  },
+  {
+    "id": "sdcos-00034-uniq-0090-00",
+    "character_id": "chr-00034",
+    "name_lang_id": "la-sdcos-00034-uniq-0090-00",
+    "hair_asset_id": "uniq-0090-00",
+    "accessory_hair_asset_id": "00034-base-0000-00",
+    "body_asset_id": "uniq-0090-00",
+    "base_thumbnail_asset_id": "default-001",
+    "base_thumbnail_color": "ED0043",
+    "order": 26102001
   },
   {
     "id": "sdcos-00035-cmmn-0000-00",
@@ -1779,6 +1812,17 @@
     "base_thumbnail_asset_id": "default-001",
     "base_thumbnail_color": "FF95C8",
     "order": 26070005
+  },
+  {
+    "id": "sdcos-00037-uniq-0086-00",
+    "character_id": "chr-00037",
+    "name_lang_id": "la-sdcos-00037-uniq-0086-00",
+    "hair_asset_id": "uniq-0086-00",
+    "accessory_hair_asset_id": "00037-base-0000-00",
+    "body_asset_id": "uniq-0086-00",
+    "base_thumbnail_asset_id": "default-001",
+    "base_thumbnail_color": "FF95C8",
+    "order": 26101001
   },
   {
     "id": "sdcos-00038-nrml-0031-00",
@@ -2363,6 +2407,17 @@
     "order": 26070005
   },
   {
+    "id": "sdcos-03009-uniq-0088-00",
+    "character_id": "chr-03009",
+    "name_lang_id": "la-sdcos-03009-uniq-0088-00",
+    "hair_asset_id": "uniq-0088-00",
+    "accessory_hair_asset_id": "03009-base-0000-00",
+    "body_asset_id": "uniq-0088-00",
+    "base_thumbnail_asset_id": "default-001",
+    "base_thumbnail_color": "50CFE1",
+    "order": 26101001
+  },
+  {
     "id": "sdcos-04001-cmmn-0000-00",
     "character_id": "chr-04001",
     "name_lang_id": "la-sdcos-04001-cmmn-0000-00",
@@ -2753,6 +2808,17 @@
     "base_thumbnail_asset_id": "default-001",
     "base_thumbnail_color": "EE2222",
     "order": 26070005
+  },
+  {
+    "id": "sdcos-04012-uniq-0087-00",
+    "character_id": "chr-04012",
+    "name_lang_id": "la-sdcos-04012-uniq-0087-00",
+    "hair_asset_id": "uniq-0087-00",
+    "accessory_hair_asset_id": "04012-base-0000-00",
+    "body_asset_id": "uniq-0087-00",
+    "base_thumbnail_asset_id": "default-001",
+    "base_thumbnail_color": "EE2222",
+    "order": 26101001
   },
   {
     "id": "sdcos-04013-cmmn-0000-00",
@@ -3192,6 +3258,17 @@
     "base_thumbnail_asset_id": "default-001",
     "base_thumbnail_color": "FF77A9",
     "order": 26070005
+  },
+  {
+    "id": "sdcos-06003-uniq-0091-00",
+    "character_id": "chr-06003",
+    "name_lang_id": "la-sdcos-06003-uniq-0091-00",
+    "hair_asset_id": "uniq-0091-00",
+    "accessory_hair_asset_id": "06003-base-0000-00",
+    "body_asset_id": "uniq-0091-00",
+    "base_thumbnail_asset_id": "default-001",
+    "base_thumbnail_color": "FF77A9",
+    "order": 26102001
   },
   {
     "id": "sdcos-06004-cmmn-0000-00",

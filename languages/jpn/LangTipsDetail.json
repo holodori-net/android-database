@@ -428,6 +428,30 @@
     "text": "楽曲ショップではミュージックディスクで楽曲を交換できるよ！\n\n<color=#ff3bc8>交換した楽曲はライブでプレイできる</color>ようになるよ！"
   },
   {
+    "id": "la-tips-game_screen-park-fishing-fish-list-area03-description-1",
+    "text": "魚を釣ると<color=#ff3bc8>ソーダポップコイン</color>を獲得できるよ！\n\n重さや珍しさによってもらえるコインが増えるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-park-fishing-fish-list-area03-description-2",
+    "text": "釣った魚の情報を図鑑で確認できるよ！\n\n釣った種類に応じて報酬がもらえるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-park-fishing-rod-level-description-1",
+    "text": "ベーズ・ビッツアンドボブスでは、ホロゴールドを消費して釣り竿を強化できるよ！\n\n<color=#ff3bc8>釣り竿を強化すると魚が釣れやすくなる</color>よ！"
+  },
+  {
+    "id": "la-tips-game_screen-park-fishing-top-area03-1",
+    "text": "エサを選択して釣りをはじめよう！\n\n<color=#ff3bc8>エサやスポット、時間帯ごとに釣りやすい魚が変わる</color>かも？"
+  },
+  {
+    "id": "la-tips-game_screen-park-fishing-top-area03-2",
+    "text": "魚がエサに食いついた時に画面をタップするとゲームが始まるよ！\n\n<color=#ff3bc8>リールを長押ししたり離したりして、バーの中に魚を入れ続けよう！</color>\nバーの中に魚がいると、右側のゲージが増えていくよ！\n\nゲージが満タンになると魚が釣れるよ！"
+  },
+  {
+    "id": "la-tips-game_screen-park-time-period-area03-description-1",
+    "text": "ぽぽぽハッピーキャンプでは、時間を変更することができるよ！\n\n<color=#ff3bc8>時間帯によって釣れる魚が変わる</color>よ！\n\n魚の出没時間は、<color=#ff3bc8>魚図鑑</color>で確認できるよ！"
+  },
+  {
     "id": "la-tips-game_screen-park_change_playable-description-1",
     "text": "操作するホロメンは変更できるよ！\n\n<color=#ff3bc8>ホロメンクエストで解放したホロメン</color>が選べるよ！"
   },
@@ -664,12 +688,32 @@
     "text": "SPスキル発動中に表示される発動メンバーのイラストおよびリーダーのLive2DのON／OFFを設定できます。"
   },
   {
+    "id": "la-tips-hint-live_option_detail_special_skill_timing_display-description-1",
+    "text": "SPスキルが発動するタイミングの表示を「ライン」と「アイコン」のどちらかに設定することができます。"
+  },
+  {
     "id": "la-tips-hint-live_option_detail_tap_effect-description-1",
     "text": "ノーツをタップした際のエフェクト量を設定できます。"
   },
   {
     "id": "la-tips-hint-live_option_detail_tap_vibration-description-1",
     "text": "タップ時の端末の振動の強弱を設定できます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_display_settingdescription-1",
+    "text": "表示する判定を選択できます。\n設定したものより上位の判定は非表示となります。\n非表示の判定もリザルト画面で集計結果を確認することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_display_typedescription-1",
+    "text": "判定を中央に固定して表示するか、判定が行われたレーンに対応した位置に表示するかを設定できます。\n「レーンごと」に設定した場合、判定を表示するレーン分割数を2,3,4,5,6,12から選択できます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_positiondescription-1",
+    "text": "判定表示の位置を設定できます。\nこの数字を大きくすると画面に対して上に判定が表示され、数字を小さくすると画面に対して下に判定が表示されます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_timing_positiondescription-1",
+    "text": "FAST/SLOWを判定表示の上部と下部のどちらに表示するかを設定できます。"
   },
   {
     "id": "la-tips-hint-live_option_key_config_lane-description-1",
@@ -688,8 +732,20 @@
     "text": "ノーツをタップする判定ラインの高さを調整することができます。\n\n数字を大きくするほど、ラインの高さが上に上がります。"
   },
   {
+    "id": "la-tips-hint-live_option_lane_split-description-1",
+    "text": "レーンに表示するグリッド線の数を調整することができます。"
+  },
+  {
     "id": "la-tips-hint-live_option_lane_top_cut-description-1",
     "text": "レーンの上部をカットすることで、ノーツの流れ始める位置を調整することができます。\n\nノーツ表示時間は、ノーツが表示されてから判定ラインに到達するまでの時間（ミリ秒）が、ノーツ表示時間として表示されます。\n\nレーン上部をカットしている場合、カットされた位置から判定ラインに到達するまでの時間となります。\n判定ラインより上の位置までレーン下部をカットしている場合は、その下部カットまでの時間が表示されます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_lane_width_setting-description-1",
+    "text": "レーンの幅を調整することができます。\n数字を大きくするほど、レーンの幅が広くなります。\nレーン幅を広げるほど、一部のUIがレーンと重なる場合があります。"
+  },
+  {
+    "id": "la-tips-hint-live_option_low_life_warning_effectdescription-1",
+    "text": "ライフが一定以下まで減った際に赤く点滅する演出のON/OFFを設定できます。"
   },
   {
     "id": "la-tips-hint-live_option_mirror_chart-description-1",
@@ -704,8 +760,16 @@
     "text": "楽曲と流れるノーツのタイミングを調整することができます。\n\nFASTが多く出る場合はこの数字を大きく、SLOWが多く出る場合はこの数字を小さく調整してください。"
   },
   {
+    "id": "la-tips-hint-live_option_note_height_pct_setting-description-1",
+    "text": "ノーツの縦幅を調整することができます。\n数字を大きくするほど、ノーツの縦幅が広くなります。"
+  },
+  {
     "id": "la-tips-hint-live_option_note_speed-description-1",
     "text": "ノーツの流れる速さを設定できます。\n\n左右のボタンから、0.1や0.5刻みで調整することができます。\n数値部分をタップすることで、小数第2位の部分をさらに細かく調整することができます。\n\nノーツ表示時間は、ノーツが画面内で表示されている時間（ミリ秒）を表します。\nノーツの早さを変更したり、レーンの上部や下部をカットすることで、値が変更されます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_note_width_pct_setting-description-1",
+    "text": "ノーツの横幅を調整することができます。\n数字を大きくするほど、ノーツの横幅が広くなります。"
   },
   {
     "id": "la-tips-hint-live_option_skin_combo-description-1",
@@ -730,6 +794,10 @@
   {
     "id": "la-tips-hint-live_option_skin_note-description-1",
     "text": "ノーツのデザインを変更することができます。"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_penlight-description-1",
+    "text": "通常背景を選択時、リーダーのホロメンに応じて変化するペンライトカラーを変更できます。\n「オリジナルカラー」はゲーム内で使用されているカラー、「ライブカラー」はhololive fes. 等で実際に使用されているペンライトカラーが設定されます。"
   },
   {
     "id": "la-tips-hint-live_option_skin_tap_effect_type-description-1",
@@ -789,11 +857,11 @@
   },
   {
     "id": "la-tips-hint-marathon_mission-description-5",
-    "text": "<color=#ff3bc8>イベントボーナス</color>を活用して、より多くのイベントPtとイベントバッジを獲得しよう！\n\nイベントボーナスには、ライブのイベントPtとイベントバッジの獲得量がアップする<color=#ff3bc8>獲得ボーナス</color>もあるよ！\n\n獲得ボーナスには3種類あるよ！\n\n▼メンバーボーナス\n・対象のメンバーを編成してライブに挑戦すると獲得量アップ\n\n▼ホロメンボーナス\n・対象のホロメンのメンバーを編成してライブに挑戦すると獲得量アップ\n\n▼開花ボーナス\n・編成したメンバーの開花状況に応じて、ライブ挑戦時の獲得量アップ\n\nまた、イベントボーナスにはミニゲームのイベントPtとイベントバッジの獲得量がアップするボーナスもあるよ！\n\n▼ミニゲームボーナス\n・対象のミニゲームに挑戦すると獲得量アップ\n\n▼メンバーボーナス\n・対象のメンバーを所持しているだけで獲得量アップ\n\n※詳細は［イベント］→［イベントボーナス］をご確認ください。"
+    "text": "<color=#ff3bc8>イベントボーナス</color>を活用して、より多くのイベントバッジを獲得しよう！\n\nイベントボーナスには、ライブのイベントバッジの獲得量がアップする<color=#ff3bc8>獲得ボーナス</color>もあるよ！\n\n獲得ボーナスには3種類あるよ！\n\n▼メンバーボーナス\n・対象のメンバーを編成してライブに挑戦すると獲得量アップ\n\n▼ホロメンボーナス\n・対象のホロメンのメンバーを編成してライブに挑戦すると獲得量アップ\n\n▼開花ボーナス\n・編成したメンバーの開花状況に応じて、ライブ挑戦時の獲得量アップ\n\nまた、イベントボーナスにはミニゲームのイベントバッジの獲得量がアップするボーナスもあるよ！\n\n▼ミニゲームボーナス\n・対象のミニゲームに挑戦すると獲得量アップ\n\n▼メンバーボーナス\n・対象のメンバーを所持しているだけで獲得量アップ\n\n※詳細は［イベント］→［イベントボーナス］をご確認ください。"
   },
   {
     "id": "la-tips-hint-marathon_mission-description-6",
-    "text": "イベントPtとイベントバッジの獲得量は、<color=#ff3bc8>スコアが高いほどアップ</color>するよ！\n\n▼イベントPt・イベントバッジ獲得について\n・オートライブでも獲得可能\n・消費するライブブーストが多いほど、獲得量アップ\n・プレイした楽曲の長さに応じて獲得量アップ"
+    "text": "イベントバッジの獲得量は、<color=#ff3bc8>スコアが高いほどアップ</color>するよ！\n\n▼イベントバッジ獲得について\n・オートライブでも獲得可能\n・消費するライブブーストが多いほど、獲得量アップ\n・プレイした楽曲の長さに応じて獲得量アップ"
   },
   {
     "id": "la-tips-hint-marathon_nomal-description-1",
@@ -980,6 +1048,14 @@
     "text": "▼操作方法\n・移動：<color=#ff3bc8>「W」「S」「A」「D」でホロメンが移動</color>\n\n・マウスカーソルの表示：<color=#ff3bc8>「Alt」を押すとマウスカーソルを表示</color>\n※マウスカーソルで各メニューを選択することができます。"
   },
   {
+    "id": "la-tips-park-boat-area03-description-1",
+    "text": "ソーダポップラグーンでは、ボートに乗ってエリアを移動できるよ！\n\n近くのボートに乗って周辺を探索してみよう！"
+  },
+  {
+    "id": "la-tips-park-boat-area03-level-description-1",
+    "text": "こよラボ・海洋支部では、指定された素材を消費してボートを強化できるよ！\n\n<color=#ff3bc8>ボートを強化して遠くの海を目指そう！</color>"
+  },
+  {
     "id": "la-tips-park-character-shop-area01-balloon-description-1",
     "text": "ルチュ・チュ・モビル15では、ホロメダルでフーセンを獲得できるよ！\n\n<color=#ff3bc8>ランダムで抽選される3つ</color>の中から好きなホロメンのものを選んでね！"
   },
@@ -1010,6 +1086,34 @@
   {
     "id": "la-tips-park-character-shop-area02-hair-accessory-description-2",
     "text": "獲得したうさみみシルクハットは、対象のホロメンに着用することができるよ！"
+  },
+  {
+    "id": "la-tips-park-fishing-area03-description-1",
+    "text": "釣りスポットでは、魚を釣ることができるよ！\n\nエリア内に点在する釣りスポットで自由に釣りを楽しもう！"
+  },
+  {
+    "id": "la-tips-park-fishing-fish-list-area03-description-1",
+    "text": "魚を釣ると<color=#ff3bc8>ソーダポップコイン</color>を獲得できるよ！\n\n重さや珍しさによってもらえるコインが増えるよ！"
+  },
+  {
+    "id": "la-tips-park-fishing-fish-list-area03-description-2",
+    "text": "釣った魚の情報を図鑑で確認できるよ！\n\n釣った種類に応じて報酬がもらえるよ！"
+  },
+  {
+    "id": "la-tips-park-fishing-rod-level-area03-description-1",
+    "text": "ベーズ・ビッツアンドボブスでは、ホロゴールドを消費して釣り竿を強化できるよ！\n\n<color=#ff3bc8>釣り竿を強化すると魚が釣れやすくなる</color>よ！"
+  },
+  {
+    "id": "la-tips-park-fishing-top-area03-description-1",
+    "text": "エサを選択して釣りをはじめよう！\n\n<color=#ff3bc8>エサやスポット、時間帯ごとに釣りやすい魚が変わる</color>かも？"
+  },
+  {
+    "id": "la-tips-park-fishing-top-area03-description-2",
+    "text": "魚がエサに食いついた時に画面をタップするとゲームが始まるよ！\n\n<color=#ff3bc8>リールを長押ししたり離したりして、バーの中に魚を入れ続けよう！</color>\nバーの中に魚がいると、右側のゲージが増えていくよ！\n\nゲージが満タンになると魚が釣れるよ！"
+  },
+  {
+    "id": "la-tips-park-fishingshop-area03-description-1",
+    "text": "ベーズ・ビッツアンドボブスでは、ホロゴールドで釣りエサと交換できるよ！\n\n<color=#ff3bc8>釣りエサによって釣れる魚が変わる</color>よ！\n\n釣りエサを交換して魚をたくさん釣ろう！"
   },
   {
     "id": "la-tips-park-high-low-area02-description-1",
@@ -1110,6 +1214,38 @@
   {
     "id": "la-tips-skill-tree-description-2",
     "text": "マスを解放するために必要な<color=#ff3bc8>各種キューブは、交換所やホロワークなどで獲得できる</color>よ！\n\n<color=#ff3bc8>ホロメンボードPtは、ホロメンランクをアップさせるともらえる</color>よ！\n\nランクアップに必要なEXPは、各ホロメンのアチーブメント達成で集めよう！"
+  },
+  {
+    "id": "la-tips-splash_ball-description-1",
+    "text": "スプラッシュボールは、ソーダポップラグーンの<color=#ff3bc8>スプラッシュスタジアム</color>でいつでも遊べるよ！"
+  },
+  {
+    "id": "la-tips-splash_ball-description-2",
+    "text": "報酬はチームの順位と、個人のスコアに応じて決まるよ！\n\n<color=#ff3bc8>1位になったチームの最もスコアが高かったプレイヤーはMVP</color>に選ばれるよ！\nたくさんボールを運んで弾いて、活躍を目指そう！"
+  },
+  {
+    "id": "la-tips-splash_ball-description-3",
+    "text": "ランキングには、ベストスコアが記録されるよ！ \n\n※ベストスコアが同じ場合、順位は先着順となります。"
+  },
+  {
+    "id": "la-tips-splash_ball-quest-description-1",
+    "text": "スプラッシュボールは、3人ずつの3チームに分かれて戦うゲームだよ！\n\n<color=#ff3bc8>敵チームのゴールにボールを入れて得点し、目標点数を目指そう！</color>\n\nただし、<color=#ff3bc8>自チームのゴールにボールを入れられると減点</color>されるので注意！\n\n制限時間になるか、いずれかのチームの得点が目標点数に達する、または0点になるとゲーム終了だよ！"
+  },
+  {
+    "id": "la-tips-splash_ball-quest-description-2",
+    "text": "▼操作方法\n・移動：<color=#ff3bc8>タッチ操作でボートが移動</color>\n\n・ジャンプ：<color=#ff3bc8>タップするとボートがジャンプ</color>\n\n・ブースト：<color=#ff3bc8>タップすると一定時間スピードアップ</color>\n\n※ブーストは一度使うと、ゲージが溜まるまで使えなくなります。"
+  },
+  {
+    "id": "la-tips-splash_ball-quest-description-3",
+    "text": "ボールをボートで押して、敵チームのゴールを目指そう！\n\n<color=#ff3bc8>ボールの中央にボートを当てると、ボールがより勢いよく飛ぶ</color>よ！"
+  },
+  {
+    "id": "la-tips-splash_ball-quest-description-4",
+    "text": "フィールドには、<color=#ff3bc8>点数や重さが違ういろいろなボール</color>があるよ！\n\nたまにボールが<color=#ff3bc8>大量発生</color>することも！？"
+  },
+  {
+    "id": "la-tips-splash_ball-quest-description-5",
+    "text": "自分の陣地からボールを押し出すと、<color=#ff3bc8>守備ポイント</color>を獲得できるよ！\n\n<color=#ff3bc8>守備ポイントを獲得すると、ボールがいつもより強く飛ぶ</color>よ！\n\n※守備ポイントの獲得には、クールタイムがあります。\n※自チームが最後に触ったボールでは、守備ポイントを獲得できません。"
   },
   {
     "id": "la-tips-story-description-1",

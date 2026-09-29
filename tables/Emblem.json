@@ -10,6 +10,16 @@
     "order": 726081000
   },
   {
+    "id": "emblem-birthday-chr-00006-261005",
+    "name_lang_id": "la-emblem-birthday-chr-00006-261005",
+    "asset_id": "m_birthday-chr-00006-261005",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 726100500
+  },
+  {
     "id": "emblem-birthday-chr-00014-260820",
     "name_lang_id": "la-emblem-birthday-chr-00014-260820",
     "asset_id": "m_birthday-chr-00014-260820",
@@ -18,6 +28,16 @@
       "number": 2
     },
     "order": 726082000
+  },
+  {
+    "id": "emblem-birthday-chr-00017-261001",
+    "name_lang_id": "la-emblem-birthday-chr-00017-261001",
+    "asset_id": "m_birthday-chr-00017-261001",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 726100100
   },
   {
     "id": "emblem-birthday-chr-00023-260730",
@@ -3317,7 +3337,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072318
+    "order": 113000001
   },
   {
     "id": "emblem-chr-character_level_sum-02",
@@ -3327,7 +3347,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072319
+    "order": 113000002
   },
   {
     "id": "emblem-chr-character_level_sum-03",
@@ -3337,7 +3357,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072320
+    "order": 113000003
   },
   {
     "id": "emblem-chr-character_level_sum-04",
@@ -3347,7 +3367,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072321
+    "order": 113000004
   },
   {
     "id": "emblem-chr-highest_score_rating_00001-1",
@@ -6588,7 +6608,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072314
+    "order": 101000001
   },
   {
     "id": "emblem-cmn-favorite",
@@ -6730,7 +6750,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072301
+    "order": 103000001
   },
   {
     "id": "emblem-cmn-player_level-02",
@@ -6740,7 +6760,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072302
+    "order": 103000002
   },
   {
     "id": "emblem-cmn-pon",
@@ -6849,7 +6869,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072305
+    "order": 104000001
   },
   {
     "id": "emblem-live-clear_count-02",
@@ -6859,7 +6879,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072306
+    "order": 104000002
   },
   {
     "id": "emblem-live-clear_count-03",
@@ -6869,7 +6889,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072307
+    "order": 104000003
   },
   {
     "id": "emblem-live-deck_score-01",
@@ -6879,7 +6899,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072316
+    "order": 112000001
   },
   {
     "id": "emblem-live-deck_score-02",
@@ -6889,7 +6909,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072317
+    "order": 112000002
   },
   {
     "id": "emblem-live-highest_score_rating_sum-01",
@@ -6899,7 +6919,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072322
+    "order": 114000001
   },
   {
     "id": "emblem-live-highest_score_rating_sum-02",
@@ -6909,7 +6929,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072323
+    "order": 114000002
   },
   {
     "id": "emblem-live-highest_score_rating_sum-03",
@@ -6919,7 +6939,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072324
+    "order": 114000003
   },
   {
     "id": "emblem-live-music_all_perfect_count-01",
@@ -6929,7 +6949,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072310
+    "order": 107000001
   },
   {
     "id": "emblem-live-music_clear_count-01",
@@ -6939,7 +6959,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072308
+    "order": 105000001
   },
   {
     "id": "emblem-live-music_ex_all-perfect-count-01",
@@ -6949,7 +6969,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072313
+    "order": 110000001
   },
   {
     "id": "emblem-live-music_ex_clear-count-01",
@@ -6959,7 +6979,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072311
+    "order": 108000001
   },
   {
     "id": "emblem-live-music_ex_full-combo-count-01",
@@ -6969,7 +6989,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072312
+    "order": 109000001
   },
   {
     "id": "emblem-live-music_full_combo_count-01",
@@ -6979,7 +6999,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072309
+    "order": 106000001
   },
   {
     "id": "emblem-live-mvp_count-01",
@@ -6989,7 +7009,7 @@
       "name": "EMBLEM_SIZE_M",
       "number": 2
     },
-    "order": 126072315
+    "order": 111000001
   },
   {
     "id": "emblem-marathon_score_ranking_rank_reward-marathon_event-normal-001-chapter-01-bronze",
@@ -7659,7 +7679,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072337
+    "order": 102000013
   },
   {
     "id": "emblem-mini_game-chase-02",
@@ -7669,7 +7689,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072338
+    "order": 102000014
   },
   {
     "id": "emblem-mini_game-chase-03",
@@ -7679,7 +7699,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072339
+    "order": 102000015
   },
   {
     "id": "emblem-mini_game-circuit-01",
@@ -7689,7 +7709,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072331
+    "order": 102000007
   },
   {
     "id": "emblem-mini_game-circuit-02",
@@ -7699,7 +7719,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072332
+    "order": 102000008
   },
   {
     "id": "emblem-mini_game-circuit-03",
@@ -7709,7 +7729,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072333
+    "order": 102000009
   },
   {
     "id": "emblem-mini_game-combo_card_game-01",
@@ -7719,7 +7739,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072334
+    "order": 102000010
   },
   {
     "id": "emblem-mini_game-combo_card_game-02",
@@ -7729,7 +7749,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072335
+    "order": 102000011
   },
   {
     "id": "emblem-mini_game-combo_card_game-03",
@@ -7739,7 +7759,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072336
+    "order": 102000012
   },
   {
     "id": "emblem-mini_game-cooking_puzzle-01",
@@ -7749,7 +7769,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072328
+    "order": 102000004
   },
   {
     "id": "emblem-mini_game-cooking_puzzle-02",
@@ -7759,7 +7779,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072329
+    "order": 102000005
   },
   {
     "id": "emblem-mini_game-cooking_puzzle-03",
@@ -7769,7 +7789,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072330
+    "order": 102000006
   },
   {
     "id": "emblem-mini_game-jump_rope-01",
@@ -7779,7 +7799,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072325
+    "order": 102000001
   },
   {
     "id": "emblem-mini_game-jump_rope-02",
@@ -7789,7 +7809,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072326
+    "order": 102000002
   },
   {
     "id": "emblem-mini_game-jump_rope-03",
@@ -7799,7 +7819,37 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072327
+    "order": 102000003
+  },
+  {
+    "id": "emblem-mini_game-splash_ball-01",
+    "name_lang_id": "la-emblem-mini_game-splash_ball-01",
+    "asset_id": "s_mini-game-splashball-01",
+    "size": {
+      "name": "EMBLEM_SIZE_S",
+      "number": 1
+    },
+    "order": 102000016
+  },
+  {
+    "id": "emblem-mini_game-splash_ball-02",
+    "name_lang_id": "la-emblem-mini_game-splash_ball-02",
+    "asset_id": "s_mini-game-splashball-02",
+    "size": {
+      "name": "EMBLEM_SIZE_S",
+      "number": 1
+    },
+    "order": 102000017
+  },
+  {
+    "id": "emblem-mini_game-splash_ball-03",
+    "name_lang_id": "la-emblem-mini_game-splash_ball-03",
+    "asset_id": "s_mini-game-splashball-03",
+    "size": {
+      "name": "EMBLEM_SIZE_S",
+      "number": 1
+    },
+    "order": 102000018
   },
   {
     "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-001-chapter-01-m0206-bronze",
@@ -8822,6 +8872,246 @@
     "order": 226090803
   },
   {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-bronze",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-bronze",
+    "asset_id": "m_event-normal-005-chapter-01-m0357-bronze",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092904
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-diamond",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-diamond",
+    "asset_id": "m_event-normal-005-chapter-01-m0357-diamond",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092904
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-dream",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-dream",
+    "asset_id": "m_event-normal-005-chapter-01-m0357-dream",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092904
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-gold",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-gold",
+    "asset_id": "m_event-normal-005-chapter-01-m0357-gold",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092904
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-platinum",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-platinum",
+    "asset_id": "m_event-normal-005-chapter-01-m0357-platinum",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092904
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-silver",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-silver",
+    "asset_id": "m_event-normal-005-chapter-01-m0357-silver",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092904
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-bronze",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-bronze",
+    "asset_id": "m_event-normal-005-chapter-01-m0358-bronze",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092903
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-diamond",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-diamond",
+    "asset_id": "m_event-normal-005-chapter-01-m0358-diamond",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092903
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-dream",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-dream",
+    "asset_id": "m_event-normal-005-chapter-01-m0358-dream",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092903
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-gold",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-gold",
+    "asset_id": "m_event-normal-005-chapter-01-m0358-gold",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092903
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-platinum",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-platinum",
+    "asset_id": "m_event-normal-005-chapter-01-m0358-platinum",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092903
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-silver",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-silver",
+    "asset_id": "m_event-normal-005-chapter-01-m0358-silver",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092903
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-bronze",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-bronze",
+    "asset_id": "m_event-normal-005-chapter-01-m0413-bronze",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092902
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-diamond",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-diamond",
+    "asset_id": "m_event-normal-005-chapter-01-m0413-diamond",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092902
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-dream",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-dream",
+    "asset_id": "m_event-normal-005-chapter-01-m0413-dream",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092902
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-gold",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-gold",
+    "asset_id": "m_event-normal-005-chapter-01-m0413-gold",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092902
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-platinum",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-platinum",
+    "asset_id": "m_event-normal-005-chapter-01-m0413-platinum",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092902
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-silver",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-silver",
+    "asset_id": "m_event-normal-005-chapter-01-m0413-silver",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092902
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-bronze",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-bronze",
+    "asset_id": "m_event-normal-005-chapter-01-m0548-bronze",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092901
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-diamond",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-diamond",
+    "asset_id": "m_event-normal-005-chapter-01-m0548-diamond",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092901
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-dream",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-dream",
+    "asset_id": "m_event-normal-005-chapter-01-m0548-dream",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092901
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-gold",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-gold",
+    "asset_id": "m_event-normal-005-chapter-01-m0548-gold",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092901
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-platinum",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-platinum",
+    "asset_id": "m_event-normal-005-chapter-01-m0548-platinum",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092901
+  },
+  {
+    "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-silver",
+    "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-silver",
+    "asset_id": "m_event-normal-005-chapter-01-m0548-silver",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092901
+  },
+  {
     "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-m0334-bronze",
     "name_lang_id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-m0334-bronze",
     "asset_id": "m_event-relay-001-chapter-01-m0334-bronze",
@@ -9362,6 +9652,26 @@
     "order": 226091923
   },
   {
+    "id": "emblem-park-area-a03-fishing-01",
+    "name_lang_id": "la-emblem-park-area-a03-fishing-01",
+    "asset_id": "s_park-area-a03-fishing-01",
+    "size": {
+      "name": "EMBLEM_SIZE_S",
+      "number": 1
+    },
+    "order": 101500001
+  },
+  {
+    "id": "emblem-park-area-a03-fishing-02",
+    "name_lang_id": "la-emblem-park-area-a03-fishing-02",
+    "asset_id": "s_park-area-a03-fishing-02",
+    "size": {
+      "name": "EMBLEM_SIZE_S",
+      "number": 1
+    },
+    "order": 101500002
+  },
+  {
     "id": "emblem-park-area_a01-01",
     "name_lang_id": "la-emblem-park-area_a01-01",
     "asset_id": "s_park-area-a01-01",
@@ -9369,7 +9679,7 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072303
+    "order": 100100001
   },
   {
     "id": "emblem-park-area_a02-01",
@@ -9379,7 +9689,17 @@
       "name": "EMBLEM_SIZE_S",
       "number": 1
     },
-    "order": 126072304
+    "order": 100100002
+  },
+  {
+    "id": "emblem-park-area_a03-01",
+    "name_lang_id": "la-emblem-park-area_a03-01",
+    "asset_id": "s_park-area-a03-01",
+    "size": {
+      "name": "EMBLEM_SIZE_S",
+      "number": 1
+    },
+    "order": 100100003
   },
   {
     "id": "emblem-stream_260728",
@@ -9510,5 +9830,65 @@
       "number": 2
     },
     "order": 226090800
+  },
+  {
+    "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-bronze",
+    "name_lang_id": "la-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-bronze",
+    "asset_id": "m_event-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-bronze",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092900
+  },
+  {
+    "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-diamond",
+    "name_lang_id": "la-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-diamond",
+    "asset_id": "m_event-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-diamond",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092900
+  },
+  {
+    "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-dream",
+    "name_lang_id": "la-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-dream",
+    "asset_id": "m_event-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-dream",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092900
+  },
+  {
+    "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-gold",
+    "name_lang_id": "la-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-gold",
+    "asset_id": "m_event-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-gold",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092900
+  },
+  {
+    "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-platinum",
+    "name_lang_id": "la-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-platinum",
+    "asset_id": "m_event-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-platinum",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092900
+  },
+  {
+    "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-silver",
+    "name_lang_id": "la-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-silver",
+    "asset_id": "m_event-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-silver",
+    "size": {
+      "name": "EMBLEM_SIZE_M",
+      "number": 2
+    },
+    "order": 226092900
   }
 ]

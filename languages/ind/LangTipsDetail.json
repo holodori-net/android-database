@@ -428,6 +428,30 @@
     "text": "Di Toko Lagu, bisa menukarkan Disk Lagu dengan lagu-lagu!\n\n<color=#ff3bc8>Lagu yang telah ditukarkan bisa dimainkan di dalam Live!</color>"
   },
   {
+    "id": "la-tips-game_screen-park-fishing-fish-list-area03-description-1",
+    "text": "Saat menangkap ikan, Pemain akan mendapatkan <color=#ff3bc8>Soda Pop Coin</color>!\n\nJumlah koin yang didapat akan bertambah tergantung pada berat dan tingkat kelangkaan ikan!"
+  },
+  {
+    "id": "la-tips-game_screen-park-fishing-fish-list-area03-description-2",
+    "text": "Pemain dapat memeriksa informasi tentang ikan yang telah di tangkap di Ensiklopedia!\n\nHadiah yang di dapat akan sesuai dengan jenis ikan yang ditangkap!"
+  },
+  {
+    "id": "la-tips-game_screen-park-fishing-rod-level-description-1",
+    "text": "Di Bae’s Bits & Bobs, Pemain bisa meningkatkan Alat Pancing dengan menggunakan Hologold!\n\n<color=#ff3bc8>Dengan meningkatkan Alat Pancing, ikan akan lebih mudah ditangkap</color>!"
+  },
+  {
+    "id": "la-tips-game_screen-park-fishing-top-area03-1",
+    "text": "Pilih Umpan dan mulailah memancing!\n\n<color=#ff3bc8>Jenis ikan yang bisa ditangkap mungkin berbeda tergantung Umpan, Lokasi, dan Waktu.</color>"
+  },
+  {
+    "id": "la-tips-game_screen-park-fishing-top-area03-2",
+    "text": "Saat ikan mulai memakan umpan, ketuk layar untuk memulai game! \n\n<color=#ff3bc8>Tekan dan tahan reel, lalu lepaskan secara bergantian untuk terus menjaga ikan tetap berada di dalam bar!</color>\nSaat ikan berada di dalam bar, gauge di sebelah kanan akan bertambah!\n\nSaat gauge penuh, ikan akan berhasil ditangkap!"
+  },
+  {
+    "id": "la-tips-game_screen-park-time-period-area03-description-1",
+    "text": "Di POPOPO Happy Camp, Pemain bisa mengubah waktu!\n\n<color=#ff3bc8>Jenis ikan yang bisa ditangkap tergantung pada waktunya!</color>\n\nWaktu muncul ikan bisa di cek di <color=#ff3bc8>Ensiklopedia Ikan!</color>"
+  },
+  {
     "id": "la-tips-game_screen-park_change_playable-description-1",
     "text": "holomem yang dimainkan bisa diganti! \n\nKarakter yang bisa dipilih adalah<color=#ff3bc8>holomem yang sudah didapat dari Misi Holomem</color>!"
   },
@@ -664,12 +688,32 @@
     "text": "Mengatur gambar anggota dan animasi Live2D Leader saat skill SP aktif akan ditampilkan atau tidak."
   },
   {
+    "id": "la-tips-hint-live_option_detail_special_skill_timing_display-description-1",
+    "text": "Bisa mengatur tampilan ketika SP Skill diaktifkan, baik dalam bentuk \"Line\" atau \"Icon\"."
+  },
+  {
     "id": "la-tips-hint-live_option_detail_tap_effect-description-1",
     "text": "Bisa tentukan jumlah effect ketika not diketuk."
   },
   {
     "id": "la-tips-hint-live_option_detail_tap_vibration-description-1",
     "text": "Mengatur kekuatan getaran perangkat saat mengetuk."
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_display_settingdescription-1",
+    "text": "Kriteria penilaian dapat dipilih.\nTampilan penilaian di atas kriteria yang dipilih akan disembunyikan.\nPenilaian yang disembunyikan akan tetap diakumulasi dan bisa dilihat dari layar hasil."
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_display_typedescription-1",
+    "text": "Posisi Tampilan Penilaian dapat diatur di tengah atau pada posisi jalur tempat penilain dilakukan.\nJika diatur “Per Jalur”, dapat memilih jumlah jalur tempat hasil penilaian ditampilkan: 2, 3, 4, 5, 6, atau 12."
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_positiondescription-1",
+    "text": "Posisi Tampilan Penilaian dapat diatur.\nSemakin besar angkanya hasil penilaian semakin tinggi, semakin kecil angkanya hasil penilaian semakin rendah."
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_timing_positiondescription-1",
+    "text": "Posisi Tampilan FAST/SLOW dapat diatur di bagian atas atau bawah tampilan penilaian."
   },
   {
     "id": "la-tips-hint-live_option_key_config_lane-description-1",
@@ -688,8 +732,20 @@
     "text": "Pengaturan tinggi garis penilaian untuk mengetuk not.\n\nSemakin besar angka, tinggi garis akan semakin naik."
   },
   {
+    "id": "la-tips-hint-live_option_lane_split-description-1",
+    "text": "Bisa mengatur jumlah grid yang ditampilkan di jalur."
+  },
+  {
     "id": "la-tips-hint-live_option_lane_top_cut-description-1",
     "text": "Pemain dapat mengatur posisi not mulai melaju dengan memotong bagian atas jalur.\n\nWaktu tampilan not adalah waktu (dalam milidetik) saat not ditampilkan hingga mencapai garis penilaian.\n\nJika bagian atas jalur dipotong, waktu yang ditampilkan adalah waktu yang dibutuhkan untuk mencapai garis penilaian dari titik di mana Line dipotong.\nJika bagian bawah jalur dipotong di atas garis penilaian, waktu yang ditampilkan adalah waktu hingga pemotongan dilakukan."
+  },
+  {
+    "id": "la-tips-hint-live_option_lane_width_setting-description-1",
+    "text": "Bisa mengatur lebar jalur.\nSemakin besar angkanya, lebar jalur akan makin besar.\nSemakin besar lebar jalur, maka kemungkinan elemen UI akan tumpang tindih dengan jalur juga makin besar."
+  },
+  {
+    "id": "la-tips-hint-live_option_low_life_warning_effectdescription-1",
+    "text": "Dapat mengatur ON/OFF efek kedipan merah muncul saat LIFE turun di bawah batas tertentu."
   },
   {
     "id": "la-tips-hint-live_option_mirror_chart-description-1",
@@ -704,8 +760,16 @@
     "text": "Pengaturan musik dan not yang muncul.\n\nJika mendapatkan banyak hasil FAST, atur ke angka yang lebih besar dan jika mendapatkan banyak hasil SLOW, atur ke angka yang lebih kecil."
   },
   {
+    "id": "la-tips-hint-live_option_note_height_pct_setting-description-1",
+    "text": "Bisa mengatur tinggi dari not.\nSemakin besar angkanya, maka tinggi dari not akan makin besar."
+  },
+  {
     "id": "la-tips-hint-live_option_note_speed-description-1",
     "text": "Kecepatan aliran Not bisa diatur.\n\nMelalui tombol kiri dan kanan, dapat melakukan penyesuaian dalam kelipatan 0.1 atau 0.5.\nDengan mengetuk bagian angka, dapat menyesuaikan bagian dua angka di belakang koma secara lebih mendetail.\n\nWaktu Kemunculan Not menunjukkan durasi (milidetik) Not tampil di dalam layar.\nNilai akan berubah ketika kecepatan Not diganti, atau dipotong bagian atas/bawah jalurnya."
+  },
+  {
+    "id": "la-tips-hint-live_option_note_width_pct_setting-description-1",
+    "text": "Bisa mengatur lebar dari not.\nSemakin besar angkanya, maka notnya akan muncul lebih lebar."
   },
   {
     "id": "la-tips-hint-live_option_skin_combo-description-1",
@@ -730,6 +794,10 @@
   {
     "id": "la-tips-hint-live_option_skin_note-description-1",
     "text": "Mengubah tampilan desain not."
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_penlight-description-1",
+    "text": "Saat memilih latar belakang biasa, kamu dapat mengubah warna Lightstick yang berubah sesuai dengan holomem yang menjadi pemimpin.\n\"Original color\" adalah warna dalam game, sedangkan \"Live color\" adalah warna Lightstick resmi yang digunakan di hololive fes. dan acara lainnya."
   },
   {
     "id": "la-tips-hint-live_option_skin_tap_effect_type-description-1",
@@ -789,11 +857,11 @@
   },
   {
     "id": "la-tips-hint-marathon_mission-description-5",
-    "text": "Manfaatkan <color=#ff3bc8>Bonus Event</color> untuk meraih Event Pt dan Lencana Event sebanyak-banyaknya!\n\nBonus Event adalah penambahan <color=#ff3bc8>jumlah Event Pt dan Lencana Event dari Live</color> yang dimainkan.\n\nAda 3 jenis Bonus Perolehan!\n\n▼Bonus Member\n・Mainkan Live dengan member target dalam tim.\n\n▼Bonus holomem\n・Mainkan Live dengan holomem target dalam tim.\n\n▼Bonus Mekar\n・Makin tinggi tingkat Mekar member dalam tim, makin bertambah hadiah saat Live.\n\nSelain itu, ada juga Bonus Event untuk meningkatkan jumlah perolehan Event Pt dan Lencana Event dari Mini-game!\n\n▼Bonus Mini-game\n・Mainkan Mini-game yang ditentukan untuk meningkatkan jumlah bonus.\n\n▼Bonus Member\n・Memiliki member yang diminta, akan meningkatkan jumlah bonus.\n\n*Untuk detailnya silakan periksa [Event]→[Bonus Event]."
+    "text": "Manfaatkan <color=#ff3bc8>Bonus Event</color> untuk meraih Lencana Event sebanyak-banyaknya!\n\nSaat Bonus Event, <color=#ff3bc8>jumlah Lencana Event yang didapat dari Live akan bertambah!</color>\n\nAda 3 jenis Bonus Perolehan!\n\n▼Bonus Member\n・Mainkan Live dengan member target dalam tim.\n\n▼Bonus holomem\n・Mainkan Live dengan holomem target dalam tim.\n\n▼Bonus Mekar\n・Makin tinggi tingkat Mekar member dalam tim, makin bertambah hadiah saat Live.\n\nSelain itu, ada juga Bonus Event untuk meningkatkan jumlah perolehan Lencana Event dari Mini-game!\n\n▼Bonus Mini-game\n・Mainkan Mini-game yang ditentukan untuk meningkatkan jumlah bonus.\n\n▼Bonus Member\n・Memiliki member tertentu akan meningkatkan jumlah bonus.\n\n*Untuk detailnya silakan periksa [Event]→[Bonus Event]."
   },
   {
     "id": "la-tips-hint-marathon_mission-description-6",
-    "text": "Jumlah perolehan Event Pt dan Lencana Event <color=#ff3bc8>akan bertambah seiring tingginya skor</color>.\n\n▼Tentang Perolehan Event Pt dan Lencana Event\n・Bisa juga diperoleh dengan Auto Live.\n・Jumlah hadiah meningkat seiring banyaknya Live Boost yang dikonsumsi.\n・Jumlah hadiah meningkat sesuai durasi lagu."
+    "text": "Jumlah Lencana Event yang didapatkan akan meningkat seiring <color=#ff3bc8>meningkatnya skor!</color>\n\n▼Tentang Perolehan Lencana Event\n・Bisa juga diperoleh dengan Auto Live.\n・Jumlah hadiah meningkat seiring banyaknya Live Boost yang dikonsumsi.\n・Jumlah hadiah meningkat sesuai durasi lagu."
   },
   {
     "id": "la-tips-hint-marathon_nomal-description-1",
@@ -980,6 +1048,14 @@
     "text": "▼Cara Kontrol\n・Gerak: <color=#ff3bc8>Gunakan \"W\", \"S\", \"A\", \"D\" untuk menggerakkan holomem</color>.\n\n・Tampilkan Kursor: <color=#ff3bc8>Tekan \"Alt\" untuk menampilkan kursor</color>.\n※ Bisa memilih setiap menu menggunakan kursor."
   },
   {
+    "id": "la-tips-park-boat-area03-description-1",
+    "text": "Di Soda Pop Lagoon, Pemain bisa mengelilingi area menggunakan boat!\n\nNaiklah boat terdekat dan jelajahi area sekitar!"
+  },
+  {
+    "id": "la-tips-park-boat-area03-level-description-1",
+    "text": "Di Koyo Lab Oceanic Branch, Pemain bisa meningkatkan Boat dengan menggunakan material yang ditentukan!\n\n<color=#ff3bc8>Tingkatkan Boat dan jelajahi lautan yang lebih jauh!</color>"
+  },
+  {
     "id": "la-tips-park-character-shop-area01-balloon-description-1",
     "text": "Di Lucu-Chu Mobile 15, bisa mendapatkan Balon menggunakan Holomedali!\n\nPilihlah salah satu yang kamu suka dari <color=#ff3bc8>3 holomem yang dipilih secara acak</color>!"
   },
@@ -1010,6 +1086,34 @@
   {
     "id": "la-tips-park-character-shop-area02-hair-accessory-description-2",
     "text": "Usamimi Silk Hat yang didapat bisa dikenakan pada holomem yang bersangkutan!"
+  },
+  {
+    "id": "la-tips-park-fishing-area03-description-1",
+    "text": "Pemain bisa memancing ikan di spot memancing!\n\nNikmati memancing dengan bebas di berbagai spot memancing yang tersebar di dalam Area!"
+  },
+  {
+    "id": "la-tips-park-fishing-fish-list-area03-description-1",
+    "text": "Saat menangkap ikan, Pemain akan mendapatkan <color=#ff3bc8>Soda Pop Coin</color>!\n\nJumlah koin yang didapat akan bertambah tergantung pada berat dan tingkat kelangkaan ikan!"
+  },
+  {
+    "id": "la-tips-park-fishing-fish-list-area03-description-2",
+    "text": "Pemain dapat memeriksa informasi tentang ikan yang telah di tangkap di Ensiklopedia!\n\nHadiah yang di dapat akan sesuai dengan jenis ikan yang ditangkap!"
+  },
+  {
+    "id": "la-tips-park-fishing-rod-level-area03-description-1",
+    "text": "Di Bae’s Bits & Bobs, Pemain bisa meningkatkan Alat Pancing dengan menggunakan Hologold!\n\n<color=#ff3bc8>Dengan meningkatkan Alat Pancing, ikan akan lebih mudah ditangkap</color>!"
+  },
+  {
+    "id": "la-tips-park-fishing-top-area03-description-1",
+    "text": "Pilih Umpan dan mulailah memancing!\n\n<color=#ff3bc8>Jenis ikan yang bisa ditangkap mungkin berbeda tergantung Umpan, Lokasi, dan Waktu.</color>"
+  },
+  {
+    "id": "la-tips-park-fishing-top-area03-description-2",
+    "text": "Saat ikan mulai memakan umpan, ketuk layar untuk memulai game! \n\n<color=#ff3bc8>Tekan dan tahan reel, lalu lepaskan secara bergantian untuk terus menjaga ikan tetap berada di dalam bar!</color>\nSaat ikan berada di dalam bar, gauge di sebelah kanan akan bertambah!\n\nSaat gauge penuh, ikan akan berhasil ditangkap!"
+  },
+  {
+    "id": "la-tips-park-fishingshop-area03-description-1",
+    "text": "Di Bae's Bits & Bobs, Pemain bisa menukarkan Hologold dengan umpan!\n\n<color=#ff3bc8>Jenis ikan yang bisa ditangkap akan berbeda tergantung umpan yang digunakan!</color>\n\nTukarkan umpan dan tangkap banyak ikan!"
   },
   {
     "id": "la-tips-park-high-low-area02-description-1",
@@ -1110,6 +1214,38 @@
   {
     "id": "la-tips-skill-tree-description-2",
     "text": "<color=#ff3bc8>Berbagai Cube yang diperlukan untuk membuka Node dapat diperoleh di Tempat Penukaran, Holowork, dan lainnya</color>.\n\n<color=#ff3bc8>Holomem Board Pt dapat diperoleh saat kamu menaikkan Holomem Rank</color>.\n\nKumpulkan EXP yang dibutuhkan untuk naik Rank dengan menyelesaikan Achievs setiap holomem."
+  },
+  {
+    "id": "la-tips-splash_ball-description-1",
+    "text": "Splash Ball dapat dimainkan kapan saja di <color=#ff3bc8>Splash Stadium</color> yang berada di Soda Pop Lagoon!"
+  },
+  {
+    "id": "la-tips-splash_ball-description-2",
+    "text": "Hadiah ditentukan berdasarkan peringkat tim dan skor individu.\n\n<color=#ff3bc8>Pemain dengan skor tertinggi di tim juara 1 akan dinobatkan sebagai MVP!</color>\nGiring dan pantulkan banyak bola untuk menjadi pemain bintang!"
+  },
+  {
+    "id": "la-tips-splash_ball-description-3",
+    "text": "Hanya skor terbaik yang akan tercatat di Peringkat! \n\n*Jika Skor terbaik sama, Peringkat akan ditentukan berdasarkan urutan pertama skor tersebut."
+  },
+  {
+    "id": "la-tips-splash_ball-quest-description-1",
+    "text": "Splash Ball adalah permainan antara 3 tim yang masing-masing terdiri dari 3 pemain\n\n<color=#ff3bc8>Masukkan bola ke gawang lawan untuk mendapatkan poin dan raih target skor! </color>\n\nNamun, hati-hati<color=#ff3bc8> poin akan berkurang jika tim lawan mencetak gol</color> ke gawangmu!\n\nPermainan selesai jika waktu habis, salah satu tim mencapai skor target, atau skornya menjadi 0 poin!"
+  },
+  {
+    "id": "la-tips-splash_ball-quest-description-2",
+    "text": "▼Cara Kontrol\n・Gerak: <color=#ff3bc8>Sentuh layar untuk menggerakkan boat.</color>\n\n・Lompat: <color=#ff3bc8>Ketuk layar untuk membuat boat melompat.</color>\n\n・Boost: <color=#ff3bc8>Ketuk layar untuk Speed Up selama beberapa saat.</color>\n\n*Boost tidak bisa dipakai sampai gauge penuh kembali."
+  },
+  {
+    "id": "la-tips-splash_ball-quest-description-3",
+    "text": "Dorong bola dengan boat dan arahkan ke gawang tim lawan!\n\n<color=#ff3bc8>Jika mengenai bagian tengah bola dengan boat, bola akan terbang lebih kencang!</color>"
+  },
+  {
+    "id": "la-tips-splash_ball-quest-description-4",
+    "text": "Di lapangan, ada<color=#ff3bc8>berbagai jenis bola dengan poin dan berat yang berbeda-beda</color>\n\nTerkadang bola bisa<color=#ff3bc8>muncul secara banyak sekaligus</color>!?"
+  },
+  {
+    "id": "la-tips-splash_ball-quest-description-5",
+    "text": "Jika berhasil mendorong bola keluar dari wilayahmu, maka akan memperoleh <color=#ff3bc8>Poin Defensif.</color>\n\n<color=#ff3bc8>Jika mendapatkan Poin Defensif, bola akan melaju lebih kuat dari biasanya</color>!\n\n*Ada waktu jeda untuk bisa mendapatkan Poin Defensif.\n*Poin Defensif tidak bisa di dapat dari bola yang terakhir disentuh tim sendiri."
   },
   {
     "id": "la-tips-story-description-1",

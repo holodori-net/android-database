@@ -132,6 +132,22 @@
     "text": "Song Shop"
   },
   {
+    "id": "la-tips-game_screen-park-fishing-fish-list-area03",
+    "text": "Fish Guide"
+  },
+  {
+    "id": "la-tips-game_screen-park-fishing-rod-level",
+    "text": "Bae’s Bits & Bobs"
+  },
+  {
+    "id": "la-tips-game_screen-park-fishing-top-area03",
+    "text": "Fishing"
+  },
+  {
+    "id": "la-tips-game_screen-park-time-period-area03",
+    "text": "Change Time"
+  },
+  {
     "id": "la-tips-game_screen-park_change_playable-title",
     "text": "Change holomem"
   },
@@ -158,6 +174,10 @@
   {
     "id": "la-tips-game_screen-skill_tree-title",
     "text": "Holomem Board"
+  },
+  {
+    "id": "la-tips-game_screen-splash_ball",
+    "text": "Splash Ball"
   },
   {
     "id": "la-tips-game_screen-story_archive_top-title",
@@ -296,12 +316,32 @@
     "text": "SP Skill Illustration and Live2D"
   },
   {
+    "id": "la-tips-hint-live_option_detail_special_skill_timing_display-title",
+    "text": "SP Skill Timing"
+  },
+  {
     "id": "la-tips-hint-live_option_detail_tap_effect-title",
     "text": "Tap Effect"
   },
   {
     "id": "la-tips-hint-live_option_detail_tap_vibration-title",
     "text": "Vibration on Tap"
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_display_setting-title",
+    "text": "Judgement Result Display"
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_display_type-title",
+    "text": "Judgement Result Display Type"
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_position-title",
+    "text": "Judgement Result Position"
+  },
+  {
+    "id": "la-tips-hint-live_option_judgement_timing_position-title",
+    "text": "FAST/SLOW Judgement Result Position"
   },
   {
     "id": "la-tips-hint-live_option_key_config_lane-title",
@@ -320,8 +360,20 @@
     "text": "Hit Line"
   },
   {
+    "id": "la-tips-hint-live_option_lane_split-title",
+    "text": "Lane Divisions"
+  },
+  {
     "id": "la-tips-hint-live_option_lane_top_cut-title",
     "text": "Crop Top"
+  },
+  {
+    "id": "la-tips-hint-live_option_lane_width_setting-title",
+    "text": "Lane Width"
+  },
+  {
+    "id": "la-tips-hint-live_option_low_life_warning_effect-title",
+    "text": "Alert When Life Is Low"
   },
   {
     "id": "la-tips-hint-live_option_mirror_chart-title",
@@ -336,8 +388,16 @@
     "text": "Adjust Song Timing"
   },
   {
+    "id": "la-tips-hint-live_option_note_height_pct_setting-title",
+    "text": "Note Height (%)"
+  },
+  {
     "id": "la-tips-hint-live_option_note_speed-title",
     "text": "Note Speed"
+  },
+  {
+    "id": "la-tips-hint-live_option_note_width_pct_setting-title",
+    "text": "Note Width (%)"
   },
   {
     "id": "la-tips-hint-live_option_skin_combo-title",
@@ -362,6 +422,10 @@
   {
     "id": "la-tips-hint-live_option_skin_note-title",
     "text": "Note Skin"
+  },
+  {
+    "id": "la-tips-hint-live_option_skin_penlight-title",
+    "text": "Penlight Settings"
   },
   {
     "id": "la-tips-hint-live_option_skin_tap_effect_type-title",
@@ -472,6 +536,14 @@
     "text": "Controls Guide"
   },
   {
+    "id": "la-tips-park-boat-area03",
+    "text": "Boat"
+  },
+  {
+    "id": "la-tips-park-boat-level-area03",
+    "text": "Koyo Lab Oceanic Branch"
+  },
+  {
     "id": "la-tips-park-character-shop-area01-balloon-title",
     "text": "Balloon Shop"
   },
@@ -486,6 +558,30 @@
   {
     "id": "la-tips-park-character-shop-area02-hair-accessory-title",
     "text": "Silk Hat Shop"
+  },
+  {
+    "id": "la-tips-park-fishing-area03",
+    "text": "Fishing"
+  },
+  {
+    "id": "la-tips-park-fishing-fish-list-area03",
+    "text": "Fish Guide"
+  },
+  {
+    "id": "la-tips-park-fishing-rod-level-area03",
+    "text": "Bae’s Bits & Bobs"
+  },
+  {
+    "id": "la-tips-park-fishing-rod-level-up--area03-title",
+    "text": "Upgrade your Fishing Rod!"
+  },
+  {
+    "id": "la-tips-park-fishing-top-area03",
+    "text": "Fishing"
+  },
+  {
+    "id": "la-tips-park-fishingshop-area03",
+    "text": "Bae’s Bits & Bobs"
   },
   {
     "id": "la-tips-park-high-low-area02-title",
@@ -534,6 +630,14 @@
   {
     "id": "la-tips-skill-tree-title",
     "text": "Holomem Board"
+  },
+  {
+    "id": "la-tips-splash_ball",
+    "text": "Splash Ball"
+  },
+  {
+    "id": "la-tips-splash_ball-quest",
+    "text": "Splash Ball"
   },
   {
     "id": "la-tips-story-title",

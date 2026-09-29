@@ -126,9 +126,39 @@
   },
   {
     "type": {
+      "name": "PARK_NOTICE_TYPE_ITEM_EXPIRATION_SOON",
+      "number": 7
+    },
+    "order": 18
+  },
+  {
+    "type": {
       "name": "PARK_NOTICE_TYPE_PARK_LOTTERY_SCRATCH_AVAILABLE",
       "number": 8
     },
     "order": 17
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_EVENT_END_TIME_SOON",
+      "number": 10
+    },
+    "order": 19
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_PARK_FISHING_ROD_LEVEL_UPABLE",
+      "number": 11
+    },
+    "target_id": "perm-a03-fishingshop-open-rod",
+    "order": 21
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_PARK_FISHING_ROD_LEVEL_UPABLE",
+      "number": 11
+    },
+    "target_id": "perm-a03-fishingshop-rod",
+    "order": 20
   }
 ]

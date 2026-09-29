@@ -116,8 +116,20 @@
     "text": "高評級排名"
   },
   {
+    "id": "la-feature_lock-park_area03_sea_area2-title",
+    "text": "全新海域"
+  },
+  {
+    "id": "la-feature_lock-park_area03_sea_area3-title",
+    "text": "全新海域"
+  },
+  {
     "id": "la-feature_lock-park_area_quest-title",
     "text": "區域關卡"
+  },
+  {
+    "id": "la-feature_lock-park_boat-title",
+    "text": "快艇"
   },
   {
     "id": "la-feature_lock-park_character_quest-title",
@@ -154,6 +166,14 @@
   {
     "id": "la-feature_lock-park_emotion-title",
     "text": "表情"
+  },
+  {
+    "id": "la-feature_lock-park_fishing-rod-level-up",
+    "text": "釣竿強化"
+  },
+  {
+    "id": "la-feature_lock-park_fishing-title",
+    "text": "釣魚"
   },
   {
     "id": "la-feature_lock-park_high_low-title",
@@ -198,6 +218,10 @@
   {
     "id": "la-feature_lock-skill_tree-title",
     "text": "Holo成員面板"
+  },
+  {
+    "id": "la-feature_lock-splash_ball",
+    "text": "水花飛球"
   },
   {
     "id": "la-feature_lock-story-title",

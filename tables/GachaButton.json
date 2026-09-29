@@ -20,6 +20,14 @@
     "gacha_id": "gacha-common-normal-001"
   },
   {
+    "id": "gacha_button-gacha-area03-select-260929-btn_01-stone",
+    "gacha_id": "gacha-area03-select-260929"
+  },
+  {
+    "id": "gacha_button-gacha-area03-select-260929-btn_10-stone",
+    "gacha_id": "gacha-area03-select-260929"
+  },
+  {
     "id": "gacha_button-gacha-beginner-select-001-btn_01-stone",
     "gacha_id": "gacha-beginner-select-001"
   },
@@ -34,6 +42,10 @@
   {
     "id": "gacha_button-gacha-fixed-260807-btn_10-paid_stone",
     "gacha_id": "gacha-fixed-260807"
+  },
+  {
+    "id": "gacha_button-gacha-fixed-260929-btn_10-paid_stone",
+    "gacha_id": "gacha-fixed-260929"
   },
   {
     "id": "gacha_button-gacha-pickup-normal-260728-btn_01-paid_stone-daily",
@@ -132,6 +144,22 @@
     "gacha_id": "gacha-pickup-normal-260919"
   },
   {
+    "id": "gacha_button-gacha-pickup-normal-260929-btn_01-paid_stone-daily",
+    "gacha_id": "gacha-pickup-normal-260929",
+    "reset_interval_type": {
+      "name": "RESET_INTERVAL_TYPE_DAILY",
+      "number": 1
+    }
+  },
+  {
+    "id": "gacha_button-gacha-pickup-normal-260929-btn_01-stone",
+    "gacha_id": "gacha-pickup-normal-260929"
+  },
+  {
+    "id": "gacha_button-gacha-pickup-normal-260929-btn_10-stone",
+    "gacha_id": "gacha-pickup-normal-260929"
+  },
+  {
     "id": "gacha_button-gacha-pickup-select-260728-btn_01-stone",
     "gacha_id": "gacha-pickup-select-260728"
   },
@@ -170,6 +198,14 @@
   {
     "id": "gacha_button-gacha-pickup-select-260919-btn_10-stone",
     "gacha_id": "gacha-pickup-select-260919"
+  },
+  {
+    "id": "gacha_button-gacha-pickup-select-260929-btn_01-stone",
+    "gacha_id": "gacha-pickup-select-260929"
+  },
+  {
+    "id": "gacha_button-gacha-pickup-select-260929-btn_10-stone",
+    "gacha_id": "gacha-pickup-select-260929"
   },
   {
     "id": "gacha_button-gacha_common-ticket_r5-001-btn_01-gacha-ticket",

@@ -305,6 +305,180 @@
     "condition_group_id": "cd-quest_clear-quest-main-w1-02-12"
   },
   {
+    "id": "perm-a03-fishingpond1",
+    "park_target_mapping_id": "target_map-a03-fishingpond1",
+    "condition_group_id": "cd-perm-a03-fishingpond1"
+  },
+  {
+    "id": "perm-a03-fishingpond1-fishing",
+    "park_target_mapping_id": "target_map-a03-fishingpond1-fishing",
+    "condition_group_id": "cd-perm-a03-fishingpond1-fishing"
+  },
+  {
+    "id": "perm-a03-fishingpond1-open",
+    "park_target_mapping_id": "target_map-a03-fishingpond1-open",
+    "condition_group_id": "cd-perm-a03-park_open"
+  },
+  {
+    "id": "perm-a03-fishingpond2",
+    "park_target_mapping_id": "target_map-a03-fishingpond2",
+    "condition_group_id": "cd-perm-a03-fishingpond2"
+  },
+  {
+    "id": "perm-a03-fishingpond2-fishing",
+    "park_target_mapping_id": "target_map-a03-fishingpond2-fishing",
+    "condition_group_id": "cd-perm-a03-fishingpond2-fishing"
+  },
+  {
+    "id": "perm-a03-fishingpond2-open",
+    "park_target_mapping_id": "target_map-a03-fishingpond2-open",
+    "condition_group_id": "cd-perm-a03-park_open"
+  },
+  {
+    "id": "perm-a03-fishingpond3",
+    "park_target_mapping_id": "target_map-a03-fishingpond3",
+    "condition_group_id": "cd-perm-a03-fishingpond3"
+  },
+  {
+    "id": "perm-a03-fishingpond3-fishing",
+    "park_target_mapping_id": "target_map-a03-fishingpond3-fishing",
+    "condition_group_id": "cd-perm-a03-fishingpond3-fishing"
+  },
+  {
+    "id": "perm-a03-fishingpond3-open",
+    "park_target_mapping_id": "target_map-a03-fishingpond3-open",
+    "condition_group_id": "cd-perm-a03-park_open"
+  },
+  {
+    "id": "perm-a03-fishingshop",
+    "park_target_mapping_id": "target_map-a03-fishingshop",
+    "condition_group_id": "cd-perm-a03-fishingshop",
+    "override_field_action_icon_asset_id": "fishingshop"
+  },
+  {
+    "id": "perm-a03-fishingshop-open",
+    "park_target_mapping_id": "target_map-a03-fishingshop-open",
+    "condition_group_id": "cd-perm-a03-fishingshop-open",
+    "override_field_action_icon_asset_id": "fishingshop"
+  },
+  {
+    "id": "perm-a03-fishingshop-open-rod",
+    "park_target_mapping_id": "target_map-a03-fishingshop-open",
+    "condition_group_id": "cd-perm-a03-fishingshop-open-rod",
+    "override_field_action_icon_asset_id": "fishingshop"
+  },
+  {
+    "id": "perm-a03-fishingshop-rod",
+    "park_target_mapping_id": "target_map-a03-fishingshop",
+    "condition_group_id": "cd-perm-a03-fishingshop-rod",
+    "override_field_action_icon_asset_id": "fishingshop"
+  },
+  {
+    "id": "perm-a03-glamping",
+    "park_target_mapping_id": "target_map-a03-glamping",
+    "condition_group_id": "cd-perm-a03-glamping"
+  },
+  {
+    "id": "perm-a03-glamping-open",
+    "park_target_mapping_id": "target_map-a03-glamping-open",
+    "condition_group_id": "cd-perm-a03-park_open"
+  },
+  {
+    "id": "perm-a03-islandlarge1",
+    "park_target_mapping_id": "target_map-a03-islandlarge1",
+    "condition_group_id": "cd-perm-a03-fishingpond3-fishing"
+  },
+  {
+    "id": "perm-a03-islandlarge2",
+    "park_target_mapping_id": "target_map-a03-islandlarge2",
+    "condition_group_id": "cd-perm-a03-fishingpond3-fishing"
+  },
+  {
+    "id": "perm-a03-islandmiddle1",
+    "park_target_mapping_id": "target_map-a03-islandmiddle1",
+    "condition_group_id": "cd-perm-a03-fishingpond1-fishing"
+  },
+  {
+    "id": "perm-a03-islandmiddle2",
+    "park_target_mapping_id": "target_map-a03-islandmiddle2",
+    "condition_group_id": "cd-perm-a03-fishingpond3-fishing"
+  },
+  {
+    "id": "perm-a03-islandmiddle3",
+    "park_target_mapping_id": "target_map-a03-islandmiddle3",
+    "condition_group_id": "cd-perm-a03-fishingpond3-fishing"
+  },
+  {
+    "id": "perm-a03-islandsmall1",
+    "park_target_mapping_id": "target_map-a03-islandsmall1",
+    "condition_group_id": "cd-perm-a03-fishingpond1-fishing"
+  },
+  {
+    "id": "perm-a03-islandsmall2",
+    "park_target_mapping_id": "target_map-a03-islandsmall2",
+    "condition_group_id": "cd-perm-a03-fishingpond1-fishing"
+  },
+  {
+    "id": "perm-a03-islandsmall3",
+    "park_target_mapping_id": "target_map-a03-islandsmall3",
+    "condition_group_id": "cd-perm-a03-fishingpond2-fishing"
+  },
+  {
+    "id": "perm-a03-islandsmall4",
+    "park_target_mapping_id": "target_map-a03-islandsmall4",
+    "condition_group_id": "cd-perm-a03-fishingpond2-fishing"
+  },
+  {
+    "id": "perm-a03-livestage",
+    "park_target_mapping_id": "target_map-a03-livestage",
+    "condition_group_id": "cd-perm-a03-livestage"
+  },
+  {
+    "id": "perm-a03-livestage-open",
+    "park_target_mapping_id": "target_map-a03-livestage-open",
+    "condition_group_id": "cd-perm-a03-park_open"
+  },
+  {
+    "id": "perm-a03-resortshop",
+    "park_target_mapping_id": "target_map-a03-resortshop",
+    "condition_group_id": "cd-perm-a03-resortshop"
+  },
+  {
+    "id": "perm-a03-resortshop-convert",
+    "park_target_mapping_id": "target_map-a03-resortshop",
+    "condition_group_id": "cd-perm-a03-resortshop-convert"
+  },
+  {
+    "id": "perm-a03-resortshop-open",
+    "park_target_mapping_id": "target_map-a03-resortshop-open",
+    "condition_group_id": "cd-perm-a03-park_open"
+  },
+  {
+    "id": "perm-a03-stadium",
+    "park_target_mapping_id": "target_map-a03-stadium",
+    "condition_group_id": "cd-perm-a03-stadium"
+  },
+  {
+    "id": "perm-a03-station",
+    "park_target_mapping_id": "target_map-a03-station",
+    "condition_group_id": "cd-perm-a03-station"
+  },
+  {
+    "id": "perm-a03-station-open",
+    "park_target_mapping_id": "target_map-a03-station-open",
+    "condition_group_id": "cd-perm-a03-park_open"
+  },
+  {
+    "id": "perm-a03-watergun",
+    "park_target_mapping_id": "target_map-a03-watergun",
+    "condition_group_id": "cd-perm-a03-watergun"
+  },
+  {
+    "id": "perm-a03-watergun-open",
+    "park_target_mapping_id": "target_map-a03-watergun-open",
+    "condition_group_id": "cd-perm-a03-park_open"
+  },
+  {
     "id": "perm-chr-00001",
     "park_target_mapping_id": "target_map-chr-00001",
     "condition_group_id": "cd-quest_character"

@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "la-splash_ball-game_playing_display_clear_condition-normal",
+    "text": "相手のゴールにボールを入れよう！\\n{0}点で勝利！"
+  },
+  {
+    "id": "la-splash_ball-game_playing_display_clear_condition-quest",
+    "text": "最後までプレイでクリア\\n{0}点で勝利！"
+  },
+  {
+    "id": "la-splash_ball-game_start_display_clear_condition-normal",
+    "text": "相手のゴールにボールを入れよう！"
+  },
+  {
+    "id": "la-splash_ball-game_start_display_clear_condition-quest",
+    "text": "相手のゴールにボールを入れよう！"
+  }
+]

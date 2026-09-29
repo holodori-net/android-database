@@ -1,0 +1,12 @@
+[
+  {
+    "id": "park_fishing_time_period-night",
+    "time_point_from": 29,
+    "time_point_to": 5
+  },
+  {
+    "id": "park_fishing_time_period-noon",
+    "time_point_from": 6,
+    "time_point_to": 28
+  }
+]

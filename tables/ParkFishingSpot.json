@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "park_fishing_spot-01-01",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_1",
+      "number": 1
+    }
+  },
+  {
+    "id": "park_fishing_spot-01-02",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_1",
+      "number": 1
+    }
+  },
+  {
+    "id": "park_fishing_spot-01-03",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_1",
+      "number": 1
+    }
+  },
+  {
+    "id": "park_fishing_spot-01-04",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_1",
+      "number": 1
+    }
+  },
+  {
+    "id": "park_fishing_spot-02-01",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_2",
+      "number": 2
+    }
+  },
+  {
+    "id": "park_fishing_spot-02-02",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_2",
+      "number": 2
+    }
+  },
+  {
+    "id": "park_fishing_spot-02-03",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_2",
+      "number": 2
+    }
+  },
+  {
+    "id": "park_fishing_spot-03-01",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_3",
+      "number": 3
+    }
+  },
+  {
+    "id": "park_fishing_spot-03-02",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_3",
+      "number": 3
+    }
+  },
+  {
+    "id": "park_fishing_spot-03-03",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_3",
+      "number": 3
+    }
+  },
+  {
+    "id": "park_fishing_spot-03-04",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_3",
+      "number": 3
+    }
+  },
+  {
+    "id": "park_fishing_spot-03-05",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_3",
+      "number": 3
+    }
+  }
+]

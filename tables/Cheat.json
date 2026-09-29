@@ -1051,6 +1051,66 @@
   },
   {
     "type": {
+      "name": "CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+      "number": 1600
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_YELLOW",
+      "number": 1
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_POSITION_DISTANCE_PERMIL",
+      "number": 106000
+    },
+    "threshold": "10000"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+      "number": 1600
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_YELLOW",
+      "number": 1
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_POSITION_COUNT",
+      "number": 106001
+    },
+    "threshold": "3"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+      "number": 1600
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_YELLOW",
+      "number": 1
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_MOVE_SPEED_MAX_PERMIL",
+      "number": 106002
+    },
+    "threshold": "50000"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+      "number": 1600
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_YELLOW",
+      "number": 1
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_MOVE_SPEED_COUNT",
+      "number": 106003
+    },
+    "threshold": "3"
+  },
+  {
+    "type": {
       "name": "CHEAT_TYPE_PARK_HIGH_LOW_DAILY_REWARD_QUANTITY",
       "number": 10000
     },

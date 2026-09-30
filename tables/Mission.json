@@ -29034,18 +29034,14 @@
     "id": "mission-quest-area-a03-16-1-2",
     "name_lang_id": "la-mission-quest-area-a03-16-1-2-name",
     "description_lang_id": "la-mission-quest-area-a03-16-1-2-description",
-    "progress_condition_group_id": "cd-always-open",
     "category_type": {
       "name": "MISSION_CATEGORY_TYPE_PARK_QUEST",
       "number": 5
     },
     "type": {
-      "name": "MISSION_TYPE_INCREMENT_CARD_LEVEL_LIMIT_BREAK_CARD_COUNT",
-      "number": 29
+      "name": "MISSION_TYPE_ABSOLUTE_CARD_LEVEL_LIMIT_BREAK",
+      "number": 1007
     },
-    "target_ids1": [
-      "4"
-    ],
     "order": 1
   },
   {

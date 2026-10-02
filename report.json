@@ -4,8 +4,8 @@
   "state": "completed",
   "masterVersion": "5267906a638d20ddfc5c68dcb7775b0bda3484dfbb65006cd8e7dc59232112bc",
   "app": {
-    "versionName": "1.2.0",
-    "versionCode": 1789620987
+    "versionName": "1.2.1",
+    "versionCode": 1790677050
   },
   "languages": [
     "jpn",
@@ -21,7 +21,7 @@
   },
   "inputs": {
     "sourceRevision": "6f28c6eb71ffa164045c80d12606411d4b628c02",
-    "contractRevision": "f25f9f326f10cfe833c16386e679bb302b7e0716"
+    "contractRevision": "9f0249a22993f0938b4dd0d082a198b667f0e1d5"
   },
   "source": {
     "packs": 994,
@@ -48,5 +48,5 @@
       }
     }
   },
-  "elapsedMs": 213191
+  "elapsedMs": 241558
 }

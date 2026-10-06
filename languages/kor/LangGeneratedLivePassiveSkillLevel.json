@@ -664,6 +664,14 @@
     "text": "5기생(이)가 2명 이상이면 자신의 전체 파라미터가 [highlight]33[/highlight]% UP "
   },
   {
+    "id": "la-generated-live_passive_skill-card-00030-5-uniq-0089-00.1-description",
+    "text": "[attribute=cute]큐트 타입[/attribute] 2명의 전체 파라미터가 11% UP "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-00030-5-uniq-0089-00.2-description",
+    "text": "[attribute=cute]큐트 타입[/attribute] 2명의 전체 파라미터가 [highlight]15[/highlight]% UP "
+  },
+  {
     "id": "la-generated-live_passive_skill-card-00031-3-nrml-0025-00.1-description",
     "text": "[attribute=pure]퓨어 타입[/attribute] 2명의 테크닉이 10% UP "
   },
@@ -734,6 +742,14 @@
   {
     "id": "la-generated-live_passive_skill-card-00034-5-uniq-0027-00.2-description",
     "text": "[attribute=happy]해피 타입[/attribute] 2명의 스코어 서포트 효과 [highlight]11[/highlight]% "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-00034-5-uniq-0090-00.1-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 2명 이상이면 [attribute=pure]퓨어 타입[/attribute] 2명의 테크닉이 32% UP "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-00034-5-uniq-0090-00.2-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 2명 이상이면 [attribute=pure]퓨어 타입[/attribute] 2명의 테크닉이 [highlight]43[/highlight]% UP "
   },
   {
     "id": "la-generated-live_passive_skill-card-00035-3-nrml-0028-00.1-description",
@@ -1462,6 +1478,14 @@
   {
     "id": "la-generated-live_passive_skill-card-06003-5-uniq-0059-00.2-description",
     "text": "ReGLOSS(이)가 2명 이상이면 ReGLOSS2명의 퍼포먼스가 [highlight]45[/highlight]% UP "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-06003-5-uniq-0091-00.1-description",
+    "text": "[attribute=cute]큐트 타입[/attribute] 2명 이상이면 [attribute=cute]큐트 타입[/attribute] 2명의 테크닉이 32% UP "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-06003-5-uniq-0091-00.2-description",
+    "text": "[attribute=cute]큐트 타입[/attribute] 2명 이상이면 [attribute=cute]큐트 타입[/attribute] 2명의 테크닉이 [highlight]43[/highlight]% UP "
   },
   {
     "id": "la-generated-live_passive_skill-card-06004-3-nrml-0060-00.1-description",

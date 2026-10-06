@@ -4,6 +4,10 @@
     "text": "魚を{0}匹釣ろう"
   },
   {
+    "id": "la-increment_splash_ball_play_count",
+    "text": "スプラッシュボールを{0}回プレイしよう"
+  },
+  {
     "id": "la-mission-achievement-chr-00001-absolute_card_get_unique_count-description",
     "text": "メンバーを{0}種類入手"
   },
@@ -6401,7 +6405,7 @@
   },
   {
     "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count",
-    "text": "スプラッシュボールで{0}回勝利しよう"
+    "text": "スプラッシュボールを{0}回プレイしよう"
   },
   {
     "id": "la-mission-event_mission-area03-release-260929-increment_work_finish_count",

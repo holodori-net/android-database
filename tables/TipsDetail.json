@@ -2207,6 +2207,66 @@
     "description_lang_id": "la-tips-hint-live_skill_tree_released-description-1"
   },
   {
+    "tips_id": "tips-hint-marathon_area",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips-game-event_area-001",
+    "description_lang_id": "la-tips-hint-marathon_area-description-1"
+  },
+  {
+    "tips_id": "tips-hint-marathon_area",
+    "number": 2,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips-game-event_normal-002-02",
+    "description_lang_id": "la-tips-hint-marathon_nomal-description-2"
+  },
+  {
+    "tips_id": "tips-hint-marathon_area",
+    "number": 3,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips-game-event_normal-003-02",
+    "description_lang_id": "la-tips-hint-marathon_nomal-description-3"
+  },
+  {
+    "tips_id": "tips-hint-marathon_area",
+    "number": 4,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips-game-event_normal-004-02",
+    "description_lang_id": "la-tips-hint-marathon_nomal-description-4"
+  },
+  {
+    "tips_id": "tips-hint-marathon_area",
+    "number": 5,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips-game-event_normal-005-02",
+    "description_lang_id": "la-tips-hint-marathon_nomal-description-5"
+  },
+  {
+    "tips_id": "tips-hint-marathon_area",
+    "number": 6,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips-game-event_normal-006-02",
+    "description_lang_id": "la-tips-hint-marathon_nomal-description-6"
+  },
+  {
     "tips_id": "tips-hint-marathon_mission",
     "number": 1,
     "asset_type": {

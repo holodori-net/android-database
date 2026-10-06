@@ -1468,6 +1468,19 @@
     "order": 1
   },
   {
+    "id": "tips-hint-marathon_area",
+    "type": {
+      "name": "TIPS_TYPE_HINT",
+      "number": 3
+    },
+    "title_lang_id": "la-tips-hint-marathon_nomal",
+    "hint_type": {
+      "name": "TIPS_HINT_TYPE_EVENT_MARATHON_AREA",
+      "number": 2105
+    },
+    "order": 1
+  },
+  {
     "id": "tips-hint-marathon_mission",
     "type": {
       "name": "TIPS_TYPE_HINT",

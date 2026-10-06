@@ -4,6 +4,10 @@
     "text": "釣起{0}隻魚吧"
   },
   {
+    "id": "la-increment_splash_ball_play_count",
+    "text": "遊玩{0}次水花飛球吧"
+  },
+  {
     "id": "la-mission-achievement-chr-00001-absolute_card_get_unique_count-description",
     "text": "獲得{0}種類型的成員"
   },
@@ -6401,7 +6405,7 @@
   },
   {
     "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count",
-    "text": "在水花飛球獲勝{0}次吧"
+    "text": "遊玩{0}次水花飛球吧"
   },
   {
     "id": "la-mission-event_mission-area03-release-260929-increment_work_finish_count",

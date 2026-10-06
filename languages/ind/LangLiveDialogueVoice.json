@@ -56,6 +56,14 @@
     "text": "【Putri Pantai Manja Luna】Skill SP"
   },
   {
+    "id": "la-name_cv-live_dial_chr-00030_00030-5-uniq-0089-00_myself",
+    "text": "【Penangkal Gerah Lamy】Skill SP"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-00034_00034-5-uniq-0090-00_myself",
+    "text": "【Pesta BBQ Bersama Polka】Skill SP"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-00035_00035-5-uniq-0082-00_myself",
     "text": "【Kolam Elit Sang Ketua La+】Skill SP"
   },
@@ -106,6 +114,10 @@
   {
     "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_myself",
     "text": "【Simfoni Angin Laut Kanade】Skill SP"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_myself",
+    "text": "【Senyum Bintang Malam Ririka】Skill SP"
   },
   {
     "id": "la-name_live_dial_voice_card_00001-5-uniq-0000-00_00001-to-00002",
@@ -868,6 +880,54 @@
     "text": "【Kesepian Malam Salju Lamy】 Skill SP"
   },
   {
+    "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00023-to-00030",
+    "text": "【Penangkal Gerah Lamy】Marine&Lamy"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00023",
+    "text": "【Penangkal Gerah Lamy】Lamy&Marine"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00034",
+    "text": "【Penangkal Gerah Lamy】Lamy&Polka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00037",
+    "text": "【Penangkal Gerah Lamy】Lamy&Koyori"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-03009",
+    "text": "【Penangkal Gerah Lamy】Lamy&Kobo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-04012",
+    "text": "【Penangkal Gerah Lamy】Lamy&Baelz"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00030-to-06003",
+    "text": "【Penangkal Gerah Lamy】Lamy&Ririka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00034-to-00030",
+    "text": "【Penangkal Gerah Lamy】Polka&Lamy"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_00037-to-00030",
+    "text": "【Penangkal Gerah Lamy】Koyori&Lamy"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_03009-to-00030",
+    "text": "【Penangkal Gerah Lamy】Kobo&Lamy"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_04012-to-00030",
+    "text": "【Penangkal Gerah Lamy】Baelz&Lamy"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00030-5-uniq-0089-00_06003-to-00030",
+    "text": "【Penangkal Gerah Lamy】Ririka&Lamy"
+  },
+  {
     "id": "la-name_live_dial_voice_card_00031-5-uniq-0025-00_00031-to-00030",
     "text": "【Irama Nyanyian Suci Nene】Nene&Lamy"
   },
@@ -914,6 +974,54 @@
   {
     "id": "la-name_live_dial_voice_card_00034-5-uniq-0027-00_myself",
     "text": "【Ilusi Sirkus Polka Polka】 Skill SP"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00023-to-00034",
+    "text": "【Pesta BBQ Bersama Polka】Marine&Polka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00030-to-00034",
+    "text": "【Pesta BBQ Bersama Polka】Lamy&Polka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00023",
+    "text": "【Pesta BBQ Bersama Polka】Polka&Marine"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00030",
+    "text": "【Pesta BBQ Bersama Polka】Polka&Lamy"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00037",
+    "text": "【Pesta BBQ Bersama Polka】Polka&Koyori"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-03009",
+    "text": "【Pesta BBQ Bersama Polka】Polka&Kobo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-04012",
+    "text": "【Pesta BBQ Bersama Polka】Polka&Baelz"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00034-to-06003",
+    "text": "【Pesta BBQ Bersama Polka】Polka&Ririka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_00037-to-00034",
+    "text": "【Pesta BBQ Bersama Polka】Koyori&Polka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_03009-to-00034",
+    "text": "【Pesta BBQ Bersama Polka】Kobo&Polka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_04012-to-00034",
+    "text": "【Pesta BBQ Bersama Polka】Baelz&Polka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00034-5-uniq-0090-00_06003-to-00034",
+    "text": "【Pesta BBQ Bersama Polka】Ririka&Polka"
   },
   {
     "id": "la-name_live_dial_voice_card_00035-5-uniq-0028-00_00035-to-00036",
@@ -1706,6 +1814,54 @@
   {
     "id": "la-name_live_dial_voice_card_06003-5-uniq-0059-00_myself",
     "text": "【Ransum Malam CEO Ririka】 Skill SP"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_00023-to-06003",
+    "text": "【Senyum Bintang Malam Ririka】Marine&Ririka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_00030-to-06003",
+    "text": "【Senyum Bintang Malam Ririka】Lamy&Ririka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_00034-to-06003",
+    "text": "【Senyum Bintang Malam Ririka】Polka&Ririka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_00037-to-06003",
+    "text": "【Senyum Bintang Malam Ririka】Koyori&Ririka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_03009-to-06003",
+    "text": "【Senyum Bintang Malam Ririka】Kobo&Ririka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_04012-to-06003",
+    "text": "【Senyum Bintang Malam Ririka】Baelz&Ririka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00023",
+    "text": "【Senyum Bintang Malam Ririka】Ririka&Marine"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00030",
+    "text": "【Senyum Bintang Malam Ririka】Ririka&Lamy"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00034",
+    "text": "【Senyum Bintang Malam Ririka】Ririka&Polka"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00037",
+    "text": "【Senyum Bintang Malam Ririka】Ririka&Koyori"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-03009",
+    "text": "【Senyum Bintang Malam Ririka】Ririka&Kobo"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06003-5-uniq-0091-00_06003-to-04012",
+    "text": "【Senyum Bintang Malam Ririka】Ririka&Baelz"
   },
   {
     "id": "la-name_live_dial_voice_card_06004-5-uniq-0060-00_06004-to-06002",

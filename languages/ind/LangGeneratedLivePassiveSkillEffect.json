@@ -100,8 +100,16 @@
     "text": "Teknik Naik 80% untuk Setiap Member."
   },
   {
+    "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-110-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "Semua Stat 2 Member [attribute=cute]Cute Type[/attribute] Naik 11%."
+  },
+  {
     "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-110-live_skill_effect_target-attribute-attribute_2-2.1-description",
     "text": "Semua Stat 2 Member [attribute=pure]Pure Type[/attribute] Naik 11%."
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-150-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "Semua Stat 2 Member [attribute=cute]Cute Type[/attribute] Naik 15%."
   },
   {
     "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-150-live_skill_effect_target-attribute-attribute_2-2.1-description",
@@ -714,6 +722,10 @@
   {
     "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-410-live_skill_effect_target-attribute-attribute_3-2.1-description",
     "text": "Teknik Naik 41% untuk 2 Member [attribute=happy]Happy Type[/attribute]."
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "Teknik Naik 43% untuk 2 Member [attribute=cute]Cute Type[/attribute]."
   },
   {
     "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-attribute-attribute_2-2.1-description",

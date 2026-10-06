@@ -10941,6 +10941,26 @@
   },
   {
     "character_id": "chr-00023",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00023-to-00030",
+    "order": 6019001
+  },
+  {
+    "character_id": "chr-00023",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00023",
+    "order": 7019001
+  },
+  {
+    "character_id": "chr-00023",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00023-to-00034",
+    "order": 6019101
+  },
+  {
+    "character_id": "chr-00023",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00023",
+    "order": 7019101
+  },
+  {
+    "character_id": "chr-00023",
     "live_dialogue_voice_id": "live_dial_voice_card_00037-5-uniq-0086-00_00023-to-00037",
     "order": 6018701
   },
@@ -10968,6 +10988,16 @@
     "character_id": "chr-00023",
     "live_dialogue_voice_id": "live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00023",
     "order": 7018901
+  },
+  {
+    "character_id": "chr-00023",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_00023-to-06003",
+    "order": 6019201
+  },
+  {
+    "character_id": "chr-00023",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00023",
+    "order": 7019201
   },
   {
     "character_id": "chr-00023",
@@ -13326,6 +13356,66 @@
   },
   {
     "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00023-to-00030",
+    "order": 7019001
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00023",
+    "order": 6019001
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00034",
+    "order": 6019002
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00037",
+    "order": 6019003
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00030-to-03009",
+    "order": 6019004
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00030-to-04012",
+    "order": 6019005
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00030-to-06003",
+    "order": 6019006
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00034-to-00030",
+    "order": 7019002
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00037-to-00030",
+    "order": 7019003
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_03009-to-00030",
+    "order": 7019004
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_04012-to-00030",
+    "order": 7019005
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_06003-to-00030",
+    "order": 7019006
+  },
+  {
+    "character_id": "chr-00030",
     "live_dialogue_voice_id": "live_dial_voice_card_00031-5-uniq-0025-00_00031-to-00030",
     "order": 7000050
   },
@@ -13338,6 +13428,16 @@
     "character_id": "chr-00030",
     "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0027-00_00034-to-00030",
     "order": 7000054
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00030-to-00034",
+    "order": 6019102
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00030",
+    "order": 7019102
   },
   {
     "character_id": "chr-00030",
@@ -13368,6 +13468,16 @@
     "character_id": "chr-00030",
     "live_dialogue_voice_id": "live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00030",
     "order": 7018902
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_00030-to-06003",
+    "order": 6019202
+  },
+  {
+    "character_id": "chr-00030",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00030",
+    "order": 7019202
   },
   {
     "character_id": "chr-00030",
@@ -15056,6 +15166,16 @@
   },
   {
     "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00034",
+    "order": 7019002
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00034-to-00030",
+    "order": 6019002
+  },
+  {
+    "character_id": "chr-00034",
     "live_dialogue_voice_id": "live_dial_voice_card_00031-5-uniq-0025-00_00031-to-00034",
     "order": 7000050
   },
@@ -15078,6 +15198,66 @@
     "character_id": "chr-00034",
     "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0027-00_00034-to-00032",
     "order": 6000025
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00023-to-00034",
+    "order": 7019101
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00030-to-00034",
+    "order": 7019102
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00023",
+    "order": 6019101
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00030",
+    "order": 6019102
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00037",
+    "order": 6019103
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00034-to-03009",
+    "order": 6019104
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00034-to-04012",
+    "order": 6019105
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00034-to-06003",
+    "order": 6019106
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00037-to-00034",
+    "order": 7019103
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_03009-to-00034",
+    "order": 7019104
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_04012-to-00034",
+    "order": 7019105
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_06003-to-00034",
+    "order": 7019106
   },
   {
     "character_id": "chr-00034",
@@ -15108,6 +15288,16 @@
     "character_id": "chr-00034",
     "live_dialogue_voice_id": "live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00034",
     "order": 7018903
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_00034-to-06003",
+    "order": 6019203
+  },
+  {
+    "character_id": "chr-00034",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00034",
+    "order": 7019203
   },
   {
     "character_id": "chr-00034",
@@ -16861,6 +17051,26 @@
   },
   {
     "character_id": "chr-00037",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00030-to-00037",
+    "order": 7019003
+  },
+  {
+    "character_id": "chr-00037",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00037-to-00030",
+    "order": 6019003
+  },
+  {
+    "character_id": "chr-00037",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00034-to-00037",
+    "order": 7019103
+  },
+  {
+    "character_id": "chr-00037",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00037-to-00034",
+    "order": 6019103
+  },
+  {
+    "character_id": "chr-00037",
     "live_dialogue_voice_id": "live_dial_voice_card_00035-5-uniq-0028-00_00035-to-00037",
     "order": 7000056
   },
@@ -16968,6 +17178,16 @@
     "character_id": "chr-00037",
     "live_dialogue_voice_id": "live_dial_voice_card_04012-5-uniq-0087-00_04012-to-00037",
     "order": 7018904
+  },
+  {
+    "character_id": "chr-00037",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_00037-to-06003",
+    "order": 6019204
+  },
+  {
+    "character_id": "chr-00037",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00037",
+    "order": 7019204
   },
   {
     "character_id": "chr-00037",
@@ -22611,6 +22831,26 @@
   },
   {
     "character_id": "chr-03009",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00030-to-03009",
+    "order": 7019004
+  },
+  {
+    "character_id": "chr-03009",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_03009-to-00030",
+    "order": 6019004
+  },
+  {
+    "character_id": "chr-03009",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00034-to-03009",
+    "order": 7019104
+  },
+  {
+    "character_id": "chr-03009",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_03009-to-00034",
+    "order": 6019104
+  },
+  {
+    "character_id": "chr-03009",
     "live_dialogue_voice_id": "live_dial_voice_card_00037-5-uniq-0086-00_00037-to-03009",
     "order": 7018704
   },
@@ -22708,6 +22948,16 @@
     "character_id": "chr-03009",
     "live_dialogue_voice_id": "live_dial_voice_card_04012-5-uniq-0087-00_04012-to-03009",
     "order": 7018905
+  },
+  {
+    "character_id": "chr-03009",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_03009-to-06003",
+    "order": 6019205
+  },
+  {
+    "character_id": "chr-03009",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_06003-to-03009",
+    "order": 7019205
   },
   {
     "character_id": "chr-03009",
@@ -26151,6 +26401,26 @@
   },
   {
     "character_id": "chr-04012",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00030-to-04012",
+    "order": 7019005
+  },
+  {
+    "character_id": "chr-04012",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_04012-to-00030",
+    "order": 6019005
+  },
+  {
+    "character_id": "chr-04012",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00034-to-04012",
+    "order": 7019105
+  },
+  {
+    "character_id": "chr-04012",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_04012-to-00034",
+    "order": 6019105
+  },
+  {
+    "character_id": "chr-04012",
     "live_dialogue_voice_id": "live_dial_voice_card_00037-5-uniq-0086-00_00037-to-04012",
     "order": 7018705
   },
@@ -26258,6 +26528,16 @@
     "character_id": "chr-04012",
     "live_dialogue_voice_id": "live_dial_voice_card_04012-5-uniq-0087-00_06003-to-04012",
     "order": 7018906
+  },
+  {
+    "character_id": "chr-04012",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_04012-to-06003",
+    "order": 6019206
+  },
+  {
+    "character_id": "chr-04012",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_06003-to-04012",
+    "order": 7019206
   },
   {
     "character_id": "chr-04012",
@@ -30451,6 +30731,26 @@
   },
   {
     "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_00030-to-06003",
+    "order": 7019006
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_00030-5-uniq-0089-00_06003-to-00030",
+    "order": 6019006
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_00034-to-06003",
+    "order": 7019106
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_00034-5-uniq-0090-00_06003-to-00034",
+    "order": 6019106
+  },
+  {
+    "character_id": "chr-06003",
     "live_dialogue_voice_id": "live_dial_voice_card_00037-5-uniq-0086-00_00037-to-06003",
     "order": 7018706
   },
@@ -30498,6 +30798,66 @@
     "character_id": "chr-06003",
     "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0059-00_06003-to-06005",
     "order": 6000054
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_00023-to-06003",
+    "order": 7019201
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_00030-to-06003",
+    "order": 7019202
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_00034-to-06003",
+    "order": 7019203
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_00037-to-06003",
+    "order": 7019204
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_03009-to-06003",
+    "order": 7019205
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_04012-to-06003",
+    "order": 7019206
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00023",
+    "order": 6019201
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00030",
+    "order": 6019202
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00034",
+    "order": 6019203
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_06003-to-00037",
+    "order": 6019204
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_06003-to-03009",
+    "order": 6019205
+  },
+  {
+    "character_id": "chr-06003",
+    "live_dialogue_voice_id": "live_dial_voice_card_06003-5-uniq-0091-00_06003-to-04012",
+    "order": 6019206
   },
   {
     "character_id": "chr-06003",

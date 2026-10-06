@@ -4,6 +4,10 @@
     "text": "钓起{0}条鱼"
   },
   {
+    "id": "la-increment_splash_ball_play_count",
+    "text": "游玩{0}次水球大战"
+  },
+  {
     "id": "la-mission-achievement-chr-00001-absolute_card_get_unique_count-description",
     "text": "获得{0}种成员"
   },
@@ -6401,7 +6405,7 @@
   },
   {
     "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count",
-    "text": "在水球大战中获胜{0}次"
+    "text": "游玩{0}次水球大战"
   },
   {
     "id": "la-mission-event_mission-area03-release-260929-increment_work_finish_count",

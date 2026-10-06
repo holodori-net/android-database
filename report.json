@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "success": true,
   "state": "completed",
-  "masterVersion": "5267906a638d20ddfc5c68dcb7775b0bda3484dfbb65006cd8e7dc59232112bc",
+  "masterVersion": "65badf8533aacbc04382f97f0f5f56740e761e6f5be6172d8440ae9061deebe7",
   "app": {
     "versionName": "1.2.1",
     "versionCode": 1790677050
@@ -25,18 +25,18 @@
   },
   "source": {
     "packs": 994,
-    "bytes": 125386752
+    "bytes": 126193664
   },
   "outputs": {
     "packs": 994,
     "tables": 994,
-    "rows": 513858,
+    "rows": 516733,
     "masterSqlite": {
       "path": "master.sqlite",
       "logicalTables": 379,
-      "rows": 513858,
-      "bytes": 97083392,
-      "sha256": "0c05b401dc35a204e4bb66c8add549645dae5d66b4845a2dc5c474d8388df869",
+      "rows": 516733,
+      "bytes": 97767424,
+      "sha256": "ddbbaa5b513572cce63b4c268cde242ad89333acaed452aa58fc2a05500b227a",
       "schema": {
         "parentTables": 379,
         "structuredJsonFields": 85,
@@ -48,5 +48,5 @@
       }
     }
   },
-  "elapsedMs": 241558
+  "elapsedMs": 283032
 }

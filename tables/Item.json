@@ -1116,6 +1116,52 @@
     ]
   },
   {
+    "id": "item-event_badge-marathon_event-normal-006-chapter-01",
+    "name_lang_id": "la-item-event_badge-marathon_event-normal-006-chapter-01-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-normal-006-chapter-01-description",
+    "type": {
+      "name": "ITEM_TYPE_MARATHON_EVENT_BADGE",
+      "number": 1000
+    },
+    "common_limit_time": "1792407599000",
+    "asset_id": "event-badge-05",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-normal-006-chapter-01",
+    "order": 9002,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-event_badge-marathon_event-normal-007-chapter-01",
+    "name_lang_id": "la-item-event_badge-marathon_event-normal-007-chapter-01-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-normal-007-chapter-01-description",
+    "type": {
+      "name": "ITEM_TYPE_MARATHON_EVENT_BADGE",
+      "number": 1000
+    },
+    "common_limit_time": "1792753199000",
+    "asset_id": "event-badge-01",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-normal-007-chapter-01",
+    "order": 5001,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
     "id": "item-event_badge-marathon_event-relay-001-all",
     "name_lang_id": "la-item-event_badge-marathon_event-relay-001-all-name",
     "description_lang_id": "la-item-event_badge-marathon_event-relay-001-all-description",

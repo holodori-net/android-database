@@ -2933,6 +2933,48 @@
     "order": 2
   },
   {
+    "music_id": "m0360",
+    "number": 1,
+    "music_mv_category_id": "music_mv_category-mv",
+    "mv_asset_id": "m0360-mv-01",
+    "name_lang_id": "la-music_mv_category-mv",
+    "thumbnail_asset_id": "m0360-mv-01",
+    "description_lang_id": "la-music_mv-m0360-mv-01-description",
+    "order": 1
+  },
+  {
+    "music_id": "m0360",
+    "number": 2,
+    "music_mv_category_id": "music_mv_category-mv_light",
+    "slide_mv_asset_id": "m0360-mv-01",
+    "slide_mv_asset_count": 20,
+    "name_lang_id": "la-music_mv_category-mv_light",
+    "thumbnail_asset_id": "m0360-mv-01",
+    "description_lang_id": "la-music_mv-m0360-mv-01-description",
+    "order": 2
+  },
+  {
+    "music_id": "m0361",
+    "number": 1,
+    "music_mv_category_id": "music_mv_category-mv",
+    "mv_asset_id": "m0361-mv-01",
+    "name_lang_id": "la-music_mv_category-mv",
+    "thumbnail_asset_id": "m0361-mv-01",
+    "description_lang_id": "la-music_mv-m0361-mv-01-description",
+    "order": 1
+  },
+  {
+    "music_id": "m0361",
+    "number": 2,
+    "music_mv_category_id": "music_mv_category-mv_light",
+    "slide_mv_asset_id": "m0361-mv-01",
+    "slide_mv_asset_count": 20,
+    "name_lang_id": "la-music_mv_category-mv_light",
+    "thumbnail_asset_id": "m0361-mv-01",
+    "description_lang_id": "la-music_mv-m0361-mv-01-description",
+    "order": 2
+  },
+  {
     "music_id": "m0363",
     "number": 1,
     "music_mv_category_id": "music_mv_category-mv",
@@ -2972,6 +3014,48 @@
     "name_lang_id": "la-music_mv_category-mv_light",
     "thumbnail_asset_id": "m0376-mv-01",
     "description_lang_id": "la-music_mv-m0376-mv-01-description",
+    "order": 2
+  },
+  {
+    "music_id": "m0377",
+    "number": 1,
+    "music_mv_category_id": "music_mv_category-mv",
+    "mv_asset_id": "m0377-mv-01",
+    "name_lang_id": "la-music_mv_category-mv",
+    "thumbnail_asset_id": "m0377-mv-01",
+    "description_lang_id": "la-music_mv-m0377-mv-01-description",
+    "order": 1
+  },
+  {
+    "music_id": "m0377",
+    "number": 2,
+    "music_mv_category_id": "music_mv_category-mv_light",
+    "slide_mv_asset_id": "m0377-mv-01",
+    "slide_mv_asset_count": 20,
+    "name_lang_id": "la-music_mv_category-mv_light",
+    "thumbnail_asset_id": "m0377-mv-01",
+    "description_lang_id": "la-music_mv-m0377-mv-01-description",
+    "order": 2
+  },
+  {
+    "music_id": "m0378",
+    "number": 1,
+    "music_mv_category_id": "music_mv_category-mv",
+    "mv_asset_id": "m0378-mv-01",
+    "name_lang_id": "la-music_mv_category-mv",
+    "thumbnail_asset_id": "m0378-mv-01",
+    "description_lang_id": "la-music_mv-m0378-mv-01-description",
+    "order": 1
+  },
+  {
+    "music_id": "m0378",
+    "number": 2,
+    "music_mv_category_id": "music_mv_category-mv_light",
+    "slide_mv_asset_id": "m0378-mv-01",
+    "slide_mv_asset_count": 20,
+    "name_lang_id": "la-music_mv_category-mv_light",
+    "thumbnail_asset_id": "m0378-mv-01",
+    "description_lang_id": "la-music_mv-m0378-mv-01-description",
     "order": 2
   },
   {

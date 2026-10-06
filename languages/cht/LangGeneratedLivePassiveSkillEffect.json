@@ -100,8 +100,16 @@
     "text": "全體成員的技巧提升80%"
   },
   {
+    "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-110-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "2名[attribute=cute]可愛類型[/attribute]的全能力提升11%"
+  },
+  {
     "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-110-live_skill_effect_target-attribute-attribute_2-2.1-description",
     "text": "2名[attribute=pure]清純類型[/attribute]的全能力提升11%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-150-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "2名[attribute=cute]可愛類型[/attribute]的全能力提升15%"
   },
   {
     "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-150-live_skill_effect_target-attribute-attribute_2-2.1-description",
@@ -714,6 +722,10 @@
   {
     "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-410-live_skill_effect_target-attribute-attribute_3-2.1-description",
     "text": "2名[attribute=happy]快樂類型[/attribute]的技巧提升41%"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "2名[attribute=cute]可愛類型[/attribute]的技巧提升43%"
   },
   {
     "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-attribute-attribute_2-2.1-description",

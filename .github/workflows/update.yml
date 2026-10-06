@@ -12,10 +12,10 @@ on:
         description: Private tool ref (blank uses DATABASE_SOURCE_REF or main)
         default: ""
       contract_ref:
-        description: android-protos ref (blank uses CONTRACT_REF or main)
+        description: Pin the published android-protos contract SHA; blank uses CONTRACT_REF or main
         default: ""
       force:
-        description: Rebuild even when master version and contract commit match
+        description: Rebuild even when master version and contract app.versionCode match
         type: boolean
         default: false
       node_image:

@@ -4,11 +4,18 @@ Holodori master data for all six client languages in one repository.
 
 ## Data
 
-- `manifest.json`: master version, app version, languages, table paths and counts.
+- `manifest.json`: master version, contract `app.versionCode` and display
+  `versionName`, languages, table paths and counts.
 - `tables/<Table>.json`: shared data, stored once.
 - `languages/<language>/<Table>.json`: localized data for `jpn`, `eng`, `ind`,
   `kor`, `cht`, and `chs`.
 - `report.json`: execution results, Node version/image, and tool/contract commits.
+  The contract revision records the source snapshot used to build the database.
+
+The update workflow checks for a new master version or contract
+`app.versionCode` on its schedule and can also be started with
+`workflow_dispatch`. Contract `versionName` is for display; the contract SHA
+pins the input snapshot and supports source tracking.
 
 Each table is a readable JSON array. For example, `tables/Card.json` contains
 shared cards and `languages/cht/LangCard.json` contains Traditional Chinese text.

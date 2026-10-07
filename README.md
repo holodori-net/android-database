@@ -12,10 +12,12 @@ Holodori master data for all six client languages in one repository.
 - `report.json`: execution results, Node version/image, and tool/contract commits.
   The contract revision records the source snapshot used to build the database.
 
-The update workflow checks for a new master version or contract
-`app.versionCode` on its schedule and can also be started with
+The K3s checker looks for a new master version or contract `app.versionCode`
+at 15 and 45 minutes past each hour in `Asia/Taipei` and dispatches the update
+workflow when either value changes. The workflow can also be started with
 `workflow_dispatch`. Contract `versionName` is for display; the contract SHA
-pins the input snapshot and supports source tracking.
+pins the input snapshot and supports source tracking. Set `force` to rebuild
+when both version values are unchanged.
 
 Each table is a readable JSON array. For example, `tables/Card.json` contains
 shared cards and `languages/cht/LangCard.json` contains Traditional Chinese text.

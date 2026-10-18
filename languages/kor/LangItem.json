@@ -640,6 +640,46 @@
     "text": "이벤트 배지(아냐)"
   },
   {
+    "id": "la-item-event_badge-marathon_event-relay-003-all-description",
+    "text": "이벤트 교환소(공통)의 아이템과 교환할 수 있는 배지.\n유효기간이 지나면 Holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-003-all-name",
+    "text": "이벤트 배지(공통)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-003-chapter-01-description",
+    "text": "이벤트 교환소(토와)의 아이템과 교환할 수 있는 배지.\n유효기간이 지나면 Holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-003-chapter-01-name",
+    "text": "이벤트 배지(토와)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-003-chapter-02-description",
+    "text": "이벤트 교환소(카엘라)의 아이템과 교환할 수 있는 배지.\n유효기간이 지나면 Holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-003-chapter-02-name",
+    "text": "이벤트 배지(카엘라)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-003-chapter-03-description",
+    "text": "이벤트 교환소(보탄)의 아이템과 교환할 수 있는 배지.\n유효기간이 지나면 Holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-003-chapter-03-name",
+    "text": "이벤트 배지(보탄)"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-003-chapter-04-description",
+    "text": "이벤트 교환소(비쥬)의 아이템과 교환할 수 있는 배지.\n유효기간이 지나면 Holo골드로 변환."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-relay-003-chapter-04-name",
+    "text": "이벤트 배지(비쥬)"
+  },
+  {
     "id": "la-item-exchange-holomedal-description",
     "text": "파크 내 상점에서 아이템과 교환할 수 있는 아이템."
   },

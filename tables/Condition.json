@@ -4147,6 +4147,76 @@
     "min": "5"
   },
   {
+    "group_id": "cd-cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-01",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-00027-5-uniq-0092-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "1"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-02",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-00027-5-uniq-0092-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "2"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-03",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-00027-5-uniq-0092-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "3"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-04",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-00027-5-uniq-0092-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "4"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-00027_00027-5-uniq-0092-00_card-potential-05",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-00027-5-uniq-0092-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "5"
+  },
+  {
     "group_id": "cd-cv-cmn_chr-00028_00028-5-uniq-0023-00_card-potential-01",
     "number": 1,
     "type": {
@@ -4560,6 +4630,76 @@
       "number": 302
     },
     "resource_id1": "card-00032-5-uniq-0026-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "5"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-01",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-00032-5-uniq-0093-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "1"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-02",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-00032-5-uniq-0093-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "2"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-03",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-00032-5-uniq-0093-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "3"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-04",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-00032-5-uniq-0093-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "4"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-00032_00032-5-uniq-0093-00_card-potential-05",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-00032-5-uniq-0093-00",
     "min_max_type": {
       "name": "CONDITION_MIN_MAX_TYPE_MIN",
       "number": 2
@@ -5897,6 +6037,76 @@
     "min": "5"
   },
   {
+    "group_id": "cd-cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-01",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-03008-5-uniq-0095-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "1"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-02",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-03008-5-uniq-0095-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "2"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-03",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-03008-5-uniq-0095-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "3"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-04",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-03008-5-uniq-0095-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "4"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-03008_03008-5-uniq-0095-00_card-potential-05",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-03008-5-uniq-0095-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "5"
+  },
+  {
     "group_id": "cd-cv-cmn_chr-03009_03009-5-uniq-0041-00_card-potential-01",
     "number": 1,
     "type": {
@@ -6870,6 +7080,76 @@
       "number": 302
     },
     "resource_id1": "card-04014-5-uniq-0053-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "5"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-01",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-04014-5-uniq-0094-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "1"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-02",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-04014-5-uniq-0094-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "2"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-03",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-04014-5-uniq-0094-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "3"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-04",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-04014-5-uniq-0094-00",
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "4"
+  },
+  {
+    "group_id": "cd-cv-cmn_chr-04014_04014-5-uniq-0094-00_card-potential-05",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+      "number": 302
+    },
+    "resource_id1": "card-04014-5-uniq-0094-00",
     "min_max_type": {
       "name": "CONDITION_MIN_MAX_TYPE_MIN",
       "number": 2
@@ -17076,6 +17356,15 @@
     "end_time": "946652400000"
   },
   {
+    "group_id": "cd-event_archive-close-marathon_event-relay-003",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_TERM_DATETIME",
+      "number": 1
+    },
+    "end_time": "946652400000"
+  },
+  {
     "group_id": "cd-event_archive-time-marathon_event-relay-001_001",
     "number": 1,
     "type": {
@@ -17139,6 +17428,15 @@
     "start_time": "1791025200000"
   },
   {
+    "group_id": "cd-event_archive-time-marathon_event-relay-003",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_TERM_DATETIME",
+      "number": 1
+    },
+    "start_time": "1793617200000"
+  },
+  {
     "group_id": "cd-event_end-marathon_event-normal-001",
     "number": 1,
     "type": {
@@ -17182,6 +17480,15 @@
       "number": 1
     },
     "end_time": "1791025199000"
+  },
+  {
+    "group_id": "cd-event_end-marathon_event-relay-003",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_TERM_DATETIME",
+      "number": 1
+    },
+    "end_time": "1793617199000"
   },
   {
     "group_id": "cd-event_mission-beginner_mission-close",
@@ -18588,6 +18895,78 @@
     "resource_id1": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-relay-002-chapter-04-item_count"
   },
   {
+    "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-relay-003-chapter-01-item_count",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_POSTER_GET",
+      "number": 600
+    },
+    "resource_id1": "poster-marathon_event-relay-003-chapter-01"
+  },
+  {
+    "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-relay-003-chapter-01-negative_set",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_NEGATIVE_SET",
+      "number": 99999
+    },
+    "resource_id1": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-relay-003-chapter-01-item_count"
+  },
+  {
+    "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-relay-003-chapter-02-item_count",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_POSTER_GET",
+      "number": 600
+    },
+    "resource_id1": "poster-marathon_event-relay-003-chapter-02"
+  },
+  {
+    "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-relay-003-chapter-02-negative_set",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_NEGATIVE_SET",
+      "number": 99999
+    },
+    "resource_id1": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-relay-003-chapter-02-item_count"
+  },
+  {
+    "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-relay-003-chapter-03-item_count",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_POSTER_GET",
+      "number": 600
+    },
+    "resource_id1": "poster-marathon_event-relay-003-chapter-03"
+  },
+  {
+    "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-relay-003-chapter-03-negative_set",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_NEGATIVE_SET",
+      "number": 99999
+    },
+    "resource_id1": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-relay-003-chapter-03-item_count"
+  },
+  {
+    "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-relay-003-chapter-04-item_count",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_POSTER_GET",
+      "number": 600
+    },
+    "resource_id1": "poster-marathon_event-relay-003-chapter-04"
+  },
+  {
+    "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-relay-003-chapter-04-negative_set",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_NEGATIVE_SET",
+      "number": 99999
+    },
+    "resource_id1": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-relay-003-chapter-04-item_count"
+  },
+  {
     "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-facility-area_a02-000-cmn-001",
     "number": 1,
     "type": {
@@ -19459,6 +19838,51 @@
       "number": 1400
     },
     "resource_id1": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-002-chapter-01-item-gold-002"
+  },
+  {
+    "group_id": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-card_level_up-001",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+      "number": 1400
+    },
+    "resource_id1": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-card_level_up-001"
+  },
+  {
+    "group_id": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-card_level_up-002",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+      "number": 1400
+    },
+    "resource_id1": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-card_level_up-002"
+  },
+  {
+    "group_id": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-card_limit_break-cmn-sr-001",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+      "number": 1400
+    },
+    "resource_id1": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-card_limit_break-cmn-sr-001"
+  },
+  {
+    "group_id": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-gold-001",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+      "number": 1400
+    },
+    "resource_id1": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-gold-001"
+  },
+  {
+    "group_id": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-gold-002",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+      "number": 1400
+    },
+    "resource_id1": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-003-chapter-01-item-gold-002"
   },
   {
     "group_id": "cd-exchange_booth_fixed_item_unlock-item-mini-game-chase-coin",
@@ -25487,6 +25911,24 @@
     "end_time": "1790798399000"
   },
   {
+    "group_id": "cd-missionpass-261101",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_TERM_DATETIME",
+      "number": 1
+    },
+    "start_time": "1793476800000"
+  },
+  {
+    "group_id": "cd-missionpass-261101-dummy",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_TERM_DATETIME",
+      "number": 1
+    },
+    "end_time": "1793476799000"
+  },
+  {
     "group_id": "cd-obtain-card-00001-4-cmmn-0000-00",
     "number": 1,
     "type": {
@@ -25982,6 +26424,15 @@
     "resource_id1": "card-00027-5-uniq-0022-00"
   },
   {
+    "group_id": "cd-obtain-card-00027-5-uniq-0092-00",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_GET",
+      "number": 300
+    },
+    "resource_id1": "card-00027-5-uniq-0092-00"
+  },
+  {
     "group_id": "cd-obtain-card-00028-4-cmmn-0000-00",
     "number": 1,
     "type": {
@@ -26070,6 +26521,15 @@
       "number": 300
     },
     "resource_id1": "card-00032-5-uniq-0026-00"
+  },
+  {
+    "group_id": "cd-obtain-card-00032-5-uniq-0093-00",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_GET",
+      "number": 300
+    },
+    "resource_id1": "card-00032-5-uniq-0093-00"
   },
   {
     "group_id": "cd-obtain-card-00034-4-cmmn-0000-00",
@@ -26360,6 +26820,15 @@
     "resource_id1": "card-03008-5-uniq-0040-00"
   },
   {
+    "group_id": "cd-obtain-card-03008-5-uniq-0095-00",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_GET",
+      "number": 300
+    },
+    "resource_id1": "card-03008-5-uniq-0095-00"
+  },
+  {
     "group_id": "cd-obtain-card-03009-4-cmmn-0000-00",
     "number": 1,
     "type": {
@@ -26565,6 +27034,15 @@
       "number": 300
     },
     "resource_id1": "card-04014-5-uniq-0053-00"
+  },
+  {
+    "group_id": "cd-obtain-card-04014-5-uniq-0094-00",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_CARD_GET",
+      "number": 300
+    },
+    "resource_id1": "card-04014-5-uniq-0094-00"
   },
   {
     "group_id": "cd-obtain-card-04015-4-cmmn-0000-00",

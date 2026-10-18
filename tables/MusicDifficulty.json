@@ -7380,6 +7380,150 @@
     "chart_asset_id": "chart_m0363_expert"
   },
   {
+    "music_id": "m0365",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EASY",
+      "number": 1
+    },
+    "difficulty_level": 5,
+    "chart_asset_id": "chart_m0365_easy"
+  },
+  {
+    "music_id": "m0365",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_NORMAL",
+      "number": 2
+    },
+    "difficulty_level": 10,
+    "chart_asset_id": "chart_m0365_normal"
+  },
+  {
+    "music_id": "m0365",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_HARD",
+      "number": 3
+    },
+    "difficulty_level": 18,
+    "chart_asset_id": "chart_m0365_hard"
+  },
+  {
+    "music_id": "m0365",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EXPERT",
+      "number": 4
+    },
+    "difficulty_level": 27,
+    "chart_asset_id": "chart_m0365_expert"
+  },
+  {
+    "music_id": "m0366",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EASY",
+      "number": 1
+    },
+    "difficulty_level": 4,
+    "chart_asset_id": "chart_m0366_easy"
+  },
+  {
+    "music_id": "m0366",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_NORMAL",
+      "number": 2
+    },
+    "difficulty_level": 10,
+    "chart_asset_id": "chart_m0366_normal"
+  },
+  {
+    "music_id": "m0366",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_HARD",
+      "number": 3
+    },
+    "difficulty_level": 18,
+    "chart_asset_id": "chart_m0366_hard"
+  },
+  {
+    "music_id": "m0366",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EXPERT",
+      "number": 4
+    },
+    "difficulty_level": 26,
+    "chart_asset_id": "chart_m0366_expert"
+  },
+  {
+    "music_id": "m0367",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EASY",
+      "number": 1
+    },
+    "difficulty_level": 4,
+    "chart_asset_id": "chart_m0367_easy"
+  },
+  {
+    "music_id": "m0367",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_NORMAL",
+      "number": 2
+    },
+    "difficulty_level": 14,
+    "chart_asset_id": "chart_m0367_normal"
+  },
+  {
+    "music_id": "m0367",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_HARD",
+      "number": 3
+    },
+    "difficulty_level": 23,
+    "chart_asset_id": "chart_m0367_hard"
+  },
+  {
+    "music_id": "m0367",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EXPERT",
+      "number": 4
+    },
+    "difficulty_level": 28,
+    "chart_asset_id": "chart_m0367_expert"
+  },
+  {
+    "music_id": "m0368",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EASY",
+      "number": 1
+    },
+    "difficulty_level": 3,
+    "chart_asset_id": "chart_m0368_easy"
+  },
+  {
+    "music_id": "m0368",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_NORMAL",
+      "number": 2
+    },
+    "difficulty_level": 8,
+    "chart_asset_id": "chart_m0368_normal"
+  },
+  {
+    "music_id": "m0368",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_HARD",
+      "number": 3
+    },
+    "difficulty_level": 17,
+    "chart_asset_id": "chart_m0368_hard"
+  },
+  {
+    "music_id": "m0368",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EXPERT",
+      "number": 4
+    },
+    "difficulty_level": 25,
+    "chart_asset_id": "chart_m0368_expert"
+  },
+  {
     "music_id": "m0375",
     "difficulty_type": {
       "name": "MUSIC_DIFFICULTY_TYPE_EASY",

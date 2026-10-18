@@ -702,7 +702,7 @@
       "name": "CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION_TIME_MILLISECOND",
       "number": 103000
     },
-    "threshold": "2000"
+    "threshold": "2500"
   },
   {
     "type": {
@@ -822,7 +822,7 @@
       "name": null,
       "number": 103004
     },
-    "threshold": "20000"
+    "threshold": "25000"
   },
   {
     "type": {
@@ -852,7 +852,7 @@
       "name": null,
       "number": 103004
     },
-    "threshold": "25000"
+    "threshold": "32000"
   },
   {
     "type": {
@@ -1017,7 +1017,7 @@
       "name": "CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_PATROL_TEAM_SELF_SCORE",
       "number": 105004
     },
-    "threshold": "4500"
+    "threshold": "5000"
   },
   {
     "type": {
@@ -1047,7 +1047,67 @@
       "name": "CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_PATROL_TEAM_SELF_SCORE",
       "number": 105004
     },
-    "threshold": "5500"
+    "threshold": "6200"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+      "number": 1600
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_YELLOW",
+      "number": 1
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_POSITION_DISTANCE_PERMIL",
+      "number": 106000
+    },
+    "threshold": "25000"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+      "number": 1600
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_YELLOW",
+      "number": 1
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_POSITION_COUNT",
+      "number": 106001
+    },
+    "threshold": "5"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+      "number": 1600
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_YELLOW",
+      "number": 1
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_MOVE_SPEED_MAX_PERMIL",
+      "number": 106002
+    },
+    "threshold": "50000"
+  },
+  {
+    "type": {
+      "name": "CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+      "number": 1600
+    },
+    "severity_type": {
+      "name": "CHEAT_SEVERITY_TYPE_YELLOW",
+      "number": 1
+    },
+    "parameter_type": {
+      "name": "CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_MOVE_SPEED_COUNT",
+      "number": 106003
+    },
+    "threshold": "3"
   },
   {
     "type": {

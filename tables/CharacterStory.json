@@ -205,6 +205,14 @@
     "asset_id": "chr-00027"
   },
   {
+    "character_id": "chr-00027",
+    "number": 2,
+    "title_lang_id": "la-character_story-chr-00027-002",
+    "story_id": "story-character_story_chr-00027_002",
+    "archive_view_condition_group_id": "cd-event_archive-time-marathon_event-relay-003",
+    "asset_id": "chr-00027"
+  },
+  {
     "character_id": "chr-00028",
     "number": 1,
     "title_lang_id": "la-character_story-chr-00028-001",
@@ -246,6 +254,14 @@
     "story_id": "story-character_story_chr-00032_001",
     "archive_view_condition_group_id": "cd-read_story-character_story_chr-00032",
     "unlock_condition_group_id": "cd-read_story-character_story_chr-00032",
+    "asset_id": "chr-00032"
+  },
+  {
+    "character_id": "chr-00032",
+    "number": 2,
+    "title_lang_id": "la-character_story-chr-00032-002",
+    "story_id": "story-character_story_chr-00032_002",
+    "archive_view_condition_group_id": "cd-event_archive-time-marathon_event-relay-003",
     "asset_id": "chr-00032"
   },
   {
@@ -390,6 +406,14 @@
     "asset_id": "chr-03008"
   },
   {
+    "character_id": "chr-03008",
+    "number": 2,
+    "title_lang_id": "la-character_story-chr-03008-002",
+    "story_id": "story-character_story_chr-03008_002",
+    "archive_view_condition_group_id": "cd-event_archive-time-marathon_event-relay-003",
+    "asset_id": "chr-03008"
+  },
+  {
     "character_id": "chr-03009",
     "number": 1,
     "title_lang_id": "la-character_story-chr-03009-001",
@@ -492,6 +516,14 @@
     "story_id": "story-character_story_chr-04014_001",
     "archive_view_condition_group_id": "cd-read_story-character_story_chr-04014",
     "unlock_condition_group_id": "cd-read_story-character_story_chr-04014",
+    "asset_id": "chr-04014"
+  },
+  {
+    "character_id": "chr-04014",
+    "number": 2,
+    "title_lang_id": "la-character_story-chr-04014-002",
+    "story_id": "story-character_story_chr-04014_002",
+    "archive_view_condition_group_id": "cd-event_archive-time-marathon_event-relay-003",
     "asset_id": "chr-04014"
   },
   {

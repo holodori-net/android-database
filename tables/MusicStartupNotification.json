@@ -550,6 +550,50 @@
     "order": 739092627
   },
   {
+    "id": "music_startup_notification-m0365",
+    "type": {
+      "name": "MUSIC_STARTUP_NOTIFICATION_TYPE_MUSIC",
+      "number": 1
+    },
+    "music_id": "m0365",
+    "start_time": "1792407600000",
+    "end_time": "1793735999000",
+    "order": 738981623
+  },
+  {
+    "id": "music_startup_notification-m0366",
+    "type": {
+      "name": "MUSIC_STARTUP_NOTIFICATION_TYPE_MUSIC",
+      "number": 1
+    },
+    "music_id": "m0366",
+    "start_time": "1792753200000",
+    "end_time": "1794081599000",
+    "order": 738977627
+  },
+  {
+    "id": "music_startup_notification-m0367",
+    "type": {
+      "name": "MUSIC_STARTUP_NOTIFICATION_TYPE_MUSIC",
+      "number": 1
+    },
+    "music_id": "m0367",
+    "start_time": "1792926000000",
+    "end_time": "1794254399000",
+    "order": 738975654
+  },
+  {
+    "id": "music_startup_notification-m0368",
+    "type": {
+      "name": "MUSIC_STARTUP_NOTIFICATION_TYPE_MUSIC",
+      "number": 1
+    },
+    "music_id": "m0368",
+    "start_time": "1792580400000",
+    "end_time": "1793908799000",
+    "order": 738979641
+  },
+  {
     "id": "music_startup_notification-m0375",
     "type": {
       "name": "MUSIC_STARTUP_NOTIFICATION_TYPE_MUSIC",

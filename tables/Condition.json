@@ -17323,6 +17323,96 @@
     "min": "1"
   },
   {
+    "group_id": "cd-distributed_reward-mal-261019-01",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_MISSION_CLEAR",
+      "number": 1201
+    },
+    "resource_id1": "mission-event_mission-comeback-260929-absolute_park_quest_clear_count-quest-main-w1-02-12"
+  },
+  {
+    "group_id": "cd-distributed_reward-mal-261019-01-nega",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_NEGATIVE_SET",
+      "number": 99999
+    },
+    "resource_id1": "cd-distributed_reward-mal-261019-01"
+  },
+  {
+    "group_id": "cd-distributed_reward-mal-261019-02",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_MISSION_CLEAR",
+      "number": 1201
+    },
+    "resource_id1": "mission-event_mission-comeback-260929-absolute_card_level"
+  },
+  {
+    "group_id": "cd-distributed_reward-mal-261019-02-nega",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_NEGATIVE_SET",
+      "number": 99999
+    },
+    "resource_id1": "cd-distributed_reward-mal-261019-02"
+  },
+  {
+    "group_id": "cd-distributed_reward-mal-261019-03",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_MISSION_CLEAR",
+      "number": 1201
+    },
+    "resource_id1": "mission-event_mission-comeback-260929-increment_mini_game_stamina_consumption"
+  },
+  {
+    "group_id": "cd-distributed_reward-mal-261019-03-nega",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_NEGATIVE_SET",
+      "number": 99999
+    },
+    "resource_id1": "cd-distributed_reward-mal-261019-03"
+  },
+  {
+    "group_id": "cd-distributed_reward-mal-261019-04",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_MISSION_CLEAR",
+      "number": 1201
+    },
+    "resource_id1": "mission-event_mission-comeback-260929-absolute_live_deck_evaluation_value"
+  },
+  {
+    "group_id": "cd-distributed_reward-mal-261019-04-nega",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_NEGATIVE_SET",
+      "number": 99999
+    },
+    "resource_id1": "cd-distributed_reward-mal-261019-04"
+  },
+  {
+    "group_id": "cd-distributed_reward-mal-261019-05",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_MISSION_CLEAR",
+      "number": 1201
+    },
+    "resource_id1": "mission-event_mission-comeback-260929-absolute_live_clear_music_count"
+  },
+  {
+    "group_id": "cd-distributed_reward-mal-261019-05-nega",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_NEGATIVE_SET",
+      "number": 99999
+    },
+    "resource_id1": "cd-distributed_reward-mal-261019-05"
+  },
+  {
     "group_id": "cd-distributed_reward-treasure_follow_1",
     "number": 1,
     "type": {

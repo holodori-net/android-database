@@ -140,13 +140,6 @@
   },
   {
     "type": {
-      "name": "PARK_NOTICE_TYPE_EVENT_END_TIME_SOON",
-      "number": 10
-    },
-    "order": 19
-  },
-  {
-    "type": {
       "name": "PARK_NOTICE_TYPE_PARK_FISHING_ROD_LEVEL_UPABLE",
       "number": 11
     },

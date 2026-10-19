@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "masterVersion": "e1eea8627c36e512ed0f8f662d0d80e14b9000cb8facd546d38e492e91a3c528",
+  "masterVersion": "452bd7acfd1b9f90cc85d9978aea55b1a6bf6c2cddaff470c640462830c8c00d",
   "languages": [
     "jpn",
     "eng",
@@ -12,7 +12,7 @@
   "databases": {
     "packs": 994,
     "tables": 994,
-    "rows": 520095
+    "rows": 520104
   },
   "files": [
     {
@@ -313,7 +313,7 @@
       "packType": "Condition",
       "table": "Condition",
       "path": "tables/Condition.json",
-      "rows": 2845
+      "rows": 2855
     },
     {
       "packType": "CookingPuzzle",
@@ -5533,7 +5533,7 @@
       "packType": "ParkNotice",
       "table": "ParkNotice",
       "path": "tables/ParkNotice.json",
-      "rows": 21
+      "rows": 20
     },
     {
       "packType": "ParkNpc",

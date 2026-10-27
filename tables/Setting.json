@@ -148,6 +148,13 @@
     "marathon_recommend_deck_bonus_permil_multiply": 2000,
     "notification_list_api_call_interval_minute": 10,
     "is_enable_realtime_notification": true,
-    "pc_crash_report_max_concurrent_send_count": 1
+    "pc_crash_report_max_concurrent_send_count": 1,
+    "_unknown": [
+      {
+        "field": 1614,
+        "wire": 0,
+        "value": "500"
+      }
+    ]
   }
 ]

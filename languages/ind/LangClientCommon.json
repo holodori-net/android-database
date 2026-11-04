@@ -1108,6 +1108,10 @@
     "text": "ID tidak dapat disalin"
   },
   {
+    "client_id": "4244683426502",
+    "text": "Menerima {0} item"
+  },
+  {
     "client_id": "4293842165760",
     "text": "Full Combo"
   },
@@ -2660,6 +2664,10 @@
     "text": "Dengan video Live"
   },
   {
+    "client_id": "45790967773259",
+    "text": "Sinkronasi data"
+  },
+  {
     "client_id": "45859914899456",
     "text": "S"
   },
@@ -2890,6 +2898,10 @@
   {
     "client_id": "54279099306007",
     "text": "Power Keseluruhan"
+  },
+  {
+    "client_id": "54390697364715",
+    "text": "Koneksi terputus, rekor nilai pemain lain tidak tercatat. Kami merekomendasikan bermain dengan jaringan yang stabil."
   },
   {
     "client_id": "54544104877051",
@@ -3250,6 +3262,10 @@
   {
     "client_id": "65618403525255",
     "text": "Menunggu respons host"
+  },
+  {
+    "client_id": "65634157373528",
+    "text": "Sambungkan"
   },
   {
     "client_id": "65927871720978",
@@ -3783,6 +3799,10 @@
     "text": "Hanya MV"
   },
   {
+    "client_id": "83897986141864",
+    "text": "Batalkan"
+  },
+  {
     "client_id": "83941326221819",
     "text": "Tidak ada transaksi yang tertunda."
   },
@@ -3961,6 +3981,10 @@
   {
     "client_id": "92679335202344",
     "text": "Periksa Pengaturan Sebelum Live"
+  },
+  {
+    "client_id": "92826337835270",
+    "text": "Sambungkan akun Google Play Anda?\\n\\nDengan menyambungkan dengan akun Google Play,\\npemain bisa memainkan game di perangkat yang tersambung.\\n\\nHanya satu akun game yang bisa tersambung dengan akun Google Play."
   },
   {
     "client_id": "92951903899141",
@@ -4752,6 +4776,10 @@
   {
     "client_id": "121810089525473",
     "text": "Batalkan"
+  },
+  {
+    "client_id": "121874690335517",
+    "text": "Opsi acak telah dipilih karena batas waktu habis."
   },
   {
     "client_id": "121982617709170",
@@ -6443,10 +6471,6 @@
     "text": "Kembali ke Taman"
   },
   {
-    "client_id": "181503009327818",
-    "text": "Grup Patroli: Pergi menangkap."
-  },
-  {
     "client_id": "182419864608014",
     "text": "Stealth"
   },
@@ -6681,6 +6705,10 @@
   {
     "client_id": "194296183054336",
     "text": "Latihan SP"
+  },
+  {
+    "client_id": "194363935580640",
+    "text": "Terima sekaligus"
   },
   {
     "client_id": "194522025353216",
@@ -7018,10 +7046,6 @@
   {
     "client_id": "207082242465792",
     "text": "Sudah Bergabung"
-  },
-  {
-    "client_id": "207137485702099",
-    "text": "Grup Patroli: Gunakan skill."
   },
   {
     "client_id": "207216570195968",
@@ -8504,6 +8528,10 @@
     "text": "Achievs"
   },
   {
+    "client_id": "262333984965941",
+    "text": "*Informasi di atas bisa berubah sewaktu-waktu. Nilai yang ditampilkan merepresentasikan level/Bloom stage maksimal."
+  },
+  {
     "client_id": "262530360242967",
     "text": "Event selesai."
   },
@@ -9691,7 +9719,7 @@
   },
   {
     "client_id": "415997836025856",
-    "text": "Tidak dapat menemukan partitur musik yang cocok."
+    "text": "Kreator tidak ditemukan."
   },
   {
     "client_id": "416291669696512",
@@ -9767,7 +9795,7 @@
   },
   {
     "client_id": "426672222461952",
-    "text": "Hanya menampilkan 100 item terbaru"
+    "text": "Hanya menampilkan {0} item terbaru"
   },
   {
     "client_id": "426805761662976",
@@ -10200,6 +10228,10 @@
   {
     "client_id": "498702638276608",
     "text": "Batalkan"
+  },
+  {
+    "client_id": "498737727292322",
+    "text": "Data game di akun Google Play akan ditimpa dan tidak dapat dipulihkan kembali.Lanjutkan?"
   },
   {
     "client_id": "498832191938560",

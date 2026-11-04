@@ -80,6 +80,10 @@
     "text": "전원의 퍼포먼스가 120% UP "
   },
   {
+    "id": "la-generated-live_leader_skill-card-00007-5-uniq-0096-00-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 2명 이상이면 전원의 센스가 130% UP "
+  },
+  {
     "id": "la-generated-live_leader_skill-card-00010-3-nrml-0010-00-description",
     "text": "전원의 전체 파라미터가 15% UP "
   },
@@ -536,6 +540,10 @@
     "text": "ID 3기생(이)가 2명 이상이면 전원의 전체 파라미터가 50% UP "
   },
   {
+    "id": "la-generated-live_leader_skill-card-03007-5-uniq-0100-00-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 2명 이상이면 전원의 테크닉이 130% UP "
+  },
+  {
     "id": "la-generated-live_leader_skill-card-03008-3-nrml-0040-00-description",
     "text": "전원의 전체 파라미터가 15% UP "
   },
@@ -696,6 +704,10 @@
     "text": "Advent(이)가 2명 이상이면 전원의 전체 파라미터가 50% UP "
   },
   {
+    "id": "la-generated-live_leader_skill-card-04015-5-uniq-0099-00-description",
+    "text": "[attribute=happy]해피 타입[/attribute] 2명 이상이면 전원의 퍼포먼스가 80% UP [attribute=happy]해피 타입[/attribute] 2명 이상이면 전원의 스코어 서포트 효과 25%"
+  },
+  {
     "id": "la-generated-live_leader_skill-card-04016-3-nrml-0055-00-description",
     "text": "전원의 전체 파라미터가 15% UP "
   },
@@ -772,6 +784,10 @@
     "text": "전원의 센스가 120% UP "
   },
   {
+    "id": "la-generated-live_leader_skill-card-06004-5-uniq-0098-00-description",
+    "text": "ReGLOSS(이)가 2명 이상이면 전원의 테크닉이 135% UP "
+  },
+  {
     "id": "la-generated-live_leader_skill-card-06005-3-nrml-0061-00-description",
     "text": "전원의 전체 파라미터가 15% UP "
   },
@@ -782,5 +798,9 @@
   {
     "id": "la-generated-live_leader_skill-card-06005-5-uniq-0061-00-description",
     "text": "전원의 퍼포먼스가 120% UP "
+  },
+  {
+    "id": "la-generated-live_leader_skill-card-06005-5-uniq-0097-00-description",
+    "text": "ReGLOSS(이)가 2명 이상이면 전원의 전체 파라미터가 50% UP "
   }
 ]

@@ -8,6 +8,10 @@
     "text": "【물가에서 매료하는 twinkle 후부키】SP 스킬"
   },
   {
+    "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_myself",
+    "text": "【말괄량이 늑대의 달콤~한 Trick 마츠리】SP 스킬"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself",
     "text": "【귀신류 둥실둥실 리조트 아야메】SP 스킬"
   },
@@ -92,6 +96,10 @@
     "text": "【유유자적 써니 홀리데이 아냐】SP 스킬"
   },
   {
+    "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_myself",
+    "text": "【변덕스러운 소녀의 두근두근 진료실 제타】SP 스킬"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_myself",
     "text": "【나무 그늘에서 자아내는 Shiny Memory 카엘라】SP 스킬"
   },
@@ -120,6 +128,10 @@
     "text": "【미소가 눈부신 Sand castle 비쥬】SP 스킬"
   },
   {
+    "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_myself",
+    "text": "【매혹의 Magic Potion 네리사】SP 스킬"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
     "text": "【후와와의 Flowing Summer 후와와】SP 스킬"
   },
@@ -134,6 +146,14 @@
   {
     "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_myself",
     "text": "【여름 밤을 물들이는 Brilliant Smile 리리카】SP 스킬"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_myself",
+    "text": "【고귀한 뱀파이어의 취향 라덴】SP 스킬"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_myself",
+    "text": "【오늘 밤 개막! 요괴 댄싱 하지메】SP 스킬"
   },
   {
     "id": "la-name_live_dial_voice_card_00001-5-uniq-0000-00_00001-to-00002",
@@ -306,6 +326,38 @@
   {
     "id": "la-name_live_dial_voice_card_00007-5-uniq-0008-00_myself",
     "text": "【통통 튀는 생기발랄 치어리더 마츠리】 SP 스킬"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-03007",
+    "text": "【말괄량이 늑대의 달콤~한 Trick 마츠리】마츠리&제타"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-04015",
+    "text": "【말괄량이 늑대의 달콤~한 Trick 마츠리】마츠리&네리사"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-06004",
+    "text": "【말괄량이 늑대의 달콤~한 Trick 마츠리】마츠리&라덴"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-06005",
+    "text": "【말괄량이 늑대의 달콤~한 Trick 마츠리】마츠리&하지메"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_03007-to-00007",
+    "text": "【말괄량이 늑대의 달콤~한 Trick 마츠리】제타&마츠리"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_04015-to-00007",
+    "text": "【말괄량이 늑대의 달콤~한 Trick 마츠리】네리사&마츠리"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_06004-to-00007",
+    "text": "【말괄량이 늑대의 달콤~한 Trick 마츠리】라덴&마츠리"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_06005-to-00007",
+    "text": "【말괄량이 늑대의 달콤~한 Trick 마츠리】하지메&마츠리"
   },
   {
     "id": "la-name_live_dial_voice_card_00010-5-uniq-0010-00_00010-to-00011",
@@ -1412,6 +1464,38 @@
     "text": "【양지와 고양이와 구성원 제타】 SP 스킬"
   },
   {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_00007-to-03007",
+    "text": "【변덕스러운 소녀의 두근두근 진료실 제타】마츠리&제타"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-00007",
+    "text": "【변덕스러운 소녀의 두근두근 진료실 제타】제타&마츠리"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-04015",
+    "text": "【변덕스러운 소녀의 두근두근 진료실 제타】제타&네리사"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-06004",
+    "text": "【변덕스러운 소녀의 두근두근 진료실 제타】제타&라덴"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-06005",
+    "text": "【변덕스러운 소녀의 두근두근 진료실 제타】제타&하지메"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_04015-to-03007",
+    "text": "【변덕스러운 소녀의 두근두근 진료실 제타】네리사&제타"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_06004-to-03007",
+    "text": "【변덕스러운 소녀의 두근두근 진료실 제타】라덴&제타"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_06005-to-03007",
+    "text": "【변덕스러운 소녀의 두근두근 진료실 제타】하지메&제타"
+  },
+  {
     "id": "la-name_live_dial_voice_card_03008-5-uniq-0040-00_03008-to-03007",
     "text": "【마음의 힘은 대장간에서 연마 카엘라】카엘라&제타"
   },
@@ -1824,6 +1908,38 @@
     "text": "【노래에 흔들리는 녹턴 네리사】 SP 스킬"
   },
   {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_00007-to-04015",
+    "text": "【매혹의 Magic Potion 네리사】마츠리&네리사"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_03007-to-04015",
+    "text": "【매혹의 Magic Potion 네리사】제타&네리사"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-00007",
+    "text": "【매혹의 Magic Potion 네리사】네리사&마츠리"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-03007",
+    "text": "【매혹의 Magic Potion 네리사】네리사&제타"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-06004",
+    "text": "【매혹의 Magic Potion 네리사】네리사&라덴"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-06005",
+    "text": "【매혹의 Magic Potion 네리사】네리사&하지메"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_06004-to-04015",
+    "text": "【매혹의 Magic Potion 네리사】라덴&네리사"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_06005-to-04015",
+    "text": "【매혹의 Magic Potion 네리사】하지메&네리사"
+  },
+  {
     "id": "la-name_live_dial_voice_card_04016-5-uniq-0055-00_04016-to-04013",
     "text": "【화기애애 도넛 파티♪ 후와와】후와와&시오리"
   },
@@ -2024,6 +2140,38 @@
     "text": "【지혜의 불을 밝혀 예술로 인도 라덴】 SP 스킬"
   },
   {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_00007-to-06004",
+    "text": "【고귀한 뱀파이어의 취향 라덴】마츠리&라덴"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_03007-to-06004",
+    "text": "【고귀한 뱀파이어의 취향 라덴】제타&라덴"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_04015-to-06004",
+    "text": "【고귀한 뱀파이어의 취향 라덴】네리사&라덴"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-00007",
+    "text": "【고귀한 뱀파이어의 취향 라덴】라덴&마츠리"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-03007",
+    "text": "【고귀한 뱀파이어의 취향 라덴】라덴&제타"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-04015",
+    "text": "【고귀한 뱀파이어의 취향 라덴】라덴&네리사"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-06005",
+    "text": "【고귀한 뱀파이어의 취향 라덴】라덴&하지메"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06005-to-06004",
+    "text": "【고귀한 뱀파이어의 취향 라덴】하지메&라덴"
+  },
+  {
     "id": "la-name_live_dial_voice_card_06005-5-uniq-0061-00_06005-to-06002",
     "text": "【걸리 반쵸의 소소한 선물 하지메】하지메&카나데"
   },
@@ -2038,6 +2186,38 @@
   {
     "id": "la-name_live_dial_voice_card_06005-5-uniq-0061-00_myself",
     "text": "【걸리 반쵸의 소소한 선물 하지메】 SP 스킬"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_00007-to-06005",
+    "text": "【오늘 밤 개막! 요괴 댄싱 하지메】마츠리&하지메"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_03007-to-06005",
+    "text": "【오늘 밤 개막! 요괴 댄싱 하지메】제타&하지메"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_04015-to-06005",
+    "text": "【오늘 밤 개막! 요괴 댄싱 하지메】네리사&하지메"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06004-to-06005",
+    "text": "【오늘 밤 개막! 요괴 댄싱 하지메】라덴&하지메"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-00007",
+    "text": "【오늘 밤 개막! 요괴 댄싱 하지메】하지메&마츠리"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-03007",
+    "text": "【오늘 밤 개막! 요괴 댄싱 하지메】하지메&제타"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-04015",
+    "text": "【오늘 밤 개막! 요괴 댄싱 하지메】하지메&네리사"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-06004",
+    "text": "【오늘 밤 개막! 요괴 댄싱 하지메】하지메&라덴"
   },
   {
     "id": "la-name_live_dial_voice_character-default_00001-to-00002",

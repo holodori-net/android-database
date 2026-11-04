@@ -8,6 +8,10 @@
     "text": "【Kilau Pesisir Fubuki】Skill SP"
   },
   {
+    "id": "la-name_cv-live_dial_chr-00007_00007-5-uniq-0096-00_myself",
+    "text": "【Trik Manis Serigala Lincah Matsuri】Skill SP"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself",
     "text": "【Resor Apung Khas Oni Ayame】Skill SP"
   },
@@ -92,6 +96,10 @@
     "text": "【Denting Hari Cerah Anya】Skill SP"
   },
   {
+    "id": "la-name_cv-live_dial_chr-03007_03007-5-uniq-0100-00_myself",
+    "text": "【Klinik Asmara Zeta】Skill SP"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-03008_03008-5-uniq-0095-00_myself",
     "text": "【Memori Kisah Teduh Kaela】Skill SP"
   },
@@ -120,6 +128,10 @@
     "text": "【Istana Pasir Ceria Bijou】Skill SP"
   },
   {
+    "id": "la-name_cv-live_dial_chr-04015_04015-5-uniq-0099-00_myself",
+    "text": "【Ramuan Memikat Nerissa】Skill SP"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
     "text": "【Desir Musim Panas Fuwawa】Skill SP"
   },
@@ -134,6 +146,14 @@
   {
     "id": "la-name_cv-live_dial_chr-06003_06003-5-uniq-0091-00_myself",
     "text": "【Senyum Bintang Malam Ririka】Skill SP"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-06004_06004-5-uniq-0098-00_myself",
+    "text": "【Pesona Elegan Raden】Skill SP"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-06005_06005-5-uniq-0097-00_myself",
+    "text": "【Pesta Dansa Jiangshi Hajime】Skill SP"
   },
   {
     "id": "la-name_live_dial_voice_card_00001-5-uniq-0000-00_00001-to-00002",
@@ -306,6 +326,38 @@
   {
     "id": "la-name_live_dial_voice_card_00007-5-uniq-0008-00_myself",
     "text": "【Binar Pemandu Ceria Matsuri】 Skill SP"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-03007",
+    "text": "【Trik Manis Serigala Lincah Matsuri】Matsuri&Zeta"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-04015",
+    "text": "【Trik Manis Serigala Lincah Matsuri】Matsuri&Nerissa"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-06004",
+    "text": "【Trik Manis Serigala Lincah Matsuri】Matsuri&Raden"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_00007-to-06005",
+    "text": "【Trik Manis Serigala Lincah Matsuri】Matsuri&Hajime"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_03007-to-00007",
+    "text": "【Trik Manis Serigala Lincah Matsuri】Zeta&Matsuri"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_04015-to-00007",
+    "text": "【Trik Manis Serigala Lincah Matsuri】Nerissa&Matsuri"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_06004-to-00007",
+    "text": "【Trik Manis Serigala Lincah Matsuri】Raden&Matsuri"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_00007-5-uniq-0096-00_06005-to-00007",
+    "text": "【Trik Manis Serigala Lincah Matsuri】Hajime&Matsuri"
   },
   {
     "id": "la-name_live_dial_voice_card_00010-5-uniq-0010-00_00010-to-00011",
@@ -1412,6 +1464,38 @@
     "text": "【Kumpul Sindikat Kucing Zeta】 Skill SP"
   },
   {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_00007-to-03007",
+    "text": "【Klinik Asmara Zeta】Matsuri&Zeta"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-00007",
+    "text": "【Klinik Asmara Zeta】Zeta&Matsuri"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-04015",
+    "text": "【Klinik Asmara Zeta】Zeta&Nerissa"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-06004",
+    "text": "【Klinik Asmara Zeta】Zeta&Raden"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_03007-to-06005",
+    "text": "【Klinik Asmara Zeta】Zeta&Hajime"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_04015-to-03007",
+    "text": "【Klinik Asmara Zeta】Nerissa&Zeta"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_06004-to-03007",
+    "text": "【Klinik Asmara Zeta】Raden&Zeta"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03007-5-uniq-0100-00_06005-to-03007",
+    "text": "【Klinik Asmara Zeta】Hajime&Zeta"
+  },
+  {
     "id": "la-name_live_dial_voice_card_03008-5-uniq-0040-00_03008-to-03007",
     "text": "【Tempaan Sukma Baja Kaela】Kaela&Zeta"
   },
@@ -1824,6 +1908,38 @@
     "text": "【Senandung Malam Nerissa】 Skill SP"
   },
   {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_00007-to-04015",
+    "text": "【Ramuan Memikat Nerissa】Matsuri&Nerissa"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_03007-to-04015",
+    "text": "【Ramuan Memikat Nerissa】Zeta&Nerissa"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-00007",
+    "text": "【Ramuan Memikat Nerissa】Nerissa&Matsuri"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-03007",
+    "text": "【Ramuan Memikat Nerissa】Nerissa&Zeta"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-06004",
+    "text": "【Ramuan Memikat Nerissa】Nerissa&Raden"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_04015-to-06005",
+    "text": "【Ramuan Memikat Nerissa】Nerissa&Hajime"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_06004-to-04015",
+    "text": "【Ramuan Memikat Nerissa】Raden&Nerissa"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_04015-5-uniq-0099-00_06005-to-04015",
+    "text": "【Ramuan Memikat Nerissa】Hajime&Nerissa"
+  },
+  {
     "id": "la-name_live_dial_voice_card_04016-5-uniq-0055-00_04016-to-04013",
     "text": "【Pesta Donat Empuk Fuwawa】Fuwawa&Shiori"
   },
@@ -2024,6 +2140,38 @@
     "text": "【Pelita Seni Akal Raden】 Skill SP"
   },
   {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_00007-to-06004",
+    "text": "【Pesona Elegan Raden】Matsuri&Raden"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_03007-to-06004",
+    "text": "【Pesona Elegan Raden】Zeta&Raden"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_04015-to-06004",
+    "text": "【Pesona Elegan Raden】Nerissa&Raden"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-00007",
+    "text": "【Pesona Elegan Raden】Raden&Matsuri"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-03007",
+    "text": "【Pesona Elegan Raden】Raden&Zeta"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-04015",
+    "text": "【Pesona Elegan Raden】Raden&Nerissa"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06004-to-06005",
+    "text": "【Pesona Elegan Raden】Raden&Hajime"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06004-5-uniq-0098-00_06005-to-06004",
+    "text": "【Pesona Elegan Raden】Hajime&Raden"
+  },
+  {
     "id": "la-name_live_dial_voice_card_06005-5-uniq-0061-00_06005-to-06002",
     "text": "【Sisi Manis Bancho Hajime】Hajime&Kanade"
   },
@@ -2038,6 +2186,38 @@
   {
     "id": "la-name_live_dial_voice_card_06005-5-uniq-0061-00_myself",
     "text": "【Sisi Manis Bancho Hajime】 Skill SP"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_00007-to-06005",
+    "text": "【Pesta Dansa Jiangshi Hajime】Matsuri&Hajime"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_03007-to-06005",
+    "text": "【Pesta Dansa Jiangshi Hajime】Zeta&Hajime"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_04015-to-06005",
+    "text": "【Pesta Dansa Jiangshi Hajime】Nerissa&Hajime"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06004-to-06005",
+    "text": "【Pesta Dansa Jiangshi Hajime】Raden&Hajime"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-00007",
+    "text": "【Pesta Dansa Jiangshi Hajime】Hajime&Matsuri"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-03007",
+    "text": "【Pesta Dansa Jiangshi Hajime】Hajime&Zeta"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-04015",
+    "text": "【Pesta Dansa Jiangshi Hajime】Hajime&Nerissa"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_06005-5-uniq-0097-00_06005-to-06004",
+    "text": "【Pesta Dansa Jiangshi Hajime】Hajime&Raden"
   },
   {
     "id": "la-name_live_dial_voice_character-default_00001-to-00002",

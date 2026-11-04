@@ -6512,6 +6512,46 @@
     "text": "Selesaikan {0} holowork"
   },
   {
+    "id": "la-mission-event_mission-training_support-261105-absolute_character_get_count",
+    "text": "Dapatkan {0} holomem"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-absolute_character_level_sum",
+    "text": "Ayo capai total Holomem Rank {0}"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-absolute_live_clear_music_count",
+    "text": "Selesaikan {0} jenis Live"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-absolute_live_highest_score",
+    "text": "Capai skor {0} di Live"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-absolute_skill_tree_release_count",
+    "text": "Buka {0} petak Board Holomem"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-increment_live_play_count",
+    "text": "Mainkan Live {0} kali"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-increment_mini_game_stamina_consumption",
+    "text": "Gunakan Total {0} Minigame Boost"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-increment_mission_clear_count-mission_grp-training_support-261105",
+    "text": "Selesaikan semua misi"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-increment_park_present_receive_count",
+    "text": "Terima hadiah dari holomem sebanyak {0} kali"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-increment_work_finish_count",
+    "text": "Selesaikan {0} holowork"
+  },
+  {
     "id": "la-mission-hidden-gacha-beginner-select-001",
     "text": "-"
   },
@@ -6858,6 +6898,50 @@
   {
     "id": "la-mission-missionpass-261001-weekly-increment_work_start_count-name",
     "text": "Mulai Holowork {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_card_level_up_count-name",
+    "text": "Tingkatkan level anggota {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_drop_item_get_count-name",
+    "text": "Ambil {0} Peti Harta"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_live_play_count-name",
+    "text": "Mainkan Live {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_mini_game_play_count-name",
+    "text": "Mainkan Minigame {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_multi_live_play_count-name",
+    "text": "Mainkan Live bersama {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_park_present_receive_count-name",
+    "text": "Terima hadiah dari holomem sebanyak {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_park_quest_clear_count-daily-name",
+    "text": "Selesaikan {0} Misi Harian"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_work_start_count-name",
+    "text": "Mulai Holowork {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261101-season-absolute_character_level_sum-name",
+    "text": "Ayo capai total Holomem Rank {0}"
+  },
+  {
+    "id": "la-mission-missionpass-261101-season-absolute_facility_level_up_count-area_group-a03-facility-a03-station-name",
+    "text": "Tingkatkan level fasilitas Princess Marine Ship {0} kali."
+  },
+  {
+    "id": "la-mission-missionpass-261101-season-absolute_music_highest_score_rating_sum-name",
+    "text": "Raih laju skor Holomem sebesar {0} atau lebih"
   },
   {
     "id": "la-mission-missionpass-261101-weekly-increment_card_level_limit_break_count-name",

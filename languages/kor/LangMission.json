@@ -6512,6 +6512,46 @@
     "text": "holo워크를 {0}회 완료하자"
   },
   {
+    "id": "la-mission-event_mission-training_support-261105-absolute_character_get_count",
+    "text": "holo멤 {0}명을 개방하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-absolute_character_level_sum",
+    "text": "Holo멤버 랭크 합계 {0}에 도달하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-absolute_live_clear_music_count",
+    "text": "{0}종류의 라이브를 클리어하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-absolute_live_highest_score",
+    "text": "라이브 스코어를 {0} 달성하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-absolute_skill_tree_release_count",
+    "text": "holo멤 보드를 총 {0}개 개방하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-increment_live_play_count",
+    "text": "라이브를 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-increment_mini_game_stamina_consumption",
+    "text": "미니 게임 부스트를 총 {0} 소비하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-increment_mission_clear_count-mission_grp-training_support-261105",
+    "text": "모든 미션을 완료하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-increment_park_present_receive_count",
+    "text": "holo멤이 주는 선물을 {0}회 수령하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261105-increment_work_finish_count",
+    "text": "holo워크를 {0}회 완료하자"
+  },
+  {
     "id": "la-mission-hidden-gacha-beginner-select-001",
     "text": "-"
   },
@@ -6858,6 +6898,50 @@
   {
     "id": "la-mission-missionpass-261001-weekly-increment_work_start_count-name",
     "text": "Holo워크를 {0}회 개시하자"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_card_level_up_count-name",
+    "text": "멤버 Lv을 {0}회 강화하자"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_drop_item_get_count-name",
+    "text": "비밀 트레저를 {0}개 습득하자"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_live_play_count-name",
+    "text": "라이브를 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_mini_game_play_count-name",
+    "text": "미니 게임을 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_multi_live_play_count-name",
+    "text": "다 함께 라이브를 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_park_present_receive_count-name",
+    "text": "holo멤이 주는 선물을 {0}회 수령하자"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_park_quest_clear_count-daily-name",
+    "text": "데일리 퀘스트를 {0}회 클리어하자"
+  },
+  {
+    "id": "la-mission-missionpass-261101-daily-increment_work_start_count-name",
+    "text": "Holo워크를 {0}회 개시하자"
+  },
+  {
+    "id": "la-mission-missionpass-261101-season-absolute_character_level_sum-name",
+    "text": "Holo멤버 랭크 합계 {0}에 도달하자"
+  },
+  {
+    "id": "la-mission-missionpass-261101-season-absolute_facility_level_up_count-area_group-a03-facility-a03-station-name",
+    "text": "프린세스 마린호의 시설 Lv을 {0}회 올리자"
+  },
+  {
+    "id": "la-mission-missionpass-261101-season-absolute_music_highest_score_rating_sum-name",
+    "text": "Holo멤버 스코어 레이트를 총 {0}이상으로 만들자"
   },
   {
     "id": "la-mission-missionpass-261101-weekly-increment_card_level_limit_break_count-name",

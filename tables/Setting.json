@@ -113,6 +113,7 @@
     "gacha_promotion_pickup_card_image_change_seconds": 5,
     "gacha_promotion_pickup_card_movie_change_seconds": 5,
     "ranking_no_reward_threshold_rank_out_of_range": 10000,
+    "gift_list_history_limit_count": 500,
     "work_slot_reset_interval_hours": 6,
     "work_slot_power_debounce_milliseconds": 200,
     "work_local_push_cool_time_minutes": 3,
@@ -148,13 +149,6 @@
     "marathon_recommend_deck_bonus_permil_multiply": 2000,
     "notification_list_api_call_interval_minute": 10,
     "is_enable_realtime_notification": true,
-    "pc_crash_report_max_concurrent_send_count": 1,
-    "_unknown": [
-      {
-        "field": 1614,
-        "wire": 0,
-        "value": "500"
-      }
-    ]
+    "pc_crash_report_max_concurrent_send_count": 1
   }
 ]

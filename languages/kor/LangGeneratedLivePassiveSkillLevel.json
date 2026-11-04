@@ -160,6 +160,14 @@
     "text": "1기생2명의 퍼포먼스가 [highlight]43[/highlight]% UP "
   },
   {
+    "id": "la-generated-live_passive_skill-card-00007-5-uniq-0096-00.1-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 2명 이상이면 [attribute=pure]퓨어 타입[/attribute] 2명의 센스가 32% UP "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-00007-5-uniq-0096-00.2-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 2명 이상이면 [attribute=pure]퓨어 타입[/attribute] 2명의 센스가 [highlight]43[/highlight]% UP "
+  },
+  {
     "id": "la-generated-live_passive_skill-card-00010-3-nrml-0010-00.1-description",
     "text": "[attribute=happy]해피 타입[/attribute] 2명의 센스가 10% UP "
   },
@@ -1072,6 +1080,14 @@
     "text": "ID 3기생(이)가 2명 이상이면 자신의 전체 파라미터가 [highlight]33[/highlight]% UP "
   },
   {
+    "id": "la-generated-live_passive_skill-card-03007-5-uniq-0100-00.1-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 2명의 스코어 서포트 효과 8% "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-03007-5-uniq-0100-00.2-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 2명의 스코어 서포트 효과 [highlight]11[/highlight]% "
+  },
+  {
     "id": "la-generated-live_passive_skill-card-03008-3-nrml-0040-00.1-description",
     "text": "[attribute=happy]해피 타입[/attribute] 2명 이상이면 [attribute=happy]해피 타입[/attribute] 3명의 퍼포먼스가 7% UP "
   },
@@ -1392,6 +1408,14 @@
     "text": "Advent(이)가 2명 이상이면 자신의 전체 파라미터가 [highlight]33[/highlight]% UP "
   },
   {
+    "id": "la-generated-live_passive_skill-card-04015-5-uniq-0099-00.1-description",
+    "text": "[attribute=happy]해피 타입[/attribute] 2명 이상이면 [attribute=happy]해피 타입[/attribute] 2명의 퍼포먼스가 32% UP "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-04015-5-uniq-0099-00.2-description",
+    "text": "[attribute=happy]해피 타입[/attribute] 2명 이상이면 [attribute=happy]해피 타입[/attribute] 2명의 퍼포먼스가 [highlight]43[/highlight]% UP "
+  },
+  {
     "id": "la-generated-live_passive_skill-card-04016-3-nrml-0055-00.1-description",
     "text": "[attribute=happy]해피 타입[/attribute] 2명 이상이면 자신의 전체 파라미터가 8% UP "
   },
@@ -1544,6 +1568,14 @@
     "text": "ReGLOSS2명의 센스가 [highlight]43[/highlight]% UP "
   },
   {
+    "id": "la-generated-live_passive_skill-card-06004-5-uniq-0098-00.1-description",
+    "text": "ReGLOSS(이)가 2명 이상이면 ReGLOSS2명의 스코어 서포트 효과 9% "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-06004-5-uniq-0098-00.2-description",
+    "text": "ReGLOSS(이)가 2명 이상이면 ReGLOSS2명의 스코어 서포트 효과 [highlight]12[/highlight]% "
+  },
+  {
     "id": "la-generated-live_passive_skill-card-06005-3-nrml-0061-00.1-description",
     "text": "[attribute=happy]해피 타입[/attribute] 2명의 센스가 10% UP "
   },
@@ -1566,5 +1598,13 @@
   {
     "id": "la-generated-live_passive_skill-card-06005-5-uniq-0061-00.2-description",
     "text": "[attribute=cute]큐트 타입[/attribute] 2명의 퍼포먼스가 [highlight]41[/highlight]% UP "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-06005-5-uniq-0097-00.1-description",
+    "text": "ReGLOSS(이)가 2명 이상이면 자신의 전체 파라미터가 25% UP "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-06005-5-uniq-0097-00.2-description",
+    "text": "ReGLOSS(이)가 2명 이상이면 자신의 전체 파라미터가 [highlight]33[/highlight]% UP "
   }
 ]

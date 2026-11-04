@@ -160,6 +160,14 @@
     "text": "Grants Performance UP [highlight]43[/highlight]% to 2 Gen 1 Members. "
   },
   {
+    "id": "la-generated-live_passive_skill-card-00007-5-uniq-0096-00.1-description",
+    "text": "With 2 or more [attribute=pure]Pure Type[/attribute] Members, Grants Sense UP 32% to 2 [attribute=pure]Pure Type[/attribute] Members. "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-00007-5-uniq-0096-00.2-description",
+    "text": "With 2 or more [attribute=pure]Pure Type[/attribute] Members, Grants Sense UP [highlight]43[/highlight]% to 2 [attribute=pure]Pure Type[/attribute] Members. "
+  },
+  {
     "id": "la-generated-live_passive_skill-card-00010-3-nrml-0010-00.1-description",
     "text": "Grants Sense UP 10% to 2 [attribute=happy]Happy Type[/attribute] Members. "
   },
@@ -1072,6 +1080,14 @@
     "text": "With 2 or more ID Gen 3 Members, Grants All Stats UP [highlight]33[/highlight]% to self. "
   },
   {
+    "id": "la-generated-live_passive_skill-card-03007-5-uniq-0100-00.1-description",
+    "text": "Grants Score Support Effect of 8% to 2 [attribute=pure]Pure Type[/attribute] Members. "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-03007-5-uniq-0100-00.2-description",
+    "text": "Grants Score Support Effect of [highlight]11[/highlight]% to 2 [attribute=pure]Pure Type[/attribute] Members. "
+  },
+  {
     "id": "la-generated-live_passive_skill-card-03008-3-nrml-0040-00.1-description",
     "text": "With 2 or more [attribute=happy]Happy Type[/attribute] Members, Grants Performance UP 7% to 3 [attribute=happy]Happy Type[/attribute] Members. "
   },
@@ -1392,6 +1408,14 @@
     "text": "With 2 or more Advent Members, Grants All Stats UP [highlight]33[/highlight]% to self. "
   },
   {
+    "id": "la-generated-live_passive_skill-card-04015-5-uniq-0099-00.1-description",
+    "text": "With 2 or more [attribute=happy]Happy Type[/attribute] Members, Grants Performance UP 32% to 2 [attribute=happy]Happy Type[/attribute] Members. "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-04015-5-uniq-0099-00.2-description",
+    "text": "With 2 or more [attribute=happy]Happy Type[/attribute] Members, Grants Performance UP [highlight]43[/highlight]% to 2 [attribute=happy]Happy Type[/attribute] Members. "
+  },
+  {
     "id": "la-generated-live_passive_skill-card-04016-3-nrml-0055-00.1-description",
     "text": "With 2 or more [attribute=happy]Happy Type[/attribute] Members, Grants All Stats UP 8% to self. "
   },
@@ -1544,6 +1568,14 @@
     "text": "Grants Sense UP [highlight]43[/highlight]% to 2 ReGLOSS Members. "
   },
   {
+    "id": "la-generated-live_passive_skill-card-06004-5-uniq-0098-00.1-description",
+    "text": "With 2 or more ReGLOSS Members, Grants Score Support Effect of 9% to 2 ReGLOSS Members. "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-06004-5-uniq-0098-00.2-description",
+    "text": "With 2 or more ReGLOSS Members, Grants Score Support Effect of [highlight]12[/highlight]% to 2 ReGLOSS Members. "
+  },
+  {
     "id": "la-generated-live_passive_skill-card-06005-3-nrml-0061-00.1-description",
     "text": "Grants Sense UP 10% to 2 [attribute=happy]Happy Type[/attribute] Members. "
   },
@@ -1566,5 +1598,13 @@
   {
     "id": "la-generated-live_passive_skill-card-06005-5-uniq-0061-00.2-description",
     "text": "Grants Performance UP [highlight]41[/highlight]% to 2 [attribute=cute]Cute Type[/attribute] Members. "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-06005-5-uniq-0097-00.1-description",
+    "text": "With 2 or more ReGLOSS Members, Grants All Stats UP 25% to self. "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-06005-5-uniq-0097-00.2-description",
+    "text": "With 2 or more ReGLOSS Members, Grants All Stats UP [highlight]33[/highlight]% to self. "
   }
 ]

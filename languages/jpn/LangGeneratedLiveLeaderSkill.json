@@ -80,6 +80,10 @@
     "text": "全員のパフォーマンスが120%UP"
   },
   {
+    "id": "la-generated-live_leader_skill-card-00007-5-uniq-0096-00-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人以上で全員のセンスが130%UP"
+  },
+  {
     "id": "la-generated-live_leader_skill-card-00010-3-nrml-0010-00-description",
     "text": "全員の全パラメータが15%UP"
   },
@@ -536,6 +540,10 @@
     "text": "ID3期生が2人以上で全員の全パラメータが50%UP"
   },
   {
+    "id": "la-generated-live_leader_skill-card-03007-5-uniq-0100-00-description",
+    "text": "[attribute=pure]ピュアタイプ[/attribute]2人以上で全員のテクニックが130%UP"
+  },
+  {
     "id": "la-generated-live_leader_skill-card-03008-3-nrml-0040-00-description",
     "text": "全員の全パラメータが15%UP"
   },
@@ -696,6 +704,10 @@
     "text": "Adventが2人以上で全員の全パラメータが50%UP"
   },
   {
+    "id": "la-generated-live_leader_skill-card-04015-5-uniq-0099-00-description",
+    "text": "[attribute=happy]ハッピータイプ[/attribute]2人以上で全員のパフォーマンスが80%UP\n[attribute=happy]ハッピータイプ[/attribute]2人以上で全員のスコアサポート効果25%"
+  },
+  {
     "id": "la-generated-live_leader_skill-card-04016-3-nrml-0055-00-description",
     "text": "全員の全パラメータが15%UP"
   },
@@ -772,6 +784,10 @@
     "text": "全員のセンスが120%UP"
   },
   {
+    "id": "la-generated-live_leader_skill-card-06004-5-uniq-0098-00-description",
+    "text": "ReGLOSSが2人以上で全員のテクニックが135%UP"
+  },
+  {
     "id": "la-generated-live_leader_skill-card-06005-3-nrml-0061-00-description",
     "text": "全員の全パラメータが15%UP"
   },
@@ -782,5 +798,9 @@
   {
     "id": "la-generated-live_leader_skill-card-06005-5-uniq-0061-00-description",
     "text": "全員のパフォーマンスが120%UP"
+  },
+  {
+    "id": "la-generated-live_leader_skill-card-06005-5-uniq-0097-00-description",
+    "text": "ReGLOSSが2人以上で全員の全パラメータが50%UP"
   }
 ]

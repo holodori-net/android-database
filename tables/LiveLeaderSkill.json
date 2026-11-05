@@ -644,6 +644,12 @@
     "description_lang_id": "la-generated-live_leader_skill-card-03001-5-uniq-0033-00-description"
   },
   {
+    "id": "live_leader_skill-card-03001-5-uniq-0114-00",
+    "live_skill_trigger_group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-2",
+    "live_passive_skill_effect_group_id": "live_leader_skill_effect-sense_up_permil_up-1350-live_skill_effect_target-all",
+    "description_lang_id": "la-generated-live_leader_skill-card-03001-5-uniq-0114-00-description"
+  },
+  {
     "id": "live_leader_skill-card-03002-3-nrml-0034-00",
     "live_passive_skill_effect_group_id": "live_leader_skill_effect-all_parameter_up_permil_up-150-live_skill_effect_target-all",
     "description_lang_id": "la-generated-live_leader_skill-card-03002-3-nrml-0034-00-description"
@@ -658,6 +664,14 @@
     "live_skill_trigger_group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-2",
     "live_passive_skill_effect_group_id": "live_leader_skill_effect-all_parameter_up_permil_up-500-live_skill_effect_target-all",
     "description_lang_id": "la-generated-live_leader_skill-card-03002-5-uniq-0034-00-description"
+  },
+  {
+    "id": "live_leader_skill-card-03002-5-uniq-0113-00",
+    "live_skill_trigger_group_id": "live_skill_trigger-deck_card_attribute-attribute_3-2",
+    "live_passive_skill_effect_group_id": "live_leader_skill_effect-performance_up_permil_up-800-live_skill_effect_target-all",
+    "additional_live_skill_trigger_group_id": "live_skill_trigger-deck_card_attribute-attribute_3-2",
+    "additional_live_passive_skill_effect_group_id": "live_leader_skill_effect-live_active_skill_effect_up_permil_up-250-live_skill_effect_target-all",
+    "description_lang_id": "la-generated-live_leader_skill-card-03002-5-uniq-0113-00-description"
   },
   {
     "id": "live_leader_skill-card-03003-3-nrml-0035-00",
@@ -675,6 +689,12 @@
     "live_skill_trigger_group_id": "live_skill_trigger-deck_card_attribute-attribute_2-2",
     "live_passive_skill_effect_group_id": "live_leader_skill_effect-technique_up_permil_up-1300-live_skill_effect_target-all",
     "description_lang_id": "la-generated-live_leader_skill-card-03003-5-uniq-0035-00-description"
+  },
+  {
+    "id": "live_leader_skill-card-03003-5-uniq-0115-00",
+    "live_skill_trigger_group_id": "live_skill_trigger-deck_card_attribute-attribute_1-2",
+    "live_passive_skill_effect_group_id": "live_leader_skill_effect-performance_up_permil_up-1300-live_skill_effect_target-all",
+    "description_lang_id": "la-generated-live_leader_skill-card-03003-5-uniq-0115-00-description"
   },
   {
     "id": "live_leader_skill-card-03004-3-nrml-0036-00",

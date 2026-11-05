@@ -1584,6 +1584,20 @@
     "order": 26070003
   },
   {
+    "id": "cos-03001-uniq-0114-00",
+    "character_id": "chr-03001",
+    "name_lang_id": "la-cos-03001-uniq-0114-00",
+    "live_leader_skill_id": "live_leader_skill-card-03001-5-uniq-0114-00",
+    "asset_id": "03001-uniq-0114-00",
+    "expression_asset_id": "000",
+    "live_start_character_voice_id": "cv-live_cmn_chr-03001_03001-5-uniq-0114-00_start-card",
+    "rarity_type": {
+      "name": "COSTUME_RARITY_TYPE_RARITY_5",
+      "number": 5
+    },
+    "order": 26112001
+  },
+  {
     "id": "cos-03002-cmmn-0000-00",
     "character_id": "chr-03002",
     "name_lang_id": "la-cos-03002-cmmn-0000-00",
@@ -1624,6 +1638,20 @@
     "order": 26070003
   },
   {
+    "id": "cos-03002-uniq-0113-00",
+    "character_id": "chr-03002",
+    "name_lang_id": "la-cos-03002-uniq-0113-00",
+    "live_leader_skill_id": "live_leader_skill-card-03002-5-uniq-0113-00",
+    "asset_id": "03002-uniq-0113-00",
+    "expression_asset_id": "000",
+    "live_start_character_voice_id": "cv-live_cmn_chr-03002_03002-5-uniq-0113-00_start-card",
+    "rarity_type": {
+      "name": "COSTUME_RARITY_TYPE_RARITY_5",
+      "number": 5
+    },
+    "order": 26112001
+  },
+  {
     "id": "cos-03003-cmmn-0000-00",
     "character_id": "chr-03003",
     "name_lang_id": "la-cos-03003-cmmn-0000-00",
@@ -1662,6 +1690,20 @@
       "number": 5
     },
     "order": 26070003
+  },
+  {
+    "id": "cos-03003-uniq-0115-00",
+    "character_id": "chr-03003",
+    "name_lang_id": "la-cos-03003-uniq-0115-00",
+    "live_leader_skill_id": "live_leader_skill-card-03003-5-uniq-0115-00",
+    "asset_id": "03003-uniq-0115-00",
+    "expression_asset_id": "000",
+    "live_start_character_voice_id": "cv-live_cmn_chr-03003_03003-5-uniq-0115-00_start-card",
+    "rarity_type": {
+      "name": "COSTUME_RARITY_TYPE_RARITY_5",
+      "number": 5
+    },
+    "order": 26112001
   },
   {
     "id": "cos-03004-cmmn-0000-00",

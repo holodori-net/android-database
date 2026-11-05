@@ -336,6 +336,10 @@
     "text": "[attribute=happy]ハッピータイプ[/attribute]2人のパフォーマンスが30%UP"
   },
   {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のパフォーマンスが32%UP"
+  },
+  {
     "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-attribute-attribute_2-2.1-description",
     "text": "[attribute=pure]ピュアタイプ[/attribute]2人のパフォーマンスが32%UP"
   },
@@ -394,6 +398,10 @@
   {
     "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-410-live_skill_effect_target-attribute-attribute_2-2.1-description",
     "text": "[attribute=pure]ピュアタイプ[/attribute]2人のパフォーマンスが41%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "[attribute=cute]キュートタイプ[/attribute]2人のパフォーマンスが43%UP"
   },
   {
     "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-attribute-attribute_2-2.1-description",
@@ -540,6 +548,10 @@
     "text": "1期生2人のセンスが32%UP"
   },
   {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2.1-description",
+    "text": "ID1期生2人のセンスが32%UP"
+  },
+  {
     "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2.1-description",
     "text": "ID3期生2人のセンスが32%UP"
   },
@@ -598,6 +610,10 @@
   {
     "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
     "text": "1期生2人のセンスが43%UP"
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2.1-description",
+    "text": "ID1期生2人のセンスが43%UP"
   },
   {
     "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2.1-description",

@@ -4245,6 +4245,82 @@
     "order": 2000105
   },
   {
+    "id": "cv-cmn_chr-03001_03001-5-uniq-0114-00_card-detail",
+    "character_id": "chr-03001",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-detail",
+    "text_lang_id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-detail",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "unlock_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "voice_asset_id": "vo_card_cmn_03001_03001-5-uniq-0114-00_situation",
+    "order": 2020206
+  },
+  {
+    "id": "cv-cmn_chr-03001_03001-5-uniq-0114-00_card-get",
+    "character_id": "chr-03001",
+    "name_lang_id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-get",
+    "text_lang_id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-get",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "unlock_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "voice_asset_id": "vo_live_dial_card_03001_03001-5-uniq-0114-00_myself",
+    "order": 9020201
+  },
+  {
+    "id": "cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-01",
+    "character_id": "chr-03001",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-01",
+    "text_lang_id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-01",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-01",
+    "voice_asset_id": "vo_card_cmn_03001_03001-5-uniq-0114-00_potential-001",
+    "order": 2020201
+  },
+  {
+    "id": "cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-02",
+    "character_id": "chr-03001",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-02",
+    "text_lang_id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-02",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-02",
+    "voice_asset_id": "vo_card_cmn_03001_03001-5-uniq-0114-00_potential-002",
+    "order": 2020202
+  },
+  {
+    "id": "cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-03",
+    "character_id": "chr-03001",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-03",
+    "text_lang_id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-03",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-03",
+    "voice_asset_id": "vo_card_cmn_03001_03001-5-uniq-0114-00_potential-003",
+    "order": 2020203
+  },
+  {
+    "id": "cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-04",
+    "character_id": "chr-03001",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-04",
+    "text_lang_id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-04",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-04",
+    "voice_asset_id": "vo_card_cmn_03001_03001-5-uniq-0114-00_potential-004",
+    "order": 2020204
+  },
+  {
+    "id": "cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-05",
+    "character_id": "chr-03001",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-05",
+    "text_lang_id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-05",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-05",
+    "voice_asset_id": "vo_card_cmn_03001_03001-5-uniq-0114-00_potential-005",
+    "order": 2020205
+  },
+  {
     "id": "cv-cmn_chr-03002_03002-5-uniq-0034-00_card-detail",
     "character_id": "chr-03002",
     "character_voice_category_id": "character_voice_category-member",
@@ -4328,6 +4404,82 @@
     "order": 2000105
   },
   {
+    "id": "cv-cmn_chr-03002_03002-5-uniq-0113-00_card-detail",
+    "character_id": "chr-03002",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-detail",
+    "text_lang_id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-detail",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "unlock_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "voice_asset_id": "vo_card_cmn_03002_03002-5-uniq-0113-00_situation",
+    "order": 2020306
+  },
+  {
+    "id": "cv-cmn_chr-03002_03002-5-uniq-0113-00_card-get",
+    "character_id": "chr-03002",
+    "name_lang_id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-get",
+    "text_lang_id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-get",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "unlock_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "voice_asset_id": "vo_live_dial_card_03002_03002-5-uniq-0113-00_myself",
+    "order": 9020301
+  },
+  {
+    "id": "cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-01",
+    "character_id": "chr-03002",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-01",
+    "text_lang_id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-01",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-01",
+    "voice_asset_id": "vo_card_cmn_03002_03002-5-uniq-0113-00_potential-001",
+    "order": 2020301
+  },
+  {
+    "id": "cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-02",
+    "character_id": "chr-03002",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-02",
+    "text_lang_id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-02",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-02",
+    "voice_asset_id": "vo_card_cmn_03002_03002-5-uniq-0113-00_potential-002",
+    "order": 2020302
+  },
+  {
+    "id": "cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-03",
+    "character_id": "chr-03002",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-03",
+    "text_lang_id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-03",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-03",
+    "voice_asset_id": "vo_card_cmn_03002_03002-5-uniq-0113-00_potential-003",
+    "order": 2020303
+  },
+  {
+    "id": "cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-04",
+    "character_id": "chr-03002",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-04",
+    "text_lang_id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-04",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-04",
+    "voice_asset_id": "vo_card_cmn_03002_03002-5-uniq-0113-00_potential-004",
+    "order": 2020304
+  },
+  {
+    "id": "cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-05",
+    "character_id": "chr-03002",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-05",
+    "text_lang_id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-05",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-05",
+    "voice_asset_id": "vo_card_cmn_03002_03002-5-uniq-0113-00_potential-005",
+    "order": 2020305
+  },
+  {
     "id": "cv-cmn_chr-03003_03003-5-uniq-0035-00_card-detail",
     "character_id": "chr-03003",
     "character_voice_category_id": "character_voice_category-member",
@@ -4409,6 +4561,82 @@
     "voice_asset_id": "vo_card_cmn_03003_03003-5-uniq-0035-00_potential-005",
     "is_lip_sync": true,
     "order": 2000105
+  },
+  {
+    "id": "cv-cmn_chr-03003_03003-5-uniq-0115-00_card-detail",
+    "character_id": "chr-03003",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-detail",
+    "text_lang_id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-detail",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "unlock_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "voice_asset_id": "vo_card_cmn_03003_03003-5-uniq-0115-00_situation",
+    "order": 2020406
+  },
+  {
+    "id": "cv-cmn_chr-03003_03003-5-uniq-0115-00_card-get",
+    "character_id": "chr-03003",
+    "name_lang_id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-get",
+    "text_lang_id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-get",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "unlock_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "voice_asset_id": "vo_live_dial_card_03003_03003-5-uniq-0115-00_myself",
+    "order": 9020401
+  },
+  {
+    "id": "cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-01",
+    "character_id": "chr-03003",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-01",
+    "text_lang_id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-01",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-01",
+    "voice_asset_id": "vo_card_cmn_03003_03003-5-uniq-0115-00_potential-001",
+    "order": 2020401
+  },
+  {
+    "id": "cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-02",
+    "character_id": "chr-03003",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-02",
+    "text_lang_id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-02",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-02",
+    "voice_asset_id": "vo_card_cmn_03003_03003-5-uniq-0115-00_potential-002",
+    "order": 2020402
+  },
+  {
+    "id": "cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-03",
+    "character_id": "chr-03003",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-03",
+    "text_lang_id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-03",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-03",
+    "voice_asset_id": "vo_card_cmn_03003_03003-5-uniq-0115-00_potential-003",
+    "order": 2020403
+  },
+  {
+    "id": "cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-04",
+    "character_id": "chr-03003",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-04",
+    "text_lang_id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-04",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-04",
+    "voice_asset_id": "vo_card_cmn_03003_03003-5-uniq-0115-00_potential-004",
+    "order": 2020404
+  },
+  {
+    "id": "cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-05",
+    "character_id": "chr-03003",
+    "character_voice_category_id": "character_voice_category-member",
+    "name_lang_id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-05",
+    "text_lang_id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-05",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "unlock_condition_group_id": "cd-cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-05",
+    "voice_asset_id": "vo_card_cmn_03003_03003-5-uniq-0115-00_potential-005",
+    "order": 2020405
   },
   {
     "id": "cv-cmn_chr-03004_03004-5-uniq-0036-00_card-detail",
@@ -9274,6 +9502,28 @@
     "order": 5000001
   },
   {
+    "id": "cv-live_cmn_chr-03001_03001-5-uniq-0114-00_skill-card",
+    "character_id": "chr-03001",
+    "character_voice_category_id": "character_voice_category-live",
+    "name_lang_id": "la-name_cv-live_cmn_chr-03001_03001-5-uniq-0114-00_skill-card",
+    "text_lang_id": "la-text_cv-live_cmn_chr-03001_03001-5-uniq-0114-00_skill-card",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "unlock_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "voice_asset_id": "vo_live_cmn_card_03001_03001-5-uniq-0114-00_skill-card",
+    "order": 5020202
+  },
+  {
+    "id": "cv-live_cmn_chr-03001_03001-5-uniq-0114-00_start-card",
+    "character_id": "chr-03001",
+    "character_voice_category_id": "character_voice_category-live",
+    "name_lang_id": "la-name_cv-live_cmn_chr-03001_03001-5-uniq-0114-00_start-card",
+    "text_lang_id": "la-text_cv-live_cmn_chr-03001_03001-5-uniq-0114-00_start-card",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "unlock_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "voice_asset_id": "vo_live_cmn_card_03001_03001-5-uniq-0114-00_start-card",
+    "order": 5020201
+  },
+  {
     "id": "cv-live_cmn_chr-03001_myself-001",
     "character_id": "chr-03001",
     "character_voice_category_id": "character_voice_category-live",
@@ -9318,6 +9568,28 @@
     "order": 5000001
   },
   {
+    "id": "cv-live_cmn_chr-03002_03002-5-uniq-0113-00_skill-card",
+    "character_id": "chr-03002",
+    "character_voice_category_id": "character_voice_category-live",
+    "name_lang_id": "la-name_cv-live_cmn_chr-03002_03002-5-uniq-0113-00_skill-card",
+    "text_lang_id": "la-text_cv-live_cmn_chr-03002_03002-5-uniq-0113-00_skill-card",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "unlock_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "voice_asset_id": "vo_live_cmn_card_03002_03002-5-uniq-0113-00_skill-card",
+    "order": 5020302
+  },
+  {
+    "id": "cv-live_cmn_chr-03002_03002-5-uniq-0113-00_start-card",
+    "character_id": "chr-03002",
+    "character_voice_category_id": "character_voice_category-live",
+    "name_lang_id": "la-name_cv-live_cmn_chr-03002_03002-5-uniq-0113-00_start-card",
+    "text_lang_id": "la-text_cv-live_cmn_chr-03002_03002-5-uniq-0113-00_start-card",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "unlock_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "voice_asset_id": "vo_live_cmn_card_03002_03002-5-uniq-0113-00_start-card",
+    "order": 5020301
+  },
+  {
     "id": "cv-live_cmn_chr-03002_myself-001",
     "character_id": "chr-03002",
     "character_voice_category_id": "character_voice_category-live",
@@ -9360,6 +9632,28 @@
     "voice_asset_id": "vo_live_cmn_card_03003_03003-5-uniq-0035-00_start-card",
     "is_lip_sync": true,
     "order": 5000001
+  },
+  {
+    "id": "cv-live_cmn_chr-03003_03003-5-uniq-0115-00_skill-card",
+    "character_id": "chr-03003",
+    "character_voice_category_id": "character_voice_category-live",
+    "name_lang_id": "la-name_cv-live_cmn_chr-03003_03003-5-uniq-0115-00_skill-card",
+    "text_lang_id": "la-text_cv-live_cmn_chr-03003_03003-5-uniq-0115-00_skill-card",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "unlock_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "voice_asset_id": "vo_live_cmn_card_03003_03003-5-uniq-0115-00_skill-card",
+    "order": 5020402
+  },
+  {
+    "id": "cv-live_cmn_chr-03003_03003-5-uniq-0115-00_start-card",
+    "character_id": "chr-03003",
+    "character_voice_category_id": "character_voice_category-live",
+    "name_lang_id": "la-name_cv-live_cmn_chr-03003_03003-5-uniq-0115-00_start-card",
+    "text_lang_id": "la-text_cv-live_cmn_chr-03003_03003-5-uniq-0115-00_start-card",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "unlock_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "voice_asset_id": "vo_live_cmn_card_03003_03003-5-uniq-0115-00_start-card",
+    "order": 5020401
   },
   {
     "id": "cv-live_cmn_chr-03003_myself-001",
@@ -52406,6 +52700,61 @@
     "order": 5000003
   },
   {
+    "id": "cv-live_dial_chr-03001_03001-5-uniq-0114-00_03001-to-03002",
+    "character_id": "chr-03001",
+    "name_lang_id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03001-to-03002",
+    "text_lang_id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03001-to-03002",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "voice_asset_id": "vo_live_dial_card_03001_03001-5-uniq-0114-00_03001-to-03002",
+    "motion_asset_id": "live2d_mot_turn-l-04_lv03",
+    "expression_asset_id": "live2d_exp_smile-01_03001_000",
+    "is_lip_sync": true,
+    "order": 6020201
+  },
+  {
+    "id": "cv-live_dial_chr-03001_03001-5-uniq-0114-00_03001-to-03003",
+    "character_id": "chr-03001",
+    "name_lang_id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03001-to-03003",
+    "text_lang_id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03001-to-03003",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "voice_asset_id": "vo_live_dial_card_03001_03001-5-uniq-0114-00_03001-to-03003",
+    "motion_asset_id": "live2d_mot_turn-l-03_lv03",
+    "expression_asset_id": "live2d_exp_smile-01_03001_000",
+    "is_lip_sync": true,
+    "order": 6020202
+  },
+  {
+    "id": "cv-live_dial_chr-03001_03001-5-uniq-0114-00_03002-to-03001",
+    "character_id": "chr-03001",
+    "name_lang_id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03002-to-03001",
+    "text_lang_id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03002-to-03001",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "voice_asset_id": "vo_live_dial_card_03001_03001-5-uniq-0114-00_03002-to-03001",
+    "is_lip_sync": true,
+    "order": 7020201
+  },
+  {
+    "id": "cv-live_dial_chr-03001_03001-5-uniq-0114-00_03003-to-03001",
+    "character_id": "chr-03001",
+    "name_lang_id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03003-to-03001",
+    "text_lang_id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03003-to-03001",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "voice_asset_id": "vo_live_dial_card_03001_03001-5-uniq-0114-00_03003-to-03001",
+    "is_lip_sync": true,
+    "order": 7020202
+  },
+  {
+    "id": "cv-live_dial_chr-03001_03001-5-uniq-0114-00_myself",
+    "character_id": "chr-03001",
+    "character_voice_category_id": "character_voice_category-live",
+    "name_lang_id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_myself",
+    "text_lang_id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_myself",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "unlock_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "voice_asset_id": "vo_live_dial_card_03001_03001-5-uniq-0114-00_myself",
+    "order": 5020203
+  },
+  {
     "id": "cv-live_dial_chr-03001_03001-to-00001",
     "character_id": "chr-03001",
     "name_lang_id": "la-name_cv-live_dial_chr-03001_03001-to-00001",
@@ -53052,6 +53401,28 @@
     "order": 7000067
   },
   {
+    "id": "cv-live_dial_chr-03001_03002-5-uniq-0113-00_03001-to-03002",
+    "character_id": "chr-03001",
+    "name_lang_id": "la-name_cv-live_dial_chr-03001_03002-5-uniq-0113-00_03001-to-03002",
+    "text_lang_id": "la-text_cv-live_dial_chr-03001_03002-5-uniq-0113-00_03001-to-03002",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "voice_asset_id": "vo_live_dial_card_03001_03002-5-uniq-0113-00_03001-to-03002",
+    "motion_asset_id": "live2d_mot_turn-l-04_lv03",
+    "expression_asset_id": "live2d_exp_smile-01_03001_000",
+    "is_lip_sync": true,
+    "order": 6020301
+  },
+  {
+    "id": "cv-live_dial_chr-03001_03002-5-uniq-0113-00_03002-to-03001",
+    "character_id": "chr-03001",
+    "name_lang_id": "la-name_cv-live_dial_chr-03001_03002-5-uniq-0113-00_03002-to-03001",
+    "text_lang_id": "la-text_cv-live_dial_chr-03001_03002-5-uniq-0113-00_03002-to-03001",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "voice_asset_id": "vo_live_dial_card_03001_03002-5-uniq-0113-00_03002-to-03001",
+    "is_lip_sync": true,
+    "order": 7020301
+  },
+  {
     "id": "cv-live_dial_chr-03001_03002-to-03001",
     "character_id": "chr-03001",
     "name_lang_id": "la-name_cv-live_dial_chr-03001_03002-to-03001",
@@ -53070,6 +53441,28 @@
     "voice_asset_id": "vo_live_dial_card_03001_03003-5-uniq-0035-00_03003-to-03001",
     "is_lip_sync": true,
     "order": 7000069
+  },
+  {
+    "id": "cv-live_dial_chr-03001_03003-5-uniq-0115-00_03001-to-03003",
+    "character_id": "chr-03001",
+    "name_lang_id": "la-name_cv-live_dial_chr-03001_03003-5-uniq-0115-00_03001-to-03003",
+    "text_lang_id": "la-text_cv-live_dial_chr-03001_03003-5-uniq-0115-00_03001-to-03003",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "voice_asset_id": "vo_live_dial_card_03001_03003-5-uniq-0115-00_03001-to-03003",
+    "motion_asset_id": "live2d_mot_turn-l-03_lv03",
+    "expression_asset_id": "live2d_exp_smile-01_03001_000",
+    "is_lip_sync": true,
+    "order": 6020401
+  },
+  {
+    "id": "cv-live_dial_chr-03001_03003-5-uniq-0115-00_03003-to-03001",
+    "character_id": "chr-03001",
+    "name_lang_id": "la-name_cv-live_dial_chr-03001_03003-5-uniq-0115-00_03003-to-03001",
+    "text_lang_id": "la-text_cv-live_dial_chr-03001_03003-5-uniq-0115-00_03003-to-03001",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "voice_asset_id": "vo_live_dial_card_03001_03003-5-uniq-0115-00_03003-to-03001",
+    "is_lip_sync": true,
+    "order": 7020401
   },
   {
     "id": "cv-live_dial_chr-03001_03003-to-03001",
@@ -53624,6 +54017,28 @@
     "order": 7000065
   },
   {
+    "id": "cv-live_dial_chr-03002_03001-5-uniq-0114-00_03001-to-03002",
+    "character_id": "chr-03002",
+    "name_lang_id": "la-name_cv-live_dial_chr-03002_03001-5-uniq-0114-00_03001-to-03002",
+    "text_lang_id": "la-text_cv-live_dial_chr-03002_03001-5-uniq-0114-00_03001-to-03002",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "voice_asset_id": "vo_live_dial_card_03002_03001-5-uniq-0114-00_03001-to-03002",
+    "is_lip_sync": true,
+    "order": 7020201
+  },
+  {
+    "id": "cv-live_dial_chr-03002_03001-5-uniq-0114-00_03002-to-03001",
+    "character_id": "chr-03002",
+    "name_lang_id": "la-name_cv-live_dial_chr-03002_03001-5-uniq-0114-00_03002-to-03001",
+    "text_lang_id": "la-text_cv-live_dial_chr-03002_03001-5-uniq-0114-00_03002-to-03001",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "voice_asset_id": "vo_live_dial_card_03002_03001-5-uniq-0114-00_03002-to-03001",
+    "motion_asset_id": "live2d_mot_turn-l-04_lv01",
+    "expression_asset_id": "live2d_exp_smile-01_03002_000",
+    "is_lip_sync": true,
+    "order": 6020201
+  },
+  {
     "id": "cv-live_dial_chr-03002_03001-to-03002",
     "character_id": "chr-03002",
     "name_lang_id": "la-name_cv-live_dial_chr-03002_03001-to-03002",
@@ -53668,6 +54083,61 @@
     "voice_asset_id": "vo_live_dial_card_03002_03002-5-uniq-0034-00_myself",
     "is_lip_sync": true,
     "order": 5000003
+  },
+  {
+    "id": "cv-live_dial_chr-03002_03002-5-uniq-0113-00_03001-to-03002",
+    "character_id": "chr-03002",
+    "name_lang_id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03001-to-03002",
+    "text_lang_id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03001-to-03002",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "voice_asset_id": "vo_live_dial_card_03002_03002-5-uniq-0113-00_03001-to-03002",
+    "is_lip_sync": true,
+    "order": 7020301
+  },
+  {
+    "id": "cv-live_dial_chr-03002_03002-5-uniq-0113-00_03002-to-03001",
+    "character_id": "chr-03002",
+    "name_lang_id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03002-to-03001",
+    "text_lang_id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03002-to-03001",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "voice_asset_id": "vo_live_dial_card_03002_03002-5-uniq-0113-00_03002-to-03001",
+    "motion_asset_id": "live2d_mot_turn-l-03_lv01",
+    "expression_asset_id": "live2d_exp_smile-01_03002_000",
+    "is_lip_sync": true,
+    "order": 6020301
+  },
+  {
+    "id": "cv-live_dial_chr-03002_03002-5-uniq-0113-00_03002-to-03003",
+    "character_id": "chr-03002",
+    "name_lang_id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03002-to-03003",
+    "text_lang_id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03002-to-03003",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "voice_asset_id": "vo_live_dial_card_03002_03002-5-uniq-0113-00_03002-to-03003",
+    "motion_asset_id": "live2d_mot_turn-l-04_lv01",
+    "expression_asset_id": "live2d_exp_smile-01_03002_000",
+    "is_lip_sync": true,
+    "order": 6020302
+  },
+  {
+    "id": "cv-live_dial_chr-03002_03002-5-uniq-0113-00_03003-to-03002",
+    "character_id": "chr-03002",
+    "name_lang_id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03003-to-03002",
+    "text_lang_id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03003-to-03002",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "voice_asset_id": "vo_live_dial_card_03002_03002-5-uniq-0113-00_03003-to-03002",
+    "is_lip_sync": true,
+    "order": 7020302
+  },
+  {
+    "id": "cv-live_dial_chr-03002_03002-5-uniq-0113-00_myself",
+    "character_id": "chr-03002",
+    "character_voice_category_id": "character_voice_category-live",
+    "name_lang_id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_myself",
+    "text_lang_id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_myself",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "unlock_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "voice_asset_id": "vo_live_dial_card_03002_03002-5-uniq-0113-00_myself",
+    "order": 5020303
   },
   {
     "id": "cv-live_dial_chr-03002_03002-to-00001",
@@ -54316,6 +54786,28 @@
     "order": 7000069
   },
   {
+    "id": "cv-live_dial_chr-03002_03003-5-uniq-0115-00_03002-to-03003",
+    "character_id": "chr-03002",
+    "name_lang_id": "la-name_cv-live_dial_chr-03002_03003-5-uniq-0115-00_03002-to-03003",
+    "text_lang_id": "la-text_cv-live_dial_chr-03002_03003-5-uniq-0115-00_03002-to-03003",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "voice_asset_id": "vo_live_dial_card_03002_03003-5-uniq-0115-00_03002-to-03003",
+    "motion_asset_id": "live2d_mot_turn-l-03_lv01",
+    "expression_asset_id": "live2d_exp_smile-01_03002_000",
+    "is_lip_sync": true,
+    "order": 6020402
+  },
+  {
+    "id": "cv-live_dial_chr-03002_03003-5-uniq-0115-00_03003-to-03002",
+    "character_id": "chr-03002",
+    "name_lang_id": "la-name_cv-live_dial_chr-03002_03003-5-uniq-0115-00_03003-to-03002",
+    "text_lang_id": "la-text_cv-live_dial_chr-03002_03003-5-uniq-0115-00_03003-to-03002",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "voice_asset_id": "vo_live_dial_card_03002_03003-5-uniq-0115-00_03003-to-03002",
+    "is_lip_sync": true,
+    "order": 7020402
+  },
+  {
     "id": "cv-live_dial_chr-03002_03003-to-03002",
     "character_id": "chr-03002",
     "name_lang_id": "la-name_cv-live_dial_chr-03002_03003-to-03002",
@@ -54868,6 +55360,28 @@
     "order": 7000065
   },
   {
+    "id": "cv-live_dial_chr-03003_03001-5-uniq-0114-00_03001-to-03003",
+    "character_id": "chr-03003",
+    "name_lang_id": "la-name_cv-live_dial_chr-03003_03001-5-uniq-0114-00_03001-to-03003",
+    "text_lang_id": "la-text_cv-live_dial_chr-03003_03001-5-uniq-0114-00_03001-to-03003",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "voice_asset_id": "vo_live_dial_card_03003_03001-5-uniq-0114-00_03001-to-03003",
+    "is_lip_sync": true,
+    "order": 7020202
+  },
+  {
+    "id": "cv-live_dial_chr-03003_03001-5-uniq-0114-00_03003-to-03001",
+    "character_id": "chr-03003",
+    "name_lang_id": "la-name_cv-live_dial_chr-03003_03001-5-uniq-0114-00_03003-to-03001",
+    "text_lang_id": "la-text_cv-live_dial_chr-03003_03001-5-uniq-0114-00_03003-to-03001",
+    "view_condition_group_id": "cd-obtain-card-03001-5-uniq-0114-00",
+    "voice_asset_id": "vo_live_dial_card_03003_03001-5-uniq-0114-00_03003-to-03001",
+    "motion_asset_id": "live2d_mot_turn-l-04_lv03",
+    "expression_asset_id": "live2d_exp_smile-01_03003_000",
+    "is_lip_sync": true,
+    "order": 6020202
+  },
+  {
     "id": "cv-live_dial_chr-03003_03001-to-03003",
     "character_id": "chr-03003",
     "name_lang_id": "la-name_cv-live_dial_chr-03003_03001-to-03003",
@@ -54886,6 +55400,28 @@
     "voice_asset_id": "vo_live_dial_card_03003_03002-5-uniq-0034-00_03002-to-03003",
     "is_lip_sync": true,
     "order": 7000067
+  },
+  {
+    "id": "cv-live_dial_chr-03003_03002-5-uniq-0113-00_03002-to-03003",
+    "character_id": "chr-03003",
+    "name_lang_id": "la-name_cv-live_dial_chr-03003_03002-5-uniq-0113-00_03002-to-03003",
+    "text_lang_id": "la-text_cv-live_dial_chr-03003_03002-5-uniq-0113-00_03002-to-03003",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "voice_asset_id": "vo_live_dial_card_03003_03002-5-uniq-0113-00_03002-to-03003",
+    "is_lip_sync": true,
+    "order": 7020302
+  },
+  {
+    "id": "cv-live_dial_chr-03003_03002-5-uniq-0113-00_03003-to-03002",
+    "character_id": "chr-03003",
+    "name_lang_id": "la-name_cv-live_dial_chr-03003_03002-5-uniq-0113-00_03003-to-03002",
+    "text_lang_id": "la-text_cv-live_dial_chr-03003_03002-5-uniq-0113-00_03003-to-03002",
+    "view_condition_group_id": "cd-obtain-card-03002-5-uniq-0113-00",
+    "voice_asset_id": "vo_live_dial_card_03003_03002-5-uniq-0113-00_03003-to-03002",
+    "motion_asset_id": "live2d_mot_turn-l-03_lv03",
+    "expression_asset_id": "live2d_exp_smile-01_03003_000",
+    "is_lip_sync": true,
+    "order": 6020302
   },
   {
     "id": "cv-live_dial_chr-03003_03002-to-03003",
@@ -54932,6 +55468,61 @@
     "voice_asset_id": "vo_live_dial_card_03003_03003-5-uniq-0035-00_myself",
     "is_lip_sync": true,
     "order": 5000003
+  },
+  {
+    "id": "cv-live_dial_chr-03003_03003-5-uniq-0115-00_03001-to-03003",
+    "character_id": "chr-03003",
+    "name_lang_id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03001-to-03003",
+    "text_lang_id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03001-to-03003",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "voice_asset_id": "vo_live_dial_card_03003_03003-5-uniq-0115-00_03001-to-03003",
+    "is_lip_sync": true,
+    "order": 7020401
+  },
+  {
+    "id": "cv-live_dial_chr-03003_03003-5-uniq-0115-00_03002-to-03003",
+    "character_id": "chr-03003",
+    "name_lang_id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03002-to-03003",
+    "text_lang_id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03002-to-03003",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "voice_asset_id": "vo_live_dial_card_03003_03003-5-uniq-0115-00_03002-to-03003",
+    "is_lip_sync": true,
+    "order": 7020402
+  },
+  {
+    "id": "cv-live_dial_chr-03003_03003-5-uniq-0115-00_03003-to-03001",
+    "character_id": "chr-03003",
+    "name_lang_id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03003-to-03001",
+    "text_lang_id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03003-to-03001",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "voice_asset_id": "vo_live_dial_card_03003_03003-5-uniq-0115-00_03003-to-03001",
+    "motion_asset_id": "live2d_mot_turn-l-04_lv03",
+    "expression_asset_id": "live2d_exp_smile-01_03003_000",
+    "is_lip_sync": true,
+    "order": 6020401
+  },
+  {
+    "id": "cv-live_dial_chr-03003_03003-5-uniq-0115-00_03003-to-03002",
+    "character_id": "chr-03003",
+    "name_lang_id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03003-to-03002",
+    "text_lang_id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03003-to-03002",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "voice_asset_id": "vo_live_dial_card_03003_03003-5-uniq-0115-00_03003-to-03002",
+    "motion_asset_id": "live2d_mot_turn-l-03_lv03",
+    "expression_asset_id": "live2d_exp_smile-01_03003_000",
+    "is_lip_sync": true,
+    "order": 6020402
+  },
+  {
+    "id": "cv-live_dial_chr-03003_03003-5-uniq-0115-00_myself",
+    "character_id": "chr-03003",
+    "character_voice_category_id": "character_voice_category-live",
+    "name_lang_id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_myself",
+    "text_lang_id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_myself",
+    "view_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "unlock_condition_group_id": "cd-obtain-card-03003-5-uniq-0115-00",
+    "voice_asset_id": "vo_live_dial_card_03003_03003-5-uniq-0115-00_myself",
+    "order": 5020403
   },
   {
     "id": "cv-live_dial_chr-03003_03003-to-00001",

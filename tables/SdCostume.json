@@ -1978,6 +1978,17 @@
     "order": 26070005
   },
   {
+    "id": "sdcos-03001-uniq-0114-00",
+    "character_id": "chr-03001",
+    "name_lang_id": "la-sdcos-03001-uniq-0114-00",
+    "hair_asset_id": "uniq-0114-00",
+    "accessory_hair_asset_id": "03001-base-0000-00",
+    "body_asset_id": "uniq-0114-00",
+    "base_thumbnail_asset_id": "default-001",
+    "base_thumbnail_color": "FFAAAA",
+    "order": 26112001
+  },
+  {
     "id": "sdcos-03002-cmmn-0000-00",
     "character_id": "chr-03002",
     "name_lang_id": "la-sdcos-03002-cmmn-0000-00",
@@ -2033,6 +2044,17 @@
     "order": 26070005
   },
   {
+    "id": "sdcos-03002-uniq-0113-00",
+    "character_id": "chr-03002",
+    "name_lang_id": "la-sdcos-03002-uniq-0113-00",
+    "hair_asset_id": "uniq-0113-00",
+    "accessory_hair_asset_id": "03002-base-0000-00",
+    "body_asset_id": "uniq-0113-00",
+    "base_thumbnail_asset_id": "default-001",
+    "base_thumbnail_color": "AA83FF",
+    "order": 26112001
+  },
+  {
     "id": "sdcos-03003-cmmn-0000-00",
     "character_id": "chr-03003",
     "name_lang_id": "la-sdcos-03003-cmmn-0000-00",
@@ -2086,6 +2108,17 @@
     "base_thumbnail_asset_id": "default-001",
     "base_thumbnail_color": "9CDF36",
     "order": 26070005
+  },
+  {
+    "id": "sdcos-03003-uniq-0115-00",
+    "character_id": "chr-03003",
+    "name_lang_id": "la-sdcos-03003-uniq-0115-00",
+    "hair_asset_id": "uniq-0115-00",
+    "accessory_hair_asset_id": "03003-base-0000-00",
+    "body_asset_id": "uniq-0115-00",
+    "base_thumbnail_asset_id": "default-001",
+    "base_thumbnail_color": "9CDF36",
+    "order": 26112001
   },
   {
     "id": "sdcos-03004-cmmn-0000-00",

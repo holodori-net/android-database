@@ -88,6 +88,18 @@
     "text": "【뒤돌아본 순간의 aventure 코요리】SP 스킬"
   },
   {
+    "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_myself",
+    "text": "【비몽사몽 몸단장을 리스】SP 스킬"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_myself",
+    "text": "【별이 빛나는 밤, 느긋한 목욕 타임 무나】SP 스킬"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_myself",
+    "text": "【따끈따끈 양지 스마일 이오피】SP 스킬"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
     "text": "【여름의 Crazy Dive 올리】SP 스킬"
   },
@@ -1328,6 +1340,22 @@
     "text": "【장난을 꾸미는 햇살 가득한 숲 리스】 SP 스킬"
   },
   {
+    "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03001-to-03002",
+    "text": "【비몽사몽 몸단장을 리스】리스&무나"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03001-to-03003",
+    "text": "【비몽사몽 몸단장을 리스】리스&이오피"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03002-to-03001",
+    "text": "【비몽사몽 몸단장을 리스】무나&리스"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03003-to-03001",
+    "text": "【비몽사몽 몸단장을 리스】이오피&리스"
+  },
+  {
     "id": "la-name_live_dial_voice_card_03002-5-uniq-0034-00_03002-to-03001",
     "text": "【Lunar Songstress 무나】무나&리스"
   },
@@ -1340,6 +1368,22 @@
     "text": "【Lunar Songstress 무나】 SP 스킬"
   },
   {
+    "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03001-to-03002",
+    "text": "【별이 빛나는 밤, 느긋한 목욕 타임 무나】리스&무나"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03002-to-03001",
+    "text": "【별이 빛나는 밤, 느긋한 목욕 타임 무나】무나&리스"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03002-to-03003",
+    "text": "【별이 빛나는 밤, 느긋한 목욕 타임 무나】무나&이오피"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03003-to-03002",
+    "text": "【별이 빛나는 밤, 느긋한 목욕 타임 무나】이오피&무나"
+  },
+  {
     "id": "la-name_live_dial_voice_card_03003-5-uniq-0035-00_03003-to-03001",
     "text": "【햇빛이 쏟아지는 Cosmos Palette 이오피】이오피&리스"
   },
@@ -1350,6 +1394,22 @@
   {
     "id": "la-name_live_dial_voice_card_03003-5-uniq-0035-00_myself",
     "text": "【햇빛이 쏟아지는 Cosmos Palette 이오피】 SP 스킬"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03001-to-03003",
+    "text": "【따끈따끈 양지 스마일 이오피】리스&이오피"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03002-to-03003",
+    "text": "【따끈따끈 양지 스마일 이오피】무나&이오피"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03003-to-03001",
+    "text": "【따끈따끈 양지 스마일 이오피】이오피&리스"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03003-to-03002",
+    "text": "【따끈따끈 양지 스마일 이오피】이오피&무나"
   },
   {
     "id": "la-name_live_dial_voice_card_03004-5-uniq-0036-00_03004-to-03005",

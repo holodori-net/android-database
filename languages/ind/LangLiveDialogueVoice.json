@@ -88,6 +88,18 @@
     "text": "【Lirikan Misteri Koyori】Skill SP"
   },
   {
+    "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_myself",
+    "text": "【Rutinitas Pagi Santai Risu】Skill SP"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_myself",
+    "text": "【Rendaman Lautan Bintang Moona】Skill SP"
+  },
+  {
+    "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_myself",
+    "text": "【Senyuman Sehangat Mentari Iofi】Skill SP"
+  },
+  {
     "id": "la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself",
     "text": "【Selam Seru Musim Panas Ollie】Skill SP"
   },
@@ -1328,6 +1340,22 @@
     "text": "【Rimba Canda Mentari Risu】 Skill SP"
   },
   {
+    "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03001-to-03002",
+    "text": "【Rutinitas Pagi Santai Risu】Risu&Moona"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03001-to-03003",
+    "text": "【Rutinitas Pagi Santai Risu】Risu&Iofi"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03002-to-03001",
+    "text": "【Rutinitas Pagi Santai Risu】Moona&Risu"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03001-5-uniq-0114-00_03003-to-03001",
+    "text": "【Rutinitas Pagi Santai Risu】Iofi&Risu"
+  },
+  {
     "id": "la-name_live_dial_voice_card_03002-5-uniq-0034-00_03002-to-03001",
     "text": "【Diva Rembulan Moona】Moona&Risu"
   },
@@ -1340,6 +1368,22 @@
     "text": "【Diva Rembulan Moona】 Skill SP"
   },
   {
+    "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03001-to-03002",
+    "text": "【Rendaman Lautan Bintang Moona】Risu&Moona"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03002-to-03001",
+    "text": "【Rendaman Lautan Bintang Moona】Moona&Risu"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03002-to-03003",
+    "text": "【Rendaman Lautan Bintang Moona】Moona&Iofi"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03002-5-uniq-0113-00_03003-to-03002",
+    "text": "【Rendaman Lautan Bintang Moona】Iofi&Moona"
+  },
+  {
     "id": "la-name_live_dial_voice_card_03003-5-uniq-0035-00_03003-to-03001",
     "text": "【Palet Surya Semesta Iofi】Iofi&Risu"
   },
@@ -1350,6 +1394,22 @@
   {
     "id": "la-name_live_dial_voice_card_03003-5-uniq-0035-00_myself",
     "text": "【Palet Surya Semesta Iofi】 Skill SP"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03001-to-03003",
+    "text": "【Senyuman Sehangat Mentari Iofi】Risu&Iofi"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03002-to-03003",
+    "text": "【Senyuman Sehangat Mentari Iofi】Moona&Iofi"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03003-to-03001",
+    "text": "【Senyuman Sehangat Mentari Iofi】Iofi&Risu"
+  },
+  {
+    "id": "la-name_live_dial_voice_card_03003-5-uniq-0115-00_03003-to-03002",
+    "text": "【Senyuman Sehangat Mentari Iofi】Iofi&Moona"
   },
   {
     "id": "la-name_live_dial_voice_card_03004-5-uniq-0036-00_03004-to-03005",

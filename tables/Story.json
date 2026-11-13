@@ -188,6 +188,13 @@
     ]
   },
   {
+    "id": "story-character_story_chr-00002_002",
+    "asset_ids": [
+      "adv_event_2611_02_00002-01",
+      "adv_event_2611_02_00002-02"
+    ]
+  },
+  {
     "id": "story-character_story_chr-00004_001",
     "asset_ids": [
       "adv_chr_00004_01_01-01",
@@ -319,6 +326,13 @@
     ]
   },
   {
+    "id": "story-character_story_chr-00019_002",
+    "asset_ids": [
+      "adv_event_2611_02_00019-01",
+      "adv_event_2611_02_00019-02"
+    ]
+  },
+  {
     "id": "story-character_story_chr-00021_001",
     "asset_ids": [
       "adv_chr_00021_01_01-01",
@@ -396,6 +410,13 @@
       "adv_chr_00031_01_01-01",
       "adv_chr_00031_01_01-02",
       "adv_chr_00031_01_01-03"
+    ]
+  },
+  {
+    "id": "story-character_story_chr-00031_002",
+    "asset_ids": [
+      "adv_event_2611_02_00031-01",
+      "adv_event_2611_02_00031-02"
     ]
   },
   {
@@ -526,6 +547,13 @@
     ]
   },
   {
+    "id": "story-character_story_chr-03006_002",
+    "asset_ids": [
+      "adv_event_2611_02_03006-01",
+      "adv_event_2611_02_03006-02"
+    ]
+  },
+  {
     "id": "story-character_story_chr-03007_001",
     "asset_ids": [
       "adv_chr_03007_01_01-01",
@@ -600,6 +628,13 @@
       "adv_chr_04007_01_01-01",
       "adv_chr_04007_01_01-02",
       "adv_chr_04007_01_01-03"
+    ]
+  },
+  {
+    "id": "story-character_story_chr-04007_002",
+    "asset_ids": [
+      "adv_event_2611_02_04007-01",
+      "adv_event_2611_02_04007-02"
     ]
   },
   {
@@ -1500,6 +1535,66 @@
     "id": "story-marathon_event-relay-003-chapter-04-02",
     "asset_ids": [
       "adv_event_2610_01_04014-02"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-004-chapter-01-01",
+    "asset_ids": [
+      "adv_event_2611_02_00002-01"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-004-chapter-01-02",
+    "asset_ids": [
+      "adv_event_2611_02_00002-02"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-004-chapter-02-01",
+    "asset_ids": [
+      "adv_event_2611_02_00019-01"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-004-chapter-02-02",
+    "asset_ids": [
+      "adv_event_2611_02_00019-02"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-004-chapter-03-01",
+    "asset_ids": [
+      "adv_event_2611_02_04007-01"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-004-chapter-03-02",
+    "asset_ids": [
+      "adv_event_2611_02_04007-02"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-004-chapter-04-01",
+    "asset_ids": [
+      "adv_event_2611_02_00031-01"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-004-chapter-04-02",
+    "asset_ids": [
+      "adv_event_2611_02_00031-02"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-004-chapter-05-01",
+    "asset_ids": [
+      "adv_event_2611_02_03006-01"
+    ]
+  },
+  {
+    "id": "story-marathon_event-relay-004-chapter-05-02",
+    "asset_ids": [
+      "adv_event_2611_02_03006-02"
     ]
   },
   {

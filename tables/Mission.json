@@ -28119,6 +28119,218 @@
     "order": 1
   },
   {
+    "id": "mission-marathon_event-relay-004-chapter-01-marathon_live_play_count",
+    "mission_group_id": "mission_grp-marathon_event-relay-004-chapter-01",
+    "name_lang_id": "la-mission-marathon_event-marathon_live_play_count",
+    "category_type": {
+      "name": "MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+      "number": 6
+    },
+    "type": {
+      "name": "MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+      "number": 56
+    },
+    "target_ids1": [
+      "m0383"
+    ],
+    "order": 3
+  },
+  {
+    "id": "mission-marathon_event-relay-004-chapter-01-marathon_score_quantity",
+    "mission_group_id": "mission_grp-marathon_event-relay-004-chapter-01",
+    "name_lang_id": "la-mission-marathon_event-marathon_score_quantity_chapter",
+    "category_type": {
+      "name": "MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+      "number": 6
+    },
+    "type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MARATHON_SCORE",
+      "number": 1047
+    },
+    "target_ids1": [
+      "marathon_event-relay-004-chapter-01"
+    ],
+    "order": 2
+  },
+  {
+    "id": "mission-marathon_event-relay-004-chapter-02-marathon_live_play_count",
+    "mission_group_id": "mission_grp-marathon_event-relay-004-chapter-02",
+    "name_lang_id": "la-mission-marathon_event-marathon_live_play_count",
+    "category_type": {
+      "name": "MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+      "number": 6
+    },
+    "type": {
+      "name": "MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+      "number": 56
+    },
+    "target_ids1": [
+      "m0387"
+    ],
+    "order": 3
+  },
+  {
+    "id": "mission-marathon_event-relay-004-chapter-02-marathon_score_quantity",
+    "mission_group_id": "mission_grp-marathon_event-relay-004-chapter-02",
+    "name_lang_id": "la-mission-marathon_event-marathon_score_quantity_chapter",
+    "category_type": {
+      "name": "MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+      "number": 6
+    },
+    "type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MARATHON_SCORE",
+      "number": 1047
+    },
+    "target_ids1": [
+      "marathon_event-relay-004-chapter-02"
+    ],
+    "order": 2
+  },
+  {
+    "id": "mission-marathon_event-relay-004-chapter-03-marathon_live_play_count",
+    "mission_group_id": "mission_grp-marathon_event-relay-004-chapter-03",
+    "name_lang_id": "la-mission-marathon_event-marathon_live_play_count",
+    "category_type": {
+      "name": "MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+      "number": 6
+    },
+    "type": {
+      "name": "MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+      "number": 56
+    },
+    "target_ids1": [
+      "m0385"
+    ],
+    "order": 3
+  },
+  {
+    "id": "mission-marathon_event-relay-004-chapter-03-marathon_score_quantity",
+    "mission_group_id": "mission_grp-marathon_event-relay-004-chapter-03",
+    "name_lang_id": "la-mission-marathon_event-marathon_score_quantity_chapter",
+    "category_type": {
+      "name": "MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+      "number": 6
+    },
+    "type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MARATHON_SCORE",
+      "number": 1047
+    },
+    "target_ids1": [
+      "marathon_event-relay-004-chapter-03"
+    ],
+    "order": 2
+  },
+  {
+    "id": "mission-marathon_event-relay-004-chapter-04-marathon_live_play_count",
+    "mission_group_id": "mission_grp-marathon_event-relay-004-chapter-04",
+    "name_lang_id": "la-mission-marathon_event-marathon_live_play_count",
+    "category_type": {
+      "name": "MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+      "number": 6
+    },
+    "type": {
+      "name": "MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+      "number": 56
+    },
+    "target_ids1": [
+      "m0384"
+    ],
+    "order": 3
+  },
+  {
+    "id": "mission-marathon_event-relay-004-chapter-04-marathon_score_quantity",
+    "mission_group_id": "mission_grp-marathon_event-relay-004-chapter-04",
+    "name_lang_id": "la-mission-marathon_event-marathon_score_quantity_chapter",
+    "category_type": {
+      "name": "MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+      "number": 6
+    },
+    "type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MARATHON_SCORE",
+      "number": 1047
+    },
+    "target_ids1": [
+      "marathon_event-relay-004-chapter-04"
+    ],
+    "order": 2
+  },
+  {
+    "id": "mission-marathon_event-relay-004-chapter-05-marathon_live_play_count",
+    "mission_group_id": "mission_grp-marathon_event-relay-004-chapter-05",
+    "name_lang_id": "la-mission-marathon_event-marathon_live_play_count",
+    "category_type": {
+      "name": "MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+      "number": 6
+    },
+    "type": {
+      "name": "MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+      "number": 56
+    },
+    "target_ids1": [
+      "m0386"
+    ],
+    "order": 3
+  },
+  {
+    "id": "mission-marathon_event-relay-004-chapter-05-marathon_score_quantity",
+    "mission_group_id": "mission_grp-marathon_event-relay-004-chapter-05",
+    "name_lang_id": "la-mission-marathon_event-marathon_score_quantity_chapter",
+    "category_type": {
+      "name": "MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+      "number": 6
+    },
+    "type": {
+      "name": "MISSION_TYPE_ABSOLUTE_MARATHON_SCORE",
+      "number": 1047
+    },
+    "target_ids1": [
+      "marathon_event-relay-004-chapter-05"
+    ],
+    "order": 2
+  },
+  {
+    "id": "mission-marathon_event-relay-004-daily-live_play_count",
+    "mission_group_id": "mission_grp-marathon_event-relay-004",
+    "name_lang_id": "la-mission-marathon_event-live_play_count",
+    "category_type": {
+      "name": "MISSION_CATEGORY_TYPE_EVENT_DAILY",
+      "number": 7
+    },
+    "type": {
+      "name": "MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+      "number": 56
+    },
+    "order": 3
+  },
+  {
+    "id": "mission-marathon_event-relay-004-daily-live_stamina_consumption",
+    "mission_group_id": "mission_grp-marathon_event-relay-004",
+    "name_lang_id": "la-mission-marathon_event-live_stamina_consumption",
+    "category_type": {
+      "name": "MISSION_CATEGORY_TYPE_EVENT_DAILY",
+      "number": 7
+    },
+    "type": {
+      "name": "MISSION_TYPE_INCREMENT_LIVE_STAMINA_CONSUMPTION",
+      "number": 26
+    },
+    "order": 2
+  },
+  {
+    "id": "mission-marathon_event-relay-004-live_play_count",
+    "mission_group_id": "mission_grp-marathon_event-relay-004",
+    "name_lang_id": "la-mission-marathon_event-live_play_count",
+    "category_type": {
+      "name": "MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+      "number": 6
+    },
+    "type": {
+      "name": "MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+      "number": 56
+    },
+    "order": 1
+  },
+  {
     "id": "mission-mission_pass-0001-daily-increment_card_level_up_count",
     "mission_group_id": "mission_grp-mission_pass-0001-daily",
     "name_lang_id": "la-mission-mission_pass-0001-daily-increment_card_level_up_count-name",

@@ -24,6 +24,10 @@
     "text": "队伍中有至少2名[attribute=happy]快乐类型[/attribute]的角色时全体成员中表现力提升130% "
   },
   {
+    "id": "la-generated-live_leader_skill-card-00002-5-uniq-0104-00-description",
+    "text": "队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时全体成员中品位提升80% 队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时全体成员中得分辅助效果25%"
+  },
+  {
     "id": "la-generated-live_leader_skill-card-00004-3-nrml-0005-00-description",
     "text": "全体成员中所有参数提升15% "
   },
@@ -232,6 +236,10 @@
     "text": "队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时全体成员中所有参数提升30% 队伍中有至少2名[attribute=cute]可爱类型[/attribute]的角色时全体成员中得分辅助效果25%"
   },
   {
+    "id": "la-generated-live_leader_skill-card-00019-5-uniq-0108-00-description",
+    "text": "队伍中有至少2名[attribute=pure]纯洁类型[/attribute]的角色时全体成员中品位提升130% "
+  },
+  {
     "id": "la-generated-live_leader_skill-card-00021-3-nrml-0017-00-description",
     "text": "全体成员中所有参数提升15% "
   },
@@ -354,6 +362,10 @@
   {
     "id": "la-generated-live_leader_skill-card-00031-5-uniq-0025-00-description",
     "text": "全体成员中表现力提升120% "
+  },
+  {
+    "id": "la-generated-live_leader_skill-card-00031-5-uniq-0105-00-description",
+    "text": "队伍中有至少2名5期生时全体成员中技巧提升135% "
   },
   {
     "id": "la-generated-live_leader_skill-card-00032-3-nrml-0026-00-description",
@@ -540,6 +552,10 @@
     "text": "全体成员中得分辅助效果60% "
   },
   {
+    "id": "la-generated-live_leader_skill-card-03006-5-uniq-0107-00-description",
+    "text": "队伍中有至少2名ID2期生时全体成员中表现力提升135% "
+  },
+  {
     "id": "la-generated-live_leader_skill-card-03007-3-nrml-0039-00-description",
     "text": "全体成员中所有参数提升15% "
   },
@@ -642,6 +658,10 @@
   {
     "id": "la-generated-live_leader_skill-card-04007-5-uniq-0047-00-description",
     "text": "队伍中有至少2名Promise时全体成员中所有参数提升50% "
+  },
+  {
+    "id": "la-generated-live_leader_skill-card-04007-5-uniq-0106-00-description",
+    "text": "全体成员中得分辅助效果60% "
   },
   {
     "id": "la-generated-live_leader_skill-card-04010-3-nrml-0049-00-description",

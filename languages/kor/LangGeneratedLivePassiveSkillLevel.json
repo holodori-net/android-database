@@ -48,6 +48,14 @@
     "text": "[attribute=happy]해피 타입[/attribute] 2명의 스코어 서포트 효과 [highlight]11[/highlight]% "
   },
   {
+    "id": "la-generated-live_passive_skill-card-00002-5-uniq-0104-00.1-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 2명의 스코어 서포트 효과 8% "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-00002-5-uniq-0104-00.2-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 2명의 스코어 서포트 효과 [highlight]11[/highlight]% "
+  },
+  {
     "id": "la-generated-live_passive_skill-card-00004-3-nrml-0005-00.1-description",
     "text": "[attribute=pure]퓨어 타입[/attribute] 2명 이상이면 [attribute=pure]퓨어 타입[/attribute] 3명의 퍼포먼스가 7% UP "
   },
@@ -464,6 +472,14 @@
     "text": "[attribute=cute]큐트 타입[/attribute] 2명 이상이면 자신의 전체 파라미터가 [highlight]32[/highlight]% UP "
   },
   {
+    "id": "la-generated-live_passive_skill-card-00019-5-uniq-0108-00.1-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 2명의 스코어 서포트 효과 8% "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-00019-5-uniq-0108-00.2-description",
+    "text": "[attribute=pure]퓨어 타입[/attribute] 2명의 스코어 서포트 효과 [highlight]11[/highlight]% "
+  },
+  {
     "id": "la-generated-live_passive_skill-card-00021-3-nrml-0017-00.1-description",
     "text": "[attribute=happy]해피 타입[/attribute] 2명의 테크닉이 10% UP "
   },
@@ -710,6 +726,14 @@
   {
     "id": "la-generated-live_passive_skill-card-00031-5-uniq-0025-00.2-description",
     "text": "[attribute=cute]큐트 타입[/attribute] 2명의 스코어 서포트 효과 [highlight]11[/highlight]% "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-00031-5-uniq-0105-00.1-description",
+    "text": "5기생2명의 테크닉이 32% UP "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-00031-5-uniq-0105-00.2-description",
+    "text": "5기생2명의 테크닉이 [highlight]43[/highlight]% UP "
   },
   {
     "id": "la-generated-live_passive_skill-card-00032-3-nrml-0026-00.1-description",
@@ -1080,6 +1104,14 @@
     "text": "[attribute=happy]해피 타입[/attribute] 2명의 테크닉이 [highlight]41[/highlight]% UP "
   },
   {
+    "id": "la-generated-live_passive_skill-card-03006-5-uniq-0107-00.1-description",
+    "text": "ID 2기생2명의 퍼포먼스가 32% UP "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-03006-5-uniq-0107-00.2-description",
+    "text": "ID 2기생2명의 퍼포먼스가 [highlight]43[/highlight]% UP "
+  },
+  {
     "id": "la-generated-live_passive_skill-card-03007-3-nrml-0039-00.1-description",
     "text": "[attribute=pure]퓨어 타입[/attribute] 2명 이상이면 [attribute=pure]퓨어 타입[/attribute] 3명의 테크닉이 7% UP "
   },
@@ -1286,6 +1318,14 @@
   {
     "id": "la-generated-live_passive_skill-card-04007-5-uniq-0047-00.2-description",
     "text": "Promise2명의 테크닉이 [highlight]43[/highlight]% UP "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-04007-5-uniq-0106-00.1-description",
+    "text": "[attribute=cute]큐트 타입[/attribute] 2명 이상이면 [attribute=cute]큐트 타입[/attribute] 2명의 퍼포먼스가 32% UP "
+  },
+  {
+    "id": "la-generated-live_passive_skill-card-04007-5-uniq-0106-00.2-description",
+    "text": "[attribute=cute]큐트 타입[/attribute] 2명 이상이면 [attribute=cute]큐트 타입[/attribute] 2명의 퍼포먼스가 [highlight]43[/highlight]% UP "
   },
   {
     "id": "la-generated-live_passive_skill-card-04010-3-nrml-0049-00.1-description",

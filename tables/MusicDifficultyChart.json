@@ -7812,6 +7812,186 @@
     "max_combo_count_reward_threshold": 800
   },
   {
+    "music_id": "m0383",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EASY",
+      "number": 1
+    },
+    "full_combo_note_count": 186,
+    "max_combo_count_reward_threshold": 150
+  },
+  {
+    "music_id": "m0383",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_NORMAL",
+      "number": 2
+    },
+    "full_combo_note_count": 256,
+    "max_combo_count_reward_threshold": 200
+  },
+  {
+    "music_id": "m0383",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_HARD",
+      "number": 3
+    },
+    "full_combo_note_count": 448,
+    "max_combo_count_reward_threshold": 350
+  },
+  {
+    "music_id": "m0383",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EXPERT",
+      "number": 4
+    },
+    "full_combo_note_count": 844,
+    "max_combo_count_reward_threshold": 700
+  },
+  {
+    "music_id": "m0384",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EASY",
+      "number": 1
+    },
+    "full_combo_note_count": 310,
+    "max_combo_count_reward_threshold": 250
+  },
+  {
+    "music_id": "m0384",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_NORMAL",
+      "number": 2
+    },
+    "full_combo_note_count": 476,
+    "max_combo_count_reward_threshold": 400
+  },
+  {
+    "music_id": "m0384",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_HARD",
+      "number": 3
+    },
+    "full_combo_note_count": 673,
+    "max_combo_count_reward_threshold": 550
+  },
+  {
+    "music_id": "m0384",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EXPERT",
+      "number": 4
+    },
+    "full_combo_note_count": 990,
+    "max_combo_count_reward_threshold": 800
+  },
+  {
+    "music_id": "m0385",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EASY",
+      "number": 1
+    },
+    "full_combo_note_count": 254,
+    "max_combo_count_reward_threshold": 200
+  },
+  {
+    "music_id": "m0385",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_NORMAL",
+      "number": 2
+    },
+    "full_combo_note_count": 497,
+    "max_combo_count_reward_threshold": 400
+  },
+  {
+    "music_id": "m0385",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_HARD",
+      "number": 3
+    },
+    "full_combo_note_count": 871,
+    "max_combo_count_reward_threshold": 700
+  },
+  {
+    "music_id": "m0385",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EXPERT",
+      "number": 4
+    },
+    "full_combo_note_count": 1410,
+    "max_combo_count_reward_threshold": 1150
+  },
+  {
+    "music_id": "m0386",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EASY",
+      "number": 1
+    },
+    "full_combo_note_count": 144,
+    "max_combo_count_reward_threshold": 100
+  },
+  {
+    "music_id": "m0386",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_NORMAL",
+      "number": 2
+    },
+    "full_combo_note_count": 310,
+    "max_combo_count_reward_threshold": 250
+  },
+  {
+    "music_id": "m0386",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_HARD",
+      "number": 3
+    },
+    "full_combo_note_count": 587,
+    "max_combo_count_reward_threshold": 450
+  },
+  {
+    "music_id": "m0386",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EXPERT",
+      "number": 4
+    },
+    "full_combo_note_count": 787,
+    "max_combo_count_reward_threshold": 650
+  },
+  {
+    "music_id": "m0387",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EASY",
+      "number": 1
+    },
+    "full_combo_note_count": 259,
+    "max_combo_count_reward_threshold": 200
+  },
+  {
+    "music_id": "m0387",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_NORMAL",
+      "number": 2
+    },
+    "full_combo_note_count": 494,
+    "max_combo_count_reward_threshold": 400
+  },
+  {
+    "music_id": "m0387",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_HARD",
+      "number": 3
+    },
+    "full_combo_note_count": 719,
+    "max_combo_count_reward_threshold": 600
+  },
+  {
+    "music_id": "m0387",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EXPERT",
+      "number": 4
+    },
+    "full_combo_note_count": 1220,
+    "max_combo_count_reward_threshold": 1000
+  },
+  {
     "music_id": "m0388",
     "difficulty_type": {
       "name": "MUSIC_DIFFICULTY_TYPE_EASY",
@@ -7918,6 +8098,114 @@
     },
     "full_combo_note_count": 848,
     "max_combo_count_reward_threshold": 700
+  },
+  {
+    "music_id": "m0398",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EASY",
+      "number": 1
+    },
+    "full_combo_note_count": 389,
+    "max_combo_count_reward_threshold": 300
+  },
+  {
+    "music_id": "m0398",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_NORMAL",
+      "number": 2
+    },
+    "full_combo_note_count": 569,
+    "max_combo_count_reward_threshold": 450
+  },
+  {
+    "music_id": "m0398",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_HARD",
+      "number": 3
+    },
+    "full_combo_note_count": 901,
+    "max_combo_count_reward_threshold": 700
+  },
+  {
+    "music_id": "m0398",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EXPERT",
+      "number": 4
+    },
+    "full_combo_note_count": 1124,
+    "max_combo_count_reward_threshold": 900
+  },
+  {
+    "music_id": "m0403",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EASY",
+      "number": 1
+    },
+    "full_combo_note_count": 330,
+    "max_combo_count_reward_threshold": 250
+  },
+  {
+    "music_id": "m0403",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_NORMAL",
+      "number": 2
+    },
+    "full_combo_note_count": 567,
+    "max_combo_count_reward_threshold": 450
+  },
+  {
+    "music_id": "m0403",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_HARD",
+      "number": 3
+    },
+    "full_combo_note_count": 997,
+    "max_combo_count_reward_threshold": 800
+  },
+  {
+    "music_id": "m0403",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EXPERT",
+      "number": 4
+    },
+    "full_combo_note_count": 1250,
+    "max_combo_count_reward_threshold": 1000
+  },
+  {
+    "music_id": "m0404",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EASY",
+      "number": 1
+    },
+    "full_combo_note_count": 268,
+    "max_combo_count_reward_threshold": 200
+  },
+  {
+    "music_id": "m0404",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_NORMAL",
+      "number": 2
+    },
+    "full_combo_note_count": 445,
+    "max_combo_count_reward_threshold": 350
+  },
+  {
+    "music_id": "m0404",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_HARD",
+      "number": 3
+    },
+    "full_combo_note_count": 853,
+    "max_combo_count_reward_threshold": 700
+  },
+  {
+    "music_id": "m0404",
+    "difficulty_type": {
+      "name": "MUSIC_DIFFICULTY_TYPE_EXPERT",
+      "number": 4
+    },
+    "full_combo_note_count": 1129,
+    "max_combo_count_reward_threshold": 900
   },
   {
     "music_id": "m0413",

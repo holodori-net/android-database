@@ -24,6 +24,10 @@
     "text": "若編入2名以上[attribute=happy]快樂類型[/attribute]的人物全體成員的表現力提升130% "
   },
   {
+    "id": "la-generated-live_leader_skill-card-00002-5-uniq-0104-00-description",
+    "text": "若編入2名以上[attribute=pure]清純類型[/attribute]的人物全體成員的品味提升80% 若編入2名以上[attribute=pure]清純類型[/attribute]的人物全體成員的分數加成效果25%"
+  },
+  {
     "id": "la-generated-live_leader_skill-card-00004-3-nrml-0005-00-description",
     "text": "全體成員的全能力提升15% "
   },
@@ -232,6 +236,10 @@
     "text": "若編入2名以上[attribute=cute]可愛類型[/attribute]的人物全體成員的全能力提升30% 若編入2名以上[attribute=cute]可愛類型[/attribute]的人物全體成員的分數加成效果25%"
   },
   {
+    "id": "la-generated-live_leader_skill-card-00019-5-uniq-0108-00-description",
+    "text": "若編入2名以上[attribute=pure]清純類型[/attribute]的人物全體成員的品味提升130% "
+  },
+  {
     "id": "la-generated-live_leader_skill-card-00021-3-nrml-0017-00-description",
     "text": "全體成員的全能力提升15% "
   },
@@ -354,6 +362,10 @@
   {
     "id": "la-generated-live_leader_skill-card-00031-5-uniq-0025-00-description",
     "text": "全體成員的表現力提升120% "
+  },
+  {
+    "id": "la-generated-live_leader_skill-card-00031-5-uniq-0105-00-description",
+    "text": "若編入2名以上5期生全體成員的技巧提升135% "
   },
   {
     "id": "la-generated-live_leader_skill-card-00032-3-nrml-0026-00-description",
@@ -540,6 +552,10 @@
     "text": "全體成員的分數加成效果60% "
   },
   {
+    "id": "la-generated-live_leader_skill-card-03006-5-uniq-0107-00-description",
+    "text": "若編入2名以上ID2期生全體成員的表現力提升135% "
+  },
+  {
     "id": "la-generated-live_leader_skill-card-03007-3-nrml-0039-00-description",
     "text": "全體成員的全能力提升15% "
   },
@@ -642,6 +658,10 @@
   {
     "id": "la-generated-live_leader_skill-card-04007-5-uniq-0047-00-description",
     "text": "若編入2名以上Promise全體成員的全能力提升50% "
+  },
+  {
+    "id": "la-generated-live_leader_skill-card-04007-5-uniq-0106-00-description",
+    "text": "全體成員的分數加成效果60% "
   },
   {
     "id": "la-generated-live_leader_skill-card-04010-3-nrml-0049-00-description",

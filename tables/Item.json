@@ -1589,6 +1589,149 @@
     ]
   },
   {
+    "id": "item-event_badge-marathon_event-relay-004-all",
+    "name_lang_id": "la-item-event_badge-marathon_event-relay-004-all-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-relay-004-all-description",
+    "type": {
+      "name": "ITEM_TYPE_MARATHON_EVENT_BADGE",
+      "number": 1000
+    },
+    "common_limit_time": "1796036399000",
+    "asset_id": "event-badge-04",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-relay-004-all",
+    "order": 5003,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-event_badge-marathon_event-relay-004-chapter-01",
+    "name_lang_id": "la-item-event_badge-marathon_event-relay-004-chapter-01-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-relay-004-chapter-01-description",
+    "type": {
+      "name": "ITEM_TYPE_MARATHON_EVENT_BADGE",
+      "number": 1000
+    },
+    "common_limit_time": "1796036399000",
+    "asset_id": "event-badge-02",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-relay-004-chapter-01",
+    "thumbnail_sub_asset_id": "img_chr_icon_mini_00002",
+    "order": 5004,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-event_badge-marathon_event-relay-004-chapter-02",
+    "name_lang_id": "la-item-event_badge-marathon_event-relay-004-chapter-02-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-relay-004-chapter-02-description",
+    "type": {
+      "name": "ITEM_TYPE_MARATHON_EVENT_BADGE",
+      "number": 1000
+    },
+    "common_limit_time": "1796036399000",
+    "asset_id": "event-badge-02",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-relay-004-chapter-02",
+    "thumbnail_sub_asset_id": "img_chr_icon_mini_00019",
+    "order": 5005,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-event_badge-marathon_event-relay-004-chapter-03",
+    "name_lang_id": "la-item-event_badge-marathon_event-relay-004-chapter-03-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-relay-004-chapter-03-description",
+    "type": {
+      "name": "ITEM_TYPE_MARATHON_EVENT_BADGE",
+      "number": 1000
+    },
+    "common_limit_time": "1796036399000",
+    "asset_id": "event-badge-02",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-relay-004-chapter-03",
+    "thumbnail_sub_asset_id": "img_chr_icon_mini_04007",
+    "order": 5006,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-event_badge-marathon_event-relay-004-chapter-04",
+    "name_lang_id": "la-item-event_badge-marathon_event-relay-004-chapter-04-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-relay-004-chapter-04-description",
+    "type": {
+      "name": "ITEM_TYPE_MARATHON_EVENT_BADGE",
+      "number": 1000
+    },
+    "common_limit_time": "1796036399000",
+    "asset_id": "event-badge-02",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-relay-004-chapter-04",
+    "thumbnail_sub_asset_id": "img_chr_icon_mini_00031",
+    "order": 5007,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "id": "item-event_badge-marathon_event-relay-004-chapter-05",
+    "name_lang_id": "la-item-event_badge-marathon_event-relay-004-chapter-05-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-relay-004-chapter-05-description",
+    "type": {
+      "name": "ITEM_TYPE_MARATHON_EVENT_BADGE",
+      "number": 1000
+    },
+    "common_limit_time": "1796036399000",
+    "asset_id": "event-badge-02",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-relay-004-chapter-05",
+    "thumbnail_sub_asset_id": "img_chr_icon_mini_03006",
+    "order": 5008,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
     "id": "item-exchange-holomedal",
     "name_lang_id": "la-item-exchange-holomedal-name",
     "description_lang_id": "la-item-exchange-holomedal-description",

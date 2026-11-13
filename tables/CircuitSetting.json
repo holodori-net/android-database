@@ -9,7 +9,6 @@
     "first_lap_clear_threshold_rank": 8,
     "random_match_start_time_limit_seconds": 30,
     "multi_game_setup_time_limit_seconds": 25,
-    "total_finish_time_limit_seconds": 600,
-    "is_cheat_detect_dgs_red_judgement_enabled": true
+    "total_finish_time_limit_seconds": 600
   }
 ]

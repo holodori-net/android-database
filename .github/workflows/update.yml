@@ -32,6 +32,11 @@ jobs:
   update:
     runs-on: ubuntu-24.04
     timeout-minutes: 60
+    outputs:
+      published: ${{ steps.database.outputs.published }}
+      tag: ${{ steps.database.outputs.tag }}
+      commit: ${{ steps.publication.outputs.commit }}
+      sha256: ${{ steps.publication.outputs.sha256 }}
     steps:
       - name: Prepare publication tools
         shell: bash
@@ -109,6 +114,7 @@ jobs:
           fi
 
       - name: Fetch and publish database
+        id: database
         uses: ./source
         with:
           target-path: ${{ github.workspace }}/repo
@@ -119,8 +125,39 @@ jobs:
           base-url: ${{ vars.DATABASE_BASE_URL || 'https://jp.game-hololive-dreams.com' }}
           ssh-directory: ${{ runner.temp }}/proxy-ssh
 
+      - name: Capture completed publication
+        id: publication
+        if: steps.database.outputs.published == 'true'
+        shell: bash
+        run: |
+          echo "commit=$(git -C repo rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          echo "sha256=$(jq -er '.outputs.masterSqlite.sha256' repo/report.json)" >> "$GITHUB_OUTPUT"
+
       - name: Remove proxy SSH configuration
         if: always()
         shell: bash
         run: |
           rm -rf "$RUNNER_TEMP/proxy-ssh"
+
+  notify:
+    needs: update
+    if: needs.update.outputs.published == 'true' && (inputs.target_branch || vars.DATABASE_PUBLISH_BRANCH || 'main') == 'main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - name: Validate notification behavior
+        run: node --test .github/scripts/notify-frontend.test.ts
+      - name: Dispatch frontend deployment
+        run: node .github/scripts/notify-frontend.ts
+        env:
+          FRONTEND_APP_ID: ${{ vars.FRONTEND_APP_ID }}
+          FRONTEND_APP_PRIVATE_KEY: ${{ secrets.FRONTEND_APP_PRIVATE_KEY }}
+          DATABASE_TAG: ${{ needs.update.outputs.tag }}
+          DATABASE_COMMIT: ${{ needs.update.outputs.commit }}
+          DATABASE_SHA256: ${{ needs.update.outputs.sha256 }}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "masterVersion": "1112ae6e32e798bc6884ee0b85e2b07c643c04c2060b3828006baae2b62a722e",
+  "masterVersion": "7c4ab23b96e2c1dd01ae6d5ac5842d19f6e5ca23cfa25ba7fb361be681b40580",
   "languages": [
     "jpn",
     "eng",
@@ -12,7 +12,7 @@
   "databases": {
     "packs": 1024,
     "tables": 1024,
-    "rows": 551479
+    "rows": 551480
   },
   "files": [
     {
@@ -313,7 +313,7 @@
       "packType": "Condition",
       "table": "Condition",
       "path": "tables/Condition.json",
-      "rows": 3020
+      "rows": 3021
     },
     {
       "packType": "CookingPuzzle",

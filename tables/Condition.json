@@ -10,6 +10,19 @@
     "description_lang_id": "la-cd-absolute_park_fishing_fish_unique_count_99"
   },
   {
+    "group_id": "cd-always-closed",
+    "number": 1,
+    "type": {
+      "name": "CONDITION_TYPE_PLAYER_LEVEL",
+      "number": 901
+    },
+    "min_max_type": {
+      "name": "CONDITION_MIN_MAX_TYPE_MIN",
+      "number": 2
+    },
+    "min": "1000000"
+  },
+  {
     "group_id": "cd-always-open",
     "number": 1,
     "type": {

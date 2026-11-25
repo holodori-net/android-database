@@ -164,7 +164,7 @@
   },
   {
     "id": "la-perm-a03-stadium-title",
-    "text": "스플래시 볼"
+    "text": "스플래시 스타디움"
   },
   {
     "id": "la-perm-a03-station-title",
@@ -179,7 +179,19 @@
     "text": "어둠 속 추격"
   },
   {
+    "id": "la-target_map-a03-shogi",
+    "text": "둥실둥실 파이트"
+  },
+  {
     "id": "la-target_map-area-a01-29-1-2",
     "text": "어둠 속 추격"
+  },
+  {
+    "id": "la-target_map-area-a01-30-1-2",
+    "text": "챌린지 라이브"
+  },
+  {
+    "id": "la-target_map-area-a03-20-1-2",
+    "text": "둥실둥실 파이트"
   }
 ]

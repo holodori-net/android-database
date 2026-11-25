@@ -120,6 +120,10 @@
     "text": "이벤트"
   },
   {
+    "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-010-chapter-01",
+    "text": "이벤트"
+  },
+  {
     "id": "la-resource_obtainment_route-item-event_badge-marathon_event-relay-001-all",
     "text": "이벤트"
   },
@@ -212,6 +216,10 @@
     "text": "라이브"
   },
   {
+    "id": "la-resource_obtainment_route-live_tower",
+    "text": "챌린지 라이브"
+  },
+  {
     "id": "la-resource_obtainment_route-main_quest",
     "text": "메인 퀘스트"
   },
@@ -246,6 +254,10 @@
   {
     "id": "la-resource_obtainment_route-rope",
     "text": "우당탕탕 그라운드\n(줄넘기)"
+  },
+  {
+    "id": "la-resource_obtainment_route-shogi",
+    "text": "스플래시 스타디움\n(둥실둥실 파이트)"
   },
   {
     "id": "la-resource_obtainment_route-shop",

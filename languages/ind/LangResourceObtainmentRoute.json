@@ -120,6 +120,10 @@
     "text": "Event"
   },
   {
+    "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-010-chapter-01",
+    "text": "Event"
+  },
+  {
     "id": "la-resource_obtainment_route-item-event_badge-marathon_event-relay-001-all",
     "text": "Event"
   },
@@ -212,6 +216,10 @@
     "text": "Live"
   },
   {
+    "id": "la-resource_obtainment_route-live_tower",
+    "text": "Challenge Live"
+  },
+  {
     "id": "la-resource_obtainment_route-main_quest",
     "text": "Misi Utama"
   },
@@ -246,6 +254,10 @@
   {
     "id": "la-resource_obtainment_route-rope",
     "text": "Dotabata Ground \n (Hoppin' Rope)"
+  },
+  {
+    "id": "la-resource_obtainment_route-shogi",
+    "text": "Splash Stadium (Puka Puka Fight)"
   },
   {
     "id": "la-resource_obtainment_route-shop",

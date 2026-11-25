@@ -223,5 +223,69 @@
         "quantity": "500"
       }
     ]
+  },
+  {
+    "fish_unique_count": 85,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_reward_up_stamina_recover",
+        "quantity": "20"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 90,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_STONE_TOTAL",
+          "number": 1001
+        },
+        "quantity": "100"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 95,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-live_reward_up_stamina_recover",
+        "quantity": "20"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 99,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_PARK_FISHING_BAIT",
+          "number": 23
+        },
+        "resource_id": "park_fishing_bait-011",
+        "quantity": "5"
+      }
+    ]
+  },
+  {
+    "fish_unique_count": 100,
+    "rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gacha_ticket-r5-01",
+        "quantity": "1"
+      }
+    ]
   }
 ]

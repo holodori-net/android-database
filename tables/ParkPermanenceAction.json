@@ -208,6 +208,37 @@
   {
     "park_permanence_id": "perm-a01-live",
     "action_number": 1,
+    "description_lang_id": "la-perm-live_tower-description-1",
+    "type": {
+      "name": "PARK_ACTION_TYPE_LIVE",
+      "number": 1
+    },
+    "before_park_talk_group_id": "park_talk-perm-a01-live"
+  },
+  {
+    "park_permanence_id": "perm-a01-live",
+    "action_number": 2,
+    "description_lang_id": "la-perm-live_tower-description-2",
+    "type": {
+      "name": "PARK_ACTION_TYPE_LIVE_TOWER",
+      "number": 27
+    },
+    "condition_group_id": "cd-live_tower-default-unlock",
+    "before_park_talk_group_id": "park_talk-perm-a01-live"
+  },
+  {
+    "park_permanence_id": "perm-a01-live",
+    "action_number": 3,
+    "description_lang_id": "la-perm-live_tower-description-3",
+    "type": {
+      "name": "PARK_ACTION_TYPE_TALK",
+      "number": 16
+    }
+  },
+  {
+    "park_permanence_id": "perm-a01-live-open",
+    "action_number": 1,
+    "description_lang_id": "la-perm-live_tower-description-1",
     "type": {
       "name": "PARK_ACTION_TYPE_LIVE",
       "number": 1
@@ -216,12 +247,23 @@
   },
   {
     "park_permanence_id": "perm-a01-live-open",
-    "action_number": 1,
+    "action_number": 2,
+    "description_lang_id": "la-perm-live_tower-description-2",
     "type": {
-      "name": "PARK_ACTION_TYPE_LIVE",
-      "number": 1
+      "name": "PARK_ACTION_TYPE_LIVE_TOWER",
+      "number": 27
     },
+    "condition_group_id": "cd-live_tower-default-unlock",
     "before_park_talk_group_id": "park_talk-perm-a01-live"
+  },
+  {
+    "park_permanence_id": "perm-a01-live-open",
+    "action_number": 3,
+    "description_lang_id": "la-perm-live_tower-description-3",
+    "type": {
+      "name": "PARK_ACTION_TYPE_TALK",
+      "number": 16
+    }
   },
   {
     "park_permanence_id": "perm-a01-memoryboard",
@@ -394,6 +436,37 @@
   {
     "park_permanence_id": "perm-a02-casino-live",
     "action_number": 1,
+    "description_lang_id": "la-perm-live_tower-description-1",
+    "type": {
+      "name": "PARK_ACTION_TYPE_LIVE",
+      "number": 1
+    },
+    "before_park_talk_group_id": "park_talk-perm-a01-live"
+  },
+  {
+    "park_permanence_id": "perm-a02-casino-live",
+    "action_number": 2,
+    "description_lang_id": "la-perm-live_tower-description-2",
+    "type": {
+      "name": "PARK_ACTION_TYPE_LIVE_TOWER",
+      "number": 27
+    },
+    "condition_group_id": "cd-live_tower-default-unlock",
+    "before_park_talk_group_id": "park_talk-perm-a01-live"
+  },
+  {
+    "park_permanence_id": "perm-a02-casino-live",
+    "action_number": 3,
+    "description_lang_id": "la-perm-live_tower-description-3",
+    "type": {
+      "name": "PARK_ACTION_TYPE_TALK",
+      "number": 16
+    }
+  },
+  {
+    "park_permanence_id": "perm-a02-casino-live-open",
+    "action_number": 1,
+    "description_lang_id": "la-perm-live_tower-description-1",
     "type": {
       "name": "PARK_ACTION_TYPE_LIVE",
       "number": 1
@@ -402,12 +475,23 @@
   },
   {
     "park_permanence_id": "perm-a02-casino-live-open",
-    "action_number": 1,
+    "action_number": 2,
+    "description_lang_id": "la-perm-live_tower-description-2",
     "type": {
-      "name": "PARK_ACTION_TYPE_LIVE",
-      "number": 1
+      "name": "PARK_ACTION_TYPE_LIVE_TOWER",
+      "number": 27
     },
+    "condition_group_id": "cd-live_tower-default-unlock",
     "before_park_talk_group_id": "park_talk-perm-a01-live"
+  },
+  {
+    "park_permanence_id": "perm-a02-casino-live-open",
+    "action_number": 3,
+    "description_lang_id": "la-perm-live_tower-description-3",
+    "type": {
+      "name": "PARK_ACTION_TYPE_TALK",
+      "number": 16
+    }
   },
   {
     "park_permanence_id": "perm-a02-coinbooth",
@@ -494,6 +578,37 @@
   {
     "park_permanence_id": "perm-a02-game-live",
     "action_number": 1,
+    "description_lang_id": "la-perm-live_tower-description-1",
+    "type": {
+      "name": "PARK_ACTION_TYPE_LIVE",
+      "number": 1
+    },
+    "before_park_talk_group_id": "park_talk-perm-a01-live"
+  },
+  {
+    "park_permanence_id": "perm-a02-game-live",
+    "action_number": 2,
+    "description_lang_id": "la-perm-live_tower-description-2",
+    "type": {
+      "name": "PARK_ACTION_TYPE_LIVE_TOWER",
+      "number": 27
+    },
+    "condition_group_id": "cd-live_tower-default-unlock",
+    "before_park_talk_group_id": "park_talk-perm-a01-live"
+  },
+  {
+    "park_permanence_id": "perm-a02-game-live",
+    "action_number": 3,
+    "description_lang_id": "la-perm-live_tower-description-3",
+    "type": {
+      "name": "PARK_ACTION_TYPE_TALK",
+      "number": 16
+    }
+  },
+  {
+    "park_permanence_id": "perm-a02-game-live-open",
+    "action_number": 1,
+    "description_lang_id": "la-perm-live_tower-description-1",
     "type": {
       "name": "PARK_ACTION_TYPE_LIVE",
       "number": 1
@@ -502,12 +617,23 @@
   },
   {
     "park_permanence_id": "perm-a02-game-live-open",
-    "action_number": 1,
+    "action_number": 2,
+    "description_lang_id": "la-perm-live_tower-description-2",
     "type": {
-      "name": "PARK_ACTION_TYPE_LIVE",
-      "number": 1
+      "name": "PARK_ACTION_TYPE_LIVE_TOWER",
+      "number": 27
     },
+    "condition_group_id": "cd-live_tower-default-unlock",
     "before_park_talk_group_id": "park_talk-perm-a01-live"
+  },
+  {
+    "park_permanence_id": "perm-a02-game-live-open",
+    "action_number": 3,
+    "description_lang_id": "la-perm-live_tower-description-3",
+    "type": {
+      "name": "PARK_ACTION_TYPE_TALK",
+      "number": 16
+    }
   },
   {
     "park_permanence_id": "perm-a02-highandlow",
@@ -649,7 +775,11 @@
       "number": 26
     },
     "condition_group_id": "cd-quest_clear-quest-main-w1-03-03-5",
-    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond1"
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond1",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_1",
+      "number": 1
+    }
   },
   {
     "park_permanence_id": "perm-a03-fishingpond1-fishing",
@@ -669,7 +799,11 @@
       "number": 26
     },
     "condition_group_id": "cd-quest_clear-quest-main-w1-03-03-5",
-    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond1"
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond1",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_1",
+      "number": 1
+    }
   },
   {
     "park_permanence_id": "perm-a03-fishingpond2",
@@ -679,7 +813,11 @@
       "number": 26
     },
     "condition_group_id": "cd-quest_clear-quest-main-w1-03-03-5",
-    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond2"
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond2",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_2",
+      "number": 2
+    }
   },
   {
     "park_permanence_id": "perm-a03-fishingpond2-fishing",
@@ -699,7 +837,11 @@
       "number": 26
     },
     "condition_group_id": "cd-quest_clear-quest-main-w1-03-03-5",
-    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond2"
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond2",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_2",
+      "number": 2
+    }
   },
   {
     "park_permanence_id": "perm-a03-fishingpond3",
@@ -709,7 +851,11 @@
       "number": 26
     },
     "condition_group_id": "cd-quest_clear-quest-main-w1-03-03-5",
-    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond3"
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond3",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_3",
+      "number": 3
+    }
   },
   {
     "park_permanence_id": "perm-a03-fishingpond3-fishing",
@@ -729,7 +875,11 @@
       "number": 26
     },
     "condition_group_id": "cd-quest_clear-quest-main-w1-03-03-5",
-    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond3"
+    "before_park_talk_group_id": "park_talk-perm-a03-fishingpond3",
+    "area_sea_type": {
+      "name": "AREA_SEA_TYPE_SEA_3",
+      "number": 3
+    }
   },
   {
     "park_permanence_id": "perm-a03-fishingshop",
@@ -818,7 +968,7 @@
     "action_number": 1,
     "type": {
       "name": "PARK_ACTION_TYPE_PARK_TIME_TRANSITION",
-      "number": 27
+      "number": 28
     },
     "before_park_talk_group_id": "park_talk-perm-a03-glamping",
     "area_grouping_id": "area_group-a03"
@@ -828,7 +978,7 @@
     "action_number": 1,
     "type": {
       "name": "PARK_ACTION_TYPE_PARK_TIME_TRANSITION",
-      "number": 27
+      "number": 28
     },
     "before_park_talk_group_id": "park_talk-perm-a03-glamping",
     "area_grouping_id": "area_group-a03"
@@ -926,6 +1076,37 @@
   {
     "park_permanence_id": "perm-a03-livestage",
     "action_number": 1,
+    "description_lang_id": "la-perm-live_tower-description-1",
+    "type": {
+      "name": "PARK_ACTION_TYPE_LIVE",
+      "number": 1
+    },
+    "before_park_talk_group_id": "park_talk-perm-a01-live"
+  },
+  {
+    "park_permanence_id": "perm-a03-livestage",
+    "action_number": 2,
+    "description_lang_id": "la-perm-live_tower-description-2",
+    "type": {
+      "name": "PARK_ACTION_TYPE_LIVE_TOWER",
+      "number": 27
+    },
+    "condition_group_id": "cd-live_tower-default-unlock",
+    "before_park_talk_group_id": "park_talk-perm-a01-live"
+  },
+  {
+    "park_permanence_id": "perm-a03-livestage",
+    "action_number": 3,
+    "description_lang_id": "la-perm-live_tower-description-3",
+    "type": {
+      "name": "PARK_ACTION_TYPE_TALK",
+      "number": 16
+    }
+  },
+  {
+    "park_permanence_id": "perm-a03-livestage-open",
+    "action_number": 1,
+    "description_lang_id": "la-perm-live_tower-description-1",
     "type": {
       "name": "PARK_ACTION_TYPE_LIVE",
       "number": 1
@@ -934,12 +1115,23 @@
   },
   {
     "park_permanence_id": "perm-a03-livestage-open",
-    "action_number": 1,
+    "action_number": 2,
+    "description_lang_id": "la-perm-live_tower-description-2",
     "type": {
-      "name": "PARK_ACTION_TYPE_LIVE",
-      "number": 1
+      "name": "PARK_ACTION_TYPE_LIVE_TOWER",
+      "number": 27
     },
+    "condition_group_id": "cd-live_tower-default-unlock",
     "before_park_talk_group_id": "park_talk-perm-a01-live"
+  },
+  {
+    "park_permanence_id": "perm-a03-livestage-open",
+    "action_number": 3,
+    "description_lang_id": "la-perm-live_tower-description-3",
+    "type": {
+      "name": "PARK_ACTION_TYPE_TALK",
+      "number": 16
+    }
   },
   {
     "park_permanence_id": "perm-a03-resortshop",
@@ -976,6 +1168,18 @@
   {
     "park_permanence_id": "perm-a03-resortshop-convert",
     "action_number": 3,
+    "description_lang_id": "la-perm-a03-resortshop-description-4",
+    "type": {
+      "name": "PARK_ACTION_TYPE_EXCHANGE",
+      "number": 5
+    },
+    "condition_group_id": "cd-quest_clear-quest-main-w1-03-15",
+    "before_park_talk_group_id": "park_talk-perm-a03-resortshop",
+    "exchange_booth_group_id": "exchange_booth_group-facility-a03-exchangebooth"
+  },
+  {
+    "park_permanence_id": "perm-a03-resortshop-convert",
+    "action_number": 4,
     "description_lang_id": "la-perm-a03-resortshop-description-3",
     "type": {
       "name": "PARK_ACTION_TYPE_TALK",
@@ -1007,6 +1211,18 @@
   {
     "park_permanence_id": "perm-a03-resortshop-open",
     "action_number": 3,
+    "description_lang_id": "la-perm-a03-resortshop-description-4",
+    "type": {
+      "name": "PARK_ACTION_TYPE_EXCHANGE",
+      "number": 5
+    },
+    "condition_group_id": "cd-quest_clear-quest-main-w1-03-15",
+    "before_park_talk_group_id": "park_talk-perm-a03-resortshop",
+    "exchange_booth_group_id": "exchange_booth_group-facility-a03-exchangebooth"
+  },
+  {
+    "park_permanence_id": "perm-a03-resortshop-open",
+    "action_number": 4,
     "description_lang_id": "la-perm-a03-resortshop-description-3",
     "type": {
       "name": "PARK_ACTION_TYPE_TALK",
@@ -1016,9 +1232,29 @@
   {
     "park_permanence_id": "perm-a03-stadium",
     "action_number": 1,
+    "description_lang_id": "la-perm-a03-splashball",
     "type": {
       "name": "PARK_ACTION_TYPE_SPLASH_BALL",
       "number": 1005
+    }
+  },
+  {
+    "park_permanence_id": "perm-a03-stadium",
+    "action_number": 2,
+    "description_lang_id": "la-perm-a03-shogi",
+    "type": {
+      "name": "PARK_ACTION_TYPE_SHOGI",
+      "number": 1006
+    },
+    "condition_group_id": "cd-quest_clear-quest-area-a03-20"
+  },
+  {
+    "park_permanence_id": "perm-a03-stadium",
+    "action_number": 3,
+    "description_lang_id": "la-perm-a03-splashstadium-description-",
+    "type": {
+      "name": "PARK_ACTION_TYPE_TALK",
+      "number": 16
     }
   },
   {

@@ -40904,6 +40904,26 @@
     "park_graph_id": "graph_npc_wait_default"
   },
   {
+    "id": "npc-area-a01-30-1-1-00001",
+    "sd_costume_id": "sdcos-00001-nrml-0000-00",
+    "park_graph_id": "graph_npc_wait_default"
+  },
+  {
+    "id": "npc-area-a01-30-1-1-00002",
+    "sd_costume_id": "sdcos-00002-nrml-0001-00",
+    "park_graph_id": "graph_npc_wait_default"
+  },
+  {
+    "id": "npc-area-a01-30-1-2-00001",
+    "sd_costume_id": "sdcos-00001-nrml-0000-00",
+    "park_graph_id": "graph_npc_wait_default"
+  },
+  {
+    "id": "npc-area-a01-30-1-2-00002",
+    "sd_costume_id": "sdcos-00002-nrml-0001-00",
+    "park_graph_id": "graph_npc_wait_default"
+  },
+  {
     "id": "npc-area-a02-01-1-1-03002",
     "sd_costume_id": "sdcos-03002-nrml-0034-00",
     "park_graph_id": "graph_npc_common_wait-01"
@@ -41913,6 +41933,26 @@
     "id": "npc-area-a03-19-1-2-00037",
     "sd_costume_id": "sdcos-00037-nrml-0030-00",
     "park_graph_id": "graph_npc_wait_default"
+  },
+  {
+    "id": "npc-area-a03-20-1-1-00023",
+    "sd_costume_id": "sdcos-00023-nrml-0019-00",
+    "park_graph_id": "graph_npc_area-a03_vehicle-npc-00"
+  },
+  {
+    "id": "npc-area-a03-20-1-1-06003",
+    "sd_costume_id": "sdcos-06003-nrml-0059-00",
+    "park_graph_id": "graph_npc_area-a03_vehicle-npc-00"
+  },
+  {
+    "id": "npc-area-a03-20-1-2-00030",
+    "sd_costume_id": "sdcos-00030-nrml-0024-00",
+    "park_graph_id": "graph_npc_area-a03_vehicle-npc-00"
+  },
+  {
+    "id": "npc-area-a03-20-1-2-00034",
+    "sd_costume_id": "sdcos-00034-nrml-0027-00",
+    "park_graph_id": "graph_npc_area-a03_vehicle-npc-00"
   },
   {
     "id": "npc-chr-00001-1-2-03003",

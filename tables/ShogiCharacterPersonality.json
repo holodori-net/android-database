@@ -1,0 +1,380 @@
+[
+  {
+    "character_id": "chr-00001",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_01",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-00002",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_02",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 20
+  },
+  {
+    "character_id": "chr-00004",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_01",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-00005",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-forward_type_02",
+    "personality_weight": 100,
+    "base_miss_rate": 60,
+    "selection_score": 20
+  },
+  {
+    "character_id": "chr-00006",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_02",
+    "personality_weight": 40,
+    "base_miss_rate": 15,
+    "selection_score": 80
+  },
+  {
+    "character_id": "chr-00007",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-take_pieces",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-00010",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-strong_mistake",
+    "personality_weight": 80,
+    "base_miss_rate": 45,
+    "selection_score": 100
+  },
+  {
+    "character_id": "chr-00011",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-retraction_type",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 20
+  },
+  {
+    "character_id": "chr-00012",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-forward_type",
+    "personality_weight": 80,
+    "base_miss_rate": 60,
+    "selection_score": 20
+  },
+  {
+    "character_id": "chr-00013",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-retraction_type",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-00014",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_01",
+    "personality_weight": 20,
+    "base_miss_rate": 15,
+    "selection_score": 80
+  },
+  {
+    "character_id": "chr-00015",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-forward_type_02",
+    "personality_weight": 100,
+    "base_miss_rate": 60,
+    "selection_score": 20
+  },
+  {
+    "character_id": "chr-00016",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_02",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-00017",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-forward_type_02",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-00018",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-purely_strong",
+    "personality_weight": 20,
+    "base_miss_rate": 15,
+    "selection_score": 100
+  },
+  {
+    "character_id": "chr-00019",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-take_pieces",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-00021",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_01",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-00022",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-forward_type",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-00023",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-use_pieces",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-00026",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_02",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-00027",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-take_pieces",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-00028",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-retraction_type",
+    "personality_weight": 40,
+    "base_miss_rate": 45,
+    "selection_score": 20
+  },
+  {
+    "character_id": "chr-00030",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_01_02",
+    "personality_weight": 80,
+    "base_miss_rate": 45,
+    "selection_score": 20
+  },
+  {
+    "character_id": "chr-00031",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-forward_type_02",
+    "personality_weight": 80,
+    "base_miss_rate": 60,
+    "selection_score": 20
+  },
+  {
+    "character_id": "chr-00032",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-purely_strong",
+    "personality_weight": 20,
+    "base_miss_rate": 15,
+    "selection_score": 100
+  },
+  {
+    "character_id": "chr-00034",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-forward_type_02",
+    "personality_weight": 80,
+    "base_miss_rate": 60,
+    "selection_score": 20
+  },
+  {
+    "character_id": "chr-00035",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-use_pieces",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-00036",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_01",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-00037",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-take_pieces",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-00039",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_02",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-03001",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-take_pieces",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-03002",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_01",
+    "personality_weight": 20,
+    "base_miss_rate": 15,
+    "selection_score": 80
+  },
+  {
+    "character_id": "chr-03003",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-retraction_type",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-03004",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-purely_strong",
+    "personality_weight": 20,
+    "base_miss_rate": 15,
+    "selection_score": 100
+  },
+  {
+    "character_id": "chr-03005",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_02",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-03006",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_02",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-03007",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-use_pieces",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-03008",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-forward_type",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-03009",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-take_pieces",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-04001",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-take_pieces",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-04002",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-forward_type",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-04003",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_02",
+    "personality_weight": 20,
+    "base_miss_rate": 15,
+    "selection_score": 80
+  },
+  {
+    "character_id": "chr-04007",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_01",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-04010",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_01",
+    "personality_weight": 20,
+    "base_miss_rate": 15,
+    "selection_score": 80
+  },
+  {
+    "character_id": "chr-04012",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-forward_type",
+    "personality_weight": 80,
+    "base_miss_rate": 60,
+    "selection_score": 20
+  },
+  {
+    "character_id": "chr-04013",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-retraction_type",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-04014",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-purely_strong",
+    "personality_weight": 20,
+    "base_miss_rate": 15,
+    "selection_score": 100
+  },
+  {
+    "character_id": "chr-04015",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_01",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-04016",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-retraction_type",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 20
+  },
+  {
+    "character_id": "chr-04017",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-forward_type",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-06002",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-safety_02",
+    "personality_weight": 40,
+    "base_miss_rate": 30,
+    "selection_score": 60
+  },
+  {
+    "character_id": "chr-06003",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-take_pieces",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-06004",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-use_pieces",
+    "personality_weight": 60,
+    "base_miss_rate": 45,
+    "selection_score": 40
+  },
+  {
+    "character_id": "chr-06005",
+    "shogi_character_personality_parameter_group_id": "shogi_character_personality_parameter-forward_type_02",
+    "personality_weight": 80,
+    "base_miss_rate": 60,
+    "selection_score": 20
+  }
+]

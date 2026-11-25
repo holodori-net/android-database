@@ -216,6 +216,10 @@
     "text": "生命值提升[value]点"
   },
   {
+    "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-100-skill_tree_effect_target-all-set_live_leader-description",
+    "text": "全体成员的主动技能发动概率提升[value/10]%"
+  },
+  {
     "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-20-skill_tree_effect_target-skill_tree_character-always-description",
     "text": "[character]的主动技能发动概率提升[value/10]%"
   },
@@ -330,6 +334,10 @@
   {
     "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-jump_rope-description",
     "text": "跳跳大绳的获得奖励量提升[value/10]%"
+  },
+  {
+    "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-shogi-description",
+    "text": "浮排大战的获得奖励量提升[value/10]%（NORMAL关卡除外）"
   },
   {
     "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-splash_ball-description",

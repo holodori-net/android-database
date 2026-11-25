@@ -257,7 +257,7 @@
   },
   {
     "id": "la-help_category-faq-questions-5-text",
-    "text": "Riwayat pengambilan hadiah adalah maksimal sampai 100 item.\nRiwayat yang melebihi 100 item akan dihapus mulai dari yang paling lama."
+    "text": "Riwayat pengambilan hadiah adalah maksimal sampai 500 item.\nRiwayat yang melebihi 500 item akan dihapus mulai dari yang paling lama."
   },
   {
     "id": "la-help_category-faq-questions-5-title",
@@ -640,6 +640,14 @@
     "text": "Tentang Splash Ball"
   },
   {
+    "id": "la-help_category-help-game-9-text",
+    "text": "Puka Puka Fight adalah Mini-game di mana pemain mengendalikan holomem dengan peran yang berbeda, dengan tujuan menjatuhkan Leader Lawan ke dalam air.\nPemain bisa menang dengan cara menjatuhkan Leader Lawan atau memenangkan dengan cara \"TRY\".\nHadiah yang didapatkan tergantung apakah pemain menang atau kalah.\n\nAda dua mode permainan: \"Solo Play\" dan \"Multiplayer\".\nMultiplayer dapat dimainkan hingga maksimal 2 pemain.\n\nUntuk lebih lengkapnya, tekan [?] yang ada di bagian atas layar Puka Puka Fight dan lihat cara bermain Mini-game ini.\n\n▼Supervisi\nPuka Puka Fight menggunakan aturan permainan \"Dobutsu Shogi\". \nSupervisor dan Desainer Game \"Dobutsu Shogi\": Madoka Kitao"
+  },
+  {
+    "id": "la-help_category-help-game-9-title",
+    "text": "Tentang Puka Puka Fight"
+  },
+  {
     "id": "la-help_category-help-item-1-text",
     "text": "Di menu Inventory, dapat memeriksa jumlah, kegunaan, serta cara mendapatkan berbagai Item yang dimiliki.\nUntuk Item yang memiliki masa berlaku, waktu kadaluwarsanya juga akan ditampilkan.\n※Item yang telah melewati masa berlaku akan hilang secara otomatis."
   },
@@ -833,7 +841,7 @@
   },
   {
     "id": "la-help_category-help-profile-3-text",
-    "text": "Informasi Dasar Profil, holomem, Live, dan Game dapat dialihkan antara Publik atau Privat.\nPengalihan status Publik/Privat dapat dilakukan melalui bagian bawah dari masing-masing informasi."
+    "text": "Informasi dasar seperti Profil, holomem, Live, dan Game dapat dialihkan menjadi \"Publik\", \"Privasi\", atau \"Friend Saja\".\n\nPengalihan status privasi dapat dilakukan di pengaturan yang terletak di bagian bagwah profil."
   },
   {
     "id": "la-help_category-help-profile-3-title",
@@ -936,6 +944,14 @@
     "text": "Tentang Auto Live"
   },
   {
+    "id": "la-help_category-help-rhythm-13-text",
+    "text": "Challenge Live adalah mode permainan di Live di mana pemain akan menantang dirinya sendiri untuk memainkan lagu yang sudah ditentukan dan menyelesaikan tantangan skor di tiap stage.\nDengan mencapai target skor, pemain akan menyelesaikan stage, mendapatkan hadiah, dan dapat lanjut ke stage berikutnya.\n*Stage yang sudah diselesaikan tidak dapat dimainkan kembali.\n\nDengan menggunakan bonus member yang sudah ditentukan pada tiap stage di unit, pemain akan mendapatkan efek bonus dan meningkatkan skor unit.\nJika Efek Bonus diterapkan, (+nilai Efek Bonus) akan ditampilkan di bagian bawah Skor Unit.\n*Nilai Efek Bonus tidak ditambahkan ke tampilan total Skor Unit.\n*Nilai Skor Unit yang telah ditambahkan nilai Efek Bonus tidak dihitung dalam syarat Achievement.\n*Skor yang tidak termasuk efek bonus dari member bonus akan disimpan sebagai sebagai skor tertinggi pada setiap lagu.\n\nUntuk rincian lebih lanjut, pilih tombol [?] di bagian atas layar Live. dan periksa instruksi dan cara bermain minigame ini."
+  },
+  {
+    "id": "la-help_category-help-rhythm-13-title",
+    "text": "Tentang Challenge Live"
+  },
+  {
     "id": "la-help_category-help-rhythm-2-text",
     "text": "Unit terdiri dari satu holomem yang menjadi Leader dan 5 orang member.\nHingga 10 Formasi Unit dapat disimpan untuk setiap holomem.\n\nSkor Unit adalah parameter yang menjadi indikator saat mendapatkan skor di dalam Live.\nSemakin tinggi Skor Unit, semakin besar pula Skor yang bisa didapatkan.\nSkor Unit ditentukan dari Skill Outfit milik Leader, Parameter member, Skill, dan sebagainya.\n\n※Skor Unit dihitung dengan mempertimbangkan apakah Skill Aktif diaktifkan secara merata. Oleh karena itu, tergantung pada komposisinya, nilainya dapat menurun jika membuka \"Peningkatan Frekuensi Aktivasi Skill\" di Board Holomem."
   },
@@ -1009,7 +1025,7 @@
   },
   {
     "id": "la-help_category-help-shop-2-text",
-    "text": "HoloPaspor adalah layanan langganan yang memberikan berbagai keuntungan dengan membayar biaya bulanan.\n\n▼Keuntungan selama Masa Aktif\nBonus Hadiah: Hadiah penyelesaian Live dan Permainan Singkat menjadi 2 kali lipat.\nPeningkatan Batas Boost: Batas maksimal Live Boost dan Boost Permainan Singkat menjadi 2 kali lipat.\n\n*Event Pt dan Event Badge juga termasuk dalam bonus hadiah.\n\n▼Hadiah Pendaftaran/Perpanjangan\nSaat melakukan pembelian atau perpanjangan, akan mendapatkan Diamond Biru ×360.\n\n▼Catatan Penting\n・Masa aktif HoloPaspor adalah 1 bulan terhitung sejak tanggal pendaftaran/perpanjangan.\n・HoloPaspor yang sedang aktif akan diperpanjang secara otomatis setelah masa aktif berakhir.\n・Pemain tidak dapat melakukan pembelian dari Steam. HoloPaspor yang dibeli dari versi iOS atau Android akan berlaku untuk versi Steam.\n・Cara pembatalan HoloPaspor, silakan pilih [Dream Park] → [Menu] → [Toko] → [HoloPaspor], lalu tekan \"+\" untuk periksa [Detail]."
+    "text": "HoloPaspor adalah layanan langganan yang memberikan berbagai keuntungan dengan membayar biaya bulanan.\n\n▼Keuntungan selama Masa Aktif\n・Bonus hasil: Hasil hadiah dari live dan mini game akan digandakan.\n・Peningkatan Limit Boost: Batas maksimal Live dan Minigame Boost digandakan.\n\n*Event Pt dan Lencana Event juga termasuk dalam bonus hadiah.\n*Hadiah pencapaian untuk setiap lagu tidak termasuk dalam bonus hadiah.\n*Misi, Private Room dalam Multiplayer, dan Mode Normal Puka Puka Fight tidak termasuk dalam bonus hadiah.\n\n▼Hadiah Pendaftaran/Perpanjangan\nSaat melakukan pembelian atau perpanjangan, akan mendapatkan Diamond Biru ×360.\n\n▼Catatan Penting\n・Masa aktif HoloPaspor adalah 1 bulan terhitung sejak tanggal pendaftaran/perpanjangan.\n・HoloPaspor yang sedang aktif akan diperpanjang secara otomatis setelah masa aktif berakhir.\n・Pemain tidak dapat melakukan pembelian dari Steam. HoloPaspor yang dibeli dari versi iOS atau Android akan berlaku untuk versi Steam.\n・Cara pembatalan HoloPaspor, silakan pilih [Dream Park] → [Menu] → [Toko] → [HoloPaspor], lalu tekan \"+\" untuk periksa [Detail]."
   },
   {
     "id": "la-help_category-help-shop-2-title",

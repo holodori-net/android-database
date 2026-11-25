@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "success": true,
   "state": "completed",
-  "masterVersion": "1e7e0e9790e0d2e27712c5eb3f71470230fa977f9b75d7c8fa7b2a7dad3c292d",
+  "masterVersion": "c85ba53533bd8ef6166a5baf2e358e294393b689cf38cc020ea4f4fb51aa32b6",
   "app": {
-    "versionName": "1.2.101",
-    "versionCode": 1793072585
+    "versionName": "1.3.0",
+    "versionCode": 1794558081
   },
   "languages": [
     "jpn",
@@ -21,32 +21,32 @@
   },
   "inputs": {
     "sourceRevision": "f2813786fffa64e685431932aaa5fcef226b6583",
-    "contractRevision": "9fc9d4bb22ae201f503568d40d864df480b4b8e3"
+    "contractRevision": "f806c25702c4b45b6f297cd621d159cfdaa6f6de"
   },
   "source": {
-    "packs": 994,
-    "bytes": 130367488
+    "packs": 1024,
+    "bytes": 135897088
   },
   "outputs": {
-    "packs": 994,
-    "tables": 994,
-    "rows": 530930,
+    "packs": 1024,
+    "tables": 1024,
+    "rows": 551479,
     "masterSqlite": {
       "path": "master.sqlite",
-      "logicalTables": 379,
-      "rows": 530930,
-      "bytes": 100958208,
-      "sha256": "2b10eaf16bdb6fb603363d48fcd2b2f5bf6724d780591752c8a47b5de8069e8e",
+      "logicalTables": 394,
+      "rows": 551479,
+      "bytes": 105844736,
+      "sha256": "f944dacf7e8579fd5cc5812fe85ba63f40fe814a37415fb552dce1833c419887",
       "schema": {
-        "parentTables": 379,
-        "structuredJsonFields": 85,
-        "enumTables": 119,
-        "enforceableForeignKeys": 210,
-        "metadataOnlyForeignKeys": 342,
-        "unmarkedForeignKeyCandidates": 16,
-        "unknownEnumValues": 6
+        "parentTables": 394,
+        "structuredJsonFields": 93,
+        "enumTables": 131,
+        "enforceableForeignKeys": 220,
+        "metadataOnlyForeignKeys": 359,
+        "unmarkedForeignKeyCandidates": 17,
+        "unknownEnumValues": 8
       }
     }
   },
-  "elapsedMs": 231959
+  "elapsedMs": 163964
 }

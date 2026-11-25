@@ -2,12 +2,12 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-001",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-002",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -17,12 +17,12 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-004",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-005",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -37,7 +37,7 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-008",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -67,7 +67,7 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-014",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -82,7 +82,7 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-017",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -92,17 +92,17 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-019",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-020",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-021",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -127,37 +127,37 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-027",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-028",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-029",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-030",
-    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-031",
-    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-032",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-033",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -167,27 +167,27 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-035",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-036",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-037",
-    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-038",
-    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-039",
-    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -212,32 +212,32 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-044",
-    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-045",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-046",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-047",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-048",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-049",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -257,17 +257,17 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-053",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-054",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-055",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -282,47 +282,47 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-058",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-059",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-060",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-061",
-    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-062",
-    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-063",
-    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-064",
-    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-065",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-066",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -337,7 +337,7 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-069",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -347,12 +347,12 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-071",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-072",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -372,37 +372,37 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-077",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-078",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-079",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-080",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-081",
-    "condition_group_id": "cd-quest_clear-quest-main-w1-01-03_to_01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-082",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-083",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -412,7 +412,7 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-085",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -437,7 +437,7 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-090",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -477,12 +477,12 @@
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-098",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
     "park_target_mapping_id": "target_map-random_symbol-a01-099",
-    "condition_group_id": "cd-quest_clear-quest-area-a01-06"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a01",
@@ -992,17 +992,17 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-002",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-003",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-004",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1012,37 +1012,37 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-006",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-007",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-008",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-009",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-010",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-011",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-012",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1062,7 +1062,7 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-017",
-    "condition_group_id": "cd-facility-a03-resortshop"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1077,7 +1077,7 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-020",
-    "condition_group_id": "cd-facility-a03-fishingshop"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1092,7 +1092,7 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-023",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1112,17 +1112,17 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-027",
-    "condition_group_id": "cd-facility-a03-station"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-028",
-    "condition_group_id": "cd-facility-a03-station"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-029",
-    "condition_group_id": "cd-facility-a03-station"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1137,7 +1137,7 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-032",
-    "condition_group_id": "cd-facility-a03-boatshop"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1152,7 +1152,7 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-035",
-    "condition_group_id": "cd-facility-a03-stadium"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1162,12 +1162,12 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-037",
-    "condition_group_id": "cd-facility-a03-stadium"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-038",
-    "condition_group_id": "cd-facility-a03-livestage"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1182,7 +1182,7 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-041",
-    "condition_group_id": "cd-facility-a03-livestage"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1192,7 +1192,7 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-043",
-    "condition_group_id": "cd-facility-a03-fishingpond2"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1207,7 +1207,7 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-046",
-    "condition_group_id": "cd-facility-a03-watergun"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1227,12 +1227,12 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-050",
-    "condition_group_id": "cd-facility-a03-glamping"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-051",
-    "condition_group_id": "cd-facility-a03-glamping"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1262,12 +1262,12 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-057",
-    "condition_group_id": "cd-facility-a03-fishingpond3"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-058",
-    "condition_group_id": "cd-park-a03-seaarea3-open"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1282,7 +1282,7 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-061",
-    "condition_group_id": "cd-park-a03-seaarea3-open"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1292,7 +1292,7 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-085",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1307,27 +1307,27 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-096",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-097",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-098",
-    "condition_group_id": "cd-park-a03-seaarea2-open"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-099",
-    "condition_group_id": "cd-park-a03-seaarea3-open"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-100",
-    "condition_group_id": "cd-park-a03-seaarea3-open"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
@@ -1472,11 +1472,11 @@
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-141",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   },
   {
     "area_id": "area-a03",
     "park_target_mapping_id": "target_map-random_symbol-a03-142",
-    "condition_group_id": "cd-park_fishing_bait-002-gettable"
+    "condition_group_id": "cd-hidden-mission"
   }
 ]

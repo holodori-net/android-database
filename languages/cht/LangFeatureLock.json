@@ -68,6 +68,14 @@
     "text": "Live"
   },
   {
+    "id": "la-feature_lock-live_tower-description",
+    "text": "解鎖條件：過關區域關卡「前進夢想舞台！任務開始」"
+  },
+  {
+    "id": "la-feature_lock-live_tower-title",
+    "text": "挑戰Live"
+  },
+  {
     "id": "la-feature_lock-menu-title",
     "text": "選單"
   },
@@ -210,6 +218,10 @@
   {
     "id": "la-feature_lock-poster-title",
     "text": "回憶卡"
+  },
+  {
+    "id": "la-feature_lock-shogi",
+    "text": "漂漂大亂鬥"
   },
   {
     "id": "la-feature_lock-skill_tree-description",

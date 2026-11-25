@@ -79,6 +79,12 @@
   {
     "id": "effect-filter-category-skill-activation-probability-up",
     "name_lang_id": "la-effect-filter-category-skill-activation-probability-up",
+    "live_passive_skill_effect_types": [
+      {
+        "name": "LIVE_PASSIVE_SKILL_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",
+        "number": 11
+      }
+    ],
     "live_special_skill_effect_types": [
       {
         "name": "LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",

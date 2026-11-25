@@ -5568,6 +5568,10 @@
     "text": "난이도 NORMAL로 {0}곡 FULL COMBO 달성"
   },
   {
+    "id": "la-mission-achievement-common-absolute_live_tower_stage_clear_count-description",
+    "text": "STAGE {0} 클리어"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_music_highest_score_rating_sum-description",
     "text": "Holo멤버 스코어 레이트 총 {0} 달성"
   },
@@ -5592,6 +5596,18 @@
     "text": "귀엽닭새우를 낚자"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0031-description",
+    "text": "해파리군과 닮은 인형을 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0032-description",
+    "text": "조수군을 방불케 하는 인형을 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0033-description",
+    "text": "우니와 헷갈리는 인형을 낚자"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0061-description",
     "text": "눈꽃클리오네를 낚자"
   },
@@ -5604,6 +5620,18 @@
     "text": "무쥘서어를 낚자"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0064-description",
+    "text": "유키민 모양 인형을 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0065-description",
+    "text": "이치미쿠마 같은 인형을 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0066-description",
+    "text": "Mr. Squeaks를 닮은 듯한 인형을 낚자"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0094-description",
     "text": "용오름쥐치를 낚자"
   },
@@ -5614,6 +5642,18 @@
   {
     "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0096-description",
     "text": "광대 프로그피시를 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0097-description",
+    "text": "칠루스 스타일 인형을 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0098-description",
+    "text": "우파오를 연상시키는 인형을 낚자"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0099-description",
+    "text": "좌원 느낌이 나는 인형을 낚자"
   },
   {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a01-area-description",
@@ -5633,7 +5673,7 @@
   },
   {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a03-description",
-    "text": "소다팝 라군의 메인, 구역 퀘스트를 모두 클리어"
+    "text": "소다팝 라군의 메인, 구역 퀘스트를 34개 클리어"
   },
   {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w1-01-24-description",
@@ -5666,6 +5706,22 @@
   {
     "id": "la-mission-achievement-common-absolute_poster_get_count-description",
     "text": "메모리를 {0}종류 획득"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_shogi_piece_take_count-description",
+    "text": "상대방 holo멤버를 {0}회 물에 빠뜨리기"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_shogi_piece_taken_count-description",
+    "text": "상대방이 내 holo멤버를 {0}회 물에 빠뜨림"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_shogi_piece_taken_count-name",
+    "text": "입수 달인"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_shogi_stage_clear_count-single-description",
+    "text": "NORMAL / CHALLENGE 스테이지를 {0}회 클리어"
   },
   {
     "id": "la-mission-achievement-common-absolute_skill_tree_release_count-description",
@@ -5898,6 +5954,10 @@
   {
     "id": "la-mission-achievement-common-increment_mini_game_play_count-jump_rope-description",
     "text": "줄넘기를 {0}회 플레이"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_mini_game_play_count-shogi-description",
+    "text": "둥실둥실 파이트를 {0}회 플레이"
   },
   {
     "id": "la-mission-achievement-common-increment_mini_game_play_count-splash_ball-description",
@@ -6472,6 +6532,46 @@
     "text": "미니 게임 부스트를 총 {0} 소비하자"
   },
   {
+    "id": "la-mission-event_mission-shogi_celebration-261125-absolute_park_fishing_fish_unique_count",
+    "text": "물고기를 {0}종류 낚자"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-absolute_shogi_piece_take_count",
+    "text": "둥실둥실 파이트에서 상대방 holo멤버 {0}명을 동료로 만들자"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-absolute_shogi_stage_clear_count-single",
+    "text": "둥실둥실 파이트 NORMAL 스테이지를 {0}회 클리어하자"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_live_play_count",
+    "text": "라이브를 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_mini_game_play_count-shogi",
+    "text": "둥실둥실 파이트를 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_mini_game_stamina_consumption",
+    "text": "미니 게임 부스트를 총 {0} 소비하자"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_mission_clear_count-event_normal-mission_grp-shogi_celebration-261125",
+    "text": "모든 미션을 완료하자"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_multi_live_play_count",
+    "text": "다 함께 라이브를 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_park_present_receive_count",
+    "text": "holo멤이 주는 선물을 {0}회 수령하자"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_work_finish_count",
+    "text": "holo워크를 {0}회 완료하자"
+  },
+  {
     "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
     "text": "holo멤 {0}명을 개방하자"
   },
@@ -6549,6 +6649,46 @@
   },
   {
     "id": "la-mission-event_mission-training_support-261105-increment_work_finish_count",
+    "text": "holo워크를 {0}회 완료하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_card_level_count-70",
+    "text": "{0}명의 멤버 레벨을 70까지 성장시키자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_character_level_sum",
+    "text": "Holo멤버 랭크 합계 {0}에 도달하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_live_clear_music_count",
+    "text": "{0}종류의 라이브를 클리어하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_live_deck_evaluation_value",
+    "text": "유닛 스코어 {0}을(를) 달성하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_live_tower_stage_clear_count-live_tower-default-001",
+    "text": "챌린지 라이브에서 스테이지 {0}을(를) 클리어하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_skill_tree_release_count",
+    "text": "holo멤 보드를 총 {0}개 개방하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-increment_live_play_count",
+    "text": "라이브를 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-increment_mini_game_stamina_consumption",
+    "text": "미니 게임 부스트를 총 {0} 소비하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-increment_mission_clear_count-event_normal-mission_grp-training_support-261205",
+    "text": "모든 미션을 완료하자"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-increment_work_finish_count",
     "text": "holo워크를 {0}회 완료하자"
   },
   {
@@ -6985,6 +7125,98 @@
   },
   {
     "id": "la-mission-missionpass-261101-weekly-increment_work_start_count-name",
+    "text": "Holo워크를 {0}회 개시하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_card_level_up_count-name",
+    "text": "멤버 Lv을 {0}회 강화하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_drop_item_get_count-name",
+    "text": "비밀 트레저를 {0}개 습득하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_live_play_count-name",
+    "text": "라이브를 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_mini_game_play_count-name",
+    "text": "미니 게임을 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_multi_live_play_count-name",
+    "text": "다 함께 라이브를 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_park_present_receive_count-name",
+    "text": "holo멤이 주는 선물을 {0}회 수령하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_park_quest_clear_count-daily-name",
+    "text": "데일리 퀘스트를 {0}회 클리어하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_work_start_count-name",
+    "text": "Holo워크를 {0}회 개시하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-season-absolute_live_tower_stage_clear_count-live_tower-default-001-name",
+    "text": "챌린지 라이브를 STAGE {0}까지 클리어하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-season-absolute_park_fishing_fish_unique_count-name",
+    "text": "물고기를 {0}종류 낚자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-season-increment_mini_game_play_count-shogi-name",
+    "text": "둥실둥실 파이트를 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-season-increment_park_fishing_fish_caught_count-name",
+    "text": "물고기를 {0}마리 낚자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_card_level_limit_break_count-name",
+    "text": "멤버를 {0}회 특훈하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_drop_item_get_count-name",
+    "text": "비밀 트레저를 {0}개 습득하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+    "text": "네포라보 마트의 Holo골드 교환에서 {0}회 교환하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_live_play_count-name",
+    "text": "라이브를 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_live_stamina_consumption-name",
+    "text": "라이브 부스트를 총 {0} 소비하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_mini_game_play_count-name",
+    "text": "미니 게임을 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_mini_game_stamina_consumption-name",
+    "text": "미니 게임 부스트를 총 {0} 소비하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_multi_live_play_count-name",
+    "text": "다 함께 라이브를 {0}회 플레이하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_music_creative_chart_live_clear_count-name",
+    "text": "창작 악보의 악곡을 {0}회 클리어하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_skill_tree_release_count-name",
+    "text": "Holo멤버 보드를 {0}개 개방하자"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_work_start_count-name",
     "text": "Holo워크를 {0}회 개시하자"
   },
   {

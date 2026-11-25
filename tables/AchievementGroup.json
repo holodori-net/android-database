@@ -664,6 +664,17 @@
     "order": 10
   },
   {
+    "id": "achievement_grp-live_tower",
+    "achievement_category_type": {
+      "name": "ACHIEVEMENT_CATEGORY_TYPE_LIVE",
+      "number": 2
+    },
+    "name_lang_id": "la-achievement_grp-live_tower",
+    "view_condition_group_id": "cd-live_tower-default-unlock",
+    "asset_id": "img_achieve_icon_live_tower-default",
+    "order": 40
+  },
+  {
     "id": "achievement_grp-login",
     "achievement_category_type": {
       "name": "ACHIEVEMENT_CATEGORY_TYPE_OTHER",
@@ -762,6 +773,20 @@
       "number": 1
     },
     "order": 10
+  },
+  {
+    "id": "achievement_grp-minigame_shogi",
+    "achievement_category_type": {
+      "name": "ACHIEVEMENT_CATEGORY_TYPE_MINI_GAME",
+      "number": 3
+    },
+    "name_lang_id": "la-achievement_grp-minigame_shogi",
+    "asset_id": "img_achieve_icon_shogi",
+    "mini_game_type": {
+      "name": "MINI_GAME_TYPE_SHOGI",
+      "number": 7
+    },
+    "order": 70
   },
   {
     "id": "achievement_grp-minigame_splashball",

@@ -1001,6 +1001,56 @@
     "description_lang_id": "la-tips-game_screen-live_deck_edit-description-1"
   },
   {
+    "tips_id": "tips-game_screen-live_tower",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_live_tower-quest-001",
+    "description_lang_id": "la-tips-live_tower-quest-description-1"
+  },
+  {
+    "tips_id": "tips-game_screen-live_tower",
+    "number": 2,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_live_tower-quest-002",
+    "description_lang_id": "la-tips-live_tower-quest-description-2"
+  },
+  {
+    "tips_id": "tips-game_screen-live_tower",
+    "number": 3,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_live_tower-quest-003",
+    "description_lang_id": "la-tips-live_tower-quest-description-3"
+  },
+  {
+    "tips_id": "tips-game_screen-live_tower",
+    "number": 4,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_live_tower-quest-004",
+    "description_lang_id": "la-tips-live_tower-quest-description-4"
+  },
+  {
+    "tips_id": "tips-game_screen-live_tower",
+    "number": 5,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_live_tower-002",
+    "description_lang_id": "la-tips-live_tower-description-2"
+  },
+  {
     "tips_id": "tips-game_screen-membership_top",
     "number": 1,
     "asset_type": {
@@ -1354,6 +1404,86 @@
     },
     "asset_id": "img_ui_tips-game_screen-score_ranking-001",
     "description_lang_id": "la-tips-game_screen-score_ranking-description-1"
+  },
+  {
+    "tips_id": "tips-game_screen-shogi",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-001",
+    "description_lang_id": "la-tips-shogi-quest-description-1"
+  },
+  {
+    "tips_id": "tips-game_screen-shogi",
+    "number": 2,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-002",
+    "description_lang_id": "la-tips-shogi-quest-description-2"
+  },
+  {
+    "tips_id": "tips-game_screen-shogi",
+    "number": 3,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-003",
+    "description_lang_id": "la-tips-shogi-quest-description-3"
+  },
+  {
+    "tips_id": "tips-game_screen-shogi",
+    "number": 4,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-004",
+    "description_lang_id": "la-tips-shogi-quest-description-4"
+  },
+  {
+    "tips_id": "tips-game_screen-shogi",
+    "number": 5,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-005",
+    "description_lang_id": "la-tips-shogi-quest-description-5"
+  },
+  {
+    "tips_id": "tips-game_screen-shogi",
+    "number": 6,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-006",
+    "description_lang_id": "la-tips-shogi-quest-description-6"
+  },
+  {
+    "tips_id": "tips-game_screen-shogi",
+    "number": 7,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-007",
+    "description_lang_id": "la-tips-shogi-quest-description-7"
+  },
+  {
+    "tips_id": "tips-game_screen-shogi",
+    "number": 8,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-008",
+    "description_lang_id": "la-tips-shogi-quest-description-8"
   },
   {
     "tips_id": "tips-game_screen-shop_top",
@@ -2466,6 +2596,26 @@
     "description_lang_id": "la-tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up-description-1"
   },
   {
+    "tips_id": "tips-instant_tips-live_tower-quest-unlock",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_live_tower-quest-001",
+    "description_lang_id": "la-tips-instant_tips-live_tower-quest-unlock-description-1"
+  },
+  {
+    "tips_id": "tips-instant_tips-live_tower-quest-unlock",
+    "number": 2,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_live_tower-002",
+    "description_lang_id": "la-tips-instant_tips-live_tower-quest-unlock-description-2"
+  },
+  {
     "tips_id": "tips-instant_tips-present-facerock-2",
     "number": 1,
     "asset_type": {
@@ -2494,6 +2644,16 @@
     },
     "asset_id": "img_ui_tips_random_reward-livehouse-001",
     "description_lang_id": "la-tips-instant_tips-random_reward-livehouse-2-description-1"
+  },
+  {
+    "tips_id": "tips-instant_tips-skill_tree-upgrade-1",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips-skill_tree-upgrade-1",
+    "description_lang_id": "la-tips-instant_tips-skill_tree-upgrade-1-description-1"
   },
   {
     "tips_id": "tips-jump-rope",
@@ -2574,6 +2734,66 @@
     },
     "asset_id": "img_ui_tips_live-start-001",
     "description_lang_id": "la-tips-live-description-1"
+  },
+  {
+    "tips_id": "tips-live_tower",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_live_tower-001",
+    "description_lang_id": "la-tips-live_tower-description-1"
+  },
+  {
+    "tips_id": "tips-live_tower",
+    "number": 2,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_live_tower-002",
+    "description_lang_id": "la-tips-live_tower-description-2"
+  },
+  {
+    "tips_id": "tips-live_tower-quest",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_live_tower-quest-001",
+    "description_lang_id": "la-tips-live_tower-quest-description-1"
+  },
+  {
+    "tips_id": "tips-live_tower-quest",
+    "number": 2,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_live_tower-quest-002",
+    "description_lang_id": "la-tips-live_tower-quest-description-2"
+  },
+  {
+    "tips_id": "tips-live_tower-quest",
+    "number": 3,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_live_tower-quest-003",
+    "description_lang_id": "la-tips-live_tower-quest-description-3"
+  },
+  {
+    "tips_id": "tips-live_tower-quest",
+    "number": 4,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_live_tower-quest-004",
+    "description_lang_id": "la-tips-live_tower-quest-description-4"
   },
   {
     "tips_id": "tips-lottery-area02-scratch",
@@ -3199,6 +3419,246 @@
     },
     "asset_id": "mov_ui_tips_rhythm-game-005",
     "description_lang_id": "la-tips-rhythm-game-description-5"
+  },
+  {
+    "tips_id": "tips-shogi",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-001",
+    "description_lang_id": "la-tips-shogi-description-1"
+  },
+  {
+    "tips_id": "tips-shogi",
+    "number": 2,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-002",
+    "description_lang_id": "la-tips-shogi-description-2"
+  },
+  {
+    "tips_id": "tips-shogi",
+    "number": 3,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-003",
+    "description_lang_id": "la-tips-shogi-description-3"
+  },
+  {
+    "tips_id": "tips-shogi-quest",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-001",
+    "description_lang_id": "la-tips-shogi-quest-description-1"
+  },
+  {
+    "tips_id": "tips-shogi-quest",
+    "number": 2,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-002",
+    "description_lang_id": "la-tips-shogi-quest-description-2"
+  },
+  {
+    "tips_id": "tips-shogi-quest",
+    "number": 3,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-003",
+    "description_lang_id": "la-tips-shogi-quest-description-3"
+  },
+  {
+    "tips_id": "tips-shogi-quest",
+    "number": 4,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-004",
+    "description_lang_id": "la-tips-shogi-quest-description-4"
+  },
+  {
+    "tips_id": "tips-shogi-quest",
+    "number": 5,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-005",
+    "description_lang_id": "la-tips-shogi-quest-description-5"
+  },
+  {
+    "tips_id": "tips-shogi-quest",
+    "number": 6,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-006",
+    "description_lang_id": "la-tips-shogi-quest-description-6"
+  },
+  {
+    "tips_id": "tips-shogi-quest",
+    "number": 7,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-007",
+    "description_lang_id": "la-tips-shogi-quest-description-7"
+  },
+  {
+    "tips_id": "tips-shogi-quest",
+    "number": 8,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-quest-008",
+    "description_lang_id": "la-tips-shogi-quest-description-8"
+  },
+  {
+    "tips_id": "tips-shogi-stage-catch-end",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-catch-end",
+    "description_lang_id": "la-tips-shogi-stage-catch-end-description-1"
+  },
+  {
+    "tips_id": "tips-shogi-stage-catch-start",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-catch-start",
+    "description_lang_id": "la-tips-shogi-stage-catch-start-description-1"
+  },
+  {
+    "tips_id": "tips-shogi-stage-nakama-end",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-nakama-end",
+    "description_lang_id": "la-tips-shogi-stage-nakama-end-description-1"
+  },
+  {
+    "tips_id": "tips-shogi-stage-nakama-start",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-nakama-start",
+    "description_lang_id": "la-tips-shogi-stage-nakama-start-description-1"
+  },
+  {
+    "tips_id": "tips-shogi-stage-naru-end",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-naru-end",
+    "description_lang_id": "la-tips-shogi-stage-naru-end-description-1"
+  },
+  {
+    "tips_id": "tips-shogi-stage-naru-start",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-naru-start",
+    "description_lang_id": "la-tips-shogi-stage-naru-start-description-1"
+  },
+  {
+    "tips_id": "tips-shogi-stage-try-end",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-try-end",
+    "description_lang_id": "la-tips-shogi-stage-try-end-description-1"
+  },
+  {
+    "tips_id": "tips-shogi-stage-try-start",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-try-start",
+    "description_lang_id": "la-tips-shogi-stage-try-start-description-1"
+  },
+  {
+    "tips_id": "tips-shogi-stage1-hint",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-stage1-hint",
+    "description_lang_id": "la-tips-shogi-stage1-hint-description-1"
+  },
+  {
+    "tips_id": "tips-shogi-stage2-hint",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-stage2-hint",
+    "description_lang_id": "la-tips-shogi-stage2-hint-description-1"
+  },
+  {
+    "tips_id": "tips-shogi-stage3-hint",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-stage3-hint",
+    "description_lang_id": "la-tips-shogi-stage3-hint-description-1"
+  },
+  {
+    "tips_id": "tips-shogi-stage4-hint",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-stage4-hint",
+    "description_lang_id": "la-tips-shogi-stage4-hint-description-1"
+  },
+  {
+    "tips_id": "tips-shogi-stage5-hint",
+    "number": 1,
+    "asset_type": {
+      "name": "TIPS_ASSET_TYPE_IMAGE",
+      "number": 1
+    },
+    "asset_id": "img_ui_tips_mg-shogi-stage5-hint",
+    "description_lang_id": "la-tips-shogi-stage5-hint-description-1"
   },
   {
     "tips_id": "tips-skill-tree",

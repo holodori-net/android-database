@@ -167,5 +167,31 @@
     "mini_game_top_tips_id": "tips-game_screen-splash_ball",
     "multi_game_top_tips_id": "tips-game_screen-splash_ball",
     "order": 6
+  },
+  {
+    "type": {
+      "name": "MINI_GAME_TYPE_SHOGI",
+      "number": 7
+    },
+    "name_lang_id": "la-mini_game-shogi-name",
+    "description_lang_id": "la-mini_game-shogi-description",
+    "title_asset_id": "shogi",
+    "list_asset_id": "shogi",
+    "park_action_type": {
+      "name": "PARK_ACTION_TYPE_SHOGI",
+      "number": 1006
+    },
+    "consumption_type": {
+      "name": "MINI_GAME_CONSUMPTION_TYPE_REWARD_UP_STAMINA",
+      "number": 1
+    },
+    "character_display_type": {
+      "name": "MINI_GAME_CHARACTER_DISPLAY_TYPE_DISPLAY_3_D",
+      "number": 2
+    },
+    "is_multi_game": true,
+    "mini_game_top_tips_id": "tips-game_screen-shogi",
+    "multi_game_top_tips_id": "tips-game_screen-shogi",
+    "order": 6
   }
 ]

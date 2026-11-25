@@ -1,0 +1,206 @@
+[
+  {
+    "level": 1,
+    "ai_level": 2,
+    "personality_weight": 35,
+    "miss_rating_correction": -10,
+    "miss_trigger_types": [
+      {
+        "name": "SHOGI_MISS_TRIGGER_TYPE_DISADVANTAGE",
+        "number": 1
+      }
+    ],
+    "miss_selection_type": {
+      "name": "SHOGI_MISS_SELECTION_TYPE_RANDOM",
+      "number": 3
+    }
+  },
+  {
+    "level": 2,
+    "ai_level": 2,
+    "personality_weight": 35,
+    "miss_trigger_types": [
+      {
+        "name": "SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN",
+        "number": 2
+      }
+    ],
+    "miss_selection_type": {
+      "name": "SHOGI_MISS_SELECTION_TYPE_RANDOM",
+      "number": 3
+    },
+    "is_drop_piece_allowed": true
+  },
+  {
+    "level": 3,
+    "ai_level": 3,
+    "personality_weight": 30,
+    "miss_rating_correction": -10,
+    "miss_trigger_types": [
+      {
+        "name": "SHOGI_MISS_TRIGGER_TYPE_DISADVANTAGE",
+        "number": 1
+      }
+    ],
+    "miss_selection_type": {
+      "name": "SHOGI_MISS_SELECTION_TYPE_RANDOM",
+      "number": 3
+    },
+    "is_drop_piece_allowed": true
+  },
+  {
+    "level": 4,
+    "ai_level": 3,
+    "personality_weight": 30,
+    "miss_trigger_types": [
+      {
+        "name": "SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN",
+        "number": 2
+      }
+    ],
+    "miss_selection_type": {
+      "name": "SHOGI_MISS_SELECTION_TYPE_RANDOM",
+      "number": 3
+    },
+    "is_drop_piece_allowed": true
+  },
+  {
+    "level": 5,
+    "ai_level": 4,
+    "personality_weight": 25,
+    "miss_rating_correction": -10,
+    "miss_ai_level_correction": 3,
+    "miss_trigger_types": [
+      {
+        "name": "SHOGI_MISS_TRIGGER_TYPE_DISADVANTAGE",
+        "number": 1
+      }
+    ],
+    "miss_selection_type": {
+      "name": "SHOGI_MISS_SELECTION_TYPE_DEPTH",
+      "number": 4
+    },
+    "is_drop_piece_allowed": true
+  },
+  {
+    "level": 6,
+    "ai_level": 4,
+    "personality_weight": 25,
+    "miss_rating_correction": -5,
+    "miss_ai_level_correction": 3,
+    "miss_trigger_types": [
+      {
+        "name": "SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN",
+        "number": 2
+      }
+    ],
+    "miss_selection_type": {
+      "name": "SHOGI_MISS_SELECTION_TYPE_DEPTH",
+      "number": 4
+    },
+    "is_drop_piece_allowed": true
+  },
+  {
+    "level": 7,
+    "ai_level": 5,
+    "personality_weight": 20,
+    "miss_rating_correction": -10,
+    "miss_ai_level_correction": 4,
+    "miss_trigger_types": [
+      {
+        "name": "SHOGI_MISS_TRIGGER_TYPE_DISADVANTAGE",
+        "number": 1
+      }
+    ],
+    "miss_selection_type": {
+      "name": "SHOGI_MISS_SELECTION_TYPE_DEPTH",
+      "number": 4
+    },
+    "is_drop_piece_allowed": true
+  },
+  {
+    "level": 8,
+    "ai_level": 5,
+    "personality_weight": 20,
+    "miss_rating_correction": -10,
+    "miss_ai_level_correction": 4,
+    "miss_trigger_types": [
+      {
+        "name": "SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN",
+        "number": 2
+      }
+    ],
+    "miss_selection_type": {
+      "name": "SHOGI_MISS_SELECTION_TYPE_DEPTH",
+      "number": 4
+    },
+    "is_drop_piece_allowed": true
+  },
+  {
+    "level": 9,
+    "ai_level": 6,
+    "personality_weight": 15,
+    "miss_rating_correction": -10,
+    "miss_ai_level_correction": 5,
+    "miss_trigger_types": [
+      {
+        "name": "SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN",
+        "number": 2
+      }
+    ],
+    "miss_selection_type": {
+      "name": "SHOGI_MISS_SELECTION_TYPE_DEPTH",
+      "number": 4
+    },
+    "is_drop_piece_allowed": true
+  },
+  {
+    "level": 10,
+    "ai_level": 7,
+    "personality_weight": 10,
+    "miss_rating_correction": -10,
+    "miss_ai_level_correction": 6,
+    "miss_trigger_types": [
+      {
+        "name": "SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN",
+        "number": 2
+      }
+    ],
+    "miss_selection_type": {
+      "name": "SHOGI_MISS_SELECTION_TYPE_DEPTH",
+      "number": 4
+    },
+    "is_drop_piece_allowed": true
+  },
+  {
+    "level": 98,
+    "ai_level": 1,
+    "personality_weight": 5,
+    "miss_trigger_types": [
+      {
+        "name": "SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN",
+        "number": 2
+      }
+    ],
+    "miss_selection_type": {
+      "name": "SHOGI_MISS_SELECTION_TYPE_NONE",
+      "number": 1
+    },
+    "is_drop_piece_allowed": true
+  },
+  {
+    "level": 99,
+    "ai_level": 3,
+    "personality_weight": 5,
+    "miss_trigger_types": [
+      {
+        "name": "SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN",
+        "number": 2
+      }
+    ],
+    "miss_selection_type": {
+      "name": "SHOGI_MISS_SELECTION_TYPE_NONE",
+      "number": 1
+    }
+  }
+]

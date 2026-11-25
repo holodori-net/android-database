@@ -116603,6 +116603,16 @@
     "park_position_id": "park_pos-a03-seaarea3-free_npc_sp_23"
   },
   {
+    "id": "target_map-a03-shogi",
+    "name_lang_id": "la-target_map-a03-shogi",
+    "target_type": {
+      "name": "PARK_TARGET_TYPE_FACILITY",
+      "number": 2
+    },
+    "facility_id": "facility-a03-stadium",
+    "park_position_id": "park_pos-a03-stadium-content_sp_01"
+  },
+  {
     "id": "target_map-a03-stadium",
     "name_lang_id": "la-perm-a03-stadium-title",
     "target_type": {
@@ -122435,6 +122445,25 @@
     "park_position_id": "park_pos-a01-secretbase-quest_03"
   },
   {
+    "id": "target_map-area-a01-30-1-1",
+    "target_type": {
+      "name": "PARK_TARGET_TYPE_NPC",
+      "number": 1
+    },
+    "park_npc_group_id": "npc_group-area-a01-30-1-1",
+    "park_position_id": "park_pos-a01-livestage-quest"
+  },
+  {
+    "id": "target_map-area-a01-30-1-2",
+    "name_lang_id": "la-target_map-area-a01-30-1-2",
+    "target_type": {
+      "name": "PARK_TARGET_TYPE_NPC",
+      "number": 1
+    },
+    "park_npc_group_id": "npc_group-area-a01-30-1-2",
+    "park_position_id": "park_pos-a01-livestage-quest"
+  },
+  {
     "id": "target_map-area-a02-01-1-1",
     "target_type": {
       "name": "PARK_TARGET_TYPE_NPC",
@@ -123369,6 +123398,25 @@
     },
     "park_npc_group_id": "npc_group-area-a03-19-1-2",
     "park_position_id": "park_pos-a03-station-quest_04"
+  },
+  {
+    "id": "target_map-area-a03-20-1-1",
+    "target_type": {
+      "name": "PARK_TARGET_TYPE_NPC",
+      "number": 1
+    },
+    "park_npc_group_id": "npc_group-area-a03-20-1-1",
+    "park_position_id": "park_pos-a03-stadium-quest_sp_04"
+  },
+  {
+    "id": "target_map-area-a03-20-1-2",
+    "name_lang_id": "la-target_map-area-a03-20-1-2",
+    "target_type": {
+      "name": "PARK_TARGET_TYPE_NPC",
+      "number": 1
+    },
+    "park_npc_group_id": "npc_group-area-a03-20-1-2",
+    "park_position_id": "park_pos-a03-stadium-quest_sp_04"
   },
   {
     "id": "target_map-chr-00001",

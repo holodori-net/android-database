@@ -68,6 +68,14 @@
     "text": "演出"
   },
   {
+    "id": "la-feature_lock-live_tower-description",
+    "text": "解锁条件：完成区域任务“登上梦想舞台！任务开始”"
+  },
+  {
+    "id": "la-feature_lock-live_tower-title",
+    "text": "挑战演出"
+  },
+  {
     "id": "la-feature_lock-menu-title",
     "text": "菜单"
   },
@@ -210,6 +218,10 @@
   {
     "id": "la-feature_lock-poster-title",
     "text": "回忆卡"
+  },
+  {
+    "id": "la-feature_lock-shogi",
+    "text": "浮排大战"
   },
   {
     "id": "la-feature_lock-skill_tree-description",

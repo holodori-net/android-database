@@ -21,6 +21,13 @@
     "priority": 26102901
   },
   {
+    "id": "event_story_chapter-marathon_event-normal-010-chapter-01",
+    "title_lang_id": "la-event_story_chapter-marathon_event-normal-010-chapter-01",
+    "unlock_condition_group_id": "cd-event_end-marathon_event-normal-010",
+    "asset_id": "event-010",
+    "priority": 26112601
+  },
+  {
     "id": "event_story_chapter-marathon_event-relay-001-chapter-01",
     "title_lang_id": "la-event_story_chapter-marathon_event-relay-001-chapter-01",
     "unlock_condition_group_id": "cd-event_end-marathon_event-relay-001",

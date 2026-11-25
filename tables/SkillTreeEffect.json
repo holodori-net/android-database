@@ -810,6 +810,21 @@
     "description_lang_id": "la-generated-skill_tree_effect-life_up-50-skill_tree_effect_target-all-set_live_leader-description"
   },
   {
+    "id": "skill_tree_effect-live_active_skill_activation_probability_up_permil_up-100-skill_tree_effect_target-all-set_live_leader",
+    "effect_type": {
+      "name": "SKILL_TREE_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",
+      "number": 11
+    },
+    "value": "100",
+    "skill_tree_effect_target_id": "skill_tree_effect_target-all",
+    "character_trigger_type": {
+      "name": "SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+      "number": 1
+    },
+    "name_lang_id": "la-skill_tree_effect-name-leader",
+    "description_lang_id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-100-skill_tree_effect_target-all-set_live_leader-description"
+  },
+  {
     "id": "skill_tree_effect-live_active_skill_activation_probability_up_permil_up-20-skill_tree_effect_target-skill_tree_character-always",
     "effect_type": {
       "name": "SKILL_TREE_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",
@@ -1298,6 +1313,27 @@
     ],
     "name_lang_id": "la-skill_tree_effect-name-park",
     "description_lang_id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-jump_rope-description"
+  },
+  {
+    "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-shogi",
+    "effect_type": {
+      "name": "SKILL_TREE_EFFECT_TYPE_MINI_GAME_REWARD_QUANTITY_UP_PERMIL_UP",
+      "number": 18
+    },
+    "value": "5",
+    "skill_tree_effect_target_id": "skill_tree_effect_target-all",
+    "character_trigger_type": {
+      "name": "SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+      "number": 3
+    },
+    "mini_game_types": [
+      {
+        "name": "MINI_GAME_TYPE_SHOGI",
+        "number": 7
+      }
+    ],
+    "name_lang_id": "la-skill_tree_effect-name-park",
+    "description_lang_id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-shogi-description"
   },
   {
     "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-splash_ball",

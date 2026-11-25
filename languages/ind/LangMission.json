@@ -5568,6 +5568,10 @@
     "text": "Selesaikan {0} lagu dengan FULL COMBO dengan tingkat kesulitan NORMAL"
   },
   {
+    "id": "la-mission-achievement-common-absolute_live_tower_stage_clear_count-description",
+    "text": "STAGE {0} selesai"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_music_highest_score_rating_sum-description",
     "text": "Berhasil meraih laju skor Holomem sebesar {0}"
   },
@@ -5592,6 +5596,18 @@
     "text": "Tangkap Ririprawn"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0031-description",
+    "text": "Ayo pancing Boneka Kurage-kun!"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0032-description",
+    "text": "Ayo pancing Boneka Assistant-kun!"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0033-description",
+    "text": "Ayo pancing Boneka Uni-kun!"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0061-description",
     "text": "Tangkap Snowsea Angel"
   },
@@ -5604,6 +5620,18 @@
     "text": "Tangkap Beaked Jitterbug"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0064-description",
+    "text": "Ayo pancing Boneka Yukimin!"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0065-description",
+    "text": "Ayo pancing Boneka Ichimi Kuma!"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0066-description",
+    "text": "Ayo pancing Boneka Mr. Squeaks!"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0094-description",
     "text": "Tangkap Downpour Jawfish"
   },
@@ -5614,6 +5642,18 @@
   {
     "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0096-description",
     "text": "Tangkap Jester Frogfish"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0097-description",
+    "text": "Ayo pancing Boneka Cilus!"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0098-description",
+    "text": "Ayo pancing Boneka Upao!"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0099-description",
+    "text": "Ayo pancing Boneka ZA-IN!"
   },
   {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a01-area-description",
@@ -5633,7 +5673,7 @@
   },
   {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a03-description",
-    "text": "Selesaikan semua Main Area Quest di Soda Pop Lagoon"
+    "text": "Selesaikan 34 Misi Utama dan Misi Area di Soda Pop Lagoon"
   },
   {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w1-01-24-description",
@@ -5666,6 +5706,22 @@
   {
     "id": "la-mission-achievement-common-absolute_poster_get_count-description",
     "text": "Dapatkan {0} jenis memori"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_shogi_piece_take_count-description",
+    "text": "Jatuhkan holomem ke air {0} kali"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_shogi_piece_taken_count-description",
+    "text": "Lawan menjatuhkan holomem tim ke air {0} kali"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_shogi_piece_taken_count-name",
+    "text": "Jago dalam Menjatuhkan"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_shogi_stage_clear_count-single-description",
+    "text": "Selesaikan stage NORMAL/CHALLENGE {0} kali"
   },
   {
     "id": "la-mission-achievement-common-absolute_skill_tree_release_count-description",
@@ -5898,6 +5954,10 @@
   {
     "id": "la-mission-achievement-common-increment_mini_game_play_count-jump_rope-description",
     "text": "Main Hoppin' Rope {0} Kali."
+  },
+  {
+    "id": "la-mission-achievement-common-increment_mini_game_play_count-shogi-description",
+    "text": "Mainkan Puka Puka Fight {0} kali"
   },
   {
     "id": "la-mission-achievement-common-increment_mini_game_play_count-splash_ball-description",
@@ -6472,6 +6532,46 @@
     "text": "Gunakan Total {0} Mini-game Boost"
   },
   {
+    "id": "la-mission-event_mission-shogi_celebration-261125-absolute_park_fishing_fish_unique_count",
+    "text": "Tangkap {0} jenis ikan"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-absolute_shogi_piece_take_count",
+    "text": "Jadikan {0} holomem lawan sebagai teman di Puka Puka Fight"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-absolute_shogi_stage_clear_count-single",
+    "text": "Selesaikan Stage NORMAL Puka Puka Fight sebanyak {0} kali"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_live_play_count",
+    "text": "Mainkan Live {0} kali"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_mini_game_play_count-shogi",
+    "text": "Mainkan Puka Puka Fight {0} kali"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_mini_game_stamina_consumption",
+    "text": "Gunakan Total {0} Minigame Boost"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_mission_clear_count-event_normal-mission_grp-shogi_celebration-261125",
+    "text": "Selesaikan semua misi"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_multi_live_play_count",
+    "text": "Mainkan Live bersama {0} kali"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_park_present_receive_count",
+    "text": "Terima hadiah dari holomem sebanyak {0} kali"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_work_finish_count",
+    "text": "Selesaikan {0} holowork"
+  },
+  {
     "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
     "text": "Dapatkan {0} holomem"
   },
@@ -6549,6 +6649,46 @@
   },
   {
     "id": "la-mission-event_mission-training_support-261105-increment_work_finish_count",
+    "text": "Selesaikan {0} holowork"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_card_level_count-70",
+    "text": "Tingkatkan {0} Member hingga Lv. 70"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_character_level_sum",
+    "text": "Ayo capai total Holomem Rank {0}"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_live_clear_music_count",
+    "text": "Selesaikan {0} jenis Live"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_live_deck_evaluation_value",
+    "text": "Capai Skor Unit {0}"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_live_tower_stage_clear_count-live_tower-default-001",
+    "text": "Selesaikan stage {0} di Challenge Live"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_skill_tree_release_count",
+    "text": "Buka {0} petak Board Holomem"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-increment_live_play_count",
+    "text": "Mainkan Live {0} kali"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-increment_mini_game_stamina_consumption",
+    "text": "Gunakan Total {0} Minigame Boost"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-increment_mission_clear_count-event_normal-mission_grp-training_support-261205",
+    "text": "Selesaikan semua misi"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-increment_work_finish_count",
     "text": "Selesaikan {0} holowork"
   },
   {
@@ -6985,6 +7125,98 @@
   },
   {
     "id": "la-mission-missionpass-261101-weekly-increment_work_start_count-name",
+    "text": "Mulai Holowork {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_card_level_up_count-name",
+    "text": "Tingkatkan level anggota {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_drop_item_get_count-name",
+    "text": "Ambil {0} Peti Harta"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_live_play_count-name",
+    "text": "Mainkan Live {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_mini_game_play_count-name",
+    "text": "Mainkan Minigame {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_multi_live_play_count-name",
+    "text": "Mainkan Live bersama {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_park_present_receive_count-name",
+    "text": "Terima hadiah dari holomem sebanyak {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_park_quest_clear_count-daily-name",
+    "text": "Selesaikan {0} Misi Harian"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_work_start_count-name",
+    "text": "Mulai Holowork {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261201-season-absolute_live_tower_stage_clear_count-live_tower-default-001-name",
+    "text": "Selesaikan Challenge Live sampai STAGE {0}"
+  },
+  {
+    "id": "la-mission-missionpass-261201-season-absolute_park_fishing_fish_unique_count-name",
+    "text": "Tangkap {0} jenis ikan"
+  },
+  {
+    "id": "la-mission-missionpass-261201-season-increment_mini_game_play_count-shogi-name",
+    "text": "Mainkan Puka Puka Fight {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261201-season-increment_park_fishing_fish_caught_count-name",
+    "text": "Tangkap {0} ekor ikan"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_card_level_limit_break_count-name",
+    "text": "Latihan SP Member {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_drop_item_get_count-name",
+    "text": "Ambil {0} Peti Harta"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+    "text": "Yuk tukarkan Hologold {0} kali di NePoLaBo Mart"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_live_play_count-name",
+    "text": "Mainkan Live {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_live_stamina_consumption-name",
+    "text": "Gunakan {0} Live Boost"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_mini_game_play_count-name",
+    "text": "Mainkan Minigame {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_mini_game_stamina_consumption-name",
+    "text": "Gunakan Total {0} Minigame Boost"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_multi_live_play_count-name",
+    "text": "Mainkan Live bersama {0} kali"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_music_creative_chart_live_clear_count-name",
+    "text": "Selesaikan {0} Partitur Musik Kustom"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_skill_tree_release_count-name",
+    "text": "Buka {0} petak Holomem Board"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_work_start_count-name",
     "text": "Mulai Holowork {0} kali"
   },
   {

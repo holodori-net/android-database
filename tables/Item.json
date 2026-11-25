@@ -1208,6 +1208,29 @@
     ]
   },
   {
+    "id": "item-event_badge-marathon_event-normal-010-chapter-01",
+    "name_lang_id": "la-item-event_badge-marathon_event-normal-010-chapter-01-name",
+    "description_lang_id": "la-item-event_badge-marathon_event-normal-010-chapter-01-description",
+    "type": {
+      "name": "ITEM_TYPE_MARATHON_EVENT_BADGE",
+      "number": 1000
+    },
+    "common_limit_time": "1796900399000",
+    "asset_id": "event-badge-01",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-event_badge-marathon_event-normal-010-chapter-01",
+    "order": 5001,
+    "expiration_rewards": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-gold",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
     "id": "item-event_badge-marathon_event-relay-001-all",
     "name_lang_id": "la-item-event_badge-marathon_event-relay-001-all-name",
     "description_lang_id": "la-item-event_badge-marathon_event-relay-001-all-description",
@@ -2642,5 +2665,22 @@
     },
     "is_display_owned": true,
     "order": 1052
+  },
+  {
+    "id": "item-skill_tree_leader-3",
+    "name_lang_id": "la-item-skill_tree_leader-3-name",
+    "description_lang_id": "la-item-skill_tree_leader-3-description",
+    "type": {
+      "name": "ITEM_TYPE_SKILL_TREE",
+      "number": 4
+    },
+    "asset_id": "skill-tree-leader-3",
+    "resource_obtainment_route_group_id": "resource_obtainment_route-item-skill_tree_leader-3",
+    "inventory_item_category_type": {
+      "name": "INVENTORY_ITEM_CATEGORY_TYPE_CARD_LEVELING",
+      "number": 1
+    },
+    "is_display_owned": true,
+    "order": 1053
   }
 ]

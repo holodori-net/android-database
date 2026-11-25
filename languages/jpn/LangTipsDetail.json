@@ -924,6 +924,14 @@
     "text": "<color=#ff3bc8>メンバーを20レベル以上にすると、ユニットスコアをアップさせるメンバー強化ボーナスを獲得</color>できるよ！\n\nたくさんのメンバーをレベルアップさせて、ユニットを強化しよう！"
   },
   {
+    "id": "la-tips-instant_tips-live_tower-quest-unlock-description-1",
+    "text": "エリアクエスト｢<color=#ff3bc8>夢のステージへ！ミッション開始</color>｣が解放されたよ！\n\nクエストクリアで「<color=#ff3bc8>チャレンジライブ</color>」が遊べるようになるよ！\n\nチャレンジライブは、ステージごとに設定された目標スコアに挑戦するライブだよ！"
+  },
+  {
+    "id": "la-tips-instant_tips-live_tower-quest-unlock-description-2",
+    "text": "ステージをクリアすると、<color=#ff3bc8>スターキューブ</color>などの報酬や<color=#ff3bc8>達成称号</color>を獲得できるよ！\n\n※達成称号はアチーブメントで獲得できます。"
+  },
+  {
     "id": "la-tips-instant_tips-present-facerock-2-description-1",
     "text": "<color=#ff3bc8>1日1回、フェイスマウンテンで0期生からプレゼント</color>をもらえるよ！"
   },
@@ -934,6 +942,10 @@
   {
     "id": "la-tips-instant_tips-random_reward-livehouse-2-description-1",
     "text": "ReGLOSSによって隠しトレジャーのお宝の種類が増えたよ！\n\n<color=#ff3bc8>お宝は毎日いろんな場所に隠されてる</color>から探してみよう！"
+  },
+  {
+    "id": "la-tips-instant_tips-skill_tree-upgrade-1-description-1",
+    "text": "<color=#ff3bc8>リーダー効果を強化するマス</color>が追加されたよ！\n\n追加したマスの解放に必要なスターキューブは<color=#ff3bc8>チャレンジライブ</color>で獲得できるよ！"
   },
   {
     "id": "la-tips-jump-rope-description-1",
@@ -966,6 +978,30 @@
   {
     "id": "la-tips-live-description-1",
     "text": "ユニットは<color=#ff3bc8>リーダーと5人のメンバーの構成</color>になっているよ！\n\nユニットスコアはリーダーの衣装スキル、メンバーのパラメータ・スキルなどで決定されるよ！"
+  },
+  {
+    "id": "la-tips-live_tower-description-1",
+    "text": "チャレンジライブは、<color=#ff3bc8>各エリアのライブステージ</color>または<color=#ff3bc8>ライブポータル</color>からいつでも遊べるよ！"
+  },
+  {
+    "id": "la-tips-live_tower-description-2",
+    "text": "ステージをクリアして、さまざまな報酬を手に入れよう！\n\n特定のステージをクリアすると、<color=#ff3bc8>スターキューブ</color>や<color=#ff3bc8>達成称号</color>が獲得できるよ！\n\n※達成称号はアチーブメントで獲得できます。"
+  },
+  {
+    "id": "la-tips-live_tower-quest-description-1",
+    "text": "チャレンジライブは、<color=#ff3bc8>ステージごとに設定された目標スコアに挑戦するライブ</color>だよ！\n\n目標スコア達成でステージクリア！\nステージをクリアすると報酬を獲得して次のステージに進めるよ！\n\n※クリア済みのステージの再チャレンジはできません。"
+  },
+  {
+    "id": "la-tips-live_tower-quest-description-2",
+    "text": "各ステージには、複数の課題曲が用意されているよ！\n\n<color=#ff3bc8>いずれか1曲、目標スコアを達成できればステージクリア</color>になるよ！"
+  },
+  {
+    "id": "la-tips-live_tower-quest-description-3",
+    "text": "各ステージには、ボーナスメンバーが設定されているよ！\n\nボーナスメンバーを編成すると、<color=#ff3bc8>ボーナスが付いてユニットスコアがアップ</color>するよ！"
+  },
+  {
+    "id": "la-tips-live_tower-quest-description-4",
+    "text": "<color=#ff3bc8>目標スコアを大きく超えると、ステージをスキップ</color>することがあるよ！\n\nステージをスキップした場合は、スキップしたステージの報酬もまとめて獲得できるよ！\n\n<color=#ff3bc8>虹色のステージはチャレンジ必須</color>なステージとなっているよ！"
   },
   {
     "id": "la-tips-lottery-area02-scratch-description-1",
@@ -1210,6 +1246,102 @@
   {
     "id": "la-tips-rhythm-game-description-5",
     "text": "ライブオプションのリズムサポートをONにすると、<color=#ff3bc8>裏拍などのリズムの際の通常ノーツが灰色に変わって</color>、リズムのズレがわかりやすくなるよ！"
+  },
+  {
+    "id": "la-tips-shogi-description-1",
+    "text": "ぷかぷかファイトは、ソーダポップラグーンの<color=#ff3bc8>スプラッシュスタジアム</color>でいつでも遊べるよ！"
+  },
+  {
+    "id": "la-tips-shogi-description-2",
+    "text": "<color=#ff3bc8>NORMALをクリアすると報酬を獲得できるよ！</color>\n\n各ステージのホロメンに勝利してクリアしよう！"
+  },
+  {
+    "id": "la-tips-shogi-description-3",
+    "text": "<color=#ff3bc8>NORMALを全てクリアするとCHALLENGEに挑戦できるよ！</color>\n\nCHALLENGEでは色んな強さのホロメンたちと対戦できるよ！"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-1",
+    "text": "ぷかぷかファイトは、<color=#ff3bc8>相手のリーダーを水に落として勝利を目指す</color>ミニゲームだよ！\n\nリーダー以外の相手ホロメンは\n水に落とすことで自分の仲間にできるよ！"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-2",
+    "text": "自分のターンには、「足場にいるホロメンを1人動かす」か、\n「仲間にしたホロメンを空いている足場に配置する」の<color=#ff3bc8>どちらかを1回だけ</color>行うことができるよ！"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-3",
+    "text": "相手のリーダーを水に落として勝利を掴もう！\n\n▼勝利条件①（リーダーを水に落とす）\n<color=#ff3bc8>相手のリーダー（王冠のホロメン）を水に落としたら勝利！</color>\nホロメンたちをうまく動かし、相手を追い詰めよう！"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-4",
+    "text": "自分のリーダーを一番右の列の足場まで進めよう！\n\n▼勝利条件②（トライ）\n自分のリーダーが一番右の列の足場に到達するとチャンス！\n到達した<color=#ff3bc8>次のターンにリーダーが水に落とされない状況なら勝利</color>になるよ！"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-5",
+    "text": "<color=#ff3bc8>カメ（緑）は一番右の列に入ると、カメ（金）にパワーアップするよ！</color>\n\n仲間にしたホロメンから直接一番右の列の足場に配置したときは、パワーアップしないから注意！\nカメ（金）が水に落とされると元の姿に戻ってしまうので覚えておこう！"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-6",
+    "text": "<color=#ff3bc8>帽子によって動ける方向が違うよ！</color>\n\n▼動き方\n・リーダー：全方向1マス\n・クジラ：斜めの4方向に1マス\n・イルカ：上下左右の4方向に1マス\n・カメ（緑）：前方の1マス\n・カメ（金）：斜め後ろ以外の6方向に1マス"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-7",
+    "text": "同じ動きの繰り返しには注意しよう！\n\n▼引き分け\nお互いに同じ動きを繰り返し、<color=#ff3bc8>全く同じ状況が3回発生すると引き分け</color>になるよ！\n決着がつかない時は、別の足場への移動を試してみよう！"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-8",
+    "text": "ソロプレイ限定で「一手戻す」が使えるよ！\n\n「一手戻す」ボタンを押すと、<color=#ff3bc8>1つ前の自分のターンに戻す</color>ことができるよ！\nでも使用回数が決まっているので注意！\n\n間違えてしまった時に活用しよう！"
+  },
+  {
+    "id": "la-tips-shogi-stage-catch-end-description-1",
+    "text": "<color=#ff3bc8>相手のリーダーを水に落とすと勝利になるよ！</color>\n\n実際の対戦でも狙ってみよう！"
+  },
+  {
+    "id": "la-tips-shogi-stage-catch-start-description-1",
+    "text": "<color=#ff3bc8>相手のリーダー（王冠）を水に落とそう！</color>\n\n自分のホロメンをうまく動かして、相手のリーダーを水に落としミニゲームに勝利しよう！"
+  },
+  {
+    "id": "la-tips-shogi-stage-nakama-end-description-1",
+    "text": "<color=#ff3bc8>仲間にしたホロメンはミニゲームを有利に進めることができるよ！</color>\n\n実際の対戦でも積極的に活用しよう！"
+  },
+  {
+    "id": "la-tips-shogi-stage-nakama-start-description-1",
+    "text": "<color=#ff3bc8>水に落とした相手ホロメンは仲間にできるよ！</color>\n\n仲間にしたホロメンを空いている足場に配置できる！\n配置場所を考えて相手を追い詰めよう！"
+  },
+  {
+    "id": "la-tips-shogi-stage-naru-end-description-1",
+    "text": "<color=#ff3bc8>カメ（緑）は一番右の列の足場に移動すると「カメ（金）」にパワーアップして、動ける方向が増えるよ！</color>\n\n実際の対戦でも狙ってみよう！"
+  },
+  {
+    "id": "la-tips-shogi-stage-naru-start-description-1",
+    "text": "<color=#ff3bc8>カメ（緑）を一番右の列の足場に進めると「パワーアップ」できるよ！</color>\n\nカメを一番右の列の足場にまで進めて有利にミニゲームを進めよう！"
+  },
+  {
+    "id": "la-tips-shogi-stage-try-end-description-1",
+    "text": "自分のリーダーが<color=#ff3bc8>一番右の列の足場に到達し、次のターンに水に落とされなければ「トライ」で勝利になるよ！</color>\n\n実際の対戦でも狙ってみよう！"
+  },
+  {
+    "id": "la-tips-shogi-stage-try-start-description-1",
+    "text": "<color=#ff3bc8>自分のリーダーを一番右の列の足場に進めると「トライ」で勝利できるよ！</color>\n\n到達しても次のターンに自分のリーダーが水に落とされる状態だとトライにならないよ！\n相手の隙を見て、自分のリーダーを一番右の列の足場に進めよう！"
+  },
+  {
+    "id": "la-tips-shogi-stage1-hint-description-1",
+    "text": "はじめにイルカで相手のカメ（緑）を水に落とそう！"
+  },
+  {
+    "id": "la-tips-shogi-stage2-hint-description-1",
+    "text": "はじめにリーダーを1マス前進させよう！"
+  },
+  {
+    "id": "la-tips-shogi-stage3-hint-description-1",
+    "text": "はじめに仲間になっているカメ（緑）を相手リーダーの正面に配置しよう！"
+  },
+  {
+    "id": "la-tips-shogi-stage4-hint-description-1",
+    "text": "はじめにカメ（緑）を1マス前進させてカメ（金）にパワーアップしよう！"
+  },
+  {
+    "id": "la-tips-shogi-stage5-hint-description-1",
+    "text": "はじめに仲間になっているホロメンを活用しよう！"
   },
   {
     "id": "la-tips-skill-tree-description-1",

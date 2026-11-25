@@ -321,6 +321,19 @@
   },
   {
     "type": {
+      "name": "TUTORIAL_TYPE_LIVE_TOWER",
+      "number": 22
+    },
+    "step": 1,
+    "unlock_condition_group_id": "cd-live_tower-default-unlock",
+    "navigation_type": {
+      "name": "TUTORIAL_NAVIGATION_TYPE_TIPS",
+      "number": 2
+    },
+    "tips_id": "tips-live_tower"
+  },
+  {
+    "type": {
       "name": "TUTORIAL_TYPE_EXCHANGE_AREA01",
       "number": 501
     },
@@ -422,6 +435,19 @@
       "number": 2
     },
     "tips_id": "tips-splash_ball"
+  },
+  {
+    "type": {
+      "name": "TUTORIAL_TYPE_SHOGI",
+      "number": 1008
+    },
+    "step": 1,
+    "unlock_condition_group_id": "cd-quest_clear-quest-area-a03-20",
+    "navigation_type": {
+      "name": "TUTORIAL_NAVIGATION_TYPE_TIPS",
+      "number": 2
+    },
+    "tips_id": "tips-shogi"
   },
   {
     "type": {
@@ -614,6 +640,46 @@
       "number": 2
     },
     "tips_id": "tips-splash_ball-quest"
+  },
+  {
+    "type": {
+      "name": "TUTORIAL_TYPE_PARK_QUEST_SHOGI",
+      "number": 2108
+    },
+    "step": 1,
+    "navigation_type": {
+      "name": "TUTORIAL_NAVIGATION_TYPE_TIPS",
+      "number": 2
+    },
+    "tips_id": "tips-shogi-quest"
+  },
+  {
+    "type": {
+      "name": "TUTORIAL_TYPE_PARK_QUEST_LIVE_TOWER",
+      "number": 2109
+    },
+    "step": 1,
+    "navigation_type": {
+      "name": "TUTORIAL_NAVIGATION_TYPE_TIPS",
+      "number": 2
+    },
+    "tips_id": "tips-live_tower-quest"
+  },
+  {
+    "type": {
+      "name": "TUTORIAL_TYPE_PARK_QUEST_LIVE_TOWER",
+      "number": 2109
+    },
+    "step": 2,
+    "navigation_type": {
+      "name": "TUTORIAL_NAVIGATION_TYPE_SYSTEM_MESSAGE",
+      "number": 1
+    },
+    "description_lang_ids": [
+      "la-tutorial-park_quest_live_tower-01",
+      "la-tutorial-park_quest_live_tower-02",
+      "la-tutorial-park_quest_live_tower-03"
+    ]
   },
   {
     "type": {

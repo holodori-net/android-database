@@ -126,10 +126,26 @@
   },
   {
     "type": {
+      "name": "PARK_NOTICE_TYPE_EXCHANGE_RECEIVABLE",
+      "number": 6
+    },
+    "target_id": "exchange_booth_group-facility-a03-exchangebooth",
+    "order": 19
+  },
+  {
+    "type": {
+      "name": "PARK_NOTICE_TYPE_EXCHANGE_RECEIVABLE",
+      "number": 6
+    },
+    "target_id": "exchange_booth_group-facility-a03-resortshop",
+    "order": 18
+  },
+  {
+    "type": {
       "name": "PARK_NOTICE_TYPE_ITEM_EXPIRATION_SOON",
       "number": 7
     },
-    "order": 18
+    "order": 99
   },
   {
     "type": {
@@ -144,7 +160,7 @@
       "number": 11
     },
     "target_id": "perm-a03-fishingshop-open-rod",
-    "order": 21
+    "order": 51
   },
   {
     "type": {
@@ -152,6 +168,6 @@
       "number": 11
     },
     "target_id": "perm-a03-fishingshop-rod",
-    "order": 20
+    "order": 50
   }
 ]

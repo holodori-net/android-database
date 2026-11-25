@@ -5568,6 +5568,10 @@
     "text": "難易度NORMALで{0}曲FULL COMBOを達成"
   },
   {
+    "id": "la-mission-achievement-common-absolute_live_tower_stage_clear_count-description",
+    "text": "STAGE{0}をクリア"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_music_highest_score_rating_sum-description",
     "text": "ホロメンスコアレート合計{0}を達成"
   },
@@ -5592,6 +5596,18 @@
     "text": "可愛伊勢海老を釣ろう"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0031-description",
+    "text": "クラゲくんに似たぬいぐるみを釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0032-description",
+    "text": "助手くんを彷彿とさせるぬいぐるみを釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0033-description",
+    "text": "ウニくんと見紛うぬいぐるみを釣ろう"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0061-description",
     "text": "スノーフレークリオネを釣ろう"
   },
@@ -5604,6 +5620,18 @@
     "text": "ネズミギステップを釣ろう"
   },
   {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0064-description",
+    "text": "雪民を模したぬいぐるみを釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0065-description",
+    "text": "一味クマっぽいぬいぐるみを釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0066-description",
+    "text": "ミスター・スクイークスの面影があるぬいぐるみを釣ろう"
+  },
+  {
     "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0094-description",
     "text": "ストームラサメモンガラを釣ろう"
   },
@@ -5614,6 +5642,18 @@
   {
     "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0096-description",
     "text": "ピエロカエルアンコォルカを釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0097-description",
+    "text": "チルス風のぬいぐるみを釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0098-description",
+    "text": "うぱおを想起させるぬいぐるみを釣ろう"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0099-description",
+    "text": "座員くんテイストなぬいぐるみを釣ろう"
   },
   {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a01-area-description",
@@ -5633,7 +5673,7 @@
   },
   {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a03-description",
-    "text": "ソーダポップラグーンのメイン、エリアクエストを全てクリア"
+    "text": "ソーダポップラグーンのメイン、エリアクエストを34個クリア"
   },
   {
     "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w1-01-24-description",
@@ -5666,6 +5706,22 @@
   {
     "id": "la-mission-achievement-common-absolute_poster_get_count-description",
     "text": "メモリーを{0}種類入手"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_shogi_piece_take_count-description",
+    "text": "相手のホロメンを{0}回水に落とす"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_shogi_piece_taken_count-description",
+    "text": "相手にホロメンを{0}回水に落とされる"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_shogi_piece_taken_count-name",
+    "text": "落とされ上手"
+  },
+  {
+    "id": "la-mission-achievement-common-absolute_shogi_stage_clear_count-single-description",
+    "text": "NORMAL / CHALLENGEのステージを{0}回クリア"
   },
   {
     "id": "la-mission-achievement-common-absolute_skill_tree_release_count-description",
@@ -5898,6 +5954,10 @@
   {
     "id": "la-mission-achievement-common-increment_mini_game_play_count-jump_rope-description",
     "text": "ホッピン・ロープを{0}回プレイ"
+  },
+  {
+    "id": "la-mission-achievement-common-increment_mini_game_play_count-shogi-description",
+    "text": "ぷかぷかファイトを{0}回プレイ"
   },
   {
     "id": "la-mission-achievement-common-increment_mini_game_play_count-splash_ball-description",
@@ -6472,6 +6532,46 @@
     "text": "ミニゲームでミニゲームブーストを合計{0}消費しよう"
   },
   {
+    "id": "la-mission-event_mission-shogi_celebration-261125-absolute_park_fishing_fish_unique_count",
+    "text": "魚を{0}種類釣ろう"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-absolute_shogi_piece_take_count",
+    "text": "ぷかぷかファイトで相手ホロメンを{0}人仲間にしよう"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-absolute_shogi_stage_clear_count-single",
+    "text": "ぷかぷかファイトでNORMALのステージを{0}回クリアしよう"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_live_play_count",
+    "text": "ライブを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_mini_game_play_count-shogi",
+    "text": "ぷかぷかファイトを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_mini_game_stamina_consumption",
+    "text": "ミニゲームでミニゲームブーストを合計{0}消費しよう"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_mission_clear_count-event_normal-mission_grp-shogi_celebration-261125",
+    "text": "全てのミッションを完了しよう"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_multi_live_play_count",
+    "text": "みんなでライブを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_park_present_receive_count",
+    "text": "ホロメンからプレゼントを{0}回受け取ろう"
+  },
+  {
+    "id": "la-mission-event_mission-shogi_celebration-261125-increment_work_finish_count",
+    "text": "ホロワークを{0}回完了しよう"
+  },
+  {
     "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
     "text": "ホロメンを{0}人解放しよう"
   },
@@ -6549,6 +6649,46 @@
   },
   {
     "id": "la-mission-event_mission-training_support-261105-increment_work_finish_count",
+    "text": "ホロワークを{0}回完了しよう"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_card_level_count-70",
+    "text": "{0}人のメンバーLvを70にしよう"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_character_level_sum",
+    "text": "ホロメンランクを合計{0}にしよう"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_live_clear_music_count",
+    "text": "{0}種類のライブをクリアしよう"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_live_deck_evaluation_value",
+    "text": "ユニットスコア{0}を達成しよう"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_live_tower_stage_clear_count-live_tower-default-001",
+    "text": "チャレンジライブでステージ{0}をクリアしよう"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-absolute_skill_tree_release_count",
+    "text": "ホロメンボードを合計{0}個解放しよう"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-increment_live_play_count",
+    "text": "ライブを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-increment_mini_game_stamina_consumption",
+    "text": "ミニゲームでミニゲームブーストを合計{0}消費しよう"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-increment_mission_clear_count-event_normal-mission_grp-training_support-261205",
+    "text": "全てのミッションを完了しよう"
+  },
+  {
+    "id": "la-mission-event_mission-training_support-261205-increment_work_finish_count",
     "text": "ホロワークを{0}回完了しよう"
   },
   {
@@ -6985,6 +7125,98 @@
   },
   {
     "id": "la-mission-missionpass-261101-weekly-increment_work_start_count-name",
+    "text": "ホロワークを{0}回開始しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_card_level_up_count-name",
+    "text": "メンバーのLvを{0}回強化しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_drop_item_get_count-name",
+    "text": "隠しトレジャーを{0}個拾おう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_live_play_count-name",
+    "text": "ライブを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_mini_game_play_count-name",
+    "text": "ミニゲームを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_multi_live_play_count-name",
+    "text": "みんなでライブを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_park_present_receive_count-name",
+    "text": "ホロメンからプレゼントを{0}回受け取ろう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_park_quest_clear_count-daily-name",
+    "text": "デイリークエストを{0}回クリアしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-daily-increment_work_start_count-name",
+    "text": "ホロワークを{0}回開始しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-season-absolute_live_tower_stage_clear_count-live_tower-default-001-name",
+    "text": "チャレンジライブをSTAGE{0}までクリアしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-season-absolute_park_fishing_fish_unique_count-name",
+    "text": "魚を{0}種類釣ろう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-season-increment_mini_game_play_count-shogi-name",
+    "text": "ぷかぷかファイトを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-season-increment_park_fishing_fish_caught_count-name",
+    "text": "魚を{0}匹釣ろう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_card_level_limit_break_count-name",
+    "text": "メンバーを{0}回特訓しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_drop_item_get_count-name",
+    "text": "隠しトレジャーを{0}個拾おう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+    "text": "ねぽらぼマートのホロゴールド交換で{0}回交換しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_live_play_count-name",
+    "text": "ライブを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_live_stamina_consumption-name",
+    "text": "ライブブーストを合計{0}消費しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_mini_game_play_count-name",
+    "text": "ミニゲームを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_mini_game_stamina_consumption-name",
+    "text": "ミニゲームでミニゲームブーストを合計{0}消費しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_multi_live_play_count-name",
+    "text": "みんなでライブを{0}回プレイしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_music_creative_chart_live_clear_count-name",
+    "text": "クリエイト譜面の楽曲を{0}回クリアしよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_skill_tree_release_count-name",
+    "text": "ホロメンボードを{0}個解放しよう"
+  },
+  {
+    "id": "la-mission-missionpass-261201-weekly-increment_work_start_count-name",
     "text": "ホロワークを{0}回開始しよう"
   },
   {

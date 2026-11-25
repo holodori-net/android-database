@@ -1,5 +1,9 @@
 [
   {
+    "id": "la-instant_tips-live_tower-quest-unlock-title",
+    "text": "Misi Area Terbuka"
+  },
+  {
     "id": "la-tips-achievement-title",
     "text": "Achievs"
   },
@@ -108,6 +112,10 @@
     "text": "Susun Unit"
   },
   {
+    "id": "la-tips-game_screen-live_tower-title",
+    "text": "Challenge Live"
+  },
+  {
     "id": "la-tips-game_screen-membership_top-title",
     "text": "Membership"
   },
@@ -166,6 +174,10 @@
   {
     "id": "la-tips-game_screen-score_ranking-title",
     "text": "Peringkat Skor"
+  },
+  {
+    "id": "la-tips-game_screen-shogi",
+    "text": "Puka Puka Fight"
   },
   {
     "id": "la-tips-game_screen-shop_top-title",
@@ -500,12 +512,20 @@
     "text": "Harta Karun Tersembunyi holomem Naik Tingkat"
   },
   {
+    "id": "la-tips-instant_tips-skill_tree-upgrade-1",
+    "text": "Tambah node tipe Leader"
+  },
+  {
     "id": "la-tips-jump-rope-title",
     "text": "Hoppin' Rope"
   },
   {
     "id": "la-tips-live-title",
     "text": "Unit"
+  },
+  {
+    "id": "la-tips-live_tower-title",
+    "text": "Challenge Live"
   },
   {
     "id": "la-tips-lottery-area02-scratch-title",
@@ -626,6 +646,66 @@
   {
     "id": "la-tips-rhythm-game-title",
     "text": "Live"
+  },
+  {
+    "id": "la-tips-shogi",
+    "text": "Puka Puka Fight"
+  },
+  {
+    "id": "la-tips-shogi-quest",
+    "text": "Puka Puka Fight"
+  },
+  {
+    "id": "la-tips-shogi-stage-catch-end",
+    "text": "Puka Puka Fight"
+  },
+  {
+    "id": "la-tips-shogi-stage-catch-start",
+    "text": "Puka Puka Fight"
+  },
+  {
+    "id": "la-tips-shogi-stage-nakama-end",
+    "text": "Puka Puka Fight"
+  },
+  {
+    "id": "la-tips-shogi-stage-nakama-start",
+    "text": "Puka Puka Fight"
+  },
+  {
+    "id": "la-tips-shogi-stage-naru-end",
+    "text": "Puka Puka Fight"
+  },
+  {
+    "id": "la-tips-shogi-stage-naru-start",
+    "text": "Puka Puka Fight"
+  },
+  {
+    "id": "la-tips-shogi-stage-try-end",
+    "text": "Puka Puka Fight"
+  },
+  {
+    "id": "la-tips-shogi-stage-try-start",
+    "text": "Puka Puka Fight"
+  },
+  {
+    "id": "la-tips-shogi-stage1-hint",
+    "text": "Petunjuk"
+  },
+  {
+    "id": "la-tips-shogi-stage2-hint",
+    "text": "Petunjuk"
+  },
+  {
+    "id": "la-tips-shogi-stage3-hint",
+    "text": "Petunjuk"
+  },
+  {
+    "id": "la-tips-shogi-stage4-hint",
+    "text": "Petunjuk"
+  },
+  {
+    "id": "la-tips-shogi-stage5-hint",
+    "text": "Petunjuk"
   },
   {
     "id": "la-tips-skill-tree-title",

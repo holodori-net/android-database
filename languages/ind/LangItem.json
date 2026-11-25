@@ -568,6 +568,14 @@
     "text": "Lencana Event"
   },
   {
+    "id": "la-item-event_badge-marathon_event-normal-010-chapter-01-description",
+    "text": "Lencana dapat ditukar dengan item di tempat Penukaran Event.\nAkan dikonversi menjadi Hologold setelah periode selesai."
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-010-chapter-01-name",
+    "text": "Lencana Event"
+  },
+  {
     "id": "la-item-event_badge-marathon_event-relay-001-all-description",
     "text": "Lencana event dapat ditukar di tempat Penukaran Event (Semua).\nAkan dikonversi ke hologold setelah periode selesai."
   },
@@ -1182,5 +1190,13 @@
   {
     "id": "la-item-skill_tree_leader-2-name",
     "text": "Hexa Merah"
+  },
+  {
+    "id": "la-item-skill_tree_leader-3-description",
+    "text": "Item yang digunakan untuk membuka Node pada Holomem Board."
+  },
+  {
+    "id": "la-item-skill_tree_leader-3-name",
+    "text": "Kubus Bintang Merah"
   }
 ]

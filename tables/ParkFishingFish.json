@@ -740,6 +740,43 @@
     "order": 20
   },
   {
+    "id": "park_fishing_fish-0021",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_NORMAL",
+      "number": 1
+    },
+    "name_lang_id": "la-park_fishing_fish-0021-name",
+    "description_lang_id": "la-park_fishing_fish-0021-description",
+    "asset_id": "img_fishing_fish_detail_fish-0021",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0021",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0021",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_3",
+      "number": 3
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-009"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0001",
+    "icon_speed_up_permil": 18760,
+    "icon_speed_change_millisecond_up": 21,
+    "icon_movement_range_min_permil": 29231,
+    "icon_movement_range_max_permil": 77312,
+    "capture_bar_length_permil_multiply": 950,
+    "silver_weight_threshold": "6400000",
+    "gold_weight_threshold": "7200000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 91,
+    "progress_meter_speed_decrease": 200,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "capture_bar_direction_change_stay_millisecond": 1500,
+    "order": 21
+  },
+  {
     "id": "park_fishing_fish-0022",
     "category_type": {
       "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
@@ -851,6 +888,80 @@
     "order": 24
   },
   {
+    "id": "park_fishing_fish-0025",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0025-name",
+    "description_lang_id": "la-park_fishing_fish-0025-description",
+    "asset_id": "img_fishing_fish_detail_fish-0025",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0025",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0025",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_4",
+      "number": 4
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-010"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0002",
+    "icon_speed_up_permil": 31558,
+    "icon_speed_change_millisecond_up": 24,
+    "icon_movement_range_min_permil": 37421,
+    "icon_movement_range_max_permil": 86785,
+    "capture_bar_length_permil_multiply": 900,
+    "silver_weight_threshold": "5600000",
+    "gold_weight_threshold": "6300000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 93,
+    "progress_meter_speed_decrease": 250,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "capture_bar_direction_change_stay_millisecond": 1250,
+    "order": 25
+  },
+  {
+    "id": "park_fishing_fish-0026",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0026-name",
+    "description_lang_id": "la-park_fishing_fish-0026-description",
+    "asset_id": "img_fishing_fish_detail_fish-0026",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0026",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0026",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_4",
+      "number": 4
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-009"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0002",
+    "icon_speed_up_permil": 29384,
+    "icon_speed_change_millisecond_up": 25,
+    "icon_movement_range_min_permil": 41208,
+    "icon_movement_range_max_permil": 84667,
+    "capture_bar_length_permil_multiply": 900,
+    "silver_weight_threshold": "144000000",
+    "gold_weight_threshold": "162000000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 97,
+    "progress_meter_speed_decrease": 250,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "capture_bar_direction_change_stay_millisecond": 1250,
+    "order": 26
+  },
+  {
     "id": "park_fishing_fish-0027",
     "category_type": {
       "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
@@ -904,7 +1015,8 @@
       "number": 5
     },
     "favorite_park_fishing_bait_ids": [
-      "park_fishing_bait-008"
+      "park_fishing_bait-008",
+      "park_fishing_bait-011"
     ],
     "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
     "icon_speed_up_permil": 41499,
@@ -941,7 +1053,8 @@
       "number": 5
     },
     "favorite_park_fishing_bait_ids": [
-      "park_fishing_bait-008"
+      "park_fishing_bait-008",
+      "park_fishing_bait-011"
     ],
     "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
     "icon_speed_up_permil": 39750,
@@ -978,7 +1091,8 @@
       "number": 5
     },
     "favorite_park_fishing_bait_ids": [
-      "park_fishing_bait-008"
+      "park_fishing_bait-008",
+      "park_fishing_bait-011"
     ],
     "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
     "icon_speed_up_permil": 37861,
@@ -997,6 +1111,123 @@
     "stamina": 1000,
     "capture_bar_direction_change_stay_millisecond": 1000,
     "order": 30
+  },
+  {
+    "id": "park_fishing_fish-0031",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0031-name",
+    "description_lang_id": "la-park_fishing_fish-0031-description",
+    "asset_id": "img_fishing_fish_detail_fish-0031",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0031",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0031",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_5",
+      "number": 5
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-009",
+      "park_fishing_bait-010",
+      "park_fishing_bait-011"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
+    "icon_speed_up_permil": 41937,
+    "icon_speed_change_millisecond_up": 23,
+    "icon_movement_range_min_permil": 46382,
+    "icon_movement_range_max_permil": 100000,
+    "capture_bar_length_permil_multiply": 800,
+    "silver_weight_threshold": "1001000",
+    "gold_weight_threshold": "1121000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 105,
+    "progress_meter_speed_decrease": 335,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "capture_bar_direction_change_stay_millisecond": 1000,
+    "order": 31
+  },
+  {
+    "id": "park_fishing_fish-0032",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0032-name",
+    "description_lang_id": "la-park_fishing_fish-0032-description",
+    "asset_id": "img_fishing_fish_detail_fish-0032",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0032",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0032",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_5",
+      "number": 5
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-009",
+      "park_fishing_bait-010",
+      "park_fishing_bait-011"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
+    "icon_speed_up_permil": 41931,
+    "icon_speed_change_millisecond_up": 27,
+    "icon_movement_range_min_permil": 52107,
+    "icon_movement_range_max_permil": 92686,
+    "capture_bar_length_permil_multiply": 800,
+    "silver_weight_threshold": "1001000",
+    "gold_weight_threshold": "1121000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 104,
+    "progress_meter_speed_decrease": 335,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "capture_bar_direction_change_stay_millisecond": 1000,
+    "order": 32
+  },
+  {
+    "id": "park_fishing_fish-0033",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0033-name",
+    "description_lang_id": "la-park_fishing_fish-0033-description",
+    "asset_id": "img_fishing_fish_detail_fish-0033",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0033",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0033",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_5",
+      "number": 5
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-009",
+      "park_fishing_bait-010",
+      "park_fishing_bait-011"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
+    "icon_speed_up_permil": 40937,
+    "icon_speed_change_millisecond_up": 26,
+    "icon_movement_range_min_permil": 48765,
+    "icon_movement_range_max_permil": 99230,
+    "capture_bar_length_permil_multiply": 800,
+    "silver_weight_threshold": "1001000",
+    "gold_weight_threshold": "1121000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 98,
+    "progress_meter_speed_decrease": 335,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "capture_bar_direction_change_stay_millisecond": 1000,
+    "order": 33
   },
   {
     "id": "park_fishing_fish-0034",
@@ -1721,6 +1952,44 @@
     "order": 52
   },
   {
+    "id": "park_fishing_fish-0053",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_NORMAL",
+      "number": 1
+    },
+    "name_lang_id": "la-park_fishing_fish-0053-name",
+    "description_lang_id": "la-park_fishing_fish-0053-description",
+    "asset_id": "img_fishing_fish_detail_fish-0053",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0053",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0053",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_3",
+      "number": 3
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-010"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0001",
+    "icon_speed_up_permil": 19014,
+    "icon_speed_change_millisecond_up": 22,
+    "icon_movement_range_min_permil": 27033,
+    "icon_movement_range_max_permil": 75282,
+    "capture_bar_length_permil_multiply": 950,
+    "silver_weight_threshold": "16000000",
+    "gold_weight_threshold": "18000000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 98,
+    "progress_meter_speed_decrease": 200,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "view_condition_group_id": "cd-facility-a03-fishingpond2",
+    "capture_bar_direction_change_stay_millisecond": 1500,
+    "order": 53
+  },
+  {
     "id": "park_fishing_fish-0054",
     "category_type": {
       "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_NORMAL",
@@ -1873,6 +2142,82 @@
     "order": 57
   },
   {
+    "id": "park_fishing_fish-0058",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0058-name",
+    "description_lang_id": "la-park_fishing_fish-0058-description",
+    "asset_id": "img_fishing_fish_detail_fish-0058",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0058",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0058",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_4",
+      "number": 4
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-009"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0002",
+    "icon_speed_up_permil": 30292,
+    "icon_speed_change_millisecond_up": 21,
+    "icon_movement_range_min_permil": 39876,
+    "icon_movement_range_max_permil": 83426,
+    "capture_bar_length_permil_multiply": 900,
+    "silver_weight_threshold": "72000000",
+    "gold_weight_threshold": "81000000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 98,
+    "progress_meter_speed_decrease": 250,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "view_condition_group_id": "cd-facility-a03-fishingpond2",
+    "capture_bar_direction_change_stay_millisecond": 1250,
+    "order": 58
+  },
+  {
+    "id": "park_fishing_fish-0059",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0059-name",
+    "description_lang_id": "la-park_fishing_fish-0059-description",
+    "asset_id": "img_fishing_fish_detail_fish-0059",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0059",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0059",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_4",
+      "number": 4
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-010"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0002",
+    "icon_speed_up_permil": 32568,
+    "icon_speed_change_millisecond_up": 24,
+    "icon_movement_range_min_permil": 42954,
+    "icon_movement_range_max_permil": 83673,
+    "capture_bar_length_permil_multiply": 900,
+    "silver_weight_threshold": "16000000",
+    "gold_weight_threshold": "18000000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 98,
+    "progress_meter_speed_decrease": 250,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "view_condition_group_id": "cd-facility-a03-fishingpond2",
+    "capture_bar_direction_change_stay_millisecond": 1250,
+    "order": 59
+  },
+  {
     "id": "park_fishing_fish-0060",
     "category_type": {
       "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
@@ -1927,7 +2272,8 @@
       "number": 5
     },
     "favorite_park_fishing_bait_ids": [
-      "park_fishing_bait-008"
+      "park_fishing_bait-008",
+      "park_fishing_bait-011"
     ],
     "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
     "icon_speed_up_permil": 36648,
@@ -1965,7 +2311,8 @@
       "number": 5
     },
     "favorite_park_fishing_bait_ids": [
-      "park_fishing_bait-008"
+      "park_fishing_bait-008",
+      "park_fishing_bait-011"
     ],
     "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
     "icon_speed_up_permil": 43837,
@@ -2003,7 +2350,8 @@
       "number": 5
     },
     "favorite_park_fishing_bait_ids": [
-      "park_fishing_bait-008"
+      "park_fishing_bait-008",
+      "park_fishing_bait-011"
     ],
     "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
     "icon_speed_up_permil": 38350,
@@ -2023,6 +2371,126 @@
     "view_condition_group_id": "cd-facility-a03-fishingpond2",
     "capture_bar_direction_change_stay_millisecond": 1000,
     "order": 63
+  },
+  {
+    "id": "park_fishing_fish-0064",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0064-name",
+    "description_lang_id": "la-park_fishing_fish-0064-description",
+    "asset_id": "img_fishing_fish_detail_fish-0064",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0064",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0064",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_5",
+      "number": 5
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-009",
+      "park_fishing_bait-010",
+      "park_fishing_bait-011"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
+    "icon_speed_up_permil": 40472,
+    "icon_speed_change_millisecond_up": 27,
+    "icon_movement_range_min_permil": 54821,
+    "icon_movement_range_max_permil": 97575,
+    "capture_bar_length_permil_multiply": 800,
+    "silver_weight_threshold": "1001000",
+    "gold_weight_threshold": "1121000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 110,
+    "progress_meter_speed_decrease": 335,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "view_condition_group_id": "cd-facility-a03-fishingpond2",
+    "capture_bar_direction_change_stay_millisecond": 1000,
+    "order": 64
+  },
+  {
+    "id": "park_fishing_fish-0065",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0065-name",
+    "description_lang_id": "la-park_fishing_fish-0065-description",
+    "asset_id": "img_fishing_fish_detail_fish-0065",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0065",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0065",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_5",
+      "number": 5
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-009",
+      "park_fishing_bait-010",
+      "park_fishing_bait-011"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
+    "icon_speed_up_permil": 36133,
+    "icon_speed_change_millisecond_up": 23,
+    "icon_movement_range_min_permil": 45492,
+    "icon_movement_range_max_permil": 93709,
+    "capture_bar_length_permil_multiply": 800,
+    "silver_weight_threshold": "1001000",
+    "gold_weight_threshold": "1121000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 106,
+    "progress_meter_speed_decrease": 335,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "view_condition_group_id": "cd-facility-a03-fishingpond2",
+    "capture_bar_direction_change_stay_millisecond": 1000,
+    "order": 65
+  },
+  {
+    "id": "park_fishing_fish-0066",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0066-name",
+    "description_lang_id": "la-park_fishing_fish-0066-description",
+    "asset_id": "img_fishing_fish_detail_fish-0066",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0066",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0066",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_5",
+      "number": 5
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-009",
+      "park_fishing_bait-010",
+      "park_fishing_bait-011"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
+    "icon_speed_up_permil": 38752,
+    "icon_speed_change_millisecond_up": 23,
+    "icon_movement_range_min_permil": 50934,
+    "icon_movement_range_max_permil": 95444,
+    "capture_bar_length_permil_multiply": 800,
+    "silver_weight_threshold": "1001000",
+    "gold_weight_threshold": "1121000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 105,
+    "progress_meter_speed_decrease": 335,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "view_condition_group_id": "cd-facility-a03-fishingpond2",
+    "capture_bar_direction_change_stay_millisecond": 1000,
+    "order": 66
   },
   {
     "id": "park_fishing_fish-0067",
@@ -2671,6 +3139,44 @@
     "order": 83
   },
   {
+    "id": "park_fishing_fish-0084",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_NORMAL",
+      "number": 1
+    },
+    "name_lang_id": "la-park_fishing_fish-0084-name",
+    "description_lang_id": "la-park_fishing_fish-0084-description",
+    "asset_id": "img_fishing_fish_detail_fish-0084",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0084",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0084",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_3",
+      "number": 3
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-009"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0001",
+    "icon_speed_up_permil": 19581,
+    "icon_speed_change_millisecond_up": 22,
+    "icon_movement_range_min_permil": 27097,
+    "icon_movement_range_max_permil": 74253,
+    "capture_bar_length_permil_multiply": 950,
+    "silver_weight_threshold": "16000000",
+    "gold_weight_threshold": "18000000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 109,
+    "progress_meter_speed_decrease": 200,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "view_condition_group_id": "cd-facility-a03-fishingpond3",
+    "capture_bar_direction_change_stay_millisecond": 1500,
+    "order": 84
+  },
+  {
     "id": "park_fishing_fish-0085",
     "category_type": {
       "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_NORMAL",
@@ -2745,6 +3251,44 @@
     "view_condition_group_id": "cd-facility-a03-fishingpond3",
     "capture_bar_direction_change_stay_millisecond": 1500,
     "order": 86
+  },
+  {
+    "id": "park_fishing_fish-0087",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_NORMAL",
+      "number": 1
+    },
+    "name_lang_id": "la-park_fishing_fish-0087-name",
+    "description_lang_id": "la-park_fishing_fish-0087-description",
+    "asset_id": "img_fishing_fish_detail_fish-0087",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0087",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0087",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_3",
+      "number": 3
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-010"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0001",
+    "icon_speed_up_permil": 18396,
+    "icon_speed_change_millisecond_up": 22,
+    "icon_movement_range_min_permil": 27252,
+    "icon_movement_range_max_permil": 83632,
+    "capture_bar_length_permil_multiply": 950,
+    "silver_weight_threshold": "20000000",
+    "gold_weight_threshold": "22500000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 101,
+    "progress_meter_speed_decrease": 200,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "view_condition_group_id": "cd-facility-a03-fishingpond3",
+    "capture_bar_direction_change_stay_millisecond": 1500,
+    "order": 87
   },
   {
     "id": "park_fishing_fish-0088",
@@ -2823,6 +3367,44 @@
     "order": 89
   },
   {
+    "id": "park_fishing_fish-0090",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0090-name",
+    "description_lang_id": "la-park_fishing_fish-0090-description",
+    "asset_id": "img_fishing_fish_detail_fish-0090",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0090",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0090",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_4",
+      "number": 4
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-010"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0002",
+    "icon_speed_up_permil": 27721,
+    "icon_speed_change_millisecond_up": 21,
+    "icon_movement_range_min_permil": 36543,
+    "icon_movement_range_max_permil": 88955,
+    "capture_bar_length_permil_multiply": 900,
+    "silver_weight_threshold": "320000000",
+    "gold_weight_threshold": "360000000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 108,
+    "progress_meter_speed_decrease": 250,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "view_condition_group_id": "cd-facility-a03-fishingpond3",
+    "capture_bar_direction_change_stay_millisecond": 1250,
+    "order": 90
+  },
+  {
     "id": "park_fishing_fish-0091",
     "category_type": {
       "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
@@ -2859,6 +3441,44 @@
     "view_condition_group_id": "cd-facility-a03-fishingpond3",
     "capture_bar_direction_change_stay_millisecond": 1250,
     "order": 91
+  },
+  {
+    "id": "park_fishing_fish-0092",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0092-name",
+    "description_lang_id": "la-park_fishing_fish-0092-description",
+    "asset_id": "img_fishing_fish_detail_fish-0092",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0092",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0092",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_4",
+      "number": 4
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-009"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0002",
+    "icon_speed_up_permil": 30128,
+    "icon_speed_change_millisecond_up": 22,
+    "icon_movement_range_min_permil": 41733,
+    "icon_movement_range_max_permil": 90599,
+    "capture_bar_length_permil_multiply": 900,
+    "silver_weight_threshold": "960000000",
+    "gold_weight_threshold": "1080000000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 90,
+    "progress_meter_speed_decrease": 250,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "view_condition_group_id": "cd-facility-a03-fishingpond3",
+    "capture_bar_direction_change_stay_millisecond": 1250,
+    "order": 92
   },
   {
     "id": "park_fishing_fish-0093",
@@ -2915,7 +3535,8 @@
       "number": 5
     },
     "favorite_park_fishing_bait_ids": [
-      "park_fishing_bait-008"
+      "park_fishing_bait-008",
+      "park_fishing_bait-011"
     ],
     "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
     "icon_speed_up_permil": 40448,
@@ -2953,7 +3574,8 @@
       "number": 5
     },
     "favorite_park_fishing_bait_ids": [
-      "park_fishing_bait-008"
+      "park_fishing_bait-008",
+      "park_fishing_bait-011"
     ],
     "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
     "icon_speed_up_permil": 42302,
@@ -2991,7 +3613,8 @@
       "number": 5
     },
     "favorite_park_fishing_bait_ids": [
-      "park_fishing_bait-008"
+      "park_fishing_bait-008",
+      "park_fishing_bait-011"
     ],
     "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
     "icon_speed_up_permil": 42007,
@@ -3011,6 +3634,164 @@
     "view_condition_group_id": "cd-facility-a03-fishingpond3",
     "capture_bar_direction_change_stay_millisecond": 1000,
     "order": 96
+  },
+  {
+    "id": "park_fishing_fish-0097",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0097-name",
+    "description_lang_id": "la-park_fishing_fish-0097-description",
+    "asset_id": "img_fishing_fish_detail_fish-0097",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0097",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0097",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_5",
+      "number": 5
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-009",
+      "park_fishing_bait-010",
+      "park_fishing_bait-011"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
+    "icon_speed_up_permil": 40398,
+    "icon_speed_change_millisecond_up": 24,
+    "icon_movement_range_min_permil": 47618,
+    "icon_movement_range_max_permil": 93457,
+    "capture_bar_length_permil_multiply": 800,
+    "silver_weight_threshold": "1001000",
+    "gold_weight_threshold": "1121000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 100,
+    "progress_meter_speed_decrease": 335,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "view_condition_group_id": "cd-facility-a03-fishingpond3",
+    "capture_bar_direction_change_stay_millisecond": 1000,
+    "order": 97
+  },
+  {
+    "id": "park_fishing_fish-0098",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0098-name",
+    "description_lang_id": "la-park_fishing_fish-0098-description",
+    "asset_id": "img_fishing_fish_detail_fish-0098",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0098",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0098",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_5",
+      "number": 5
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-009",
+      "park_fishing_bait-010",
+      "park_fishing_bait-011"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
+    "icon_speed_up_permil": 40374,
+    "icon_speed_change_millisecond_up": 24,
+    "icon_movement_range_min_permil": 53307,
+    "icon_movement_range_max_permil": 90232,
+    "capture_bar_length_permil_multiply": 800,
+    "silver_weight_threshold": "1001000",
+    "gold_weight_threshold": "1121000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 102,
+    "progress_meter_speed_decrease": 335,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "view_condition_group_id": "cd-facility-a03-fishingpond3",
+    "capture_bar_direction_change_stay_millisecond": 1000,
+    "order": 98
+  },
+  {
+    "id": "park_fishing_fish-0099",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_RARE",
+      "number": 2
+    },
+    "name_lang_id": "la-park_fishing_fish-0099-name",
+    "description_lang_id": "la-park_fishing_fish-0099-description",
+    "asset_id": "img_fishing_fish_detail_fish-0099",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0099",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0099",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_5",
+      "number": 5
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-009",
+      "park_fishing_bait-010",
+      "park_fishing_bait-011"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
+    "icon_speed_up_permil": 42306,
+    "icon_speed_change_millisecond_up": 24,
+    "icon_movement_range_min_permil": 49241,
+    "icon_movement_range_max_permil": 100000,
+    "capture_bar_length_permil_multiply": 800,
+    "silver_weight_threshold": "1001000",
+    "gold_weight_threshold": "1121000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 106,
+    "progress_meter_speed_decrease": 335,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "view_condition_group_id": "cd-facility-a03-fishingpond3",
+    "capture_bar_direction_change_stay_millisecond": 1000,
+    "order": 99
+  },
+  {
+    "id": "park_fishing_fish-0100",
+    "category_type": {
+      "name": "PARK_FISHING_FISH_CATEGORY_TYPE_FISH_GOLD",
+      "number": 3
+    },
+    "name_lang_id": "la-park_fishing_fish-0100-name",
+    "description_lang_id": "la-park_fishing_fish-0100-description",
+    "asset_id": "img_fishing_fish_detail_fish-0100",
+    "unknown_icon_asset_id": "img_fishing_fish_silhouette_fish-0100",
+    "known_icon_asset_id": "img_fishing_fish_thumb_fish-0100",
+    "park_fishing_fish_species_id": "park_fishing_fish_species-01",
+    "rank_type": {
+      "name": "PARK_FISHING_FISH_RANK_TYPE_RANK_5",
+      "number": 5
+    },
+    "favorite_park_fishing_bait_ids": [
+      "park_fishing_bait-011"
+    ],
+    "park_fishing_fish_icon_group_id": "park_fishing_fish_icon-0003",
+    "icon_speed_up_permil": 50000,
+    "icon_speed_change_millisecond_up": 26,
+    "icon_movement_range_min_permil": 54156,
+    "icon_movement_range_max_permil": 96385,
+    "capture_bar_length_permil_multiply": 750,
+    "silver_weight_threshold": "4000000",
+    "gold_weight_threshold": "4500000",
+    "weight_coin_bonus_permil_multiply": 1000,
+    "hit_detection_millisecond": 1500,
+    "capture_limit_millisecond": 99999999,
+    "progress_meter_speed_increase": 102,
+    "progress_meter_speed_decrease": 380,
+    "progress_meter_time_penalty": 0.10000000149011612,
+    "stamina": 1000,
+    "view_condition_group_id": "cd-absolute_park_fishing_fish_unique_count_99",
+    "capture_bar_direction_change_stay_millisecond": 1000,
+    "order": 100
   },
   {
     "id": "park_fishing_fish-item-facility-area_a03-002-1",

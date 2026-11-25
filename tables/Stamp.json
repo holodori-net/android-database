@@ -28,6 +28,13 @@
     "order": 1006
   },
   {
+    "id": "stamp-chr-membership_00001-05",
+    "asset_id": "chr-membership-00001-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00001-05",
+    "order": 1007
+  },
+  {
     "id": "stamp-chr-membership_00002-01",
     "asset_id": "chr-membership-00002-01",
     "prefab_id": "stp_chr",
@@ -54,6 +61,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00002-04",
     "order": 2006
+  },
+  {
+    "id": "stamp-chr-membership_00002-05",
+    "asset_id": "chr-membership-00002-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00002-05",
+    "order": 2007
   },
   {
     "id": "stamp-chr-membership_00004-01",
@@ -84,6 +98,13 @@
     "order": 6006
   },
   {
+    "id": "stamp-chr-membership_00004-05",
+    "asset_id": "chr-membership-00004-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00004-05",
+    "order": 6007
+  },
+  {
     "id": "stamp-chr-membership_00005-01",
     "asset_id": "chr-membership-00005-01",
     "prefab_id": "stp_chr",
@@ -110,6 +131,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00005-04",
     "order": 7006
+  },
+  {
+    "id": "stamp-chr-membership_00005-05",
+    "asset_id": "chr-membership-00005-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00005-05",
+    "order": 7007
   },
   {
     "id": "stamp-chr-membership_00006-01",
@@ -140,6 +168,13 @@
     "order": 8006
   },
   {
+    "id": "stamp-chr-membership_00006-05",
+    "asset_id": "chr-membership-00006-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00006-05",
+    "order": 8007
+  },
+  {
     "id": "stamp-chr-membership_00007-01",
     "asset_id": "chr-membership-00007-01",
     "prefab_id": "stp_chr",
@@ -166,6 +201,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00007-04",
     "order": 9006
+  },
+  {
+    "id": "stamp-chr-membership_00007-05",
+    "asset_id": "chr-membership-00007-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00007-05",
+    "order": 9007
   },
   {
     "id": "stamp-chr-membership_00010-01",
@@ -196,6 +238,13 @@
     "order": 10006
   },
   {
+    "id": "stamp-chr-membership_00010-05",
+    "asset_id": "chr-membership-00010-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00010-05",
+    "order": 10007
+  },
+  {
     "id": "stamp-chr-membership_00011-01",
     "asset_id": "chr-membership-00011-01",
     "prefab_id": "stp_chr",
@@ -222,6 +271,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00011-04",
     "order": 11006
+  },
+  {
+    "id": "stamp-chr-membership_00011-05",
+    "asset_id": "chr-membership-00011-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00011-05",
+    "order": 11007
   },
   {
     "id": "stamp-chr-membership_00012-01",
@@ -252,6 +308,13 @@
     "order": 12006
   },
   {
+    "id": "stamp-chr-membership_00012-05",
+    "asset_id": "chr-membership-00012-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00012-05",
+    "order": 12007
+  },
+  {
     "id": "stamp-chr-membership_00013-01",
     "asset_id": "chr-membership-00013-01",
     "prefab_id": "stp_chr",
@@ -278,6 +341,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00013-04",
     "order": 3006
+  },
+  {
+    "id": "stamp-chr-membership_00013-05",
+    "asset_id": "chr-membership-00013-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00013-05",
+    "order": 3007
   },
   {
     "id": "stamp-chr-membership_00014-01",
@@ -308,6 +378,13 @@
     "order": 13006
   },
   {
+    "id": "stamp-chr-membership_00014-05",
+    "asset_id": "chr-membership-00014-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00014-05",
+    "order": 13007
+  },
+  {
     "id": "stamp-chr-membership_00015-01",
     "asset_id": "chr-membership-00015-01",
     "prefab_id": "stp_chr",
@@ -334,6 +411,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00015-04",
     "order": 4006
+  },
+  {
+    "id": "stamp-chr-membership_00015-05",
+    "asset_id": "chr-membership-00015-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00015-05",
+    "order": 4007
   },
   {
     "id": "stamp-chr-membership_00016-01",
@@ -364,6 +448,13 @@
     "order": 14006
   },
   {
+    "id": "stamp-chr-membership_00016-05",
+    "asset_id": "chr-membership-00016-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00016-05",
+    "order": 14007
+  },
+  {
     "id": "stamp-chr-membership_00017-01",
     "asset_id": "chr-membership-00017-01",
     "prefab_id": "stp_chr",
@@ -390,6 +481,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00017-04",
     "order": 15006
+  },
+  {
+    "id": "stamp-chr-membership_00017-05",
+    "asset_id": "chr-membership-00017-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00017-05",
+    "order": 15007
   },
   {
     "id": "stamp-chr-membership_00018-01",
@@ -420,6 +518,13 @@
     "order": 5006
   },
   {
+    "id": "stamp-chr-membership_00018-05",
+    "asset_id": "chr-membership-00018-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00018-05",
+    "order": 5007
+  },
+  {
     "id": "stamp-chr-membership_00019-01",
     "asset_id": "chr-membership-00019-01",
     "prefab_id": "stp_chr",
@@ -446,6 +551,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00019-04",
     "order": 16006
+  },
+  {
+    "id": "stamp-chr-membership_00019-05",
+    "asset_id": "chr-membership-00019-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00019-05",
+    "order": 16007
   },
   {
     "id": "stamp-chr-membership_00021-01",
@@ -476,6 +588,13 @@
     "order": 17006
   },
   {
+    "id": "stamp-chr-membership_00021-05",
+    "asset_id": "chr-membership-00021-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00021-05",
+    "order": 17007
+  },
+  {
     "id": "stamp-chr-membership_00022-01",
     "asset_id": "chr-membership-00022-01",
     "prefab_id": "stp_chr",
@@ -502,6 +621,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00022-04",
     "order": 18006
+  },
+  {
+    "id": "stamp-chr-membership_00022-05",
+    "asset_id": "chr-membership-00022-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00022-05",
+    "order": 18007
   },
   {
     "id": "stamp-chr-membership_00023-01",
@@ -532,6 +658,13 @@
     "order": 19006
   },
   {
+    "id": "stamp-chr-membership_00023-05",
+    "asset_id": "chr-membership-00023-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00023-05",
+    "order": 19007
+  },
+  {
     "id": "stamp-chr-membership_00026-01",
     "asset_id": "chr-membership-00026-01",
     "prefab_id": "stp_chr",
@@ -558,6 +691,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00026-04",
     "order": 21006
+  },
+  {
+    "id": "stamp-chr-membership_00026-05",
+    "asset_id": "chr-membership-00026-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00026-05",
+    "order": 21007
   },
   {
     "id": "stamp-chr-membership_00027-01",
@@ -588,6 +728,13 @@
     "order": 22006
   },
   {
+    "id": "stamp-chr-membership_00027-05",
+    "asset_id": "chr-membership-00027-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00027-05",
+    "order": 22007
+  },
+  {
     "id": "stamp-chr-membership_00028-01",
     "asset_id": "chr-membership-00028-01",
     "prefab_id": "stp_chr",
@@ -614,6 +761,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00028-04",
     "order": 23006
+  },
+  {
+    "id": "stamp-chr-membership_00028-05",
+    "asset_id": "chr-membership-00028-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00028-05",
+    "order": 23007
   },
   {
     "id": "stamp-chr-membership_00030-01",
@@ -644,6 +798,13 @@
     "order": 24006
   },
   {
+    "id": "stamp-chr-membership_00030-05",
+    "asset_id": "chr-membership-00030-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00030-05",
+    "order": 24007
+  },
+  {
     "id": "stamp-chr-membership_00031-01",
     "asset_id": "chr-membership-00031-01",
     "prefab_id": "stp_chr",
@@ -670,6 +831,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00031-04",
     "order": 25006
+  },
+  {
+    "id": "stamp-chr-membership_00031-05",
+    "asset_id": "chr-membership-00031-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00031-05",
+    "order": 25007
   },
   {
     "id": "stamp-chr-membership_00032-01",
@@ -700,6 +868,13 @@
     "order": 26006
   },
   {
+    "id": "stamp-chr-membership_00032-05",
+    "asset_id": "chr-membership-00032-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00032-05",
+    "order": 26007
+  },
+  {
     "id": "stamp-chr-membership_00034-01",
     "asset_id": "chr-membership-00034-01",
     "prefab_id": "stp_chr",
@@ -726,6 +901,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00034-04",
     "order": 27006
+  },
+  {
+    "id": "stamp-chr-membership_00034-05",
+    "asset_id": "chr-membership-00034-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00034-05",
+    "order": 27007
   },
   {
     "id": "stamp-chr-membership_00035-01",
@@ -756,6 +938,13 @@
     "order": 28006
   },
   {
+    "id": "stamp-chr-membership_00035-05",
+    "asset_id": "chr-membership-00035-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00035-05",
+    "order": 28007
+  },
+  {
     "id": "stamp-chr-membership_00036-01",
     "asset_id": "chr-membership-00036-01",
     "prefab_id": "stp_chr",
@@ -782,6 +971,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00036-04",
     "order": 29006
+  },
+  {
+    "id": "stamp-chr-membership_00036-05",
+    "asset_id": "chr-membership-00036-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00036-05",
+    "order": 29007
   },
   {
     "id": "stamp-chr-membership_00037-01",
@@ -812,6 +1008,13 @@
     "order": 30006
   },
   {
+    "id": "stamp-chr-membership_00037-05",
+    "asset_id": "chr-membership-00037-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00037-05",
+    "order": 30007
+  },
+  {
     "id": "stamp-chr-membership_00039-01",
     "asset_id": "chr-membership-00039-01",
     "prefab_id": "stp_chr",
@@ -838,6 +1041,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_00039-04",
     "order": 31006
+  },
+  {
+    "id": "stamp-chr-membership_00039-05",
+    "asset_id": "chr-membership-00039-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_00039-05",
+    "order": 31007
   },
   {
     "id": "stamp-chr-membership_03001-01",
@@ -868,6 +1078,13 @@
     "order": 32006
   },
   {
+    "id": "stamp-chr-membership_03001-05",
+    "asset_id": "chr-membership-03001-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_03001-05",
+    "order": 32007
+  },
+  {
     "id": "stamp-chr-membership_03002-01",
     "asset_id": "chr-membership-03002-01",
     "prefab_id": "stp_chr",
@@ -894,6 +1111,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_03002-04",
     "order": 33006
+  },
+  {
+    "id": "stamp-chr-membership_03002-05",
+    "asset_id": "chr-membership-03002-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_03002-05",
+    "order": 33007
   },
   {
     "id": "stamp-chr-membership_03003-01",
@@ -924,6 +1148,13 @@
     "order": 34006
   },
   {
+    "id": "stamp-chr-membership_03003-05",
+    "asset_id": "chr-membership-03003-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_03003-05",
+    "order": 34007
+  },
+  {
     "id": "stamp-chr-membership_03004-01",
     "asset_id": "chr-membership-03004-01",
     "prefab_id": "stp_chr",
@@ -950,6 +1181,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_03004-04",
     "order": 35006
+  },
+  {
+    "id": "stamp-chr-membership_03004-05",
+    "asset_id": "chr-membership-03004-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_03004-05",
+    "order": 35007
   },
   {
     "id": "stamp-chr-membership_03005-01",
@@ -980,6 +1218,13 @@
     "order": 36006
   },
   {
+    "id": "stamp-chr-membership_03005-05",
+    "asset_id": "chr-membership-03005-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_03005-05",
+    "order": 36007
+  },
+  {
     "id": "stamp-chr-membership_03006-01",
     "asset_id": "chr-membership-03006-01",
     "prefab_id": "stp_chr",
@@ -1006,6 +1251,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_03006-04",
     "order": 37006
+  },
+  {
+    "id": "stamp-chr-membership_03006-05",
+    "asset_id": "chr-membership-03006-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_03006-05",
+    "order": 37007
   },
   {
     "id": "stamp-chr-membership_03007-01",
@@ -1036,6 +1288,13 @@
     "order": 38006
   },
   {
+    "id": "stamp-chr-membership_03007-05",
+    "asset_id": "chr-membership-03007-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_03007-05",
+    "order": 38007
+  },
+  {
     "id": "stamp-chr-membership_03008-01",
     "asset_id": "chr-membership-03008-01",
     "prefab_id": "stp_chr",
@@ -1062,6 +1321,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_03008-04",
     "order": 39006
+  },
+  {
+    "id": "stamp-chr-membership_03008-05",
+    "asset_id": "chr-membership-03008-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_03008-05",
+    "order": 39007
   },
   {
     "id": "stamp-chr-membership_03009-01",
@@ -1092,6 +1358,13 @@
     "order": 40006
   },
   {
+    "id": "stamp-chr-membership_03009-05",
+    "asset_id": "chr-membership-03009-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_03009-05",
+    "order": 40007
+  },
+  {
     "id": "stamp-chr-membership_04001-01",
     "asset_id": "chr-membership-04001-01",
     "prefab_id": "stp_chr",
@@ -1118,6 +1391,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_04001-04",
     "order": 41006
+  },
+  {
+    "id": "stamp-chr-membership_04001-05",
+    "asset_id": "chr-membership-04001-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_04001-05",
+    "order": 41007
   },
   {
     "id": "stamp-chr-membership_04002-01",
@@ -1148,6 +1428,13 @@
     "order": 42006
   },
   {
+    "id": "stamp-chr-membership_04002-05",
+    "asset_id": "chr-membership-04002-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_04002-05",
+    "order": 42007
+  },
+  {
     "id": "stamp-chr-membership_04003-01",
     "asset_id": "chr-membership-04003-01",
     "prefab_id": "stp_chr",
@@ -1174,6 +1461,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_04003-04",
     "order": 43006
+  },
+  {
+    "id": "stamp-chr-membership_04003-05",
+    "asset_id": "chr-membership-04003-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_04003-05",
+    "order": 43007
   },
   {
     "id": "stamp-chr-membership_04007-01",
@@ -1204,6 +1498,13 @@
     "order": 44006
   },
   {
+    "id": "stamp-chr-membership_04007-05",
+    "asset_id": "chr-membership-04007-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_04007-05",
+    "order": 44007
+  },
+  {
     "id": "stamp-chr-membership_04010-01",
     "asset_id": "chr-membership-04010-01",
     "prefab_id": "stp_chr",
@@ -1230,6 +1531,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_04010-04",
     "order": 45006
+  },
+  {
+    "id": "stamp-chr-membership_04010-05",
+    "asset_id": "chr-membership-04010-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_04010-05",
+    "order": 45007
   },
   {
     "id": "stamp-chr-membership_04012-01",
@@ -1260,6 +1568,13 @@
     "order": 46006
   },
   {
+    "id": "stamp-chr-membership_04012-05",
+    "asset_id": "chr-membership-04012-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_04012-05",
+    "order": 46007
+  },
+  {
     "id": "stamp-chr-membership_04013-01",
     "asset_id": "chr-membership-04013-01",
     "prefab_id": "stp_chr",
@@ -1286,6 +1601,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_04013-04",
     "order": 47006
+  },
+  {
+    "id": "stamp-chr-membership_04013-05",
+    "asset_id": "chr-membership-04013-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_04013-05",
+    "order": 47007
   },
   {
     "id": "stamp-chr-membership_04014-01",
@@ -1316,6 +1638,13 @@
     "order": 48006
   },
   {
+    "id": "stamp-chr-membership_04014-05",
+    "asset_id": "chr-membership-04014-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_04014-05",
+    "order": 48007
+  },
+  {
     "id": "stamp-chr-membership_04015-01",
     "asset_id": "chr-membership-04015-01",
     "prefab_id": "stp_chr",
@@ -1342,6 +1671,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_04015-04",
     "order": 49006
+  },
+  {
+    "id": "stamp-chr-membership_04015-05",
+    "asset_id": "chr-membership-04015-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_04015-05",
+    "order": 49007
   },
   {
     "id": "stamp-chr-membership_06002-01",
@@ -1372,6 +1708,13 @@
     "order": 53006
   },
   {
+    "id": "stamp-chr-membership_06002-05",
+    "asset_id": "chr-membership-06002-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_06002-05",
+    "order": 53007
+  },
+  {
     "id": "stamp-chr-membership_06003-01",
     "asset_id": "chr-membership-06003-01",
     "prefab_id": "stp_chr",
@@ -1398,6 +1741,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_06003-04",
     "order": 54006
+  },
+  {
+    "id": "stamp-chr-membership_06003-05",
+    "asset_id": "chr-membership-06003-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_06003-05",
+    "order": 54007
   },
   {
     "id": "stamp-chr-membership_06004-01",
@@ -1428,6 +1778,13 @@
     "order": 55006
   },
   {
+    "id": "stamp-chr-membership_06004-05",
+    "asset_id": "chr-membership-06004-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_06004-05",
+    "order": 55007
+  },
+  {
     "id": "stamp-chr-membership_06005-01",
     "asset_id": "chr-membership-06005-01",
     "prefab_id": "stp_chr",
@@ -1456,6 +1813,13 @@
     "order": 56006
   },
   {
+    "id": "stamp-chr-membership_06005-05",
+    "asset_id": "chr-membership-06005-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_06005-05",
+    "order": 56007
+  },
+  {
     "id": "stamp-chr-membership_80001-01",
     "asset_id": "chr-membership-80001-01",
     "prefab_id": "stp_chr",
@@ -1482,6 +1846,13 @@
     "prefab_id": "stp_chr",
     "name_lang_id": "la-stamp-chr-membership_80001-04",
     "order": 50006
+  },
+  {
+    "id": "stamp-chr-membership_80001-05",
+    "asset_id": "chr-membership-80001-05",
+    "prefab_id": "stp_chr",
+    "name_lang_id": "la-stamp-chr-membership_80001-05",
+    "order": 50007
   },
   {
     "id": "stamp-chr-membership_join_00001-01",

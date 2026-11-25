@@ -1,5 +1,9 @@
 [
   {
+    "id": "la-instant_tips-live_tower-quest-unlock-title",
+    "text": "エリアクエスト解放"
+  },
+  {
     "id": "la-tips-achievement-title",
     "text": "アチーブメント"
   },
@@ -108,6 +112,10 @@
     "text": "ユニット編成"
   },
   {
+    "id": "la-tips-game_screen-live_tower-title",
+    "text": "チャレンジライブ"
+  },
+  {
     "id": "la-tips-game_screen-membership_top-title",
     "text": "メンバーシップ"
   },
@@ -166,6 +174,10 @@
   {
     "id": "la-tips-game_screen-score_ranking-title",
     "text": "スコアランキング"
+  },
+  {
+    "id": "la-tips-game_screen-shogi",
+    "text": "ぷかぷかファイト"
   },
   {
     "id": "la-tips-game_screen-shop_top-title",
@@ -500,12 +512,20 @@
     "text": "ホロメンの隠しトレジャー グレードアップ"
   },
   {
+    "id": "la-tips-instant_tips-skill_tree-upgrade-1",
+    "text": "リーダータイプのマス追加"
+  },
+  {
     "id": "la-tips-jump-rope-title",
     "text": "ホッピン・ロープ"
   },
   {
     "id": "la-tips-live-title",
     "text": "ユニット"
+  },
+  {
+    "id": "la-tips-live_tower-title",
+    "text": "チャレンジライブ"
   },
   {
     "id": "la-tips-lottery-area02-scratch-title",
@@ -626,6 +646,66 @@
   {
     "id": "la-tips-rhythm-game-title",
     "text": "ライブ"
+  },
+  {
+    "id": "la-tips-shogi",
+    "text": "ぷかぷかファイト"
+  },
+  {
+    "id": "la-tips-shogi-quest",
+    "text": "ぷかぷかファイト"
+  },
+  {
+    "id": "la-tips-shogi-stage-catch-end",
+    "text": "ぷかぷかファイト"
+  },
+  {
+    "id": "la-tips-shogi-stage-catch-start",
+    "text": "ぷかぷかファイト"
+  },
+  {
+    "id": "la-tips-shogi-stage-nakama-end",
+    "text": "ぷかぷかファイト"
+  },
+  {
+    "id": "la-tips-shogi-stage-nakama-start",
+    "text": "ぷかぷかファイト"
+  },
+  {
+    "id": "la-tips-shogi-stage-naru-end",
+    "text": "ぷかぷかファイト"
+  },
+  {
+    "id": "la-tips-shogi-stage-naru-start",
+    "text": "ぷかぷかファイト"
+  },
+  {
+    "id": "la-tips-shogi-stage-try-end",
+    "text": "ぷかぷかファイト"
+  },
+  {
+    "id": "la-tips-shogi-stage-try-start",
+    "text": "ぷかぷかファイト"
+  },
+  {
+    "id": "la-tips-shogi-stage1-hint",
+    "text": "ヒント"
+  },
+  {
+    "id": "la-tips-shogi-stage2-hint",
+    "text": "ヒント"
+  },
+  {
+    "id": "la-tips-shogi-stage3-hint",
+    "text": "ヒント"
+  },
+  {
+    "id": "la-tips-shogi-stage4-hint",
+    "text": "ヒント"
+  },
+  {
+    "id": "la-tips-shogi-stage5-hint",
+    "text": "ヒント"
   },
   {
     "id": "la-tips-skill-tree-title",

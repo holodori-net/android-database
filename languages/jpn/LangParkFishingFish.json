@@ -160,6 +160,14 @@
     "text": "ウズマキヤッコ"
   },
   {
+    "id": "la-park_fishing_fish-0021-description",
+    "text": "荒波に鍛えられた漆黒の縞模様、『磯の王者』と畏怖される通称シマダイ。貝殻をも粉砕する強靭な顎と歯を、こちらはお箸で迎え撃つ！刺身になればその身の弾力に驚愕！"
+  },
+  {
+    "id": "la-park_fishing_fish-0021-name",
+    "text": "イシダイ"
+  },
+  {
     "id": "la-park_fishing_fish-0022-description",
     "text": "鮮やかなオレンジと黒の模様はまさに炎。可愛い顔だが、性格まで血の気が多く縄張り争いは日常茶飯事。燃えるような輝きに、眺めているだけで胸が熱くなる！"
   },
@@ -182,6 +190,22 @@
   {
     "id": "la-park_fishing_fish-0024-name",
     "text": "ロブスター"
+  },
+  {
+    "id": "la-park_fishing_fish-0025-description",
+    "text": "非常に大人しい性格のサメで、基本的には水族館の癒やし担当。猫耳を揺らして海底を進む姿はもちろん、水槽越しに目が合えば、とぼけた顔の虜になること間違いなし！"
+  },
+  {
+    "id": "la-park_fishing_fish-0025-name",
+    "text": "ネコザメ"
+  },
+  {
+    "id": "la-park_fishing_fish-0026-description",
+    "text": "色彩鮮やかで、気高き軍帽。しかし、ひとたび固い絆が結ばれれば、その印象は大きく変わる！隙だらけで寄り添ってくる姿は、海一番のギャップ萌えだ！"
+  },
+  {
+    "id": "la-park_fishing_fish-0026-name",
+    "text": "ナポレオンフィッシュ"
   },
   {
     "id": "la-park_fishing_fish-0027-description",
@@ -214,6 +238,30 @@
   {
     "id": "la-park_fishing_fish-0030-name",
     "text": "可愛伊勢海老"
+  },
+  {
+    "id": "la-park_fishing_fish-0031-description",
+    "text": "クラゲくんに似たぬいぐるみ。理由は分からないが、なぜだか時折釣れるそう。口元にほくろがあるとかないとか、釣り師の間で噂になっている。"
+  },
+  {
+    "id": "la-park_fishing_fish-0031-name",
+    "text": "クラゲくんに似たぬいぐるみ"
+  },
+  {
+    "id": "la-park_fishing_fish-0032-description",
+    "text": "助手くんを彷彿とさせるぬいぐるみ。理由は分からないが、なぜだか時折釣れるそう。その可愛さに、釣れた時は思わずため息が漏れるほど。釣り師の間でも人気の逸品だ！"
+  },
+  {
+    "id": "la-park_fishing_fish-0032-name",
+    "text": "助手くんを彷彿とさせるぬいぐるみ"
+  },
+  {
+    "id": "la-park_fishing_fish-0033-description",
+    "text": "ウニくんと見紛うぬいぐるみ。理由は分からないが、なぜだか時折釣れるそう。ふわふわの毛が釣り人たちに大人気で、これを狙って一本釣りする人もいる。"
+  },
+  {
+    "id": "la-park_fishing_fish-0033-name",
+    "text": "ウニくんと見紛うぬいぐるみ"
   },
   {
     "id": "la-park_fishing_fish-0034-description",
@@ -368,6 +416,14 @@
     "text": "メンダコ"
   },
   {
+    "id": "la-park_fishing_fish-0053-description",
+    "text": "漆黒の深海に揺れる、一筋の光『提灯』を掲げる海のマジシャン。オスがメスに寄り添い、やがて一つに溶け合う不思議な生体は、まるでファンタジーストーリーのようだ。"
+  },
+  {
+    "id": "la-park_fishing_fish-0053-name",
+    "text": "チョウチンアンコウ"
+  },
+  {
     "id": "la-park_fishing_fish-0054-description",
     "text": "5億年の時を超えて、深海から浮かび上がる生きた化石。悠久の時を乗り越えてきた彼らにとって、人間の歴史なんてあっという間に過ぎないことを痛感させられる。"
   },
@@ -400,6 +456,22 @@
     "text": "ダイオウイカ"
   },
   {
+    "id": "la-park_fishing_fish-0058-description",
+    "text": "約4億年の歴史を持つ深海の大先輩。4億年もデザイン変更すらしない先輩は、進化のミッシングリンクを埋める鍵。もし見かけたら、敬意を込めておじぎしよう！"
+  },
+  {
+    "id": "la-park_fishing_fish-0058-name",
+    "text": "シーラカンス"
+  },
+  {
+    "id": "la-park_fishing_fish-0059-description",
+    "text": "ウルフの仮面を被った孤独な守護者。愛に生き、戦いに疲れると岩穴に引きこもる姿は、深い慈しみを感じる。地域によってはムニエルや揚げて食し、食通、漁師に親しまれている。"
+  },
+  {
+    "id": "la-park_fishing_fish-0059-name",
+    "text": "オオカミウオ"
+  },
+  {
     "id": "la-park_fishing_fish-0060-description",
     "text": "名前はもちろん、最大7メートルにも及ぶ巨体と大きな口が恐怖を助長する。だが、生態は今なお謎のベールに包まれているため、もし釣り上げたらしかるべき所に連絡だ！"
   },
@@ -430,6 +502,30 @@
   {
     "id": "la-park_fishing_fish-0063-name",
     "text": "ネズミギステップ"
+  },
+  {
+    "id": "la-park_fishing_fish-0064-description",
+    "text": "雪民を模したぬいぐるみ。理由は分からないが、なぜだか時折釣れるそう。その愛らしさにファンが増え続けており、特に転がる姿はSNSでも話題を集めている。"
+  },
+  {
+    "id": "la-park_fishing_fish-0064-name",
+    "text": "雪民を模したぬいぐるみ"
+  },
+  {
+    "id": "la-park_fishing_fish-0065-description",
+    "text": "一味クマっぽいぬいぐるみ。理由は分からないが、なぜだか時折釣れるそう。もし見つけたら、大海原へ繰り出すその日のために、今から一味に引き込もう！"
+  },
+  {
+    "id": "la-park_fishing_fish-0065-name",
+    "text": "一味クマっぽいぬいぐるみ"
+  },
+  {
+    "id": "la-park_fishing_fish-0066-description",
+    "text": "ミスター・スクイークスの面影があるぬいぐるみ。理由は分からないが、なぜだか時折釣れるそう。小さなリボンが愛らしく、見つけたら釣り人たちに自慢しよう！"
+  },
+  {
+    "id": "la-park_fishing_fish-0066-name",
+    "text": "ミスター・スクイークスの面影があるぬいぐるみ"
   },
   {
     "id": "la-park_fishing_fish-0067-description",
@@ -568,6 +664,14 @@
     "text": "ダイオウグソクムシ"
   },
   {
+    "id": "la-park_fishing_fish-0084-description",
+    "text": "生きている時のみ放つエメラルドの閃光！バターでムニエルや豪快にフライして一口運べば、口いっぱいに南国の潮風が広がる。ハワイではマヒマヒと呼ばれる高級魚だ！"
+  },
+  {
+    "id": "la-park_fishing_fish-0084-name",
+    "text": "シイラ"
+  },
+  {
     "id": "la-park_fishing_fish-0085-description",
     "text": "大型魚に寄り添い、おこぼれに預かるほか、名前までサメの名を借りたアジ目。刺身でも焼いても脂の乗った極上の旨味が溢れ出すと、一部の釣り人には人気の逸品！"
   },
@@ -582,6 +686,14 @@
   {
     "id": "la-park_fishing_fish-0086-name",
     "text": "ウミヘビ"
+  },
+  {
+    "id": "la-park_fishing_fish-0087-description",
+    "text": "わずかな影すら脅威として察知し、姿を消す警戒心の持ち主。しなやかな筋肉が構築する極上の食感を秘めているが、釣り上げるのも至難の業。まさに釣り師の最高到達点だ！"
+  },
+  {
+    "id": "la-park_fishing_fish-0087-name",
+    "text": "パーミット"
   },
   {
     "id": "la-park_fishing_fish-0088-description",
@@ -600,12 +712,28 @@
     "text": "マンタ"
   },
   {
+    "id": "la-park_fishing_fish-0090-description",
+    "text": "鋭利な槍のように伸びた上あごが特徴で、荒波を時速100キロで突き抜ける！鍛えた体を豪快にソテーや照り焼きにすれば、大海原のエナジーを吸収しているような感覚に陥る！"
+  },
+  {
+    "id": "la-park_fishing_fish-0090-name",
+    "text": "カジキ"
+  },
+  {
     "id": "la-park_fishing_fish-0091-description",
     "text": "独特すぎるハンマー型の頭が可愛く見られがちだが、実は高性能。海中に潜む鼓動、微弱な電流をも感じ取る。さらに唐揚げ、フライ、かまぼこまで、食においても高性能だ！"
   },
   {
     "id": "la-park_fishing_fish-0091-name",
     "text": "シュモクザメ"
+  },
+  {
+    "id": "la-park_fishing_fish-0092-description",
+    "text": "『白い死神』――某サメ映画のモデルとなり一躍有名になった、出くわしたら即終了の危ない奴！その強靭な口に捕らえられたら、どれだけ祈っても届かない！"
+  },
+  {
+    "id": "la-park_fishing_fish-0092-name",
+    "text": "ホオジロザメ"
   },
   {
     "id": "la-park_fishing_fish-0093-description",
@@ -638,6 +766,38 @@
   {
     "id": "la-park_fishing_fish-0096-name",
     "text": "ピエロカエルアンコォルカ"
+  },
+  {
+    "id": "la-park_fishing_fish-0097-description",
+    "text": "チルス風のぬいぐるみ。理由は分からないが、なぜだか時折釣れるそう。雲のような可愛い見た目が釣り人たちの支持を集め、釣り上げた写真もSNSでよく見られる。"
+  },
+  {
+    "id": "la-park_fishing_fish-0097-name",
+    "text": "チルス風のぬいぐるみ"
+  },
+  {
+    "id": "la-park_fishing_fish-0098-description",
+    "text": "うぱおっぽいぬいぐるみ。理由は分からないが、なぜだか時折釣れるそう。あどけない表情に癒されると評判で、釣り師の間では熱心なコレクターもいるとのこと。"
+  },
+  {
+    "id": "la-park_fishing_fish-0098-name",
+    "text": "うぱおを想起させるぬいぐるみ"
+  },
+  {
+    "id": "la-park_fishing_fish-0099-description",
+    "text": "座員くんテイストなぬいぐるみ。理由は分からないが、なぜだか時折釣れるそう。シルクハットと立派なお髭が威厳たっぷりで、運良く釣れたら飾って楽しもう！"
+  },
+  {
+    "id": "la-park_fishing_fish-0099-name",
+    "text": "座員くんテイストなぬいぐるみ"
+  },
+  {
+    "id": "la-park_fishing_fish-0100-description",
+    "text": "稀に釣り上げられる黄金のタイ。その希少性から高額で取り引きされているが、食用としては煮付けや揚げ物にも合わず……口に入れるとジャリジャリするそうだ。"
+  },
+  {
+    "id": "la-park_fishing_fish-0100-name",
+    "text": "ゴールデンスナッパー"
   },
   {
     "id": "la-park_fishing_fish-item-facility-area_a03-002-1-description",

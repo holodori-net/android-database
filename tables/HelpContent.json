@@ -487,6 +487,13 @@
     "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-08"
   },
   {
+    "help_category_id": "help_category-help-game",
+    "number": 9,
+    "title_lang_id": "la-help_category-help-game-9-title",
+    "text_lang_id": "la-help_category-help-game-9-text",
+    "view_condition_group_id": "cd-perm-a03-shogi"
+  },
+  {
     "help_category_id": "help_category-help-item",
     "number": 1,
     "title_lang_id": "la-help_category-help-item-1-title",
@@ -765,6 +772,13 @@
     "number": 12,
     "title_lang_id": "la-help_category-help-rhythm-12-title",
     "text_lang_id": "la-help_category-help-rhythm-12-text"
+  },
+  {
+    "help_category_id": "help_category-help-rhythm",
+    "number": 13,
+    "title_lang_id": "la-help_category-help-rhythm-13-title",
+    "text_lang_id": "la-help_category-help-rhythm-13-text",
+    "view_condition_group_id": "cd-live_tower-default-unlock"
   },
   {
     "help_category_id": "help_category-help-shop",

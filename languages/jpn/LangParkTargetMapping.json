@@ -164,7 +164,7 @@
   },
   {
     "id": "la-perm-a03-stadium-title",
-    "text": "スプラッシュボール"
+    "text": "スプラッシュスタジアム"
   },
   {
     "id": "la-perm-a03-station-title",
@@ -179,7 +179,19 @@
     "text": "くらやみチェイス"
   },
   {
+    "id": "la-target_map-a03-shogi",
+    "text": "ぷかぷかファイト"
+  },
+  {
     "id": "la-target_map-area-a01-29-1-2",
     "text": "くらやみチェイス"
+  },
+  {
+    "id": "la-target_map-area-a01-30-1-2",
+    "text": "チャレンジライブ"
+  },
+  {
+    "id": "la-target_map-area-a03-20-1-2",
+    "text": "ぷかぷかファイト"
   }
 ]

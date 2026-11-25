@@ -3032,6 +3032,14 @@
     "text": "MVP"
   },
   {
+    "id": "la-emblem-live_tower-default-100",
+    "text": "挑战演出 STAGE 100 CLEAR"
+  },
+  {
+    "id": "la-emblem-live_tower-default-50",
+    "text": "挑战演出 STAGE 50 CLEAR"
+  },
+  {
     "id": "la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-001-chapter-01-bronze",
     "text": "Bronze"
   },
@@ -3125,6 +3133,30 @@
   },
   {
     "id": "la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-008-chapter-01-silver",
+    "text": "Silver"
+  },
+  {
+    "id": "la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-bronze",
+    "text": "Bronze"
+  },
+  {
+    "id": "la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-diamond",
+    "text": "Diamond"
+  },
+  {
+    "id": "la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-dream",
+    "text": "Dream"
+  },
+  {
+    "id": "la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-gold",
+    "text": "Gold"
+  },
+  {
+    "id": "la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-platinum",
+    "text": "Platinum"
+  },
+  {
+    "id": "la-emblem-marathon_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-silver",
     "text": "Silver"
   },
   {
@@ -3618,6 +3650,18 @@
   {
     "id": "la-emblem-mini_game-jump_rope-03",
     "text": "长绳之王"
+  },
+  {
+    "id": "la-emblem-mini_game-shogi-01",
+    "text": "浮排大战"
+  },
+  {
+    "id": "la-emblem-mini_game-shogi-02",
+    "text": "落汤女王"
+  },
+  {
+    "id": "la-emblem-mini_game-shogi-03",
+    "text": "浮排大战之王"
   },
   {
     "id": "la-emblem-mini_game-splash_ball-01",
@@ -4472,6 +4516,126 @@
     "text": "Silver"
   },
   {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0405-bronze",
+    "text": "Bronze"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0405-diamond",
+    "text": "Diamond"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0405-dream",
+    "text": "Dream"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0405-gold",
+    "text": "Gold"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0405-platinum",
+    "text": "Platinum"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0405-silver",
+    "text": "Silver"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0407-bronze",
+    "text": "Bronze"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0407-diamond",
+    "text": "Diamond"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0407-dream",
+    "text": "Dream"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0407-gold",
+    "text": "Gold"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0407-platinum",
+    "text": "Platinum"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0407-silver",
+    "text": "Silver"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0408-bronze",
+    "text": "Bronze"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0408-diamond",
+    "text": "Diamond"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0408-dream",
+    "text": "Dream"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0408-gold",
+    "text": "Gold"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0408-platinum",
+    "text": "Platinum"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0408-silver",
+    "text": "Silver"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0409-bronze",
+    "text": "Bronze"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0409-diamond",
+    "text": "Diamond"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0409-dream",
+    "text": "Dream"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0409-gold",
+    "text": "Gold"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0409-platinum",
+    "text": "Platinum"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0409-silver",
+    "text": "Silver"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0462-bronze",
+    "text": "Bronze"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0462-diamond",
+    "text": "Diamond"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0462-dream",
+    "text": "Dream"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0462-gold",
+    "text": "Gold"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0462-platinum",
+    "text": "Platinum"
+  },
+  {
+    "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-010-chapter-01-m0462-silver",
+    "text": "Silver"
+  },
+  {
     "id": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-001-chapter-01-m0334-bronze",
     "text": "Bronze"
   },
@@ -4910,6 +5074,10 @@
   {
     "id": "la-emblem-park-area-a03-fishing-02",
     "text": "熟练渔夫"
+  },
+  {
+    "id": "la-emblem-park-area-a03-fishing-03",
+    "text": "垂钓达人"
   },
   {
     "id": "la-emblem-park-area_a01-01",

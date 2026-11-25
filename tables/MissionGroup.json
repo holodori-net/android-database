@@ -52,6 +52,10 @@
     "name_lang_id": "la-mission_grp-marathon_event"
   },
   {
+    "id": "mission_grp-marathon_event-normal-010-chapter-01",
+    "name_lang_id": "la-mission_grp-marathon_event"
+  },
+  {
     "id": "mission_grp-marathon_event-relay-001",
     "name_lang_id": "la-mission_grp-marathon_event-relay-001"
   },
@@ -188,11 +192,31 @@
     "name_lang_id": "la-mission_grp-missionpass-261101-weekly"
   },
   {
+    "id": "mission_grp-missionpass-261201-daily",
+    "name_lang_id": "la-mission_grp-missionpass-261201-daily"
+  },
+  {
+    "id": "mission_grp-missionpass-261201-season",
+    "name_lang_id": "la-mission_grp-missionpass-261201-season"
+  },
+  {
+    "id": "mission_grp-missionpass-261201-weekly",
+    "name_lang_id": "la-mission_grp-missionpass-261201-weekly"
+  },
+  {
+    "id": "mission_grp-shogi_celebration-261125",
+    "name_lang_id": "la-mission_grp-shogi_celebration-261125"
+  },
+  {
     "id": "mission_grp-training_support-260816",
     "name_lang_id": "la-mission_grp-training_support-260816"
   },
   {
     "id": "mission_grp-training_support-261105",
     "name_lang_id": "la-mission_grp-training_support-261105"
+  },
+  {
+    "id": "mission_grp-training_support-261205",
+    "name_lang_id": "la-mission_grp-training_support-261205"
   }
 ]

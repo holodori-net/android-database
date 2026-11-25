@@ -873,7 +873,7 @@
   },
   {
     "id": "la-tips-hint-marathon_nomal-description-2",
-    "text": "<color=#ff3bc8>이벤트 Pt 랭킹</color>은 획득한 이벤트 Pt 누적 값에 따른 랭킹이야!\n\n랭킹에 입상하면 이벤트 한정 칭호 등의 보상을 획득할 수 있어!\n\n※자세한 내용은 [이벤트]→[랭킹]→[이벤트 Pt 랭킹]을 확인하시기 바랍니다."
+    "text": "<color=#ff3bc8>이벤트 Pt 랭킹</color>은 획득한 이벤트 Pt 누적 값에 따른 랭킹이야!\n\n랭킹에 입상하면 이벤트 한정 칭호 등의 보상을 획득할 수 있어!\n\n※자세한 내용은 [이벤트] → [랭킹] → [이벤트 Pt 랭킹]을 확인하시기 바랍니다."
   },
   {
     "id": "la-tips-hint-marathon_nomal-description-3",
@@ -924,6 +924,14 @@
     "text": "<color=#ff3bc8>멤버가 20레벨 이상에 도달하면 유닛 스코어를 상승시키는 멤버 강화 보너스를 획득</color>할 수 있어!\n\n많은 멤버의 레벨을 올려서 유닛을 강화하자!"
   },
   {
+    "id": "la-tips-instant_tips-live_tower-quest-unlock-description-1",
+    "text": "구역 퀘스트 「<color=#ff3bc8>꿈의 스테이지로! 미션 개시</color>」이 해방되었어!\n\n퀘스트를 클리어하면 「<color=#ff3bc8>챌린지 라이브</color>」를 플레이할 수 있게 돼!\n\n챌린지 라이브는 스테이지마다 설정된 목표 점수에 도전하는 라이브야!"
+  },
+  {
+    "id": "la-tips-instant_tips-live_tower-quest-unlock-description-2",
+    "text": "스테이지를 클리어하면 <color=#ff3bc8>스타 큐브</color> 등의 보상과 <color=#ff3bc8>달성 칭호</color>를 획득할 수 있어!\n\n※달성 칭호는 업적에서 획득할 수 있습니다."
+  },
+  {
     "id": "la-tips-instant_tips-present-facerock-2-description-1",
     "text": "<color=#ff3bc8>1일 1회, 페이스 마운틴에서 0기생으로부터 선물</color>을 받을 수 있어!"
   },
@@ -934,6 +942,10 @@
   {
     "id": "la-tips-instant_tips-random_reward-livehouse-2-description-1",
     "text": "ReGLOSS 덕분에 비밀 트레저의 보물 종류가 늘어났어!\n\n<color=#ff3bc8>보물은 매일 다양한 곳에 숨겨져 있으니</color> 찾아보자!"
+  },
+  {
+    "id": "la-tips-instant_tips-skill_tree-upgrade-1-description-1",
+    "text": "<color=#ff3bc8>리더 효과를 강화하는 칸</color>이 추가되었어!\n\n추가된 칸을 해방하는 데 필요한 스타 큐브는<color=#ff3bc8>챌린지 라이브</color>에서 획득할 수 있어!"
   },
   {
     "id": "la-tips-jump-rope-description-1",
@@ -966,6 +978,30 @@
   {
     "id": "la-tips-live-description-1",
     "text": "유닛은 <color=#ff3bc8>리더와 멤버 5명으로 구성</color>돼!\n\n유닛 스코어는 리더의 의상 스킬, 멤버의 파라미터, 스킬 등으로 결정돼!"
+  },
+  {
+    "id": "la-tips-live_tower-description-1",
+    "text": "챌린지 라이브는 <color=#ff3bc8>각 구역의 라이브 스테이지 </color>혹은 <color=#ff3bc8>라이브 포털 에서 </color>언제든지 플레이할 수 있어!"
+  },
+  {
+    "id": "la-tips-live_tower-description-2",
+    "text": "스테이지를 클리어하고 다양한 보상을 획득하자!\n\n특정 스테이지를 클리어하면 <color=#ff3bc8>레드 스타 큐브</color>와 <color=#ff3bc8>달성 칭호</color>를 획득할 수 있어!\n\n※달성 칭호는 업적을 통해 획득할 수 있습니다."
+  },
+  {
+    "id": "la-tips-live_tower-quest-description-1",
+    "text": "챌린지 라이브는 <color=#ff3bc8>스테이지마다 설정된 목표 스코어에 도전하는 라이브</color>야!\n\n목표 스코어 달성으로 스테이지 클리어!\n스테이지를 클리어하면 보상을 획득하고 다음 스테이지로 진행할 수 있어!\n\n※클리어한 스테이지는 다시 도전할 수 없습니다."
+  },
+  {
+    "id": "la-tips-live_tower-quest-description-2",
+    "text": "각 스테이지에는 여러 과제곡이 준비되어 있어!\n\n<color=#ff3bc8>어느 한 곡이라도 목표 스코어를 달성하면 스테이지 클리어</color>가 돼!"
+  },
+  {
+    "id": "la-tips-live_tower-quest-description-3",
+    "text": "각 스테이지에는 보너스 멤버가 설정되어 있어!\n\n보너스 멤버를 편성하면 <color=#ff3bc8>보너스가 추가돼서 유닛 스코어가 상승</color>해!"
+  },
+  {
+    "id": "la-tips-live_tower-quest-description-4",
+    "text": "<color=#ff3bc8>목표 스코어를 크게 넘으면 스테이지를 스킵</color>할 수 있어!\n\n스테이지를 스킵한 경우에는 스킵한 스테이지의 보상도 한 번에 획득할 수 있어!\n\n<color=#ff3bc8>무지개 색 스테이지는 반드시 챌린지해야 하는</color> 스테이지야!"
   },
   {
     "id": "la-tips-lottery-area02-scratch-description-1",
@@ -1210,6 +1246,102 @@
   {
     "id": "la-tips-rhythm-game-description-5",
     "text": "라이브 옵션의 리듬 서포트를 ON으로 설정하면 <color=#ff3bc8>엇박 등의 리듬 시 일반 노트가 회색으로 변하고</color>, 리듬 이탈을 알기 쉬워져!"
+  },
+  {
+    "id": "la-tips-shogi-description-1",
+    "text": "둥실둥실 파이트는 소다팝 라군의 <color=#ff3bc8>스플래시 스타디움</color>에서 언제든지 플레이할 수 있어!"
+  },
+  {
+    "id": "la-tips-shogi-description-2",
+    "text": "<color=#ff3bc8>NORMAL을 클리어하면 보상을 획득할 수 있어!</color>\n\n각 스테이지에 있는 holo멤버를 이겨서 클리어하자!"
+  },
+  {
+    "id": "la-tips-shogi-description-3",
+    "text": "<color=#ff3bc8>NORMAL을 전부 클리어하면 CHALLENGE에 도전할 수 있어! </color>\n\nCHALLENGE에서는 다양한 레벨의 holo멤버들과 대전할 수 있어!"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-1",
+    "text": "둥실둥실 파이트는 <color=#ff3bc8>상대방 리더를 물에 빠뜨려 승리를 노리는</color> 미니 게임이야!\n\n리더를 제외한 상대방의 holo멤버는\n물에 빠뜨리면 내 동료로 만들 수 있어!"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-2",
+    "text": "자신의 턴에는 「발판에 있는 holo멤버를 1명 이동시키기」 또는\n「동료가 된 holo멤버를 비어 있는 발판에 배치하기」 중에<color=#ff3bc8> 하나를 선택해 한 번만</color> 실행할 수 있어!"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-3",
+    "text": "상대방 리더를 물에 빠뜨려서 승리를 쟁취하자!\n\n▼승리조건① (리더를 물에 빠뜨린다)\n<color=#ff3bc8>상대방 리더(왕관 holo멤버)를 물에 빠뜨리면 승리!</color>\nholo멤버들을 잘 움직여서 상대를 몰아붙이자!"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-4",
+    "text": "자신의 리더를 가장 오른쪽 열의 발판까지 전진시키자!\n\n▼승리 조건② (TRY)\n자신의 리더가 가장 오른쪽 열에 있는 발판에 도착하면 찬스!\n도착한 <color=#ff3bc8>다음 턴에 리더가 물에 빠지지 않으면 승리</color>야!"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-5",
+    "text": "<color=#ff3bc8>거북이(초록)는 가장 오른쪽 열로 이동하면 거북이(금)로 파워업해!</color>\n\n동료가 된 holo멤버를 가장 오른쪽 열의 발판에 배치하는 것으로는 파워업하지  않으니 주의!\n거북이(금)가 물에 빠지면 원래 모습으로 돌아가 버리니 기억해 두자!"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-6",
+    "text": "<color=#ff3bc8>모자에 따라 움직일 수 있는 방향이 달라!</color>\n\n▼움직이는 방향\n・리더: 모든 방향으로 1칸\n・고래: 대각선 4방향으로 1칸\n・돌고래: 상하좌우 4방향으로 1칸\n・거북이(초록): 앞쪽으로 1칸\n・거북이(금): 대각선 뒤쪽을 제외한 6방향으로 1칸"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-7",
+    "text": "같은 움직임을 반복하지 않도록 주의하자!\n\n▼무승부\n서로 같은 움직임을 반복해서 <color=#ff3bc8>완전히 같은 상황이 3회 발생하면 무승부</color>가 돼!\n승부가 나지 않을 때는 다른 발판으로 이동해 보자!"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-8",
+    "text": "솔로 플레이 한정으로 「무르기」를 사용할 수 있어!\n\n「무르기」버튼을 누르면 <color=#ff3bc8>한 턴 전의 내 차례로 돌아갈 수</color> 있어!\n하지만 사용 횟수가 정해져 있으니 주의!\n\n실수했을 때 활용하자!"
+  },
+  {
+    "id": "la-tips-shogi-stage-catch-end-description-1",
+    "text": "<color=#ff3bc8>상대방 리더를 물에 빠뜨리면 승리야! </color>\n\n실제 대전에서도 시도해 보자!"
+  },
+  {
+    "id": "la-tips-shogi-stage-catch-start-description-1",
+    "text": "<color=#ff3bc8>상대방 리더(왕관)를 물에 빠뜨리자! </color>\n\n자신의 holo멤버를 잘 움직여서 상대방 리더를 물에 빠뜨려 미니 게임에서 승리하자!"
+  },
+  {
+    "id": "la-tips-shogi-stage-nakama-end-description-1",
+    "text": "<color=#ff3bc8>동료가 된 holo멤버로 미니 게임을 유리하게 진행할 수 있어! </color>\n\n실제 대전에서도 적극적으로 활용해 보자!"
+  },
+  {
+    "id": "la-tips-shogi-stage-nakama-start-description-1",
+    "text": "<color=#ff3bc8>물에 빠뜨린 상대방의 holo멤버는 내 동료로 만들 수 있어! </color>\n\n동료가 된 holo멤버를 비어 있는 발판에 배치할 수 있어!\n배치할 장소를 생각해서 상대를 몰아붙이자!"
+  },
+  {
+    "id": "la-tips-shogi-stage-naru-end-description-1",
+    "text": "<color=#ff3bc8>거북이(초록)는 가장 오른쪽 열의 발판으로 이동하면 「거북이(금)」로 파워업해서 움직일 수 있는 방향이 늘어나! </color>\n\n실제 대전에서도 시도해 보자!"
+  },
+  {
+    "id": "la-tips-shogi-stage-naru-start-description-1",
+    "text": "<color=#ff3bc8>거북이(초록)를 가장 오른쪽 열의 발판까지 전진시키면「파워업」할 수 있어! </color>\n\n거북이를 가장 오른쪽 열의 발판까지 전진시켜 미니 게임을 유리하게 진행하자!"
+  },
+  {
+    "id": "la-tips-shogi-stage-try-end-description-1",
+    "text": "자신의 리더가 <color=#ff3bc8>가장 오른쪽 열의 발판에 도착한 후, 다음 턴에 물에 빠지지 않으면 「TRY」로 승리할 수 있어! </color>\n\n실제 대전에서도 시도해 보자!"
+  },
+  {
+    "id": "la-tips-shogi-stage-try-start-description-1",
+    "text": "<color=#ff3bc8>자신의 리더를 가장 오른쪽 열의 발판까지 전진시키면 「TRY」로 승리할 수 있어! </color>\n\n다음 턴에 자신의 리더가 물에 빠지는 상황에는 도달하더라도 「TRY」 할 수 없어!\n상대의 빈틈을 노려 자신의 리더를 가장 오른쪽 열의 발판으로 전진시키자!"
+  },
+  {
+    "id": "la-tips-shogi-stage1-hint-description-1",
+    "text": "먼저 돌고래로 상대의 거북이(초록)를 물에 빠뜨리자!"
+  },
+  {
+    "id": "la-tips-shogi-stage2-hint-description-1",
+    "text": "먼저 리더를 한 칸 전진시키자!"
+  },
+  {
+    "id": "la-tips-shogi-stage3-hint-description-1",
+    "text": "먼저 동료가 된 거북이(초록)를 상대 리더의 정면에 배치하자!"
+  },
+  {
+    "id": "la-tips-shogi-stage4-hint-description-1",
+    "text": "먼저 거북이(초록)를 한 칸 전진시켜 거북이(금)로 파워업하자!"
+  },
+  {
+    "id": "la-tips-shogi-stage5-hint-description-1",
+    "text": "먼저 동료가 된 holo멤버를 활용하자!"
   },
   {
     "id": "la-tips-skill-tree-description-1",

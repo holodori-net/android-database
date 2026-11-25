@@ -233,6 +233,27 @@
     "description_lang_id": "la-resource_obtainment_route-hidden_treasure"
   },
   {
+    "group_id": "resource_obtainment_route-fishingbait-009",
+    "number": 1,
+    "description_lang_id": "la-resource_obtainment_route-shogi",
+    "facility_id": "facility-a03-stadium",
+    "condition_group_id": "cd-quest_clear-quest-area-a03-20"
+  },
+  {
+    "group_id": "resource_obtainment_route-fishingbait-010",
+    "number": 1,
+    "description_lang_id": "la-resource_obtainment_route-shogi",
+    "facility_id": "facility-a03-stadium",
+    "condition_group_id": "cd-quest_clear-quest-area-a03-20"
+  },
+  {
+    "group_id": "resource_obtainment_route-fishingbait-011",
+    "number": 1,
+    "description_lang_id": "la-facility-a03-fishingshop-name",
+    "facility_id": "facility-a03-fishingshop",
+    "condition_group_id": "cd-absolute_park_fishing_fish_unique_count_99"
+  },
+  {
     "group_id": "resource_obtainment_route-fishingcoin",
     "number": 1,
     "description_lang_id": "la-resource_obtainment_route-fishingpond1",
@@ -438,6 +459,11 @@
     "group_id": "resource_obtainment_route-item-event_badge-marathon_event-normal-009-chapter-01",
     "number": 1,
     "description_lang_id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-009-chapter-01"
+  },
+  {
+    "group_id": "resource_obtainment_route-item-event_badge-marathon_event-normal-010-chapter-01",
+    "number": 1,
+    "description_lang_id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-010-chapter-01"
   },
   {
     "group_id": "resource_obtainment_route-item-event_badge-marathon_event-relay-001-all",
@@ -1087,6 +1113,13 @@
     "number": 3,
     "description_lang_id": "la-resource_obtainment_route-treasure",
     "condition_group_id": "cd-quest_clear-quest-main-w1-01-01"
+  },
+  {
+    "group_id": "resource_obtainment_route-item-skill_tree_leader-3",
+    "number": 1,
+    "description_lang_id": "la-resource_obtainment_route-live_tower",
+    "facility_id": "facility-a01-livestage",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-03-15"
   },
   {
     "group_id": "resource_obtainment_route-live_skin",

@@ -88,6 +88,14 @@
     "unlock_condition_group_id": "cd-quest_clear-quest-area-a01-29"
   },
   {
+    "area_story_chapter_id": "area_story_chapter_area-a01",
+    "number": 12,
+    "title_lang_id": "la-area_story_chapter_area-a01-012",
+    "story_id": "story-area_story_chapter_area-a01_012",
+    "archive_view_condition_group_id": "cd-live_tower-default-unlock",
+    "unlock_condition_group_id": "cd-live_tower-default-unlock"
+  },
+  {
     "area_story_chapter_id": "area_story_chapter_area-a02",
     "number": 1,
     "title_lang_id": "la-area_story_chapter_area-a02-001",
@@ -182,5 +190,13 @@
     "story_id": "story-area_story_chapter_area-a03_006",
     "archive_view_condition_group_id": "cd-quest_clear-quest-area-a03-14",
     "unlock_condition_group_id": "cd-quest_clear-quest-area-a03-14"
+  },
+  {
+    "area_story_chapter_id": "area_story_chapter_area-a03",
+    "number": 7,
+    "title_lang_id": "la-area_story_chapter_area-a03-007",
+    "story_id": "story-area_story_chapter_area-a03_007",
+    "archive_view_condition_group_id": "cd-quest_clear-quest-area-a03-20",
+    "unlock_condition_group_id": "cd-quest_clear-quest-area-a03-20"
   }
 ]

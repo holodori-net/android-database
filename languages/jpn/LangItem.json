@@ -568,6 +568,14 @@
     "text": "イベントバッジ"
   },
   {
+    "id": "la-item-event_badge-marathon_event-normal-010-chapter-01-description",
+    "text": "イベント交換所のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
+  },
+  {
+    "id": "la-item-event_badge-marathon_event-normal-010-chapter-01-name",
+    "text": "イベントバッジ"
+  },
+  {
     "id": "la-item-event_badge-marathon_event-relay-001-all-description",
     "text": "イベント交換所(共通)のアイテムと交換できるバッジ。\n有効期限後はホロゴールドに変換。"
   },
@@ -1182,5 +1190,13 @@
   {
     "id": "la-item-skill_tree_leader-2-name",
     "text": "レッドコアキューブ"
+  },
+  {
+    "id": "la-item-skill_tree_leader-3-description",
+    "text": "ホロメンボードのマスの解放に使用するアイテム。"
+  },
+  {
+    "id": "la-item-skill_tree_leader-3-name",
+    "text": "レッドスターキューブ"
   }
 ]

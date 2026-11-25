@@ -445,6 +445,22 @@
     "order": 9010
   },
   {
+    "id": "quest-area-a01-30",
+    "park_quest_chapter_id": "quest_chapter-area-a01",
+    "number": 30,
+    "title_lang_id": "la-quest-area-a01-30-title",
+    "description_lang_id": "la-quest-area-a01-30-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 900,
+    "area_grouping_id": "area_group-a01",
+    "view_condition_group_id": "cd-quest_clear-quest-main-w1-03-06",
+    "unlock_condition_group_id": "cd-quest_clear-quest-main-w1-03-06",
+    "order": 900
+  },
+  {
     "id": "quest-area-a02-01",
     "park_quest_chapter_id": "quest_chapter-area-a02",
     "number": 1,
@@ -974,6 +990,22 @@
     "view_condition_group_id": "cd-quest-area-a03-19",
     "unlock_condition_group_id": "cd-quest-area-a03-19-unlock",
     "order": 7010
+  },
+  {
+    "id": "quest-area-a03-20",
+    "park_quest_chapter_id": "quest_chapter-area-a03",
+    "number": 20,
+    "title_lang_id": "la-quest-area-a03-20-title",
+    "description_lang_id": "la-quest-area-a03-20-description",
+    "type": {
+      "name": "PARK_QUEST_TYPE_AREA",
+      "number": 3
+    },
+    "priority": 900,
+    "area_grouping_id": "area_group-a03",
+    "view_condition_group_id": "cd-quest-area-a03-20-unlock",
+    "unlock_condition_group_id": "cd-quest-area-a03-20-unlock",
+    "order": 900
   },
   {
     "id": "quest-chr-00001",

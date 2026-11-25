@@ -802,6 +802,18 @@
     "ratio": 10
   },
   {
+    "id": "loading_display-tips-live_tower-001",
+    "type": {
+      "name": "LOADING_DISPLAY_TYPE_TIPS",
+      "number": 1
+    },
+    "title_lang_id": "la-loading_display-tips-live_tower-001-title",
+    "text_lang_id": "la-loading_display-tips-live_tower-001-text",
+    "asset_id": "img_ui_loading_live_tower-001",
+    "ratio": 10,
+    "condition_group_id": "cd-live_tower-default-unlock"
+  },
+  {
     "id": "loading_display-tips-mg-001",
     "type": {
       "name": "LOADING_DISPLAY_TYPE_TIPS",

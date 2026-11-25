@@ -683,6 +683,17 @@
   },
   {
     "mission_type": {
+      "name": "MISSION_TYPE_INCREMENT_SHOGI_STAGE_CLEAR_COUNT",
+      "number": 73
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "SHOGI"
+  },
+  {
+    "mission_type": {
       "name": "MISSION_TYPE_ABSOLUTE_LOGIN_COUNT",
       "number": 1000
     }
@@ -1080,6 +1091,61 @@
       "name": "TRANSITION_TYPE_MUSIC_SELECTION",
       "number": 600
     }
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_SHOGI_STAGE_CLEAR_COUNT",
+      "number": 1051
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "SHOGI"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_SHOGI_PLAY_COUNT",
+      "number": 1052
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "SHOGI"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_SHOGI_PIECE_TAKE_COUNT",
+      "number": 1053
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "SHOGI"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_SHOGI_PIECE_TAKEN_COUNT",
+      "number": 1054
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+      "number": 703
+    },
+    "transition_id": "SHOGI"
+  },
+  {
+    "mission_type": {
+      "name": "MISSION_TYPE_ABSOLUTE_LIVE_TOWER_STAGE_CLEAR_COUNT",
+      "number": 1055
+    },
+    "transition_type": {
+      "name": "TRANSITION_TYPE_LIVE_TOWER",
+      "number": 2300
+    },
+    "transition_id": "live_tower-default-001"
   },
   {
     "mission_type": {

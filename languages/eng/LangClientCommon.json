@@ -622,6 +622,10 @@
     "text": "x"
   },
   {
+    "client_id": "768615877405",
+    "text": "No Stages available."
+  },
+  {
     "client_id": "768672260096",
     "text": "Info"
   },
@@ -684,6 +688,10 @@
   {
     "client_id": "1161070370816",
     "text": "Data Deletion Confirmation"
+  },
+  {
+    "client_id": "1277983609630",
+    "text": "Not enough Hologold for reset."
   },
   {
     "client_id": "1283795705856",
@@ -807,6 +815,10 @@
   {
     "client_id": "1981081968640",
     "text": "No recently played players."
+  },
+  {
+    "client_id": "2057303185626",
+    "text": "Saved to {0}."
   },
   {
     "client_id": "2061155426304",
@@ -1041,6 +1053,10 @@
     "text": "Share"
   },
   {
+    "client_id": "3660303122231",
+    "text": "Unlock Conditions: Clear Stage {0}."
+  },
+  {
     "client_id": "3686532112384",
     "text": "Which hand do you want to use to win?"
   },
@@ -1196,6 +1212,10 @@
     "text": "Illus."
   },
   {
+    "client_id": "5083863167744",
+    "text": "Unable to load due to insufficient items."
+  },
+  {
     "client_id": "5103468666880",
     "text": "Find a Chart from All Songs"
   },
@@ -1216,6 +1236,10 @@
     "text": "Find Charts by Song"
   },
   {
+    "client_id": "5282156876069",
+    "text": "Play Again"
+  },
+  {
     "client_id": "5291811525678",
     "text": "Connection failed.\\n[ NonMatchedUser ]"
   },
@@ -1228,8 +1252,16 @@
     "text": "Effect Theme"
   },
   {
+    "client_id": "5553448548472",
+    "text": "You can revert to your previous turn."
+  },
+  {
     "client_id": "5559188086784",
     "text": "Invitation"
+  },
+  {
+    "client_id": "5590869456848",
+    "text": "Opponent’s turn"
   },
   {
     "client_id": "5840291556123",
@@ -1588,6 +1620,10 @@
     "text": "Audio Spectrum"
   },
   {
+    "client_id": "10952243114743",
+    "text": "Use the following items\\nto restore Live Boosts?"
+  },
+  {
     "client_id": "11028128587776",
     "text": "Preview"
   },
@@ -1644,6 +1680,10 @@
     "text": "Item Name"
   },
   {
+    "client_id": "12054874683196",
+    "text": "{0} has been loaded."
+  },
+  {
     "client_id": "12114493918125",
     "text": "Keep playing?"
   },
@@ -1653,6 +1693,10 @@
   {
     "client_id": "12200260395008",
     "text": "Linking complete. Restarting the game."
+  },
+  {
+    "client_id": "12213331300245",
+    "text": "Memo"
   },
   {
     "client_id": "12280642841373",
@@ -1815,8 +1859,16 @@
     "text": "<color=#62628E>Set your <color=#28C3FF>Year and Month<color=#62628E> of birth."
   },
   {
+    "client_id": "16448673636038",
+    "text": "Surrender"
+  },
+  {
     "client_id": "16560849098420",
     "text": "{0} hours ago"
+  },
+  {
+    "client_id": "16616110956908",
+    "text": "Stop matching?"
   },
   {
     "client_id": "16622420374834",
@@ -1875,6 +1927,10 @@
     "text": "Purchase processing resumed for pending items."
   },
   {
+    "client_id": "18625267134043",
+    "text": "You failed to act three turns in a row and ran out of time..."
+  },
+  {
     "client_id": "18943986083498",
     "text": "M"
   },
@@ -1901,6 +1957,10 @@
   {
     "client_id": "19217687805573",
     "text": "Last 30 seconds!"
+  },
+  {
+    "client_id": "19626873775367",
+    "text": "Assign a holomem."
   },
   {
     "client_id": "19865503756288",
@@ -1931,6 +1991,10 @@
     "text": "Best Ever"
   },
   {
+    "client_id": "20959500461465",
+    "text": "You surrendered..."
+  },
+  {
     "client_id": "21203337706729",
     "text": "This cannot be changed as the position is invalid."
   },
@@ -1949,6 +2013,10 @@
   {
     "client_id": "21758261805400",
     "text": "Sound Settings"
+  },
+  {
+    "client_id": "22354939115645",
+    "text": "Bonus Members"
   },
   {
     "client_id": "22480911888912",
@@ -2090,6 +2158,10 @@
     "text": "Visit Dream Park!"
   },
   {
+    "client_id": "27682003200836",
+    "text": "Bonus Effect"
+  },
+  {
     "client_id": "28167913602282",
     "text": "Boat"
   },
@@ -2100,6 +2172,10 @@
   {
     "client_id": "28331001242075",
     "text": "Off"
+  },
+  {
+    "client_id": "28410704686336",
+    "text": "Regular"
   },
   {
     "client_id": "28761925576133",
@@ -2142,8 +2218,16 @@
     "text": "Others"
   },
   {
+    "client_id": "30152617572369",
+    "text": "Save this Holomem Board?"
+  },
+  {
     "client_id": "30198869391227",
     "text": "Leave\\nthis Room"
+  },
+  {
+    "client_id": "30366572929406",
+    "text": "Top Score"
   },
   {
     "client_id": "30481878353035",
@@ -2156,6 +2240,10 @@
   {
     "client_id": "30850141159791",
     "text": "Your session is about to expire due to inactivity. \nYou will be logged out in <space=6px><size=32><color=#F9FF55>{0}</color></size><space=6px> seconds."
+  },
+  {
+    "client_id": "30853425350189",
+    "text": "* Bonus Member Effects are applied to the values shown above."
   },
   {
     "client_id": "31235155648512",
@@ -2305,12 +2393,24 @@
     "text": "Confirm"
   },
   {
+    "client_id": "36358554382232",
+    "text": "Bloom"
+  },
+  {
     "client_id": "36406114906821",
     "text": "Connection has been disconnected."
   },
   {
+    "client_id": "36433569080860",
+    "text": "Undo"
+  },
+  {
     "client_id": "36530109781090",
     "text": "Select All"
+  },
+  {
+    "client_id": "36559588593583",
+    "text": "Dolphin"
   },
   {
     "client_id": "36587518046938",
@@ -2335,6 +2435,10 @@
   {
     "client_id": "37545180461675",
     "text": "x"
+  },
+  {
+    "client_id": "37577854409290",
+    "text": "Do you want to Bloom everyone?"
   },
   {
     "client_id": "37622055323963",
@@ -2391,6 +2495,14 @@
   {
     "client_id": "38890956240120",
     "text": "Connection has been disconnected."
+  },
+  {
+    "client_id": "38891737328180",
+    "text": "TOTAL"
+  },
+  {
+    "client_id": "38961521989392",
+    "text": "Edit Preset"
   },
   {
     "client_id": "39285998616301",
@@ -2459,6 +2571,10 @@
   {
     "client_id": "41097802864352",
     "text": "Notes are overlapping"
+  },
+  {
+    "client_id": "41143440703658",
+    "text": "DRAW"
   },
   {
     "client_id": "41173260292621",
@@ -2612,6 +2728,10 @@
     "text": "Update required. Please try again from the edit screen."
   },
   {
+    "client_id": "44410611478980",
+    "text": "The current Holomem Board will be overwritten.\\nConnect Cards will be removed from the following Holomem Boards."
+  },
+  {
     "client_id": "44489598940899",
     "text": "Fail"
   },
@@ -2622,6 +2742,10 @@
   {
     "client_id": "44757365904231",
     "text": "Score Bonus"
+  },
+  {
+    "client_id": "44907002798120",
+    "text": "Cancel"
   },
   {
     "client_id": "45057742658012",
@@ -2642,6 +2766,10 @@
   {
     "client_id": "45551367531375",
     "text": "Failed to retrieve data.\\nSorry, please try again later."
+  },
+  {
+    "client_id": "45562881888822",
+    "text": "Aim for the Target Score!"
   },
   {
     "client_id": "45570598413538",
@@ -2666,6 +2794,10 @@
   {
     "client_id": "45790967773259",
     "text": "Account linking"
+  },
+  {
+    "client_id": "45840587390810",
+    "text": "Holomem\nScore Rating"
   },
   {
     "client_id": "45859914899456",
@@ -2828,6 +2960,10 @@
     "text": "Accent"
   },
   {
+    "client_id": "51384750016164",
+    "text": "Bloom Stone will not be used."
+  },
+  {
     "client_id": "51448272412862",
     "text": "There is Holowork available."
   },
@@ -2858,6 +2994,10 @@
   {
     "client_id": "52679589935987",
     "text": "Current"
+  },
+  {
+    "client_id": "52728052479349",
+    "text": "Reach the Target Score to clear!"
   },
   {
     "client_id": "52802888916992",
@@ -3056,6 +3196,10 @@
     "text": "Friend Request sent to {0}."
   },
   {
+    "client_id": "59377981887665",
+    "text": "Challenge Live"
+  },
+  {
     "client_id": "59481762935749",
     "text": "Account Restricted"
   },
@@ -3070,6 +3214,10 @@
   {
     "client_id": "59732785094656",
     "text": "Request canceled."
+  },
+  {
+    "client_id": "59804003051062",
+    "text": "Clear Requirements"
   },
   {
     "client_id": "59860845358258",
@@ -3090,6 +3238,10 @@
   {
     "client_id": "60244666343424",
     "text": "Retire"
+  },
+  {
+    "client_id": "60280090159768",
+    "text": "Remaining: "
   },
   {
     "client_id": "60371078471680",
@@ -3122,6 +3274,10 @@
   {
     "client_id": "61505938022400",
     "text": "This feature is under maintenance."
+  },
+  {
+    "client_id": "61635296752376",
+    "text": "Surrender"
   },
   {
     "client_id": "61641433844738",
@@ -3244,6 +3400,10 @@
     "text": "Menshi Medals"
   },
   {
+    "client_id": "64953483206865",
+    "text": "No unlockable Nodes to display."
+  },
+  {
     "client_id": "65102522481629",
     "text": "Quit\\nGame"
   },
@@ -3258,6 +3418,10 @@
   {
     "client_id": "65518055088128",
     "text": "Play a user-created Chart"
+  },
+  {
+    "client_id": "65599306645409",
+    "text": "Your turn"
   },
   {
     "client_id": "65618403525255",
@@ -3276,6 +3440,10 @@
     "text": "Go"
   },
   {
+    "client_id": "66105010087681",
+    "text": "No input has been detected for a while."
+  },
+  {
     "client_id": "66112283729920",
     "text": "Join"
   },
@@ -3286,6 +3454,10 @@
   {
     "client_id": "66214490529792",
     "text": "Remaining\\nCards"
+  },
+  {
+    "client_id": "66242813572563",
+    "text": "TRY!"
   },
   {
     "client_id": "66311169236992",
@@ -3310,6 +3482,10 @@
   {
     "client_id": "66570868859662",
     "text": "Skill Voice"
+  },
+  {
+    "client_id": "66612266633044",
+    "text": "A Saved Preset exists in this slot.\\nWould you like to overwrite it?"
   },
   {
     "client_id": "67336894231524",
@@ -3403,12 +3579,20 @@
     "text": "Rank {0}"
   },
   {
+    "client_id": "69941269581887",
+    "text": "Bloom All"
+  },
+  {
     "client_id": "69962096959488",
     "text": "Outfit changed."
   },
   {
     "client_id": "70023020044288",
     "text": "%"
+  },
+  {
+    "client_id": "70137941870893",
+    "text": "Stage Selection"
   },
   {
     "client_id": "70193908976832",
@@ -3535,6 +3719,10 @@
     "text": "Target"
   },
   {
+    "client_id": "75231641070274",
+    "text": "STAGE UP!!"
+  },
+  {
     "client_id": "75316371663966",
     "text": "1"
   },
@@ -3623,6 +3811,10 @@
     "text": "+{0}"
   },
   {
+    "client_id": "78320915807629",
+    "text": "Returned Materials"
+  },
+  {
     "client_id": "78400909418040",
     "text": "Owned"
   },
@@ -3637,6 +3829,10 @@
   {
     "client_id": "79038511545755",
     "text": "Line"
+  },
+  {
+    "client_id": "79193242608321",
+    "text": "Auto Select"
   },
   {
     "client_id": "79399657739807",
@@ -3855,6 +4051,10 @@
     "text": "Share"
   },
   {
+    "client_id": "86299284982213",
+    "text": "NORMAL"
+  },
+  {
     "client_id": "86399859379029",
     "text": "st"
   },
@@ -3983,6 +4183,10 @@
     "text": "Confirm Pre-Live Settings"
   },
   {
+    "client_id": "92687200884048",
+    "text": "Confirm"
+  },
+  {
     "client_id": "92826337835270",
     "text": "Would you like to link your Google Play account?\\n\\nBy linking a Google Play account,\\nyou will be able to start the game smoothly\\non devices that are linked with that\\nGoogle Play account.\\n\\nOnly one set of game data can be linked to a Google Play account."
   },
@@ -3993,6 +4197,10 @@
   {
     "client_id": "93526182618577",
     "text": "By turning ON [Settings] > [Allow Tracking],\\nwe can provide you relevant ads."
+  },
+  {
+    "client_id": "93563170645564",
+    "text": "Unlocks after clearing Level {0}."
   },
   {
     "client_id": "93596834859659",
@@ -4048,6 +4256,10 @@
   {
     "client_id": "95108122304512",
     "text": "Go!"
+  },
+  {
+    "client_id": "95139746449089",
+    "text": "GIVE UP!"
   },
   {
     "client_id": "95447678813151",
@@ -4118,6 +4330,10 @@
     "text": "C"
   },
   {
+    "client_id": "97694947777268",
+    "text": "Current stage"
+  },
+  {
     "client_id": "97727765112757",
     "text": "Left Camera"
   },
@@ -4134,8 +4350,16 @@
     "text": "Ending the game. Multiple players reached 0 points."
   },
   {
+    "client_id": "98291295396749",
+    "text": "Number of wins"
+  },
+  {
     "client_id": "98349632871446",
     "text": "Month"
+  },
+  {
+    "client_id": "98410889661055",
+    "text": "Set as Leader?"
   },
   {
     "client_id": "98619044845502",
@@ -4166,8 +4390,20 @@
     "text": "No blocked players."
   },
   {
+    "client_id": "99838117295798",
+    "text": "Already assigned to another role."
+  },
+  {
+    "client_id": "99941938133161",
+    "text": "Highest Stage Reached"
+  },
+  {
     "client_id": "99960762450018",
     "text": "Unlock holomems music by completing Quests."
+  },
+  {
+    "client_id": "99966473980257",
+    "text": "will be removed."
   },
   {
     "client_id": "99975241238424",
@@ -4362,6 +4598,10 @@
     "text": "I took a photo at Dream Park!\nLet’s play hololive Dreams!\n\n#MyHolodoriPicture"
   },
   {
+    "client_id": "105319623032400",
+    "text": "Public"
+  },
+  {
     "client_id": "105795078980191",
     "text": "Found!"
   },
@@ -4390,6 +4630,10 @@
     "text": "Birthdate"
   },
   {
+    "client_id": "106610500518166",
+    "text": "Next Stage"
+  },
+  {
     "client_id": "106651193685925",
     "text": "You cannot select any Notes because they do not meet the selection conditions.\\n(Max: {0}, Range: {1} bar)"
   },
@@ -4408,6 +4652,10 @@
   {
     "client_id": "107240656211556",
     "text": "You have timed out and will leave the room."
+  },
+  {
+    "client_id": "107352852070078",
+    "text": "Change"
   },
   {
     "client_id": "107567483412480",
@@ -4434,6 +4682,10 @@
     "text": "Next"
   },
   {
+    "client_id": "108299315724929",
+    "text": "No Song or Difficulty selection was detected within the time limit.\\nIf this happens repeatedly, you may be temporarily restricted\\nfrom joining Multiplayer Lives."
+  },
+  {
     "client_id": "108488725985644",
     "text": "Quick Chat"
   },
@@ -4450,12 +4702,24 @@
     "text": "Live Outfit"
   },
   {
+    "client_id": "108921637702644",
+    "text": "Cleared Stage"
+  },
+  {
+    "client_id": "109116373229048",
+    "text": "ALL\\nCLEAR!!"
+  },
+  {
     "client_id": "109259847294976",
     "text": "Park Outfit"
   },
   {
     "client_id": "109464742164561",
     "text": "Live Color"
+  },
+  {
+    "client_id": "109607415197564",
+    "text": "Delete this preset?"
   },
   {
     "client_id": "109871167340975",
@@ -4502,6 +4766,10 @@
     "text": "01"
   },
   {
+    "client_id": "110748858546529",
+    "text": "Challenge Live"
+  },
+  {
     "client_id": "110812035613122",
     "text": "Process Payment"
   },
@@ -4538,6 +4806,10 @@
     "text": "--"
   },
   {
+    "client_id": "112239944631946",
+    "text": "Unlocks after clearing NORMAL mode."
+  },
+  {
     "client_id": "112307387178923",
     "text": "Outfit Skill"
   },
@@ -4572,6 +4844,10 @@
   {
     "client_id": "112995329444239",
     "text": "You have friend requests."
+  },
+  {
+    "client_id": "113153417482205",
+    "text": "Already cleared."
   },
   {
     "client_id": "113368905515828",
@@ -4654,6 +4930,10 @@
     "text": "Profile"
   },
   {
+    "client_id": "117031251001122",
+    "text": "Used Materials"
+  },
+  {
     "client_id": "117283343572473",
     "text": "Off"
   },
@@ -4684,6 +4964,14 @@
   {
     "client_id": "117952843014093",
     "text": "The play visibility and referencing can be set when publishing the chart."
+  },
+  {
+    "client_id": "118233129607137",
+    "text": "Current Score"
+  },
+  {
+    "client_id": "118278999633192",
+    "text": "The opponent’s Leader is going for a Try!"
   },
   {
     "client_id": "118646051151284",
@@ -4750,6 +5038,10 @@
     "text": "Unplayed"
   },
   {
+    "client_id": "120870516458824",
+    "text": "Start Game"
+  },
+  {
     "client_id": "120945463877632",
     "text": "Out of range"
   },
@@ -4779,7 +5071,7 @@
   },
   {
     "client_id": "121874690335517",
-    "text": "Due to timeout, Random was selected."
+    "text": "Auto select was chosen because the time limit expired."
   },
   {
     "client_id": "121982617709170",
@@ -4790,8 +5082,16 @@
     "text": "Reload"
   },
   {
+    "client_id": "122253336154533",
+    "text": "Opponent’s turn"
+  },
+  {
     "client_id": "122524622766160",
     "text": "Couldn’t unlock in time..."
+  },
+  {
+    "client_id": "122831218225215",
+    "text": "Assign a holomem to {0}."
   },
   {
     "client_id": "122924797755122",
@@ -4850,8 +5150,16 @@
     "text": "Holomem Board Bonus"
   },
   {
+    "client_id": "124996450252459",
+    "text": "Private"
+  },
+  {
     "client_id": "125145198157824",
     "text": "Passive Skill"
+  },
+  {
+    "client_id": "125270632311689",
+    "text": "The result of this match (for rewards, missions etc.) will not be counted. Surrender?"
   },
   {
     "client_id": "125434725097472",
@@ -4907,6 +5215,10 @@
   {
     "client_id": "127721331286016",
     "text": "Holomem Board Bonus"
+  },
+  {
+    "client_id": "127736545522148",
+    "text": "Because you didn’t act within the time limit, a random move will be made."
   },
   {
     "client_id": "127782539419648",
@@ -4985,6 +5297,10 @@
     "text": "Try selecting Hot Picks Members."
   },
   {
+    "client_id": "129296110603773",
+    "text": "Your Leader fell into the water..."
+  },
+  {
     "client_id": "129573684290632",
     "text": "Unable to verify activity."
   },
@@ -5003,6 +5319,10 @@
   {
     "client_id": "129748631456706",
     "text": "Talent Guidelines"
+  },
+  {
+    "client_id": "129751285948883",
+    "text": "Turtle (Gold)"
   },
   {
     "client_id": "129769916325888",
@@ -5069,6 +5389,10 @@
     "text": "Downloading all data."
   },
   {
+    "client_id": "131534546841132",
+    "text": "Don't show again"
+  },
+  {
     "client_id": "131538287899429",
     "text": "Go to Settings"
   },
@@ -5095,6 +5419,10 @@
   {
     "client_id": "132257076042025",
     "text": "From"
+  },
+  {
+    "client_id": "132588537128607",
+    "text": "If no input is detected, you will be forcibly removed."
   },
   {
     "client_id": "132854078882640",
@@ -5297,6 +5625,10 @@
     "text": "Streamer Mode"
   },
   {
+    "client_id": "137671483481549",
+    "text": "Friend Preview"
+  },
+  {
     "client_id": "137970202831969",
     "text": "3"
   },
@@ -5319,6 +5651,10 @@
   {
     "client_id": "138289897885663",
     "text": "High-Spec Fishing Rod.\\nEven slippery fish can be caught like it's nothing!"
+  },
+  {
+    "client_id": "138552603309792",
+    "text": "STAGE"
   },
   {
     "client_id": "138656132069497",
@@ -5401,6 +5737,10 @@
     "text": "Account linking date\\n(Date you recently added a new device)"
   },
   {
+    "client_id": "139986309961787",
+    "text": "Continue cannot be used in Challenge Live."
+  },
+  {
     "client_id": "139998925379692",
     "text": "Speed Up"
   },
@@ -5473,12 +5813,20 @@
     "text": "How to Upgrade"
   },
   {
+    "client_id": "142696406109654",
+    "text": "Knock the opposing Leader into the water or score a TRY to win!"
+  },
+  {
     "client_id": "142978427478016",
     "text": "Filter"
   },
   {
     "client_id": "143030630733339",
     "text": "Original"
+  },
+  {
+    "client_id": "143058782348718",
+    "text": "Bonus Members"
   },
   {
     "client_id": "143298178557728",
@@ -5495,6 +5843,10 @@
   {
     "client_id": "143549850655551",
     "text": "Retry"
+  },
+  {
+    "client_id": "143662491635974",
+    "text": "Preset Name"
   },
   {
     "client_id": "143666136603966",
@@ -5523,6 +5875,10 @@
   {
     "client_id": "145846928728064",
     "text": "+"
+  },
+  {
+    "client_id": "146120740136680",
+    "text": "Challenge Live"
   },
   {
     "client_id": "146142837396738",
@@ -5625,8 +5981,16 @@
     "text": "*Set to “ON” when you do not wish your Name or Profile to be visible in Multiplayer."
   },
   {
+    "client_id": "149512187132494",
+    "text": "STAGE {0}"
+  },
+  {
     "client_id": "149645784442766",
     "text": "Selected"
+  },
+  {
+    "client_id": "149833871201397",
+    "text": "Change Leader"
   },
   {
     "client_id": "150214815479409",
@@ -5685,6 +6049,10 @@
     "text": "Linking complete."
   },
   {
+    "client_id": "151621370103223",
+    "text": "Your turn"
+  },
+  {
     "client_id": "152357530716003",
     "text": "Downloading assets..."
   },
@@ -5711,6 +6079,10 @@
   {
     "client_id": "153263104512000",
     "text": "x{0}.{1}"
+  },
+  {
+    "client_id": "153388027186849",
+    "text": "The current Holomem Board will be overwritten."
   },
   {
     "client_id": "153414965981940",
@@ -5750,6 +6122,10 @@
   {
     "client_id": "154955502458368",
     "text": "Options"
+  },
+  {
+    "client_id": "154993288111749",
+    "text": "The opponent surrendered!"
   },
   {
     "client_id": "155061448138752",
@@ -5892,8 +6268,16 @@
     "text": "Standard"
   },
   {
+    "client_id": "159103819886250",
+    "text": "Team Formation"
+  },
+  {
     "client_id": "159112846614067",
     "text": "Write the report."
+  },
+  {
+    "client_id": "159119256834419",
+    "text": "You knocked the opponent’s Leader into the water!"
   },
   {
     "client_id": "159269849448283",
@@ -5952,6 +6336,10 @@
     "text": "Relaunching game via Steam."
   },
   {
+    "client_id": "162342024109647",
+    "text": "OK!"
+  },
+  {
     "client_id": "162881411862733",
     "text": "To Title"
   },
@@ -5978,6 +6366,10 @@
   {
     "client_id": "163108054294528",
     "text": "Perfect"
+  },
+  {
+    "client_id": "163169161352798",
+    "text": "Stage skipped."
   },
   {
     "client_id": "163370928103424",
@@ -6140,6 +6532,10 @@
     "text": "Member Bonus"
   },
   {
+    "client_id": "167357584012600",
+    "text": "Can't use in Challenge Live."
+  },
+  {
     "client_id": "167617517652487",
     "text": "Ranking Rewards"
   },
@@ -6204,12 +6600,20 @@
     "text": "No history."
   },
   {
+    "client_id": "171320933281587",
+    "text": "Now loading..."
+  },
+  {
     "client_id": "171370984458278",
     "text": "Change"
   },
   {
     "client_id": "171571482575354",
     "text": "Go"
+  },
+  {
+    "client_id": "171680083421896",
+    "text": "No undos remaining."
   },
   {
     "client_id": "171798413815662",
@@ -6296,6 +6700,10 @@
     "text": "Pause"
   },
   {
+    "client_id": "175268118012296",
+    "text": "Leader changed."
+  },
+  {
     "client_id": "175303891547756",
     "text": "Thumbnail Settings"
   },
@@ -6346,6 +6754,10 @@
   {
     "client_id": "177302551567220",
     "text": "Frequency of occurrence"
+  },
+  {
+    "client_id": "177323992258236",
+    "text": "Because you failed to act within the time limit three times, you will forfeit the match."
   },
   {
     "client_id": "177408751753039",
@@ -6420,6 +6832,10 @@
     "text": "Coins Earned"
   },
   {
+    "client_id": "179810219792358",
+    "text": "Undo"
+  },
+  {
     "client_id": "179877316245102",
     "text": "An unexpected error occurred."
   },
@@ -6476,6 +6892,10 @@
     "text": "Stealth"
   },
   {
+    "client_id": "182486866375855",
+    "text": "Remove"
+  },
+  {
     "client_id": "182589729548169",
     "text": "Month"
   },
@@ -6488,12 +6908,20 @@
     "text": "Item Details"
   },
   {
+    "client_id": "183316151472805",
+    "text": "You have no Bonus-elegible Members."
+  },
+  {
     "client_id": "183485597003467",
     "text": "Current Red Diamonds"
   },
   {
     "client_id": "183556683804959",
     "text": "Apply to all songs"
+  },
+  {
+    "client_id": "183895730032923",
+    "text": "Selected"
   },
   {
     "client_id": "183895736706472",
@@ -6536,8 +6964,16 @@
     "text": "Laser device disarmed!"
   },
   {
+    "client_id": "185331519231900",
+    "text": "Formation Bonus"
+  },
+  {
     "client_id": "185380187460502",
     "text": "Active Skill"
+  },
+  {
+    "client_id": "185389436067952",
+    "text": "Time(s)"
   },
   {
     "client_id": "185407495735987",
@@ -6566,6 +7002,10 @@
   {
     "client_id": "186257923072000",
     "text": "No history."
+  },
+  {
+    "client_id": "186348731393184",
+    "text": "Don't load"
   },
   {
     "client_id": "186416815792128",
@@ -6628,6 +7068,10 @@
     "text": "Our recommended Original Charts!\\n\nLet’s play hololive Dreams!\\n\\n\n\n[{0}]\\n\nChart ID: {1}\\n\\n\n\n#MyholodoriOriginals\\n"
   },
   {
+    "client_id": "189571796393453",
+    "text": "Privacy\nSettings"
+  },
+  {
     "client_id": "190047115438741",
     "text": "CREATE"
   },
@@ -6638,6 +7082,10 @@
   {
     "client_id": "190776526102413",
     "text": "The wider you make the lanes, the higher the chance of overlapping with UI elements."
+  },
+  {
+    "client_id": "190895736824556",
+    "text": "Set all to private"
   },
   {
     "client_id": "191131441140206",
@@ -6666,6 +7114,14 @@
   {
     "client_id": "192024060216984",
     "text": "Remaining People: {0}"
+  },
+  {
+    "client_id": "192099639387628",
+    "text": "Achievs"
+  },
+  {
+    "client_id": "192274977035968",
+    "text": "No Minigame Boost will be consumed because the stage is cleared.\\nPlay results (rewards, mission progress, etc.) will not be counted.\\nChallenge anyway?"
   },
   {
     "client_id": "192346150498726",
@@ -6855,6 +7311,14 @@
     "text": "Rendering scale"
   },
   {
+    "client_id": "200799723451158",
+    "text": "Best Unit"
+  },
+  {
+    "client_id": "201003440394482",
+    "text": "Use {0}."
+  },
+  {
     "client_id": "201033742475264",
     "text": "Challenge"
   },
@@ -6927,6 +7391,10 @@
     "text": "Server communication timed out."
   },
   {
+    "client_id": "204208287742737",
+    "text": "Load this preset?"
+  },
+  {
     "client_id": "204343453307638",
     "text": "Bonus Inc."
   },
@@ -6940,6 +7408,10 @@
   {
     "client_id": "204895122110380",
     "text": "New!"
+  },
+  {
+    "client_id": "205177815176484",
+    "text": "Show Base Stats"
   },
   {
     "client_id": "205249253675880"
@@ -7009,6 +7481,10 @@
     "text": "OK"
   },
   {
+    "client_id": "206578112122387",
+    "text": "Currently not available."
+  },
+  {
     "client_id": "206607582846976",
     "text": "Switch Connections?"
   },
@@ -7069,6 +7545,10 @@
     "text": "Lane 5"
   },
   {
+    "client_id": "207279825106382",
+    "text": "badge"
+  },
+  {
     "client_id": "207292512478087",
     "text": "No applicable leader exists."
   },
@@ -7103,6 +7583,10 @@
   {
     "client_id": "207974439440614",
     "text": "Year"
+  },
+  {
+    "client_id": "208033483879514",
+    "text": "Preset"
   },
   {
     "client_id": "208206128177152"
@@ -7176,12 +7660,20 @@
     "text": "Story"
   },
   {
+    "client_id": "210953842706697",
+    "text": "Current\nStage"
+  },
+  {
     "client_id": "211033587703808",
     "text": "Confirm"
   },
   {
     "client_id": "211126919860535",
     "text": "Lv"
+  },
+  {
+    "client_id": "211178795817185",
+    "text": "Return to Top"
   },
   {
     "client_id": "211191508393984",
@@ -7244,6 +7736,10 @@
     "text": "Clear Requirements"
   },
   {
+    "client_id": "214050842770189",
+    "text": "Whale"
+  },
+  {
     "client_id": "214077154278438",
     "text": "You cannot publish this because Total Combos exceed 9999."
   },
@@ -7258,6 +7754,10 @@
   {
     "client_id": "214489392932621",
     "text": "<color=#FFFFFFA5>Until</color> {0}"
+  },
+  {
+    "client_id": "214493981115919",
+    "text": "Load"
   },
   {
     "client_id": "214552003660891",
@@ -7336,8 +7836,16 @@
     "text": "Selecting..."
   },
   {
+    "client_id": "216693191708177",
+    "text": "Deleted {0}."
+  },
+  {
     "client_id": "216715890214086",
     "text": "Normal"
+  },
+  {
+    "client_id": "216964972697964",
+    "text": "Try again"
   },
   {
     "client_id": "216985162941172",
@@ -7396,6 +7904,10 @@
     "text": "Effect Theme"
   },
   {
+    "client_id": "218685708931751",
+    "text": "Cannot be selected because this is the current Leader."
+  },
+  {
     "client_id": "218750178755135",
     "text": "Unable to Activate"
   },
@@ -7406,6 +7918,10 @@
   {
     "client_id": "218956731179008",
     "text": "Exit"
+  },
+  {
+    "client_id": "219675637077789",
+    "text": "Clear NORMAL Mode\\nLevel {0}."
   },
   {
     "client_id": "219721360123651",
@@ -7448,6 +7964,10 @@
     "text": "Loading"
   },
   {
+    "client_id": "221014265622840",
+    "text": "Clear Status"
+  },
+  {
     "client_id": "221027276382208",
     "text": "Memory Stand"
   },
@@ -7466,6 +7986,10 @@
   {
     "client_id": "222272372501752",
     "text": "A cool, powered-up boat Thanks to the windshield, safety is improved!"
+  },
+  {
+    "client_id": "222427079743772",
+    "text": "Privacy Settings"
   },
   {
     "client_id": "222585071557787",
@@ -7492,12 +8016,24 @@
     "text": "Settings will be displayed before the rhythm game."
   },
   {
+    "client_id": "223557945155158",
+    "text": "Nope"
+  },
+  {
     "client_id": "223764145091872",
     "text": "One Facility Left!"
   },
   {
+    "client_id": "224003210038466",
+    "text": "Auto formation applied."
+  },
+  {
     "client_id": "224151303835398",
     "text": "currently assigned to another Holowork."
+  },
+  {
+    "client_id": "224266417372297",
+    "text": "Holomem Rank"
   },
   {
     "client_id": "224294029221888",
@@ -7534,6 +8070,10 @@
   {
     "client_id": "225819827454262",
     "text": "Room ID"
+  },
+  {
+    "client_id": "225926949663001",
+    "text": "Unlocked Nodes are identical to the current\\nHolomem Board. This present cannot be loaded."
   },
   {
     "client_id": "225942306701479",
@@ -7574,6 +8114,14 @@
   {
     "client_id": "227116940519459",
     "text": "Rankings are calculated every week."
+  },
+  {
+    "client_id": "227203100353845",
+    "text": "Win Streak"
+  },
+  {
+    "client_id": "227203496086012",
+    "text": "CHALLENGE"
   },
   {
     "client_id": "227223446161587",
@@ -7628,6 +8176,10 @@
     "text": "I took a Mega Puri!\nLet’s play hololive Dreams!\n\n#MyHolodoriPicture"
   },
   {
+    "client_id": "228876847302772",
+    "text": "This is the Preview screen."
+  },
+  {
     "client_id": "229058083917173",
     "text": "Host left, you are now the Host."
   },
@@ -7650,6 +8202,10 @@
   {
     "client_id": "229609369713293",
     "text": "None"
+  },
+  {
+    "client_id": "229670739645374",
+    "text": "Surrender"
   },
   {
     "client_id": "229866390281079",
@@ -7720,6 +8276,10 @@
     "text": "{0} is already at max. Cannot exchange."
   },
   {
+    "client_id": "232620789917344",
+    "text": "TARGET SCORE"
+  },
+  {
     "client_id": "232771047634177",
     "text": "Reset"
   },
@@ -7730,6 +8290,10 @@
   {
     "client_id": "232936069265601",
     "text": "Special Titles can be claimed through Achievs."
+  },
+  {
+    "client_id": "232957849516453",
+    "text": "The opponent’s Leader scored a Try..."
   },
   {
     "client_id": "233048304980143",
@@ -7756,12 +8320,20 @@
     "text": "Go"
   },
   {
+    "client_id": "234319967780027",
+    "text": "No Song or Difficulty selection was detected within the time limit.\\nIf this happens repeatedly, you may be temporarily restricted\\nfrom joining Multiplayer Lives."
+  },
+  {
     "client_id": "234490797770176",
     "text": "Unlocking!"
   },
   {
     "client_id": "234637917583579",
     "text": "nd"
+  },
+  {
+    "client_id": "234694749861380",
+    "text": "{0} has been edited."
   },
   {
     "client_id": "234913317147536",
@@ -7778,6 +8350,10 @@
   {
     "client_id": "235457114212171",
     "text": "The ESC key is disabled on this screen."
+  },
+  {
+    "client_id": "235605800874370",
+    "text": "Outfit"
   },
   {
     "client_id": "235613256183813",
@@ -7812,6 +8388,10 @@
     "text": "Default Card cannot be removed. Select another Card."
   },
   {
+    "client_id": "236396752726996",
+    "text": "Your Leader scored a Try!"
+  },
+  {
     "client_id": "236656136035962",
     "text": "CLEARED"
   },
@@ -7822,6 +8402,10 @@
   {
     "client_id": "236929697570053",
     "text": "Chart Info"
+  },
+  {
+    "client_id": "237099646372316",
+    "text": "CLEAR"
   },
   {
     "client_id": "237330337695679",
@@ -7928,6 +8512,10 @@
     "text": "Required Unit Score: {0}"
   },
   {
+    "client_id": "242636073484203",
+    "text": "Your Leader is in danger!"
+  },
+  {
     "client_id": "242655411028237",
     "text": "3840x2880"
   },
@@ -7950,6 +8538,10 @@
   {
     "client_id": "243633817442155",
     "text": "Z"
+  },
+  {
+    "client_id": "243668712002629",
+    "text": "Use Bloom Stone"
   },
   {
     "client_id": "243887858008434",
@@ -7988,6 +8580,10 @@
     "text": "Passive Skill"
   },
   {
+    "client_id": "245139377669647",
+    "text": "Leader"
+  },
+  {
     "client_id": "245372361695232",
     "text": "Live\\nConfig"
   },
@@ -8006,6 +8602,10 @@
   {
     "client_id": "245967412521695",
     "text": "Rescuing"
+  },
+  {
+    "client_id": "246144725023735",
+    "text": "Not enough items."
   },
   {
     "client_id": "246630410715232",
@@ -8028,6 +8628,10 @@
     "text": "Fan Badge"
   },
   {
+    "client_id": "246949780868779",
+    "text": "Congratulations on clearing all Stages!"
+  },
+  {
     "client_id": "247010931909933",
     "text": "Go"
   },
@@ -8044,8 +8648,16 @@
     "text": "FAST/SLOW Scoring Position"
   },
   {
+    "client_id": "247502740254085",
+    "text": "Wins"
+  },
+  {
     "client_id": "247519453661921",
     "text": "Contains invalid parts."
+  },
+  {
+    "client_id": "247649708141021",
+    "text": "The same situation was repeated three times. This game ends in a draw."
   },
   {
     "client_id": "247795120005120",
@@ -8054,6 +8666,10 @@
   {
     "client_id": "248018894868525",
     "text": "Defended facilities in time!"
+  },
+  {
+    "client_id": "248082417115076",
+    "text": "Target Score"
   },
   {
     "client_id": "248124608438272",
@@ -8080,8 +8696,16 @@
     "text": "Song Level"
   },
   {
+    "client_id": "249344955150446",
+    "text": "Only Friends"
+  },
+  {
     "client_id": "249407164387213",
     "text": "1"
+  },
+  {
+    "client_id": "249713293796009",
+    "text": "{0} win streak"
   },
   {
     "client_id": "249734573594877",
@@ -8117,7 +8741,7 @@
   },
   {
     "client_id": "250863090900176",
-    "text": "Key Configuration"
+    "text": "Key Configuration (Shared)"
   },
   {
     "client_id": "251083096921935",
@@ -8292,6 +8916,10 @@
     "text": "Friends"
   },
   {
+    "client_id": "253751033019904",
+    "text": "Repeat Stage"
+  },
+  {
     "client_id": "253763204208640",
     "text": "Thumbnail Settings"
   },
@@ -8426,6 +9054,14 @@
     "text": "Prank Gang"
   },
   {
+    "client_id": "256719460016410",
+    "text": "Save"
+  },
+  {
+    "client_id": "256845739695085",
+    "text": "Victory Conditions"
+  },
+  {
     "client_id": "257228162162688",
     "text": "Invitation"
   },
@@ -8549,6 +9185,10 @@
     "text": "There are no Nodes available to reset."
   },
   {
+    "client_id": "262762630776753",
+    "text": "Fixed Camera"
+  },
+  {
     "client_id": "262804880945878",
     "text": "Unlock by progressing through Main Quests."
   },
@@ -8557,8 +9197,16 @@
     "text": "A ton of balls has appeared!"
   },
   {
+    "client_id": "263439178812941",
+    "text": "Hints"
+  },
+  {
     "client_id": "263528394189817",
     "text": "iOS order date"
+  },
+  {
+    "client_id": "263588076672097",
+    "text": "Member Preview"
   },
   {
     "client_id": "263910397340110",
@@ -8621,6 +9269,10 @@
     "text": "Data Transfer check"
   },
   {
+    "client_id": "266213161855493",
+    "text": "VS"
+  },
+  {
     "client_id": "266300484844067",
     "text": "Display Settings"
   },
@@ -8657,12 +9309,24 @@
     "text": "Mission"
   },
   {
+    "client_id": "267257773296176",
+    "text": "Turtle"
+  },
+  {
     "client_id": "267571060367360",
     "text": "Not Enough Minigame Boosts"
   },
   {
+    "client_id": "267732740360778",
+    "text": "You don't have enough materials to load.\\nWould you like to load only the Nodes you have enough materials for?"
+  },
+  {
     "client_id": "267798078085049",
     "text": "SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC"
+  },
+  {
+    "client_id": "267886449167994",
+    "text": "Please save the preset."
   },
   {
     "client_id": "267955800968722",
@@ -8713,8 +9377,16 @@
     "text": "<color=#28C3FF>{0}</color> is a perk for monthly {1} subscribers."
   },
   {
+    "client_id": "269588282332177",
+    "text": "Song Clear\nStatus"
+  },
+  {
     "client_id": "269691108286985",
     "text": "HH:mm"
+  },
+  {
+    "client_id": "269946084961207",
+    "text": "Play Guide"
   },
   {
     "client_id": "270015353277649",
@@ -8725,8 +9397,16 @@
     "text": "　"
   },
   {
+    "client_id": "270691929960861",
+    "text": "Rewards Earned"
+  },
+  {
     "client_id": "270696856641536",
     "text": "Details"
+  },
+  {
+    "client_id": "270790040880878",
+    "text": "Stages Cleared"
   },
   {
     "client_id": "270880521034549",
@@ -8739,6 +9419,10 @@
   {
     "client_id": "270957784885017",
     "text": "You can check after playing."
+  },
+  {
+    "client_id": "271192717121087",
+    "text": "Challenge"
   },
   {
     "client_id": "271285309906609",
@@ -8868,6 +9552,14 @@
     "text": "Quit\\nGame"
   },
   {
+    "client_id": "276269945305094",
+    "text": "Team formed."
+  },
+  {
+    "client_id": "276320469025582",
+    "text": "Your saved Holomem Board will be overwritten."
+  },
+  {
     "client_id": "276365564944437",
     "text": "Technique"
   },
@@ -8884,6 +9576,10 @@
     "text": "Quest"
   },
   {
+    "client_id": "276831431198624",
+    "text": "{0}%"
+  },
+  {
     "client_id": "276868334650299",
     "text": "Default Cards cannot be deleted."
   },
@@ -8894,6 +9590,10 @@
   {
     "client_id": "277256852272826",
     "text": "The following information will be hidden from other players in Multiplayer."
+  },
+  {
+    "client_id": "277269463207823",
+    "text": "Select a tile"
   },
   {
     "client_id": "277463459139926",
@@ -10232,7 +10932,7 @@
   },
   {
     "client_id": "498737727292322",
-    "text": "Your Google Play account's game data will be overwritten and cannot be restored. Are you sure you want to proceed?"
+    "text": "Google Play game data will be overwritten and cannot be restored.\\nAre you sure you wish to proceed?"
   },
   {
     "client_id": "498832191938560",
@@ -12359,6 +13059,10 @@
   {
     "client_id": "812012800925696",
     "text": "Gacha"
+  },
+  {
+    "client_id": "813810984982508",
+    "text": "You are about to spend {0} to Bloom.\\nAre you sure?"
   },
   {
     "client_id": "815029809864704",

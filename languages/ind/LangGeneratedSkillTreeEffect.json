@@ -216,6 +216,10 @@
     "text": " LIFE Naik [value]."
   },
   {
+    "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-100-skill_tree_effect_target-all-set_live_leader-description",
+    "text": " Peluang Aktivasi Skill Setiap Member Naik [value/10]%."
+  },
+  {
     "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-20-skill_tree_effect_target-skill_tree_character-always-description",
     "text": " Peluang Aktivasi Skill [character] Naik [value/10]%."
   },
@@ -330,6 +334,10 @@
   {
     "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-jump_rope-description",
     "text": " Perolehan Hadiah Hoppin' Rope Naik [value/10]%."
+  },
+  {
+    "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-shogi-description",
+    "text": "Jumlah hadiah yang diperoleh dari Puka Puka Fight meningkat sebesar [value/10]% (tidak termasuk mode NORMAL)"
   },
   {
     "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-splash_ball-description",

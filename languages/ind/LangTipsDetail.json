@@ -873,7 +873,7 @@
   },
   {
     "id": "la-tips-hint-marathon_nomal-description-2",
-    "text": "<color=#ff3bc8>Peringkat Event Pt</color> berdasarkan total akumulasi Event Pt yang sudah dikumpulkan.\n\nRaihlah peringkat untuk mendapatkan hadiah seperti Gelar Khusus Event!\n\n*Untuk detailnya silakan cek [Event]→[Peringkat]→[Peringkat Event Pt]."
+    "text": "<color=#ff3bc8>Peringkat Event Pt</color> berdasarkan total akumulasi Event Pt yang sudah dikumpulkan.\n\nRaihlah peringkat untuk mendapatkan hadiah seperti Lencana Khusus Event!\n\n*Untuk detailnya silakan cek [Event] → [Peringkat] → [Peringkat Event Pt]."
   },
   {
     "id": "la-tips-hint-marathon_nomal-description-3",
@@ -889,7 +889,7 @@
   },
   {
     "id": "la-tips-hint-marathon_nomal-description-6",
-    "text": "Tersedia <color=#ff3bc8>Peringkat Skor Tertinggi untuk kompetisi skor saat event</color> di setiap Lagu Tantangan Event!\n\nRaihlah peringkat untuk mendapatkan Gelar Khusus Event!\n\n*Untuk Lagu Tantangan Event, skor event dan skor biasa keduanya akan tersimpan.\n\n*Untuk detailnya silakan periksa [Event]→[Peringkat]→[Peringkat Skor Tertinggi]."
+    "text": "Tersedia <color=#ff3bc8>Peringkat Skor Tertinggi untuk kompetisi skor saat event</color> di setiap Lagu Tantangan Event!\n\nRaihlah peringkat untuk mendapatkan Lencana Khusus Event!\n\n*Untuk Lagu Tantangan Event, skor event dan skor biasa keduanya akan tersimpan.\n\n*Untuk detailnya silakan periksa [Event] → [Peringkat] → [Peringkat Skor Tertinggi]."
   },
   {
     "id": "la-tips-hint-marathon_relay-description-1",
@@ -924,6 +924,14 @@
     "text": "<color=#ff3bc8>Jika Member mencapai Level 20 atau lebih, bisa mendapatkan Bonus Naik Level yang meningkatkan Skor Unit</color>!\n\nNaikkan level banyak member untuk memperkuat unitmu!"
   },
   {
+    "id": "la-tips-instant_tips-live_tower-quest-unlock-description-1",
+    "text": "Misi Area \"<color=#ff3bc8>Misi Menuju Panggung Impian dimulai!</color>\" sudah dibuka!\n\nMenyelesaikan Misi tersebut akan membuka \"<color=#ff3bc8>Challenge Live</color>!\n\nChallenge Live adalah mode Live di mana pemain akan menantang dirinya sendiri untuk mencapai target skor yang sudah ditentukan pada tiap stage!"
+  },
+  {
+    "id": "la-tips-instant_tips-live_tower-quest-unlock-description-2",
+    "text": "Dengan menyelesaikan stage, pemain bisa mendapatkan hadiah seperti <color=#ff3bc8>Kubus Bintang</color> dan <color=#ff3bc8>Lencana Pencapaian</color>!\n\n*Lencana Pencapaian bisa didapatkan di bagian Achievs."
+  },
+  {
     "id": "la-tips-instant_tips-present-facerock-2-description-1",
     "text": "<color=#ff3bc8>Dapatkan hadiah dari Gen 0 di Face Mountain, 1 kali sehari</color>"
   },
@@ -934,6 +942,10 @@
   {
     "id": "la-tips-instant_tips-random_reward-livehouse-2-description-1",
     "text": "Berkat ReGLOSS, variasi item dalam Peti Harta semakin banyak!\n\nCari <color=#ff3bc8>harta karun yang tersembunyi di berbagai lokasi setiap harinya</color>!"
+  },
+  {
+    "id": "la-tips-instant_tips-skill_tree-upgrade-1-description-1",
+    "text": "<color=#ff3bc8>Node yang meningkatkan efek Leader</color> telah ditambahkan!\n\nDapatkan Kubus Bintang untuk membuka node yang ditambahkan melalui <color=#ff3bc8>Challenge Live!</color>"
   },
   {
     "id": "la-tips-jump-rope-description-1",
@@ -966,6 +978,30 @@
   {
     "id": "la-tips-live-description-1",
     "text": "Unit <color=#ff3bc8> bisa dibentuk dari 5 orang anggota dan satu orang leader </color> lho!\n\nSkor Unit berdasarkan Skill leader dan skill anggota, serta parameter lainnya!"
+  },
+  {
+    "id": "la-tips-live_tower-description-1",
+    "text": "Challenge Live bisa dimainkan kapan saja melalui <color=#ff3bc8>Panggung Live di setiap Area</color> atau <color=#ff3bc8>Live Portal</color>!"
+  },
+  {
+    "id": "la-tips-live_tower-description-2",
+    "text": "Selesaikan stage dan dapatkan berbagai macam hadiah!\n\nDengan menyelesaikan stage tertentu, pemain bisa mendapatkan <color=#ff3bc8>Kubus Bintang</color> dan <color=#ff3bc8>Lencana Achievement</color>!\n\n*Lencana Achievement bisa didapatkan di bagian Achievs."
+  },
+  {
+    "id": "la-tips-live_tower-quest-description-1",
+    "text": "Challenge Live adalah <color=#ff3bc8>Live tantangan untuk mencapai target skor yang telah ditentukan di setiap stage</color>!\n\nCapai skor target untuk menyelesaikan stage.\nSetelah menyelesaikan stage, kamu akan menerima hadiah dan dapat melanjutkan ke stage berikutnya.\n\n*Stage yang sudah diselesaikan tidak bisa dimainkan kembali"
+  },
+  {
+    "id": "la-tips-live_tower-quest-description-2",
+    "text": "Setiap stage memiliki beberapa lagu tantangan!\n\n<color=#ff3bc8>Capai target skor pada salah satu lagu untuk menyelesaikan stage!</color>"
+  },
+  {
+    "id": "la-tips-live_tower-quest-description-3",
+    "text": "Tiap stage memiliki Member Bonus!\n\nJika Member Bonus digunakan dalam tim, <color=#ff3bc8>pemain akan mendapatkan Bonus dan Skor Unit akan meningkat</color>!"
+  },
+  {
+    "id": "la-tips-live_tower-quest-description-4",
+    "text": "<color=#ff3bc8>Jika skor berada jauh di atas target, maka pemain bisa melewati stage tersebut</color>!\n\nJika melewati stage tersebut, pemain masih akan tetap menerima hadiah dari stage tersebut!\n\n<color=#ff3bc8>Stage berwarna pelangi</color> adalah Stage yang wajib mengikuti Challenge!"
   },
   {
     "id": "la-tips-lottery-area02-scratch-description-1",
@@ -1210,6 +1246,102 @@
   {
     "id": "la-tips-rhythm-game-description-5",
     "text": "Aktifkan Rhythm Support dari Opsi Live agar <color=#ff3bc8>Not pada ketukan off-beat berubah menjadi abu-abu</color> dan memudahkanmu melihat pergeseran ritme!"
+  },
+  {
+    "id": "la-tips-shogi-description-1",
+    "text": "Pemain bisa memainkan Puka Puka Fight kapanpun di <color=#ff3bc8>Splash Stadium</color> yang ada di Soda Pop Lagoon!"
+  },
+  {
+    "id": "la-tips-shogi-description-2",
+    "text": "<color=#ff3bc8>Dapatkan hadiah dengan menyelesaikan mode NORMAL!</color>\n\nKalahkan holomem di tiap stage untuk selesaikan misinya!"
+  },
+  {
+    "id": "la-tips-shogi-description-3",
+    "text": "<color=#ff3bc8>Setelah menyelesaikan mode NORMAL, pemain bisa mencoba mode CHALLENGE!</color>\n\nDi mode CHALLENGE, Pemain akan melawan holomem dengan tingkat kekuatan yang berbeda-beda!"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-1",
+    "text": "Puka Puka Fight adalah Mini-game di mana pemain <color=#ff3bc8>bertujuan menang dengan menjatuhkan Leader Lawan ke air</color>.\n\nholomem yang jatuh ke air akan kalah, lalu semua holomen Lawan selain Leader akan bergabung ke timmu."
+  },
+  {
+    "id": "la-tips-shogi-quest-description-2",
+    "text": "Saat giliran, pemain dapat melakukan salah satu dari tindakan berikut <color=#ff3bc8>(1 kali per giliran)</color>: memindahkan 1 holomen di pijakan, atau menempatkan holomen yang masuk ke tim ke pijakan yang kosong."
+  },
+  {
+    "id": "la-tips-shogi-quest-description-3",
+    "text": "Jatuhkan leader lawan ke air dan raih kemenangan!\n\n▼ Syarat Kemenangan ① (Kalahkan Leader Lawan)\n<color=#ff3bc8>Jatuhkan Leader lawan (holomem bermahkota) ke air untuk menang!</color>\nGunakan para holomem dengan cerdik untuk memojokkan lawan!"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-4",
+    "text": "Gerakkan Leader-mu ke pijakan ujung kanan!\n\n▼ Syarat Kemenangan ② (TRY)\nCapai baris pijakan paling kanan menggunakan Leader-mu!\n<color=#ff3bc8>Pemain menang jika Leader tidak dijatuhkan ke air pada giliran berikutnya setelah mencapai area tersebut!</color>"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-5",
+    "text": "<color=#ff3bc8>Ketika Penyu (Hijau) sampai di pojok kanan platform, ia akan berubah menjadi Penyu (Emas)!</color>\n\nJika holomem yang direkrut langsung ditempatkan di pojok kanan platform, maka mereka tidak akan mendapatkan power up!\nJika Penyu (Emas) jatuh ke dalam air, ia akan kembali ke bentuk semula!"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-6",
+    "text": "<color=#ff3bc8>Topi menentukan arah pergerakan</color>\n\n▼ Pergerakan\n• Leader: Segala arah 1 petak\n• Paus: Diagonal 4 arah 1 petak\n• Lumba-lumba: Atas/Bawah/Kiri/Kanan 1 petak\n• Penyu (Hijau): Depan 1 petak\n• Penyu (Emas): 6 arah Kecuali diagonal belakang"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-7",
+    "text": "Hati-hati jangan sampai mengulang gerakan yang sama! \n\n▼Draw\nJika kedua pemain mengulang gerakan yang sama <color=#ff3bc8>lalu situasi yang sama terjadi 3 kali, maka hasil pertandingan akan seri!</color>\nJika pertandingan belum selesai, coba berpindah ke pijakan lain!"
+  },
+  {
+    "id": "la-tips-shogi-quest-description-8",
+    "text": "Gunakan \"Mundur\" di mode Solo Play!\n\nTap tombol \"Mundur\", <color=#ff3bc8>untuk kembali ke satu langkah sebelumnya!</color>\nFitur ini hanya bisa dilakukan beberapa kali saja!\n\nGunakan fitur ini ketika kamu melakukan kesalahan!"
+  },
+  {
+    "id": "la-tips-shogi-stage-catch-end-description-1",
+    "text": "<color=#ff3bc8>Pemain akan menang dengan cara menjatuhkan Leader Lawan ke dalam air!</color>\n\nCoba strategi ini pada pertandingan sebenarnya!"
+  },
+  {
+    "id": "la-tips-shogi-stage-catch-start-description-1",
+    "text": "<color=#ff3bc8>Menjatuhkan Leader Lawan (Mahkota) ke dalam air!</color>\n\nGunakan holomem untuk menjatuhkan Leader Lawan ke dalam air dan menangkan Mini-game!"
+  },
+  {
+    "id": "la-tips-shogi-stage-nakama-end-description-1",
+    "text": "<color=#ff3bc8>holomen yang direkrut ke tim akan memberikan keuntungan di Mini-game!</color>\n\nManfaatkan secara aktif dalam pertandingan yang sebenarnya!"
+  },
+  {
+    "id": "la-tips-shogi-stage-nakama-start-description-1",
+    "text": "<color=#ff3bc8>Jika holomem Lawan jatuh ke dalam air, mereka bisa dimasukkan ke tim Pemain!</color>\n\nPemain bisa meletakkan holomem yang sudah direkrut di platform kosong!\nLetakkan holomem tersebut secara strategis dan pojokkan Lawan-mu!"
+  },
+  {
+    "id": "la-tips-shogi-stage-naru-end-description-1",
+    "text": "<color=#ff3bc8>Ketika Penyu (Hijau) berada di sisi pojok kanan platform, ia akan mendapatkan Power Up dan berubah menjadi Penyu (Emas) yang bisa bergerak ke lebih banyak arah!</color>\n\nCoba strategi ini pada pertandingan sebenarnya!"
+  },
+  {
+    "id": "la-tips-shogi-stage-naru-start-description-1",
+    "text": "<color=#ff3bc8>Gerakkan Penyu (Hijau) hingga ke platform di pojok kanan untuk mendapatkan Power Up!</color>\n\nGerakkan penyu hingga ke pojok kanan dan mendapatkan keuntungan di Mini-game ini!"
+  },
+  {
+    "id": "la-tips-shogi-stage-try-end-description-1",
+    "text": "Jika Leader berada <color=#ff3bc8>di baris paling kanan dan tidak dijatuhkan ke dalam air pada putaran berikutnya, maka pemain menang dengan cara \"TRY\"!</color>\n\nCoba strategi ini pada pertandingan sebenarnya!"
+  },
+  {
+    "id": "la-tips-shogi-stage-try-start-description-1",
+    "text": "<color=#ff3bc8>Gerakkan Leadermu ke pijakan di platform paling kanan untuk menang dengan \"TRY\"!</color>\n\nNamun, jika Leadermu berhasil sampai tetapi pada giliran berikutnya jatuh ke air, itu tidak dianggap TRY!\nCari celah Lawan, lalu gerakkan Leadermu ke pijakan di platform paling kanan!"
+  },
+  {
+    "id": "la-tips-shogi-stage1-hint-description-1",
+    "text": "Pertama, gunakan Lumba-lumba pemain untuk menjatuhkan Penyu (Hijau) milik lawan ke dalam air!"
+  },
+  {
+    "id": "la-tips-shogi-stage2-hint-description-1",
+    "text": "Pertama, gerakkan Leader Pemain satu langkah ke depan!"
+  },
+  {
+    "id": "la-tips-shogi-stage3-hint-description-1",
+    "text": "Tempatkan Penyu (Hijau) yang sudah menjadi temanmu sejak awal tepat di depan Leader Lawan!"
+  },
+  {
+    "id": "la-tips-shogi-stage4-hint-description-1",
+    "text": "Pertama, gerakkan Penyu (Hijau) satu langkah ke depan untuk mendapatkan Power Up dan berubah menjadi Penyu (Emas)!"
+  },
+  {
+    "id": "la-tips-shogi-stage5-hint-description-1",
+    "text": "Gunakan holomem yang ada di tim-mu!"
   },
   {
     "id": "la-tips-skill-tree-description-1",

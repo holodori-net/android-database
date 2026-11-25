@@ -5925,6 +5925,29 @@
     ]
   },
   {
+    "group_id": "G-026",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_NODE_TYPE_ALL_MEMBER",
+      "number": 4
+    },
+    "grade": 1,
+    "skill_tree_effect_id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-shogi",
+    "view_condition_group_id": "cd-player_level-30",
+    "consumption_skill_tree_point_quantity": 3,
+    "auto_selection_priority": 1,
+    "consumptions": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_allmember-1",
+        "quantity": "160"
+      }
+    ]
+  },
+  {
     "group_id": "R-001",
     "number": 1,
     "type": {
@@ -7510,6 +7533,37 @@
         },
         "resource_id": "item-skill_tree_leader-2",
         "quantity": "25"
+      }
+    ]
+  },
+  {
+    "group_id": "R-064",
+    "number": 1,
+    "type": {
+      "name": "SKILL_TREE_NODE_TYPE_LEADER",
+      "number": 2
+    },
+    "grade": 3,
+    "skill_tree_effect_id": "skill_tree_effect-live_active_skill_activation_probability_up_permil_up-100-skill_tree_effect_target-all-set_live_leader",
+    "view_condition_group_id": "cd-player_level-25",
+    "consumption_skill_tree_point_quantity": 6,
+    "auto_selection_priority": 3,
+    "consumptions": [
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_leader-3",
+        "quantity": "10"
+      },
+      {
+        "resource_type": {
+          "name": "RESOURCE_TYPE_ITEM",
+          "number": 3
+        },
+        "resource_id": "item-skill_tree_leader-2",
+        "quantity": "100"
       }
     ]
   },

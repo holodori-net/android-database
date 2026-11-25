@@ -1081,6 +1081,31 @@
     "park_quest_chase_id": "quest_chase-area-a01-29-1-2"
   },
   {
+    "park_quest_id": "quest-area-a01-30",
+    "step_group_number": 1,
+    "step": 1,
+    "park_target_mapping_id": "target_map-area-a01-30-1-1",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_QUEST_TALK",
+      "number": 2003
+    },
+    "before_park_talk_group_id": "park_talk-area-a01-30-1-1",
+    "after_park_talk_group_id": "park_talk-area-a01-30-1-1-after"
+  },
+  {
+    "park_quest_id": "quest-area-a01-30",
+    "step_group_number": 1,
+    "step": 2,
+    "park_target_mapping_id": "target_map-area-a01-30-1-2",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_QUEST_LIVE_TOWER_READ",
+      "number": 2009
+    },
+    "before_park_talk_group_id": "park_talk-area-a01-30-1-2"
+  },
+  {
     "park_quest_id": "quest-area-a02-01",
     "step_group_number": 1,
     "step": 1,
@@ -2373,6 +2398,33 @@
     "before_park_talk_group_id": "park_talk-area-a03-19-1-2",
     "facility_id": "facility-a03-station",
     "facility_level": 5
+  },
+  {
+    "park_quest_id": "quest-area-a03-20",
+    "step_group_number": 1,
+    "step": 1,
+    "park_target_mapping_id": "target_map-area-a03-20-1-1",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_QUEST_TALK",
+      "number": 2003
+    },
+    "before_park_talk_group_id": "park_talk-area-a03-20-1-1",
+    "after_park_talk_group_id": "park_talk-area-a03-20-1-1-after"
+  },
+  {
+    "park_quest_id": "quest-area-a03-20",
+    "step_group_number": 1,
+    "step": 2,
+    "park_target_mapping_id": "target_map-area-a03-20-1-2",
+    "action_number": 1,
+    "type": {
+      "name": "PARK_ACTION_TYPE_QUEST_SHOGI",
+      "number": 3006
+    },
+    "before_park_talk_group_id": "park_talk-area-a03-20-1-2",
+    "after_park_talk_group_id": "park_talk-area-a03-20-1-2-after",
+    "park_quest_shogi_id": "quest_shogi-area-a03-20-1-2"
   },
   {
     "park_quest_id": "quest-chr-00001",

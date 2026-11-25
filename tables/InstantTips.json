@@ -104,6 +104,19 @@
     "condition_group_id": "cd-quest_clear-quest-area-a01-29"
   },
   {
+    "id": "instant_tips-exchange_booth-facility-a03-exchangebooth-release",
+    "type": {
+      "name": "INSTANT_TIPS_TYPE_TEXT",
+      "number": 2
+    },
+    "display_scene_type": {
+      "name": "INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+      "number": 1
+    },
+    "text_lang_id": "la-tips-instant_tips-exchange_booth-facility-a03-exchangebooth-release",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-03-15"
+  },
+  {
     "id": "instant_tips-fishingshop",
     "type": {
       "name": "INSTANT_TIPS_TYPE_TEXT",
@@ -167,6 +180,19 @@
     },
     "text_lang_id": "la-instant_tips-jump_rope-score_attack",
     "condition_group_id": "cd-jump_rope-unlock_score_attack"
+  },
+  {
+    "id": "instant_tips-live_tower-quest-unlock",
+    "type": {
+      "name": "INSTANT_TIPS_TYPE_TIPS",
+      "number": 1
+    },
+    "display_scene_type": {
+      "name": "INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+      "number": 1
+    },
+    "tips_id": "tips-instant_tips-live_tower-quest-unlock",
+    "condition_group_id": "cd-quest_clear-quest-main-w1-03-06"
   },
   {
     "id": "instant_tips-park_fishing_rod_upgrade",
@@ -284,5 +310,18 @@
     },
     "tips_id": "tips-instant_tips-random_reward-livehouse-2",
     "condition_group_id": "cd-quest_clear-quest-area-a01-19"
+  },
+  {
+    "id": "instant_tips-skill_tree-upgrade-1",
+    "type": {
+      "name": "INSTANT_TIPS_TYPE_TIPS",
+      "number": 1
+    },
+    "display_scene_type": {
+      "name": "INSTANT_TIPS_DISPLAY_SCENE_TYPE_SKILL_TREE",
+      "number": 3
+    },
+    "tips_id": "tips-instant_tips-skill_tree-upgrade-1",
+    "condition_group_id": "cd-player_level-25"
   }
 ]

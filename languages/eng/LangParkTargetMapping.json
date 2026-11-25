@@ -164,7 +164,7 @@
   },
   {
     "id": "la-perm-a03-stadium-title",
-    "text": "Splash Ball"
+    "text": "Splash Stadium"
   },
   {
     "id": "la-perm-a03-station-title",
@@ -179,7 +179,19 @@
     "text": "Shadowbound Chase"
   },
   {
+    "id": "la-target_map-a03-shogi",
+    "text": "Puka Puka Fight"
+  },
+  {
     "id": "la-target_map-area-a01-29-1-2",
     "text": "Shadowbound Chase"
+  },
+  {
+    "id": "la-target_map-area-a01-30-1-2",
+    "text": "Challenge Live"
+  },
+  {
+    "id": "la-target_map-area-a03-20-1-2",
+    "text": "Puka Puka Fight"
   }
 ]

@@ -32,6 +32,10 @@
     "text": "Efek Score Support meningkat 25% untuk Setiap Member."
   },
   {
+    "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-450-live_skill_effect_target-all.1-description",
+    "text": "Efek Score Support meningkat 45% untuk Setiap Member."
+  },
+  {
     "id": "la-generated-live_leader_skill_effect-live_active_skill_effect_up_permil_up-500-live_skill_effect_target-all.1-description",
     "text": "Efek Score Support meningkat 50% untuk Setiap Member."
   },
@@ -60,6 +64,10 @@
     "text": "Performa Naik 80% untuk Setiap Member."
   },
   {
+    "id": "la-generated-live_leader_skill_effect-performance_up_permil_up-850-live_skill_effect_target-all.1-description",
+    "text": "Performa Naik 85% untuk Setiap Member."
+  },
+  {
     "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-1000-live_skill_effect_target-all.1-description",
     "text": "Sense Naik 100% untuk Setiap Member."
   },
@@ -74,6 +82,10 @@
   {
     "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-1350-live_skill_effect_target-all.1-description",
     "text": "Sense Naik 135% untuk Setiap Member."
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-500-live_skill_effect_target-all.1-description",
+    "text": "Sense Naik 50% untuk Setiap Member."
   },
   {
     "id": "la-generated-live_leader_skill_effect-sense_up_permil_up-800-live_skill_effect_target-all.1-description",
@@ -98,6 +110,10 @@
   {
     "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-800-live_skill_effect_target-all.1-description",
     "text": "Teknik Naik 80% untuk Setiap Member."
+  },
+  {
+    "id": "la-generated-live_leader_skill_effect-technique_up_permil_up-850-live_skill_effect_target-all.1-description",
+    "text": "Teknik Naik 85% untuk Setiap Member."
   },
   {
     "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-110-live_skill_effect_target-attribute-attribute_1-2.1-description",
@@ -142,6 +158,14 @@
   {
     "id": "la-generated-live_passive_skill_effect-all_parameter_up_permil_up-80-live_skill_effect_target-self.1-description",
     "text": "Semua Stat Diri sendiri Naik 8%."
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_activation_probability_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "Peluang Aktivasi Skill Naik 14% untuk 2 Member [attribute=cute]Cute Type[/attribute]."
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-live_active_skill_activation_probability_up_permil_up-190-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "Peluang Aktivasi Skill Naik 19% untuk 2 Member [attribute=cute]Cute Type[/attribute]."
   },
   {
     "id": "la-generated-live_passive_skill_effect-live_active_skill_effect_up_permil_up-110-live_skill_effect_target-attribute-attribute_1-2.1-description",
@@ -372,6 +396,10 @@
     "text": "Performa Naik 32% untuk 2 orang ID Gen 2."
   },
   {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "Performa Naik 34% untuk 2 Member [attribute=cute]Cute Type[/attribute]."
+  },
+  {
     "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gamers-2.1-description",
     "text": "Performa Naik 34% untuk 2 orang GAMERS."
   },
@@ -440,6 +468,10 @@
     "text": "Performa Naik 43% untuk 2 orang ID Gen 2."
   },
   {
+    "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "Performa Naik 45% untuk 2 Member [attribute=cute]Cute Type[/attribute]."
+  },
+  {
     "id": "la-generated-live_passive_skill_effect-performance_up_permil_up-450-live_skill_effect_target-character_grouping-grp-gen_1-2.1-description",
     "text": "Performa Naik 45% untuk 2 orang Gen 1."
   },
@@ -476,6 +508,10 @@
     "text": "Sense Naik 10% untuk 2 Member [attribute=happy]Happy Type[/attribute]."
   },
   {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-130-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "Sense Naik 13% untuk 2 Member [attribute=cute]Cute Type[/attribute]."
+  },
+  {
     "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-140-live_skill_effect_target-attribute-attribute_1-3.1-description",
     "text": "Sense Naik 14% untuk 3 Member [attribute=cute]Cute Type[/attribute]."
   },
@@ -486,6 +522,10 @@
   {
     "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-140-live_skill_effect_target-attribute-attribute_3-3.1-description",
     "text": "Sense Naik 14% untuk 3 Member [attribute=happy]Happy Type[/attribute]."
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-170-live_skill_effect_target-attribute-attribute_1-2.1-description",
+    "text": "Sense Naik 17% untuk 2 Member [attribute=cute]Cute Type[/attribute]."
   },
   {
     "id": "la-generated-live_passive_skill_effect-sense_up_permil_up-200-live_skill_effect_target-attribute-attribute_1-2.1-description",
@@ -700,6 +740,10 @@
     "text": "Teknik Naik 21% untuk 2 orang Promise."
   },
   {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-attribute-attribute_1-3.1-description",
+    "text": "Teknik Naik 23% untuk 3 Member [attribute=cute]Cute Type[/attribute]."
+  },
+  {
     "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-230-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
     "text": "Teknik Naik 23% untuk 2 orang Gen 3."
   },
@@ -714,6 +758,10 @@
   {
     "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-2.1-description",
     "text": "Teknik Naik 30% untuk 2 Member [attribute=cute]Cute Type[/attribute]."
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_1-3.1-description",
+    "text": "Teknik Naik 30% untuk 3 Member [attribute=cute]Cute Type[/attribute]."
   },
   {
     "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-300-live_skill_effect_target-attribute-attribute_2-2.1-description",
@@ -746,6 +794,10 @@
   {
     "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-character_grouping-grp-promise-2.1-description",
     "text": "Teknik Naik 32% untuk 2 orang Promise."
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "Teknik Naik 34% untuk 2 Member [attribute=pure]Pure Type[/attribute]."
   },
   {
     "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-340-live_skill_effect_target-character_grouping-grp-gen_3-2.1-description",
@@ -794,6 +846,10 @@
   {
     "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-character_grouping-grp-promise-2.1-description",
     "text": "Teknik Naik 43% untuk 2 orang Promise."
+  },
+  {
+    "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-450-live_skill_effect_target-attribute-attribute_2-2.1-description",
+    "text": "Teknik Naik 45% untuk 2 Member [attribute=pure]Pure Type[/attribute]."
   },
   {
     "id": "la-generated-live_passive_skill_effect-technique_up_permil_up-70-live_skill_effect_target-attribute-attribute_1-3.1-description",

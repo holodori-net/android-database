@@ -1,5 +1,8 @@
 [
   {
+    "id": "la-cd-absolute_park_fishing_fish_unique_count_99"
+  },
+  {
     "id": "la-cd-cook-unlock_normal-description",
     "text": "모아 쿠킹에서 EASY 모드를 클리어하면 개방됩니다"
   },
@@ -110,6 +113,9 @@
   {
     "id": "la-cd-perm-a01-chase",
     "text": "어둠 속 추격"
+  },
+  {
+    "id": "la-cd-perm-a03-shogi"
   },
   {
     "id": "la-cd-player_level-10",
@@ -224,6 +230,12 @@
     "text": "하모니 가든의 메인 퀘스트 EP24를 클리어하면 개방할 수 있습니다"
   },
   {
+    "id": "la-cd-quest-area-a01-30"
+  },
+  {
+    "id": "la-cd-quest-area-a01-30-description"
+  },
+  {
     "id": "la-cd-quest-area-a02-08-unlock",
     "text": "지정 퀘스트를 클리어하자"
   },
@@ -246,6 +258,12 @@
   {
     "id": "la-cd-quest-area-a02-16-unlock-description",
     "text": "퀘스트나 라이브를 플레이하자"
+  },
+  {
+    "id": "la-cd-quest-area-a03-20"
+  },
+  {
+    "id": "la-cd-quest-area-a03-20-description"
   },
   {
     "id": "la-cd-quest-main-w1-01-03-unlock",

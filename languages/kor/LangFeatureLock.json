@@ -68,6 +68,14 @@
     "text": "라이브"
   },
   {
+    "id": "la-feature_lock-live_tower-description",
+    "text": "개방 조건: 구역 퀘스트 「꿈의 스테이지로! 미션 개시」클리어"
+  },
+  {
+    "id": "la-feature_lock-live_tower-title",
+    "text": "챌린지 라이브"
+  },
+  {
     "id": "la-feature_lock-menu-title",
     "text": "메뉴"
   },
@@ -210,6 +218,10 @@
   {
     "id": "la-feature_lock-poster-title",
     "text": "메모리"
+  },
+  {
+    "id": "la-feature_lock-shogi",
+    "text": "둥실둥실 파이트"
   },
   {
     "id": "la-feature_lock-skill_tree-description",

@@ -110,6 +110,28 @@
     "description_lang_id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-card_area-004-rare_5.2-description"
   },
   {
+    "id": "skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-card_area-005-rare_5",
+    "level": 1,
+    "connect_effect_type": {
+      "name": "SKILL_TREE_CONNECT_EFFECT_TYPE_SKILL_TREE_EFFECT_UP",
+      "number": 1
+    },
+    "skill_tree_connect_effect_extent_group_id": "skill_tree_connect_effect_extent-card_area-005",
+    "effect_permil_up": "1350",
+    "description_lang_id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-card_area-005-rare_5.1-description"
+  },
+  {
+    "id": "skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-card_area-005-rare_5",
+    "level": 2,
+    "connect_effect_type": {
+      "name": "SKILL_TREE_CONNECT_EFFECT_TYPE_SKILL_TREE_EFFECT_UP",
+      "number": 1
+    },
+    "skill_tree_connect_effect_extent_group_id": "skill_tree_connect_effect_extent-card_area-005",
+    "effect_permil_up": "1850",
+    "description_lang_id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-card_area-005-rare_5.2-description"
+  },
+  {
     "id": "skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-center_area-001-rare_5",
     "level": 1,
     "connect_effect_type": {
@@ -330,6 +352,28 @@
     "description_lang_id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-content_area-004-rare_4.2-description"
   },
   {
+    "id": "skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-content_area-005-rare_5",
+    "level": 1,
+    "connect_effect_type": {
+      "name": "SKILL_TREE_CONNECT_EFFECT_TYPE_SKILL_TREE_EFFECT_UP",
+      "number": 1
+    },
+    "skill_tree_connect_effect_extent_group_id": "skill_tree_connect_effect_extent-content_area-005",
+    "effect_permil_up": "1350",
+    "description_lang_id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-content_area-005-rare_5.1-description"
+  },
+  {
+    "id": "skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-content_area-005-rare_5",
+    "level": 2,
+    "connect_effect_type": {
+      "name": "SKILL_TREE_CONNECT_EFFECT_TYPE_SKILL_TREE_EFFECT_UP",
+      "number": 1
+    },
+    "skill_tree_connect_effect_extent_group_id": "skill_tree_connect_effect_extent-content_area-005",
+    "effect_permil_up": "1850",
+    "description_lang_id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-content_area-005-rare_5.2-description"
+  },
+  {
     "id": "skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-general_purpose_area-001-rare_5",
     "level": 1,
     "connect_effect_type": {
@@ -350,6 +394,28 @@
     "skill_tree_connect_effect_extent_group_id": "skill_tree_connect_effect_extent-general_purpose_area-001",
     "effect_permil_up": "1050",
     "description_lang_id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-general_purpose_area-001-rare_5.2-description"
+  },
+  {
+    "id": "skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-general_purpose_area-002-rare_5",
+    "level": 1,
+    "connect_effect_type": {
+      "name": "SKILL_TREE_CONNECT_EFFECT_TYPE_SKILL_TREE_EFFECT_UP",
+      "number": 1
+    },
+    "skill_tree_connect_effect_extent_group_id": "skill_tree_connect_effect_extent-general_purpose_area-002",
+    "effect_permil_up": "750",
+    "description_lang_id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-general_purpose_area-002-rare_5.1-description"
+  },
+  {
+    "id": "skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-general_purpose_area-002-rare_5",
+    "level": 2,
+    "connect_effect_type": {
+      "name": "SKILL_TREE_CONNECT_EFFECT_TYPE_SKILL_TREE_EFFECT_UP",
+      "number": 1
+    },
+    "skill_tree_connect_effect_extent_group_id": "skill_tree_connect_effect_extent-general_purpose_area-002",
+    "effect_permil_up": "1250",
+    "description_lang_id": "la-generated-skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-general_purpose_area-002-rare_5.2-description"
   },
   {
     "id": "skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-leader_area-001-rare_5",

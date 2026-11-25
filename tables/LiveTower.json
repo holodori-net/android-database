@@ -1,0 +1,11 @@
+[
+  {
+    "id": "live_tower-default-001",
+    "start_time": "1795554000000",
+    "type": {
+      "name": "LIVE_TOWER_TYPE_PERMANENT",
+      "number": 1
+    },
+    "priority": 100
+  }
+]

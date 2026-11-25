@@ -68,6 +68,14 @@
     "text": "ライブ"
   },
   {
+    "id": "la-feature_lock-live_tower-description",
+    "text": "解放条件：エリアクエスト｢夢のステージへ！ミッション開始｣クリア"
+  },
+  {
+    "id": "la-feature_lock-live_tower-title",
+    "text": "チャレンジライブ"
+  },
+  {
     "id": "la-feature_lock-menu-title",
     "text": "メニュー"
   },
@@ -210,6 +218,10 @@
   {
     "id": "la-feature_lock-poster-title",
     "text": "メモリー"
+  },
+  {
+    "id": "la-feature_lock-shogi",
+    "text": "ぷかぷかファイト"
   },
   {
     "id": "la-feature_lock-skill_tree-description",

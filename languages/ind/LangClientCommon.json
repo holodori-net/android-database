@@ -622,6 +622,10 @@
     "text": "x"
   },
   {
+    "client_id": "768615877405",
+    "text": "Tidak ada Stage yang tersedia untuk dimainkan"
+  },
+  {
     "client_id": "768672260096",
     "text": "Informasi"
   },
@@ -684,6 +688,10 @@
   {
     "client_id": "1161070370816",
     "text": "Konfirmasi Penghapusan Data"
+  },
+  {
+    "client_id": "1277983609630",
+    "text": "Hologold untuk pengaturan reset tidak cukup"
   },
   {
     "client_id": "1283795705856",
@@ -807,6 +815,10 @@
   {
     "client_id": "1981081968640",
     "text": "Tidak ada pemain aktif akhir-akhir ini."
+  },
+  {
+    "client_id": "2057303185626",
+    "text": "Disimpan di \"{0}\""
   },
   {
     "client_id": "2061155426304",
@@ -1041,6 +1053,10 @@
     "text": "Bagikan"
   },
   {
+    "client_id": "3660303122231",
+    "text": "Syarat membuka: Menyelesaikan STAGE{0}"
+  },
+  {
     "client_id": "3686532112384",
     "text": "Peran apa yang akan dimainkan?"
   },
@@ -1196,6 +1212,10 @@
     "text": "Gambar"
   },
   {
+    "client_id": "5083863167744",
+    "text": "Tidak bisa dimuat karena ada item yang hilang"
+  },
+  {
     "client_id": "5103468666880",
     "text": "Cari Notasi dari semua lagu"
   },
@@ -1216,6 +1236,10 @@
     "text": "Cari Notasi dari lagu yang ditentukan"
   },
   {
+    "client_id": "5282156876069",
+    "text": "Main\\nLagi"
+  },
+  {
     "client_id": "5291811525678",
     "text": "Koneksi gagal. [NonMatchedUser]"
   },
@@ -1228,8 +1252,16 @@
     "text": "Motif Efek"
   },
   {
+    "client_id": "5553448548472",
+    "text": "Bisa mundur 1 langkah ke giliranmu sebelumnya"
+  },
+  {
     "client_id": "5559188086784",
     "text": "Undangan"
+  },
+  {
+    "client_id": "5590869456848",
+    "text": "Giliran Lawan"
   },
   {
     "client_id": "5840291556123",
@@ -1588,6 +1620,10 @@
     "text": "Spektrum Audio"
   },
   {
+    "client_id": "10952243114743",
+    "text": "Gunakan item berikut\\nuntuk memulihkan Live Boost?"
+  },
+  {
     "client_id": "11028128587776",
     "text": "Preview"
   },
@@ -1644,6 +1680,10 @@
     "text": "Nama Barang"
   },
   {
+    "client_id": "12054874683196",
+    "text": "{0} telah dimuat"
+  },
+  {
     "client_id": "12114493918125",
     "text": "Tetap bermain?"
   },
@@ -1653,6 +1693,10 @@
   {
     "client_id": "12200260395008",
     "text": "Penautan akun selesai. Mulai ulang permainan. "
+  },
+  {
+    "client_id": "12213331300245",
+    "text": "Memo"
   },
   {
     "client_id": "12280642841373",
@@ -1815,8 +1859,16 @@
     "text": "<color=#62628E>Silahkan masukkan <color=#28C3FF> bulan/tahun<color=#62628E> lahir Anda"
   },
   {
+    "client_id": "16448673636038",
+    "text": "Menyerah"
+  },
+  {
     "client_id": "16560849098420",
     "text": "{0} Jam Sebelum"
+  },
+  {
+    "client_id": "16616110956908",
+    "text": "Hentikan pencarian pemain?"
   },
   {
     "client_id": "16622420374834",
@@ -1875,6 +1927,10 @@
     "text": "Proses pembelian untuk pembayaran yang tertunda telah diproses kembali."
   },
   {
+    "client_id": "18625267134043",
+    "text": "Waktu habis karena tidak melakukan aksi 3 kali berturut-turut..."
+  },
+  {
     "client_id": "18943986083498",
     "text": "M"
   },
@@ -1901,6 +1957,10 @@
   {
     "client_id": "19217687805573",
     "text": "Sisa 30 detik lagi!"
+  },
+  {
+    "client_id": "19626873775367",
+    "text": "Silakan atur holomem"
   },
   {
     "client_id": "19865503756288",
@@ -1931,6 +1991,10 @@
     "text": "Rekor Tertinggi"
   },
   {
+    "client_id": "20959500461465",
+    "text": "Menyerah..."
+  },
+  {
     "client_id": "21203337706729",
     "text": "Pengaturan tidak dapat diubah karena akan menghasilkan penempatan yang tidak valid."
   },
@@ -1949,6 +2013,10 @@
   {
     "client_id": "21758261805400",
     "text": "Pengaturan Suara"
+  },
+  {
+    "client_id": "22354939115645",
+    "text": "Member Bonus"
   },
   {
     "client_id": "22480911888912",
@@ -2090,6 +2158,10 @@
     "text": "Ayo bermain ke Dream Park"
   },
   {
+    "client_id": "27682003200836",
+    "text": "Efek Bonus"
+  },
+  {
     "client_id": "28167913602282",
     "text": "Boat"
   },
@@ -2100,6 +2172,10 @@
   {
     "client_id": "28331001242075",
     "text": "Off"
+  },
+  {
+    "client_id": "28410704686336",
+    "text": "Normal"
   },
   {
     "client_id": "28761925576133",
@@ -2142,8 +2218,16 @@
     "text": "Lainnya"
   },
   {
+    "client_id": "30152617572369",
+    "text": "Simpan Board Holomem?"
+  },
+  {
     "client_id": "30198869391227",
     "text": "Keluar dari\\nRuangan ini"
+  },
+  {
+    "client_id": "30366572929406",
+    "text": "Skor Terbaik"
   },
   {
     "client_id": "30481878353035",
@@ -2156,6 +2240,10 @@
   {
     "client_id": "30850141159791",
     "text": "Jika tidak bergerak dalam <space=6px><size=32><color=#F9FF55>{0} detik</color></size><space=6px>, pemain akan dikeluarkan."
+  },
+  {
+    "client_id": "30853425350189",
+    "text": "*Efek Member Bonus diterapkan pada konten di atas"
   },
   {
     "client_id": "31235155648512",
@@ -2305,12 +2393,24 @@
     "text": "Konfirmasi"
   },
   {
+    "client_id": "36358554382232",
+    "text": "Mekar"
+  },
+  {
     "client_id": "36406114906821",
     "text": "Koneksi terputus"
   },
   {
+    "client_id": "36433569080860",
+    "text": "Mundur"
+  },
+  {
     "client_id": "36530109781090",
     "text": "Pilih Semua"
+  },
+  {
+    "client_id": "36559588593583",
+    "text": "Lumba-lumba"
   },
   {
     "client_id": "36587518046938",
@@ -2335,6 +2435,10 @@
   {
     "client_id": "37545180461675",
     "text": "x"
+  },
+  {
+    "client_id": "37577854409290",
+    "text": "Lakukan Mekar sekaligus?"
   },
   {
     "client_id": "37622055323963",
@@ -2391,6 +2495,14 @@
   {
     "client_id": "38890956240120",
     "text": "Koneksi terputus"
+  },
+  {
+    "client_id": "38891737328180",
+    "text": "TOTAL"
+  },
+  {
+    "client_id": "38961521989392",
+    "text": "Edit preset"
   },
   {
     "client_id": "39285998616301",
@@ -2459,6 +2571,10 @@
   {
     "client_id": "41097802864352",
     "text": "Note saling tumpang tindih."
+  },
+  {
+    "client_id": "41143440703658",
+    "text": "DRAW"
   },
   {
     "client_id": "41173260292621",
@@ -2612,6 +2728,10 @@
     "text": "Perlu melakukan pembaruan. Silakan simpan lagi dari layar pengeditan."
   },
   {
+    "client_id": "44410611478980",
+    "text": "Connect Card akan dihapus dari Board Holomem di bawah ini"
+  },
+  {
     "client_id": "44489598940899",
     "text": "Gagal"
   },
@@ -2622,6 +2742,10 @@
   {
     "client_id": "44757365904231",
     "text": "Bonus Skor"
+  },
+  {
+    "client_id": "44907002798120",
+    "text": "Berhenti"
   },
   {
     "client_id": "45057742658012",
@@ -2642,6 +2766,10 @@
   {
     "client_id": "45551367531375",
     "text": "Gagal untuk memperoleh data. Kami mohon maaf atas ketidaknyamanan ini.\\nSilahkan coba lagi."
+  },
+  {
+    "client_id": "45562881888822",
+    "text": "Ayo capai target skor!"
   },
   {
     "client_id": "45570598413538",
@@ -2666,6 +2794,10 @@
   {
     "client_id": "45790967773259",
     "text": "Sinkronasi data"
+  },
+  {
+    "client_id": "45840587390810",
+    "text": "Peringkat skor\nHolomem"
   },
   {
     "client_id": "45859914899456",
@@ -2828,6 +2960,10 @@
     "text": "Aksen"
   },
   {
+    "client_id": "51384750016164",
+    "text": "Bloom Stone tidak dikonsumsi"
+  },
+  {
     "client_id": "51448272412862",
     "text": "Ada Holowork yang tersedia."
   },
@@ -2858,6 +2994,10 @@
   {
     "client_id": "52679589935987",
     "text": "Jumlah saat ini"
+  },
+  {
+    "client_id": "52728052479349",
+    "text": "Selesaikan stage dengan melampaui target skor!"
   },
   {
     "client_id": "52802888916992",
@@ -3056,6 +3196,10 @@
     "text": "Mengajukan permohonan pertemanan ke {0} "
   },
   {
+    "client_id": "59377981887665",
+    "text": "Challenge Live"
+  },
+  {
     "client_id": "59481762935749",
     "text": "Pembatasan Akun"
   },
@@ -3070,6 +3214,10 @@
   {
     "client_id": "59732785094656",
     "text": "Permohonan dibatalkan"
+  },
+  {
+    "client_id": "59804003051062",
+    "text": "Syarat Penyelesaian"
   },
   {
     "client_id": "59860845358258",
@@ -3090,6 +3238,10 @@
   {
     "client_id": "60244666343424",
     "text": "Mundur"
+  },
+  {
+    "client_id": "60280090159768",
+    "text": "Sisa"
   },
   {
     "client_id": "60371078471680",
@@ -3122,6 +3274,10 @@
   {
     "client_id": "61505938022400",
     "text": "Pemeliharaan fungsional sedang dilakukan."
+  },
+  {
+    "client_id": "61635296752376",
+    "text": "Menyerah"
   },
   {
     "client_id": "61641433844738",
@@ -3244,6 +3400,10 @@
     "text": "Medal Membership"
   },
   {
+    "client_id": "64953483206865",
+    "text": "Tidak ada node yang dapat dibuka"
+  },
+  {
     "client_id": "65102522481629",
     "text": "Keluar dari\\npermainan"
   },
@@ -3260,12 +3420,16 @@
     "text": "Ayo bermain dengan Notasi yang dibuat oleh orang lain!"
   },
   {
+    "client_id": "65599306645409",
+    "text": "Giliran Pemain"
+  },
+  {
     "client_id": "65618403525255",
     "text": "Menunggu respons host"
   },
   {
     "client_id": "65634157373528",
-    "text": "Sambungkan"
+    "text": "Menyambungkan"
   },
   {
     "client_id": "65927871720978",
@@ -3274,6 +3438,10 @@
   {
     "client_id": "65994746437729",
     "text": "GO"
+  },
+  {
+    "client_id": "66105010087681",
+    "text": "Tidak ada aktivitas pemain dalam periode tertentu."
   },
   {
     "client_id": "66112283729920",
@@ -3286,6 +3454,10 @@
   {
     "client_id": "66214490529792",
     "text": "Sisa Kartu"
+  },
+  {
+    "client_id": "66242813572563",
+    "text": "TRY!"
   },
   {
     "client_id": "66311169236992",
@@ -3310,6 +3482,10 @@
   {
     "client_id": "66570868859662",
     "text": "Dialog Skill"
+  },
+  {
+    "client_id": "66612266633044",
+    "text": "Preset tersimpan sudah dimiliki\\n Timpa preset tersebut?"
   },
   {
     "client_id": "67336894231524",
@@ -3403,12 +3579,20 @@
     "text": "Peringkat ke-{0}"
   },
   {
+    "client_id": "69941269581887",
+    "text": "Mekar sekaligus"
+  },
+  {
     "client_id": "69962096959488",
     "text": "Outfit telah diubah"
   },
   {
     "client_id": "70023020044288",
     "text": "%"
+  },
+  {
+    "client_id": "70137941870893",
+    "text": "Pilih Stage"
   },
   {
     "client_id": "70193908976832",
@@ -3535,6 +3719,10 @@
     "text": "Target"
   },
   {
+    "client_id": "75231641070274",
+    "text": "STAGE UP!!"
+  },
+  {
     "client_id": "75316371663966",
     "text": "1"
   },
@@ -3623,6 +3811,10 @@
     "text": "+{0}"
   },
   {
+    "client_id": "78320915807629",
+    "text": "Material yang dikembalikan"
+  },
+  {
     "client_id": "78400909418040",
     "text": "Punya"
   },
@@ -3637,6 +3829,10 @@
   {
     "client_id": "79038511545755",
     "text": "Jalur"
+  },
+  {
+    "client_id": "79193242608321",
+    "text": "Pengaturan Tim Otomatis"
   },
   {
     "client_id": "79399657739807",
@@ -3800,7 +3996,7 @@
   },
   {
     "client_id": "83897986141864",
-    "text": "Batalkan"
+    "text": "Tidak menyambungkan"
   },
   {
     "client_id": "83941326221819",
@@ -3853,6 +4049,10 @@
   {
     "client_id": "85895132224918",
     "text": "Bagikan"
+  },
+  {
+    "client_id": "86299284982213",
+    "text": "NORMAL"
   },
   {
     "client_id": "86399859379029",
@@ -3983,8 +4183,12 @@
     "text": "Periksa Pengaturan Sebelum Live"
   },
   {
+    "client_id": "92687200884048",
+    "text": "Konfirmasi"
+  },
+  {
     "client_id": "92826337835270",
-    "text": "Sambungkan akun Google Play Anda?\\n\\nDengan menyambungkan dengan akun Google Play,\\npemain bisa memainkan game di perangkat yang tersambung.\\n\\nHanya satu akun game yang bisa tersambung dengan akun Google Play."
+    "text": "Apakah ingin menyambungkan dengan akun Google Play Anda?\\n\\nDengan menyambungkan dengan akun Google Play,\\npemain bisa memainkan game dengan lancar di perangkat\\nyang tersambung.\\n\\nSatu akun game hanya bisa tersambung dengan satu akun Google Play."
   },
   {
     "client_id": "92951903899141",
@@ -3993,6 +4197,10 @@
   {
     "client_id": "93526182618577",
     "text": "iOS \"Pengaturan\" > Aktifkan \"Izinkan Pelacakan\"\\nuntuk menerima iklan yang paling sesuai."
+  },
+  {
+    "client_id": "93563170645564",
+    "text": "Terbuka setelah menyelesaikan Stage {0}"
   },
   {
     "client_id": "93596834859659",
@@ -4048,6 +4256,10 @@
   {
     "client_id": "95108122304512",
     "text": "GO!"
+  },
+  {
+    "client_id": "95139746449089",
+    "text": "GIVE UP!"
   },
   {
     "client_id": "95447678813151",
@@ -4118,6 +4330,10 @@
     "text": "C"
   },
   {
+    "client_id": "97694947777268",
+    "text": "Stage sekarang"
+  },
+  {
     "client_id": "97727765112757",
     "text": "Kamera Kiri"
   },
@@ -4134,8 +4350,16 @@
     "text": "Poin beberapa pemain mencapai 0, permainan selesai"
   },
   {
+    "client_id": "98291295396749",
+    "text": "Total jumlah menang"
+  },
+  {
     "client_id": "98349632871446",
     "text": "Bulan"
+  },
+  {
+    "client_id": "98410889661055",
+    "text": "Set ke Leader?"
   },
   {
     "client_id": "98619044845502",
@@ -4166,8 +4390,20 @@
     "text": "Tidak ada pemain yang diblokir"
   },
   {
+    "client_id": "99838117295798",
+    "text": "Sudah diatur untuk peran yang lain"
+  },
+  {
+    "client_id": "99941938133161",
+    "text": "Stage tertinggi yang diraih"
+  },
+  {
     "client_id": "99960762450018",
     "text": "Selesaikan untuk membuka lagu holomem."
+  },
+  {
+    "client_id": "99966473980257",
+    "text": "Pengaturan akan dihapus"
   },
   {
     "client_id": "99975241238424",
@@ -4362,6 +4598,10 @@
     "text": "Sudah berfoto di Dream Park!\nAyo main di hololive Dreams!\n\n#MyHolodoriPicture"
   },
   {
+    "client_id": "105319623032400",
+    "text": "Publik"
+  },
+  {
     "client_id": "105795078980191",
     "text": "Ketahuan!"
   },
@@ -4390,6 +4630,10 @@
     "text": "Tanggal Lahir"
   },
   {
+    "client_id": "106610500518166",
+    "text": "Main di\\nStage selanjutnya"
+  },
+  {
     "client_id": "106651193685925",
     "text": "Tidak dapat memilih Not karena tidak memenuhi syarat pemilihan\\n(Batas maksimal: {0}, Rentang: {1} bar)."
   },
@@ -4408,6 +4652,10 @@
   {
     "client_id": "107240656211556",
     "text": "Waktu habis, keluar dari ruangan."
+  },
+  {
+    "client_id": "107352852070078",
+    "text": "Ubah"
   },
   {
     "client_id": "107567483412480",
@@ -4434,6 +4682,10 @@
     "text": "Berikutnya"
   },
   {
+    "client_id": "108299315724929",
+    "text": "Tidak dapat konfirmasi pemilihan lagu atau tingkat kesulitan dalam jangka waktu tertentu. \\nJika hal terus terjadi, pemain akan dibatasi untuk partisipasi dalam Multi Live\\ndalam jangka waktu tertentu."
+  },
+  {
     "client_id": "108488725985644",
     "text": "Quick chat"
   },
@@ -4450,12 +4702,24 @@
     "text": "Outfit Live"
   },
   {
+    "client_id": "108921637702644",
+    "text": "Stage yang Sudah Diselesaikan"
+  },
+  {
+    "client_id": "109116373229048",
+    "text": "ALL\\nCLEAR!!"
+  },
+  {
     "client_id": "109259847294976",
     "text": "Outfit Taman"
   },
   {
     "client_id": "109464742164561",
     "text": "Warna Live"
+  },
+  {
+    "client_id": "109607415197564",
+    "text": "Apakah Anda ingin menghapus preset ini?"
   },
   {
     "client_id": "109871167340975",
@@ -4502,6 +4766,10 @@
     "text": "01"
   },
   {
+    "client_id": "110748858546529",
+    "text": "Challenge Live"
+  },
+  {
     "client_id": "110812035613122",
     "text": "Proses pembelian."
   },
@@ -4538,6 +4806,10 @@
     "text": "--"
   },
   {
+    "client_id": "112239944631946",
+    "text": "Terbuka setelah menyelesaikan Mode NORMAL"
+  },
+  {
     "client_id": "112307387178923",
     "text": "Skill Outfit"
   },
@@ -4572,6 +4844,10 @@
   {
     "client_id": "112995329444239",
     "text": "Ada permintaan masuk."
+  },
+  {
+    "client_id": "113153417482205",
+    "text": "Telah Diselesaikan"
   },
   {
     "client_id": "113368905515828",
@@ -4654,6 +4930,10 @@
     "text": "Profil"
   },
   {
+    "client_id": "117031251001122",
+    "text": "Material konsumsi"
+  },
+  {
     "client_id": "117283343572473",
     "text": "Off"
   },
@@ -4684,6 +4964,14 @@
   {
     "client_id": "117952843014093",
     "text": "Kamu bisa atur siapa saja yang bisa memainkan dan mengutip partitur musiknya."
+  },
+  {
+    "client_id": "118233129607137",
+    "text": "Skor Sekarang"
+  },
+  {
+    "client_id": "118278999633192",
+    "text": "Leader Lawan datang! Hati-hati dengan TRY!"
   },
   {
     "client_id": "118646051151284",
@@ -4750,6 +5038,10 @@
     "text": "Belum dimainkan"
   },
   {
+    "client_id": "120870516458824",
+    "text": "Game Dimulai"
+  },
+  {
     "client_id": "120945463877632",
     "text": "Tidak Ada Sinyal"
   },
@@ -4779,7 +5071,7 @@
   },
   {
     "client_id": "121874690335517",
-    "text": "Opsi acak telah dipilih karena batas waktu habis."
+    "text": "Sistem time out, opsi default akan dipilih"
   },
   {
     "client_id": "121982617709170",
@@ -4790,8 +5082,16 @@
     "text": "Muat Ulang"
   },
   {
+    "client_id": "122253336154533",
+    "text": "Giliran Lawan"
+  },
+  {
     "client_id": "122524622766160",
     "text": "Telat untuk dibuka..."
+  },
+  {
+    "client_id": "122831218225215",
+    "text": "Atur holomem di {0}"
   },
   {
     "client_id": "122924797755122",
@@ -4850,8 +5150,16 @@
     "text": "Bonus Board Holomem"
   },
   {
+    "client_id": "124996450252459",
+    "text": "Privasi"
+  },
+  {
     "client_id": "125145198157824",
     "text": "Skill Pasif"
+  },
+  {
+    "client_id": "125270632311689",
+    "text": "Hasil permainan (hadiah, misi, dll.) tidak akan disimpan.\\nMenyerah?"
   },
   {
     "client_id": "125434725097472",
@@ -4907,6 +5215,10 @@
   {
     "client_id": "127721331286016",
     "text": "Bonus Board Holomem"
+  },
+  {
+    "client_id": "127736545522148",
+    "text": "Karena tidak ada aksi dalam batas waktu, akan dijalankan secara acak"
   },
   {
     "client_id": "127782539419648",
@@ -4985,6 +5297,10 @@
     "text": "Pilih Member favorit."
   },
   {
+    "client_id": "129296110603773",
+    "text": "Leader-mu jatuh ke dalam air..."
+  },
+  {
     "client_id": "129573684290632",
     "text": "Pemain tidak ada aktifitas"
   },
@@ -5003,6 +5319,10 @@
   {
     "client_id": "129748631456706",
     "text": "Panduan Mengenai Talent"
+  },
+  {
+    "client_id": "129751285948883",
+    "text": "Penyu (Emas)"
   },
   {
     "client_id": "129769916325888",
@@ -5069,6 +5389,10 @@
     "text": "Mengunduh data sekaligus."
   },
   {
+    "client_id": "131534546841132",
+    "text": "Jangan Tampilkan Lagi"
+  },
+  {
     "client_id": "131538287899429",
     "text": "Ke Pengaturan"
   },
@@ -5095,6 +5419,10 @@
   {
     "client_id": "132257076042025",
     "text": "Dari"
+  },
+  {
+    "client_id": "132588537128607",
+    "text": "Jika langkah tidak dapat dikonfirmasi, maka pemain akan dikeluarkan secara paksa."
   },
   {
     "client_id": "132854078882640",
@@ -5297,6 +5625,10 @@
     "text": "Mode Streamer"
   },
   {
+    "client_id": "137671483481549",
+    "text": "Friend Privew"
+  },
+  {
     "client_id": "137970202831969",
     "text": "3"
   },
@@ -5319,6 +5651,10 @@
   {
     "client_id": "138289897885663",
     "text": "Alat pancing spec tinggi! Ikan gesit sekalipun, bisa dipancing dengan cepat dan gampang!"
+  },
+  {
+    "client_id": "138552603309792",
+    "text": "STAGE"
   },
   {
     "client_id": "138656132069497",
@@ -5401,6 +5737,10 @@
     "text": "Tanggal sinkronisasi data terakhir. (Tanggal penambahan perangkat baru terakhir kali.)"
   },
   {
+    "client_id": "139986309961787",
+    "text": "Tidak bisa melanjutkan di Challenge Live"
+  },
+  {
     "client_id": "139998925379692",
     "text": "Speed"
   },
@@ -5473,12 +5813,20 @@
     "text": "Metode penguatan"
   },
   {
+    "client_id": "142696406109654",
+    "text": "Menjatuhkan Leader Musuh ke dalam air atau dengan TRY untuk menang!"
+  },
+  {
     "client_id": "142978427478016",
     "text": "Filter"
   },
   {
     "client_id": "143030630733339",
     "text": "Pembuat Notasi"
+  },
+  {
+    "client_id": "143058782348718",
+    "text": "Member Bonus"
   },
   {
     "client_id": "143298178557728",
@@ -5495,6 +5843,10 @@
   {
     "client_id": "143549850655551",
     "text": "Coba Lagi"
+  },
+  {
+    "client_id": "143662491635974",
+    "text": "Nama Preset"
   },
   {
     "client_id": "143666136603966",
@@ -5523,6 +5875,10 @@
   {
     "client_id": "145846928728064",
     "text": "+"
+  },
+  {
+    "client_id": "146120740136680",
+    "text": "Challenge Live"
   },
   {
     "client_id": "146142837396738",
@@ -5624,8 +5980,16 @@
     "text": "Aktifkan (ON) untuk menutup nama atau profil saat Mode Multiplayer."
   },
   {
+    "client_id": "149512187132494",
+    "text": "STAGE{0}"
+  },
+  {
     "client_id": "149645784442766",
     "text": "Dipilih"
+  },
+  {
+    "client_id": "149833871201397",
+    "text": "Ubah Leader"
   },
   {
     "client_id": "150214815479409",
@@ -5684,6 +6048,10 @@
     "text": "Integrasi telah selesai."
   },
   {
+    "client_id": "151621370103223",
+    "text": "Giliran Pemain"
+  },
+  {
     "client_id": "152357530716003",
     "text": "Mengunduh aset..."
   },
@@ -5710,6 +6078,10 @@
   {
     "client_id": "153263104512000",
     "text": "x{0}.{1}"
+  },
+  {
+    "client_id": "153388027186849",
+    "text": "Board Holomem ini akan ditimpa"
   },
   {
     "client_id": "153414965981940",
@@ -5749,6 +6121,10 @@
   {
     "client_id": "154955502458368",
     "text": "Opsi"
+  },
+  {
+    "client_id": "154993288111749",
+    "text": "Lawan menyerah!"
   },
   {
     "client_id": "155061448138752",
@@ -5891,8 +6267,16 @@
     "text": "Standar"
   },
   {
+    "client_id": "159103819886250",
+    "text": "Membentuk Tim"
+  },
+  {
     "client_id": "159112846614067",
     "text": "Silahkan tulis detail laporan Anda."
+  },
+  {
+    "client_id": "159119256834419",
+    "text": "Leader Lawan jatuh ke dalam air!"
   },
   {
     "client_id": "159269849448283",
@@ -5951,6 +6335,10 @@
     "text": "Memuat ulang aplikasi melalui Steam."
   },
   {
+    "client_id": "162342024109647",
+    "text": "OK"
+  },
+  {
     "client_id": "162881411862733",
     "text": "Ke halaman judul"
   },
@@ -5977,6 +6365,10 @@
   {
     "client_id": "163108054294528",
     "text": "Perfect"
+  },
+  {
+    "client_id": "163169161352798",
+    "text": "Stage telah di-skip"
   },
   {
     "client_id": "163370928103424",
@@ -6139,6 +6531,10 @@
     "text": "Member Bonus"
   },
   {
+    "client_id": "167357584012600",
+    "text": "Tidak bisa digunakan di Challenge Live"
+  },
+  {
     "client_id": "167617517652487",
     "text": "Hadiah Peringkat"
   },
@@ -6203,12 +6599,20 @@
     "text": "Tidak ada riwayat."
   },
   {
+    "client_id": "171320933281587",
+    "text": "Sedang memuat..."
+  },
+  {
     "client_id": "171370984458278",
     "text": "Ubah"
   },
   {
     "client_id": "171571482575354",
     "text": "GO"
+  },
+  {
+    "client_id": "171680083421896",
+    "text": "Jumlah kesempatan tidak mencukupi"
   },
   {
     "client_id": "171798413815662",
@@ -6295,6 +6699,10 @@
     "text": "Terhenti sementara"
   },
   {
+    "client_id": "175268118012296",
+    "text": "Leader telah diganti"
+  },
+  {
     "client_id": "175303891547756",
     "text": "Pengaturan Foto Thumbnail"
   },
@@ -6345,6 +6753,10 @@
   {
     "client_id": "177302551567220",
     "text": "Frekuensi Kejadian"
+  },
+  {
+    "client_id": "177323992258236",
+    "text": "Pemain telah didiskualifikasi karena tidak melakukan aksi apapun dalam batas waktu untuk ketiga kalinya"
   },
   {
     "client_id": "177408751753039",
@@ -6419,6 +6831,10 @@
     "text": "Koin Diperoleh"
   },
   {
+    "client_id": "179810219792358",
+    "text": "Mundur"
+  },
+  {
     "client_id": "179877316245102",
     "text": "Terjadi kesalahan sistem."
   },
@@ -6475,6 +6891,10 @@
     "text": "Stealth"
   },
   {
+    "client_id": "182486866375855",
+    "text": "Menghapus"
+  },
+  {
     "client_id": "182589729548169",
     "text": "Bulan"
   },
@@ -6487,12 +6907,20 @@
     "text": "Detail Barang"
   },
   {
+    "client_id": "183316151472805",
+    "text": "Tidak ada Member yang memenuhi syarat untuk bonus"
+  },
+  {
     "client_id": "183485597003467",
     "text": "Jumlah Diamond Merah yang dimiliki"
   },
   {
     "client_id": "183556683804959",
     "text": "Gunakan di Semua Lagu"
+  },
+  {
+    "client_id": "183895730032923",
+    "text": "Set"
   },
   {
     "client_id": "183895736706472",
@@ -6535,8 +6963,16 @@
     "text": "Gimmick laser dinonaktifkan!"
   },
   {
+    "client_id": "185331519231900",
+    "text": "Bonus Formasi"
+  },
+  {
     "client_id": "185380187460502",
     "text": "Skill Aktif"
+  },
+  {
+    "client_id": "185389436067952",
+    "text": "Kali"
   },
   {
     "client_id": "185407495735987",
@@ -6565,6 +7001,10 @@
   {
     "client_id": "186257923072000",
     "text": "Tidak ada riwayat."
+  },
+  {
+    "client_id": "186348731393184",
+    "text": "Jangan dimuat"
   },
   {
     "client_id": "186416815792128",
@@ -6627,6 +7067,10 @@
     "text": "Ini dia Partitur Buat yang direkomendasikan!\\n\nMainkan HoloLive Dreams!\\n\\n\n\n「{0}」\\n\nPartitur Musik ID: {1}\\n\\n\n\n#My Buat Partitur\\n"
   },
   {
+    "client_id": "189571796393453",
+    "text": "Opsi privasi"
+  },
+  {
     "client_id": "190047115438741",
     "text": "CREATE"
   },
@@ -6637,6 +7081,10 @@
   {
     "client_id": "190776526102413",
     "text": "Semakin besar lebar jalur, maka kemungkinan elemen UI akan tumpang tindih dengan jalur juga makin besar."
+  },
+  {
+    "client_id": "190895736824556",
+    "text": "Buat semuanya privasi"
   },
   {
     "client_id": "191131441140206",
@@ -6665,6 +7113,14 @@
   {
     "client_id": "192024060216984",
     "text": "Tersisa {0} orang!"
+  },
+  {
+    "client_id": "192099639387628",
+    "text": "Achievs"
+  },
+  {
+    "client_id": "192274977035968",
+    "text": "Game sudah diselesaikan, Boost Mini-game tidak akan dipakai.\\nHasil permainan (hadiah, misi, dll.) tidak akan disimpan.\\nLanjut Main?"
   },
   {
     "client_id": "192346150498726",
@@ -6854,6 +7310,14 @@
     "text": "Pembesaran rendering."
   },
   {
+    "client_id": "200799723451158",
+    "text": "Unit Terbaik"
+  },
+  {
+    "client_id": "201003440394482",
+    "text": "Menggunakan {0}"
+  },
+  {
     "client_id": "201033742475264",
     "text": "Tantangan"
   },
@@ -6926,6 +7390,10 @@
     "text": "Koneksi dengan server terputus."
   },
   {
+    "client_id": "204208287742737",
+    "text": "Apakah Anda ingin memuat preset ini?"
+  },
+  {
     "client_id": "204343453307638",
     "text": "Ada bonus"
   },
@@ -6939,6 +7407,10 @@
   {
     "client_id": "204895122110380",
     "text": "NEW!"
+  },
+  {
+    "client_id": "205177815176484",
+    "text": "Parameter Dasar"
   },
   {
     "client_id": "205249253675880"
@@ -7008,6 +7480,10 @@
     "text": "OK"
   },
   {
+    "client_id": "206578112122387",
+    "text": "Saat ini tidak tersedia"
+  },
+  {
     "client_id": "206607582846976",
     "text": "Ubah Connect?"
   },
@@ -7068,6 +7544,10 @@
     "text": "Jalur 5"
   },
   {
+    "client_id": "207279825106382",
+    "text": "Lencana"
+  },
+  {
     "client_id": "207292512478087",
     "text": "Tidak ada Leader yang memenuhi kriteria"
   },
@@ -7102,6 +7582,10 @@
   {
     "client_id": "207974439440614",
     "text": "Tahun"
+  },
+  {
+    "client_id": "208033483879514",
+    "text": "Preset"
   },
   {
     "client_id": "208206128177152"
@@ -7175,12 +7659,20 @@
     "text": "Cerita"
   },
   {
+    "client_id": "210953842706697",
+    "text": "saat ini"
+  },
+  {
     "client_id": "211033587703808",
     "text": "Konfirmasi"
   },
   {
     "client_id": "211126919860535",
     "text": "Lv"
+  },
+  {
+    "client_id": "211178795817185",
+    "text": "Kembali ke Awal"
   },
   {
     "client_id": "211191508393984",
@@ -7243,6 +7735,10 @@
     "text": "Target Misi"
   },
   {
+    "client_id": "214050842770189",
+    "text": "Paus"
+  },
+  {
     "client_id": "214077154278438",
     "text": "Penempatan gagal karena total kombo melebihi 9999."
   },
@@ -7257,6 +7753,10 @@
   {
     "client_id": "214489392932621",
     "text": "{0}<color=#FFFFFFA5>sampai</color>"
+  },
+  {
+    "client_id": "214493981115919",
+    "text": "Memuat"
   },
   {
     "client_id": "214552003660891",
@@ -7335,8 +7835,16 @@
     "text": "Memilih..."
   },
   {
+    "client_id": "216693191708177",
+    "text": "{0} telah dihapus"
+  },
+  {
     "client_id": "216715890214086",
     "text": "Normal"
+  },
+  {
+    "client_id": "216964972697964",
+    "text": "Coba lagi"
   },
   {
     "client_id": "216985162941172",
@@ -7395,6 +7903,10 @@
     "text": "Motif Efek"
   },
   {
+    "client_id": "218685708931751",
+    "text": "Tidak dapat diubah karena diatur sebagai Leader"
+  },
+  {
     "client_id": "218750178755135",
     "text": "Aktivasi Gagal"
   },
@@ -7405,6 +7917,10 @@
   {
     "client_id": "218956731179008",
     "text": "Keluar"
+  },
+  {
+    "client_id": "219675637077789",
+    "text": "Mode NORMAL\\nLevel {0} selesai"
   },
   {
     "client_id": "219721360123651",
@@ -7447,6 +7963,10 @@
     "text": "Loading"
   },
   {
+    "client_id": "221014265622840",
+    "text": "Status Clear"
+  },
+  {
     "client_id": "221027276382208",
     "text": "Memory Stand"
   },
@@ -7465,6 +7985,10 @@
   {
     "client_id": "222272372501752",
     "text": "Boat makin keren & kuat. Kaca depan tingkatkan keamanan!"
+  },
+  {
+    "client_id": "222427079743772",
+    "text": "Opsi privasi"
   },
   {
     "client_id": "222585071557787",
@@ -7491,12 +8015,24 @@
     "text": "Layar pengaturan akan ditampilkan sebelum permainan ritme dimulai."
   },
   {
+    "client_id": "223557945155158",
+    "text": "Tidak"
+  },
+  {
     "client_id": "223764145091872",
     "text": "Tersisa 1 fasilitas!"
   },
   {
+    "client_id": "224003210038466",
+    "text": "Formasi otomatis telah dipakai"
+  },
+  {
     "client_id": "224151303835398",
     "text": "Sedang dilakukan pengaturan pada Holowork lain"
+  },
+  {
+    "client_id": "224266417372297",
+    "text": "Holomem Rank"
   },
   {
     "client_id": "224294029221888",
@@ -7533,6 +8069,10 @@
   {
     "client_id": "225819827454262",
     "text": "ID Ruangan"
+  },
+  {
+    "client_id": "225926949663001",
+    "text": "Preset ini tidak dapat dimuat\\n karena memiliki status unlock yang sama dengan Board Holomem saat ini"
   },
   {
     "client_id": "225942306701479",
@@ -7573,6 +8113,14 @@
   {
     "client_id": "227116940519459",
     "text": "Gelar Peringkat akan dihitung akumulasi setiap minggu."
+  },
+  {
+    "client_id": "227203100353845",
+    "text": "Menang Terus"
+  },
+  {
+    "client_id": "227203496086012",
+    "text": "CHALLENGE"
   },
   {
     "client_id": "227223446161587",
@@ -7627,6 +8175,10 @@
     "text": "Foto Mega Puri sudah tersimpan!\nAyo main di hololive Dreams!\n\n#MyHolodoriPicture"
   },
   {
+    "client_id": "228876847302772",
+    "text": "Ini adalah layar preview"
+  },
+  {
     "client_id": "229058083917173",
     "text": "Karena host user telah pergi, Anda menjadi host user yang baru."
   },
@@ -7649,6 +8201,10 @@
   {
     "client_id": "229609369713293",
     "text": "NONE"
+  },
+  {
+    "client_id": "229670739645374",
+    "text": "Menyerah"
   },
   {
     "client_id": "229866390281079",
@@ -7719,6 +8275,10 @@
     "text": "{0} sudah maksimal dan \\n tidak dapat dikonversi."
   },
   {
+    "client_id": "232620789917344",
+    "text": "TARGET SCORE"
+  },
+  {
     "client_id": "232771047634177",
     "text": "Reset"
   },
@@ -7729,6 +8289,10 @@
   {
     "client_id": "232936069265601",
     "text": "Anda bisa mendapatkan gelar melalui Achievement."
+  },
+  {
+    "client_id": "232957849516453",
+    "text": "Leader Lawan berhasil melakukan TRY..."
   },
   {
     "client_id": "233048304980143",
@@ -7755,12 +8319,20 @@
     "text": "GO"
   },
   {
+    "client_id": "234319967780027",
+    "text": "Tidak dapat konfirmasi pemilihan lagu atau tingkat kesulitan dalam jangka waktu tertentu. \\nJika hal terus terjadi, pemain akan dibatasi untuk partisipasi dalam Multi Live\\ndalam jangka waktu tertentu."
+  },
+  {
     "client_id": "234490797770176",
     "text": "Sedang membuka kunci!!"
   },
   {
     "client_id": "234637917583579",
     "text": "nd"
+  },
+  {
+    "client_id": "234694749861380",
+    "text": "{0} telah diedit"
   },
   {
     "client_id": "234913317147536",
@@ -7777,6 +8349,10 @@
   {
     "client_id": "235457114212171",
     "text": "Tombol ESC dinonaktifkan pada layar ini."
+  },
+  {
+    "client_id": "235605800874370",
+    "text": "Outfit"
   },
   {
     "client_id": "235613256183813",
@@ -7811,6 +8387,10 @@
     "text": "Kartu default yang Set tidak dapat dilepas. Silakan pilih kartu lain."
   },
   {
+    "client_id": "236396752726996",
+    "text": "Leader-mu berhasil melakukan TRY!"
+  },
+  {
     "client_id": "236656136035962",
     "text": "SELESAI"
   },
@@ -7821,6 +8401,10 @@
   {
     "client_id": "236929697570053",
     "text": "Info Chart"
+  },
+  {
+    "client_id": "237099646372316",
+    "text": "CLEAR"
   },
   {
     "client_id": "237330337695679",
@@ -7927,6 +8511,10 @@
     "text": "Syarat Skor Unit: {0}"
   },
   {
+    "client_id": "242636073484203",
+    "text": "Leader dalam bahaya!"
+  },
+  {
     "client_id": "242655411028237",
     "text": "3840x2880"
   },
@@ -7949,6 +8537,10 @@
   {
     "client_id": "243633817442155",
     "text": "Z"
+  },
+  {
+    "client_id": "243668712002629",
+    "text": "Menggunakan Bloom Stone"
   },
   {
     "client_id": "243887858008434",
@@ -7987,6 +8579,10 @@
     "text": "Skill Pasif"
   },
   {
+    "client_id": "245139377669647",
+    "text": "Leader"
+  },
+  {
     "client_id": "245372361695232",
     "text": "Live\\nConfig"
   },
@@ -8005,6 +8601,10 @@
   {
     "client_id": "245967412521695",
     "text": "Sedang menyelamatkan"
+  },
+  {
+    "client_id": "246144725023735",
+    "text": "Kekurangan item"
   },
   {
     "client_id": "246630410715232",
@@ -8027,6 +8627,10 @@
     "text": "Tanda Penggemar"
   },
   {
+    "client_id": "246949780868779",
+    "text": "Selamat atas menyelesaikan semua stage!"
+  },
+  {
     "client_id": "247010931909933",
     "text": "GO"
   },
@@ -8043,8 +8647,16 @@
     "text": "Posisi Tampilan FAST/SLOW"
   },
   {
+    "client_id": "247502740254085",
+    "text": "Menang"
+  },
+  {
     "client_id": "247519453661921",
     "text": "Terdapat bagian yang tidak valid"
+  },
+  {
+    "client_id": "247649708141021",
+    "text": "Game berakhir imbang karena situasi yang sama terjadi 3 kali..."
   },
   {
     "client_id": "247795120005120",
@@ -8053,6 +8665,10 @@
   {
     "client_id": "248018894868525",
     "text": "Berhasil melindungi fasilitas dalam batas waktu!"
+  },
+  {
+    "client_id": "248082417115076",
+    "text": "Target Skor"
   },
   {
     "client_id": "248124608438272",
@@ -8079,8 +8695,16 @@
     "text": "Lv Lagu"
   },
   {
+    "client_id": "249344955150446",
+    "text": "Friend saja"
+  },
+  {
     "client_id": "249407164387213",
     "text": "1"
+  },
+  {
+    "client_id": "249713293796009",
+    "text": "Menang Terus {0}"
   },
   {
     "client_id": "249734573594877",
@@ -8116,7 +8740,7 @@
   },
   {
     "client_id": "250863090900176",
-    "text": "Konfigurasi Tombol"
+    "text": "Konfigurasi Tombol (Umum)"
   },
   {
     "client_id": "251083096921935",
@@ -8291,6 +8915,10 @@
     "text": "Teman"
   },
   {
+    "client_id": "253751033019904",
+    "text": "Main di\\nStage yang sama"
+  },
+  {
     "client_id": "253763204208640",
     "text": "Atur Thumbnail"
   },
@@ -8425,6 +9053,14 @@
     "text": "Tim Jahil"
   },
   {
+    "client_id": "256719460016410",
+    "text": "Simpan"
+  },
+  {
+    "client_id": "256845739695085",
+    "text": "Syarat Kemenangan"
+  },
+  {
     "client_id": "257228162162688",
     "text": "Ajakan"
   },
@@ -8529,7 +9165,7 @@
   },
   {
     "client_id": "262333984965941",
-    "text": "*Informasi di atas bisa berubah sewaktu-waktu. Nilai yang ditampilkan merepresentasikan level/Bloom stage maksimal."
+    "text": "*Informasi di atas bisa berubah sewaktu-waktu. Nilai yang ditampilkan mempresentasikan level/tahap Mekar maksimal."
   },
   {
     "client_id": "262530360242967",
@@ -8548,6 +9184,10 @@
     "text": "Tidak ada Node yang bisa di-reset."
   },
   {
+    "client_id": "262762630776753",
+    "text": "Kamera tetap"
+  },
+  {
     "client_id": "262804880945878",
     "text": "Dapat dibuka dengan melanjutkan Misi Utama"
   },
@@ -8556,8 +9196,16 @@
     "text": "Banyak Bola bermunculan"
   },
   {
+    "client_id": "263439178812941",
+    "text": "Petunjuk"
+  },
+  {
     "client_id": "263528394189817",
     "text": "Tanggal Pemesanan iOS"
+  },
+  {
+    "client_id": "263588076672097",
+    "text": "Konfirmasi Member"
   },
   {
     "client_id": "263910397340110",
@@ -8620,6 +9268,10 @@
     "text": "Konfirmasi transfer data."
   },
   {
+    "client_id": "266213161855493",
+    "text": "VS"
+  },
+  {
     "client_id": "266300484844067",
     "text": "Pengaturan layar"
   },
@@ -8656,12 +9308,24 @@
     "text": "Misi"
   },
   {
+    "client_id": "267257773296176",
+    "text": "Penyu"
+  },
+  {
     "client_id": "267571060367360",
     "text": "Minigame Boost tidak cukup."
   },
   {
+    "client_id": "267732740360778",
+    "text": "Material tidak mencukupi untuk memuat.\\nApakah memuat Node yang dapat dimuat?"
+  },
+  {
     "client_id": "267798078085049",
     "text": "MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH MUSIK TERPILIH"
+  },
+  {
+    "client_id": "267886449167994",
+    "text": "Silakan simpan preset"
   },
   {
     "client_id": "267955800968722",
@@ -8712,8 +9376,16 @@
     "text": "<color=#28C3FF>{0}</color> adalah layanan berlangganan {1}/bulan."
   },
   {
+    "client_id": "269588282332177",
+    "text": "Status Clear Lagu"
+  },
+  {
     "client_id": "269691108286985",
     "text": "HH:mm"
+  },
+  {
+    "client_id": "269946084961207",
+    "text": "Cara Bermain"
   },
   {
     "client_id": "270015353277649",
@@ -8724,8 +9396,16 @@
     "text": "　"
   },
   {
+    "client_id": "270691929960861",
+    "text": "Hadiah yang Diperoleh"
+  },
+  {
     "client_id": "270696856641536",
     "text": "Detail"
+  },
+  {
+    "client_id": "270790040880878",
+    "text": "Jumlah Stage yang Selesai"
   },
   {
     "client_id": "270880521034549",
@@ -8738,6 +9418,10 @@
   {
     "client_id": "270957784885017",
     "text": "Dapat dicek setelah dimainkan"
+  },
+  {
+    "client_id": "271192717121087",
+    "text": "Mulai Tantangan"
   },
   {
     "client_id": "271285309906609",
@@ -8867,6 +9551,14 @@
     "text": "Keluar dari\\npermainan"
   },
   {
+    "client_id": "276269945305094",
+    "text": "Tim sudah dibentuk"
+  },
+  {
+    "client_id": "276320469025582",
+    "text": "Board Holomem yang sudah disimpan akan ditimpa"
+  },
+  {
     "client_id": "276365564944437",
     "text": "Teknik"
   },
@@ -8883,6 +9575,10 @@
     "text": "Quest"
   },
   {
+    "client_id": "276831431198624",
+    "text": "{0}%"
+  },
+  {
     "client_id": "276868334650299",
     "text": "Kartu default tidak dapat dihapus"
   },
@@ -8893,6 +9589,10 @@
   {
     "client_id": "277256852272826",
     "text": "Informasi di bawah akan disembunyikan saat Multiplayer."
+  },
+  {
+    "client_id": "277269463207823",
+    "text": "Pilih petak untuk menaruh pion"
   },
   {
     "client_id": "277463459139926",
@@ -10231,7 +10931,7 @@
   },
   {
     "client_id": "498737727292322",
-    "text": "Data game di akun Google Play akan ditimpa dan tidak dapat dipulihkan kembali.Lanjutkan?"
+    "text": "Data game di Akun Google Play akan ditimpa dan tidak dapat dipulihkan lagi. \\nApakah Anda benar-benar yakin?"
   },
   {
     "client_id": "498832191938560",
@@ -12358,6 +13058,10 @@
   {
     "client_id": "812012800925696",
     "text": "Gacha"
+  },
+  {
+    "client_id": "813810984982508",
+    "text": "Gunakan {0} untuk Mekar.\\nIngin melanjutkan?"
   },
   {
     "client_id": "815029809864704",
